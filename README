@@ -1,4 +1,4 @@
-# Scrape using Python and srapy
+# Scrape using Python and scrapy
 
 ## Use virtual environment
 python3 -m venv venv
