@@ -4,6 +4,8 @@ from scrapy.http.request import Request
 class EliteSpider(scrapy.Spider):
   name = "elite"
 
+  content = ""
+
   teams = {
     'bn' : 'https://www.eliteprospects.com/team/438/ec-bad-nauheim',
     'bi' : 'https://www.eliteprospects.com/team/440/bietigheim-steelers',
@@ -22,7 +24,7 @@ class EliteSpider(scrapy.Spider):
   }
 
   def parse(self, response):
-    # invert the dict 
+    # invert the dict
     team_keys = dict(zip(self.teams.values(), self.teams.keys()))
 
     page = response.url.split('/')[-1]
@@ -33,9 +35,8 @@ class EliteSpider(scrapy.Spider):
 
     # select coach
     headCoach = response.xpath("//text()[contains(., 'Head Coach')]/following::a[1]/text()").extract()
-    assistantCoach = response.xpath("//text()[contains(., 'Asst. Coach')]/following::a[1]/text()").extract()
-
     # select assistant coach
+    assistantCoach = response.xpath("//text()[contains(., 'Asst. Coach')]/following::a[1]/text()").extract()
 
     # set a title
     content = "\n\n- " + str(team) + " -\n\n"
@@ -48,23 +49,28 @@ class EliteSpider(scrapy.Spider):
       name = str(players.css('td.sorted a::text').get()).strip()
       # remove any hints on the player's name
       name = str(re.sub('\(.*\)', '', name)).strip()
-      if number != 'None' and name != 'None': 
+      if number != 'None' and name != 'None':
         content += "%s%s\t-%s- %s (%s)\n" % (current_team_key, number, number, name, team)
 
     if headCoach:
-      content += "%s100\t %s (Trainer %s)\n" % (current_team_key, headCoach[0], team)
+      content += "%s100\t%s (Trainer %s)\n" % (current_team_key, headCoach[0].strip(), team)
     if assistantCoach:
-      content += "%s101\t %s (Co-Trainer %s)\n" % (current_team_key, assistantCoach[0], team)
-    
-    self.writeFile(content)
+      content += "%s101\t%s (Co-Trainer %s)\n" % (current_team_key, assistantCoach[0].strip(), team)
+
+    self.content += content
+    #print("content --> " + content)
+
+    # self.writeFile(content)
 
   # write content to a file
   def writeFile(self, content):
-    with open('del2.txt', 'a+') as f:
+    with open('del2.txt', 'w+') as f:
       f.write(content)
 
   # override start_request to use an own dict instead of start_urls
   def start_requests(self):
     for key, url in self.teams.items():
       yield Request(url, self.parse)
-  
+
+  def __del__(self):
+    self.writeFile(self.content)
