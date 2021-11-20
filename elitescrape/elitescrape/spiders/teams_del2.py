@@ -7,20 +7,20 @@ class EliteSpider(scrapy.Spider):
   content = ""
 
   teams = {
-    'bn' : 'https://www.eliteprospects.com/team/438/ec-bad-nauheim',
-    'sw' : 'https://www.eliteprospects.com/team/662/selber-wolfe',
-    'fl' : 'https://www.eliteprospects.com/team/5065/lowen-frankfurt',
-    'bt' : 'https://www.eliteprospects.com/team/439/tolzer-lowen',
-    'by' : 'https://www.eliteprospects.com/team/746/bayreuth-tigers',
-    'dd' : 'https://www.eliteprospects.com/team/983/dresdner-eislowen',
-    'ka' : 'https://www.eliteprospects.com/team/8287/ec-kassel-huskies',
-    'fr' : 'https://www.eliteprospects.com/team/9328/ehc-freiburg',
-    'cr' : 'https://www.eliteprospects.com/team/659/eispiraten-crimmitschau',
-    'kb' : 'https://www.eliteprospects.com/team/677/esv-kaufbeuren',
-    'lh' : 'https://www.eliteprospects.com/team/642/ev-landshut',
-    'hn' : 'https://www.eliteprospects.com/team/444/heilbronner-falken',
-    'lf' : 'https://www.eliteprospects.com/team/448/lausitzer-fuchse',
-    'rt' : 'https://www.eliteprospects.com/team/747/ravensburg-towerstars'
+    'bn' : 'https://www.eliteprospects.com/team/438/ec-bad-nauheim?sort=jersey',
+    'sw' : 'https://www.eliteprospects.com/team/662/selber-wolfe?sort=jersey',
+    'fl' : 'https://www.eliteprospects.com/team/5065/lowen-frankfurt?sort=jersey',
+    'bt' : 'https://www.eliteprospects.com/team/439/tolzer-lowen?sort=jersey',
+    'by' : 'https://www.eliteprospects.com/team/746/bayreuth-tigers?sort=jersey',
+    'dd' : 'https://www.eliteprospects.com/team/983/dresdner-eislowen?sort=jersey',
+    'ka' : 'https://www.eliteprospects.com/team/8287/ec-kassel-huskies?sort=jersey',
+    'fr' : 'https://www.eliteprospects.com/team/9328/ehc-freiburg?sort=jersey',
+    'cr' : 'https://www.eliteprospects.com/team/659/eispiraten-crimmitschau?sort=jersey',
+    'kb' : 'https://www.eliteprospects.com/team/677/esv-kaufbeuren?sort=jersey',
+    'lh' : 'https://www.eliteprospects.com/team/642/ev-landshut?sort=jersey',
+    'hn' : 'https://www.eliteprospects.com/team/444/heilbronner-falken?sort=jersey',
+    'lf' : 'https://www.eliteprospects.com/team/448/lausitzer-fuchse?sort=jersey',
+    'rt' : 'https://www.eliteprospects.com/team/747/ravensburg-towerstars?sort=jersey'
   }
 
   def parse(self, response):
@@ -46,7 +46,7 @@ class EliteSpider(scrapy.Spider):
       number = str(players.css('td.jersey::text').get()).strip()
 
       number = number.replace('#', '')
-      name = str(players.css('td.sorted a::text').get()).strip()
+      name = str(players.css('td a::text').get()).strip()
       # remove any hints on the player's name
       name = str(re.sub('\(.*\)', '', name)).strip()
       if number != 'None' and name != 'None':
