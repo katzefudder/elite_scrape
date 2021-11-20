@@ -18,6 +18,10 @@ jobs:
     - uses: actions/checkout@v2
     - name: Commit results
       run: |
+          ls -la
+          echo "-----"
+          cat del2.txt
+          echo "-----"
           git config --global user.name 'Bot'
           git config --global user.email 'bot@katzefudder.de'
           git add del2.txt
