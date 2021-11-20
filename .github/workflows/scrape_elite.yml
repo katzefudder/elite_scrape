@@ -20,9 +20,12 @@ jobs:
     - name: Scrape Eliteprospects
       run: |
         scrapy runspider elitescrape/elitescrape/spiders/elite_spider.py
+        scrapy runspider elitescrape/elitescrape/spiders/team_stripes.py
         git config --global user.name 'Bot'
         git config --global user.email 'bot@katzefudder.de'
         touch del2.txt
+        touch team_stripes.txt
         git add del2.txt
+        git add team_stripes.txt
         git commit -m "automated scraping of DEL2 rosters"
         git push
