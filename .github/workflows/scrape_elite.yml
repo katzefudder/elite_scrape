@@ -13,4 +13,4 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install scrapy
-    - run: runspider elitescrape/elitescrape/spiders/elite_spider.py
+    - run: scrapy runspider elitescrape/elitescrape/spiders/elite_spider.py
