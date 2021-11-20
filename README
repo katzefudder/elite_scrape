@@ -1,3 +1,5 @@
+[![Scrape Eliteprospects for team rosters](https://github.com/katzefudder/elite_scrape/actions/workflows/scrape_elite.yml/badge.svg)](https://github.com/katzefudder/elite_scrape/actions/workflows/scrape_elite.yml)
+
 # Scrape using Python and scrapy
 
 ## Use virtual environment
