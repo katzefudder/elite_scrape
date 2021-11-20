@@ -21,7 +21,7 @@ class EliteSpider(scrapy.Spider):
     team = str(response.css('#wrapper_border #subcontent h1::text').get()).strip()
 
     # set a title
-    content = "\n\n- " + str(team) + " -\n\n"
+    content = "- " + str(team) + " -\n\n"
 
     for players in response.xpath('//*[@id="tabelle"]//tbody/tr'):
       current_team_key = team_keys[response.url]

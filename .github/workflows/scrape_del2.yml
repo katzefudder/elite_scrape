@@ -20,7 +20,7 @@ jobs:
         pip install scrapy
     - name: Scrape Eliteprospects
       run: |
-        scrapy runspider elitescrape/elitescrape/spiders/elite_spider.py
+        scrapy runspider elitescrape/elitescrape/spiders/teams_del2.py
         scrapy runspider elitescrape/elitescrape/spiders/team_stripes.py
         git config --global user.name 'Bot'
         git config --global user.email 'bot@katzefudder.de'

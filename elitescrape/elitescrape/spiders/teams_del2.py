@@ -39,7 +39,7 @@ class EliteSpider(scrapy.Spider):
     assistantCoach = response.xpath("//text()[contains(., 'Asst. Coach')]/following::a[1]/text()").extract()
 
     # set a title
-    content = "\n\n- " + str(team) + " -\n\n"
+    content = "- " + str(team) + " -\n\n"
 
     for players in response.css('table.roster tbody tr'):
       current_team_key = team_keys[response.url]
@@ -52,11 +52,13 @@ class EliteSpider(scrapy.Spider):
       if number != 'None' and name != 'None':
         content += "%s%s\t-%s- %s (%s)\n" % (current_team_key, number, number, name, team)
 
+
     if headCoach:
       content += "%s100\t%s (Trainer %s)\n" % (current_team_key, headCoach[0].strip(), team)
     if assistantCoach:
       content += "%s101\t%s (Co-Trainer %s)\n" % (current_team_key, assistantCoach[0].strip(), team)
 
+    content += "\n\n"
     self.content += content
     #print("content --> " + content)
 

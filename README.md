@@ -13,4 +13,4 @@ venv/bin/pip3 install scrapy
 scrapy shell https://www.eliteprospects.com/team/677/esv-kaufbeuren
 
 ## run scrapy spider
-scrapy runspider elitescrape/elitescrape/spiders/elite_spider.py
+scrapy runspider elitescrape/elitescrape/spiders/teams_del2.py
