@@ -15,5 +15,11 @@ jobs:
         pip install scrapy
     - name: Scrape Eliteprospects
       run: scrapy runspider elitescrape/elitescrape/spiders/elite_spider.py
-    - name: Show results
-      run: cat del2.txt
+    - uses: actions/checkout@v2
+    - name: Commit results
+      run: |
+          git config --global user.name 'Bot'
+          git config --global user.email 'bot@katzefudder.de'
+          git add del2.txt
+          git commit -m "automated scraping of DEL2 rosters"
+          git push
