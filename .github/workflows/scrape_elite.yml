@@ -19,6 +19,7 @@ jobs:
         scrapy runspider elitescrape/elitescrape/spiders/elite_spider.py
         git config --global user.name 'Bot'
         git config --global user.email 'bot@katzefudder.de'
+        touch del2.txt
         git add del2.txt
         git commit -m "automated scraping of DEL2 rosters"
         git push
