@@ -6,6 +6,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - uses: actions/setup-python@v2
+    - uses: actions/checkout@v2
       with:
         python-version: '3.9' # Version range or exact version of a Python version to use, using SemVer's version range syntax
         architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
@@ -14,16 +15,10 @@ jobs:
         python -m pip install --upgrade pip
         pip install scrapy
     - name: Scrape Eliteprospects
-      run: scrapy runspider elitescrape/elitescrape/spiders/elite_spider.py
-    - uses: actions/checkout@v2
-    - name: Commit results
       run: |
-          ls -la
-          echo "-----"
-          cat del2.txt
-          echo "-----"
-          git config --global user.name 'Bot'
-          git config --global user.email 'bot@katzefudder.de'
-          git add del2.txt
-          git commit -m "automated scraping of DEL2 rosters"
-          git push
+        scrapy runspider elitescrape/elitescrape/spiders/elite_spider.py
+        git config --global user.name 'Bot'
+        git config --global user.email 'bot@katzefudder.de'
+        git add del2.txt
+        git commit -m "automated scraping of DEL2 rosters"
+        git push
