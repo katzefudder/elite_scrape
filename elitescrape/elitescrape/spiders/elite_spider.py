@@ -8,7 +8,7 @@ class EliteSpider(scrapy.Spider):
 
   teams = {
     'bn' : 'https://www.eliteprospects.com/team/438/ec-bad-nauheim',
-    'bi' : 'https://www.eliteprospects.com/team/440/bietigheim-steelers',
+    'sw' : 'https://www.eliteprospects.com/team/662/selber-wolfe',
     'fl' : 'https://www.eliteprospects.com/team/5065/lowen-frankfurt',
     'bt' : 'https://www.eliteprospects.com/team/439/tolzer-lowen',
     'by' : 'https://www.eliteprospects.com/team/746/bayreuth-tigers',
@@ -31,7 +31,7 @@ class EliteSpider(scrapy.Spider):
     filename = '%s.txt' % page
 
     # get the team's name
-    team = str(response.css('#name-and-logo div.semi-logo::text').get()).strip()
+    team = str(response.css('#name-and-logo h1.semi-logo::text').get()).strip()
 
     # select coach
     headCoach = response.xpath("//text()[contains(., 'Head Coach')]/following::a[1]/text()").extract()
