@@ -60,9 +60,6 @@ class EliteSpider(scrapy.Spider):
 
     content += "\n\n"
     self.content += content
-    #print("content --> " + content)
-
-    # self.writeFile(content)
 
   # write content to a file
   def writeFile(self, content):
