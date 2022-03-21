@@ -28,9 +28,6 @@ class EliteSpider(scrapy.Spider):
     # invert the dict
     team_keys = dict(zip(self.teams.values(), self.teams.keys()))
 
-    page = response.url.split('/')[-1]
-    filename = '%s.txt' % page
-
     # get the team's name
     team = str(response.css('#name-and-logo h1.semi-logo::text').get()).strip()
 
