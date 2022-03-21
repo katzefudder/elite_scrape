@@ -4,6 +4,7 @@ from scrapy.http.request import Request
 class EliteSpider(scrapy.Spider):
   name = "elite"
 
+  results = {}
   content = ""
 
   teams = {
@@ -52,14 +53,13 @@ class EliteSpider(scrapy.Spider):
       if number != 'None' and name != 'None':
         content += "%s%s\t-%s- %s (%s)\n" % (current_team_key, number, number, name, team)
 
-
     if headCoach:
       content += "%s100\t%s (Trainer %s)\n" % (current_team_key, headCoach[0].strip(), team)
     if assistantCoach:
       content += "%s101\t%s (Co-Trainer %s)\n" % (current_team_key, assistantCoach[0].strip(), team)
 
     content += "\n\n"
-    self.content += content
+    self.results[team_keys[response.url]] = content
 
   # write content to a file
   def writeFile(self, content):
@@ -72,4 +72,8 @@ class EliteSpider(scrapy.Spider):
       yield Request(url, self.parse)
 
   def __del__(self):
-    self.writeFile(self.content)
+    content = ""
+    for key in sorted(self.results):
+      content += self.results[key]
+      
+    self.writeFile(content)
