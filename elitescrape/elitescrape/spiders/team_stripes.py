@@ -26,9 +26,9 @@ class EliteSpider(scrapy.Spider):
     for players in response.xpath('//*[@id="tabelle"]//tbody/tr'):
       current_team_key = team_keys[response.url]
       
-      number = players.xpath('td[1]//text()').extract_first().strip()
-      prename = players.xpath('td[3]//text()').extract_first().strip()
-      name = players.xpath('td[2]//text()').extract_first().strip()
+      number = players.xpath('td[1]//text()').get().strip()
+      prename = players.xpath('td[3]//text()').get().strip()
+      name = players.xpath('td[2]//text()').get()
       content += "%s%s\t-%s- %s %s (%s)\n" % (current_team_key, number, number, prename, name, team)
 
     self.content += content
