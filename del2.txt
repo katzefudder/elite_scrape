@@ -154,10 +154,6 @@ fl100	Bohuslav Subr (Trainer Löwen Frankfurt)
 fl101	Jan Barta (Co-Trainer Löwen Frankfurt)
 
 
-- EHC Freiburg -
-
-
-
 - Heilbronner Falken -
 
 hn1	-1- Luca Ganz (Heilbronner Falken)
@@ -201,6 +197,7 @@ hn101	Christoph Schubert (Co-Trainer Heilbronner Falken)
 
 ka7	-7- Joel Keussen (EC Kassel Huskies)
 ka11	-11- Jake Weidner (EC Kassel Huskies)
+ka43	-43- Fabian Ribnitzky (EC Kassel Huskies)
 ka73	-73- Tom Geischeimer (EC Kassel Huskies)
 ka89	-89- Hans Detsch (EC Kassel Huskies)
 
@@ -223,6 +220,7 @@ kb101	Daniel Jun (Co-Trainer ESV Kaufbeuren)
 lf16	-16- Stephane Döring (Lausitzer Füchse)
 lf44	-44- Luis Müller (Lausitzer Füchse)
 lf91	-91- Roope Mäkitalo (Lausitzer Füchse)
+lf100	Petteri Väkiparta (Trainer Lausitzer Füchse)
 
 
 - EV Landshut -
