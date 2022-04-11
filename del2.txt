@@ -154,6 +154,12 @@ fl100	Bohuslav Subr (Trainer Löwen Frankfurt)
 fl101	Jan Barta (Co-Trainer Löwen Frankfurt)
 
 
+- EHC Freiburg -
+
+fr	-- Patrik Cerveny (EHC Freiburg)
+fr100	Robert Hoffmann (Trainer EHC Freiburg)
+
+
 - Heilbronner Falken -
 
 hn1	-1- Luca Ganz (Heilbronner Falken)
