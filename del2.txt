@@ -104,6 +104,8 @@ by100	Robin Farkas (Trainer Bayreuth Tigers)
 
 - Dresdner Eislöwen -
 
+dd	-- Nicklas Mannes (Dresdner Eislöwen)
+dd	-- Lukas Mannes (Dresdner Eislöwen)
 dd8	-8- Jannis Kälble (Dresdner Eislöwen)
 dd9	-9- Jordan Knackstedt (Dresdner Eislöwen)
 dd14	-14- Jussi Petersen (Dresdner Eislöwen)
@@ -225,6 +227,7 @@ kb101	Daniel Jun (Co-Trainer ESV Kaufbeuren)
 
 lf16	-16- Stephane Döring (Lausitzer Füchse)
 lf44	-44- Luis Müller (Lausitzer Füchse)
+lf65	-65- Hunter Garlent (Lausitzer Füchse)
 lf91	-91- Roope Mäkitalo (Lausitzer Füchse)
 lf100	Petteri Väkiparta (Trainer Lausitzer Füchse)
 
