@@ -181,6 +181,7 @@ ka89	-89- Hans Detsch (EC Kassel Huskies)
 - ESV Kaufbeuren -
 
 kb	-- Johannes Krauß (ESV Kaufbeuren)
+kb	-- Jere Laaksonen (ESV Kaufbeuren)
 kb3	-3- Yannik Burghart (ESV Kaufbeuren)
 kb19	-19- Tyler Spurgeon (ESV Kaufbeuren)
 kb22	-22- Tomas Schmidt (ESV Kaufbeuren)
