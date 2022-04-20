@@ -127,6 +127,8 @@ fl101	Jan Barta (Co-Trainer Löwen Frankfurt)
 
 fr	-- Patrik Cerveny (EHC Freiburg)
 fr	-- Marvin Neher (EHC Freiburg)
+fr	-- Konstantin Bongers (EHC Freiburg)
+fr	-- Kevin Orendorz (EHC Freiburg)
 fr100	Robert Hoffmann (Trainer EHC Freiburg)
 
 
