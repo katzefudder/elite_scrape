@@ -1,5 +1,7 @@
 - EC Bad Nauheim -
 
+bn	-- Patrick Seifert (EC Bad Nauheim)
+bn	-- Jerry Pollastrone (EC Bad Nauheim)
 bn	-- Kevin Schmidt (EC Bad Nauheim)
 bn	-- Marc El-Sayed (EC Bad Nauheim)
 bn	-- Fabian Herrmann (EC Bad Nauheim)
