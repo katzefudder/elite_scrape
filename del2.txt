@@ -46,31 +46,22 @@ bt100	Kevin Gaudet (Trainer Tölzer Löwen)
 
 - Bayreuth Tigers -
 
-by7	-7- Cason Hohmann (Bayreuth Tigers)
+by	-- Sami Blomqvist (Bayreuth Tigers)
 by10	-10- Niklas Gabriel (Bayreuth Tigers)
 by11	-11- Lubor Pokovic (Bayreuth Tigers)
-by15	-15- Garret Pruden (Bayreuth Tigers)
-by18	-18- Marvin Ratmann (Bayreuth Tigers)
-by19	-19- Ivan Kolozvary (Bayreuth Tigers)
 by20	-20- Ville Järveläinen (Bayreuth Tigers)
-by22	-22- Dominik Meisinger (Bayreuth Tigers)
-by23	-23- Lukas Ribarik (Bayreuth Tigers)
-by28	-28- Jan Hudecek (Bayreuth Tigers)
-by30	-30- Lukas Steinhauer (Bayreuth Tigers)
-by35	-35- Timo Herden (Bayreuth Tigers)
 by41	-41- Dani Bindels (Bayreuth Tigers)
-by42	-42- Tim Zimmermann (Bayreuth Tigers)
-by44	-44- Kurt Davis (Bayreuth Tigers)
 by57	-57- Christian Kretschmann (Bayreuth Tigers)
-by60	-60- Moritz Schug (Bayreuth Tigers)
 by66	-66- Jan-Luca Schumacher (Bayreuth Tigers)
-by67	-67- Maximilian Menner (Bayreuth Tigers)
-by73	-73- Tobias Meier (Bayreuth Tigers)
 by83	-83- Kevin Kunz (Bayreuth Tigers)
-by89	-89- Luke Pither (Bayreuth Tigers)
-by90	-90- Daniel Stiefenhofer (Bayreuth Tigers)
-by97	-97- Frédérik Cabana (Bayreuth Tigers)
-by100	Robin Farkas (Trainer Bayreuth Tigers)
+
+
+- Eispiraten Crimmitschau -
+
+cr4	-4- Felix Thomas (Eispiraten Crimmitschau)
+cr15	-15- Ole Olleff (Eispiraten Crimmitschau)
+cr79	-79- Mario Scalzo (Eispiraten Crimmitschau)
+cr100	Marian Bazany (Trainer Eispiraten Crimmitschau)
 
 
 - Dresdner Eislöwen -
@@ -129,10 +120,11 @@ fl101	Jan Barta (Co-Trainer Löwen Frankfurt)
 
 - EHC Freiburg -
 
-fr	-- Patrik Cerveny (EHC Freiburg)
-fr	-- Marvin Neher (EHC Freiburg)
 fr	-- Konstantin Bongers (EHC Freiburg)
 fr	-- Kevin Orendorz (EHC Freiburg)
+fr27	-27- Marvin Neher (EHC Freiburg)
+fr33	-33- Hagen Kaisler (EHC Freiburg)
+fr64	-64- Patrik Cerveny (EHC Freiburg)
 fr100	Robert Hoffmann (Trainer EHC Freiburg)
 
 
@@ -201,6 +193,10 @@ kb101	Daniel Jun (Co-Trainer ESV Kaufbeuren)
 
 - Lausitzer Füchse -
 
+lf	-- Dominik Bohac (Lausitzer Füchse)
+lf	-- Julian Wäser (Lausitzer Füchse)
+lf	-- Ilja Fleischmann (Lausitzer Füchse)
+lf	-- Daniel Visner (Lausitzer Füchse)
 lf16	-16- Stephane Döring (Lausitzer Füchse)
 lf44	-44- Luis Müller (Lausitzer Füchse)
 lf65	-65- Hunter Garlent (Lausitzer Füchse)
