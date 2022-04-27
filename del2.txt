@@ -1,5 +1,6 @@
 - EC Bad Nauheim -
 
+bn	-- Tobias Wörle (EC Bad Nauheim)
 bn4	-4- Kevin Schmidt (EC Bad Nauheim)
 bn16	-16- Christoph Körner (EC Bad Nauheim)
 bn19	-19- Taylor Vause (EC Bad Nauheim)
@@ -16,7 +17,6 @@ bn91	-91- Marc El-Sayed (EC Bad Nauheim)
 
 bt	-- Erik Gollenbeck (Tölzer Löwen)
 bt5	-5- Anton Engel (Tölzer Löwen)
-bt22	-22- Lubor Dibelka (Tölzer Löwen)
 bt93	-93- Niklas Hörmann (Tölzer Löwen)
 
 
