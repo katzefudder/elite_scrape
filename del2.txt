@@ -18,6 +18,7 @@ bn91	-91- Marc El-Sayed (EC Bad Nauheim)
 bt	-- Erik Gollenbeck (Tölzer Löwen)
 bt5	-5- Anton Engel (Tölzer Löwen)
 bt93	-93- Niklas Hörmann (Tölzer Löwen)
+bt100	Ryan Foster (Trainer Tölzer Löwen)
 
 
 - Bayreuth Tigers -
@@ -37,6 +38,7 @@ by83	-83- Kevin Kunz (Bayreuth Tigers)
 cr3	-3- Nick Walters (Eispiraten Crimmitschau)
 cr4	-4- Felix Thomas (Eispiraten Crimmitschau)
 cr15	-15- Ole Olleff (Eispiraten Crimmitschau)
+cr28	-28- Patrick Pohl (Eispiraten Crimmitschau)
 cr79	-79- Mario Scalzo (Eispiraten Crimmitschau)
 cr100	Marian Bazany (Trainer Eispiraten Crimmitschau)
 
