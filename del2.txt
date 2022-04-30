@@ -100,6 +100,7 @@ hn101	Christoph Schubert (Co-Trainer Heilbronner Falken)
 
 - EC Kassel Huskies -
 
+ka	-- Vincent Schlenker (EC Kassel Huskies)
 ka7	-7- Joel Keussen (EC Kassel Huskies)
 ka11	-11- Jake Weidner (EC Kassel Huskies)
 ka43	-43- Fabian Ribnitzky (EC Kassel Huskies)
