@@ -139,6 +139,9 @@ lf100	Petteri Väkiparta (Trainer Lausitzer Füchse)
 
 - EV Landshut -
 
+lh	-- Markus Eberhardt (EV Landshut)
+lh	-- Samir Kharboutli (EV Landshut)
+lh	-- David Zucker (EV Landshut)
 lh6	-6- Michael Reich (EV Landshut)
 lh10	-10- Julian Kornelli (EV Landshut)
 lh20	-20- Benedikt Brückner (EV Landshut)
