@@ -36,6 +36,7 @@ by83	-83- Kevin Kunz (Bayreuth Tigers)
 
 - Eispiraten Crimmitschau -
 
+cr	-- Christian Schneider (Eispiraten Crimmitschau)
 cr3	-3- Nick Walters (Eispiraten Crimmitschau)
 cr4	-4- Felix Thomas (Eispiraten Crimmitschau)
 cr15	-15- Ole Olleff (Eispiraten Crimmitschau)
@@ -46,6 +47,7 @@ cr100	Marian Bazany (Trainer Eispiraten Crimmitschau)
 
 - Dresdner Eislöwen -
 
+dd	-- Martin Hlozek (Dresdner Eislöwen)
 dd	-- Nicklas Mannes (Dresdner Eislöwen)
 dd	-- Lukas Mannes (Dresdner Eislöwen)
 dd8	-8- Jannis Kälble (Dresdner Eislöwen)
@@ -73,6 +75,7 @@ dd100	Andreas Brockmann (Trainer Dresdner Eislöwen)
 
 - EHC Freiburg -
 
+fr	-- Calvin Pokorny (EHC Freiburg)
 fr	-- Konstantin Bongers (EHC Freiburg)
 fr	-- Kevin Orendorz (EHC Freiburg)
 fr27	-27- Marvin Neher (EHC Freiburg)
@@ -101,6 +104,7 @@ hn101	Christoph Schubert (Co-Trainer Heilbronner Falken)
 
 - EC Kassel Huskies -
 
+ka	-- Maximilian Faber (EC Kassel Huskies)
 ka	-- Vincent Schlenker (EC Kassel Huskies)
 ka7	-7- Joel Keussen (EC Kassel Huskies)
 ka11	-11- Jake Weidner (EC Kassel Huskies)
@@ -122,6 +126,7 @@ kb26	-26- Markus Schweiger (ESV Kaufbeuren)
 kb28	-28- Markus Lillich (ESV Kaufbeuren)
 kb47	-47- Alexander Thiel (ESV Kaufbeuren)
 kb55	-55- Leon van der Linde (ESV Kaufbeuren)
+kb62	-62- Dieter Orendorz (ESV Kaufbeuren)
 kb100	Marko Raita (Trainer ESV Kaufbeuren)
 kb101	Daniel Jun (Co-Trainer ESV Kaufbeuren)
 
@@ -157,6 +162,7 @@ lh47	-47- Marco Pfleger (EV Landshut)
 lh57	-57- Robin Weihager (EV Landshut)
 lh61	-61- Andreé Hult (EV Landshut)
 lh81	-81- Maximilian Forster (EV Landshut)
+lh100	Heiko Vogler (Trainer EV Landshut)
 
 
 - Ravensburg Towerstars -
