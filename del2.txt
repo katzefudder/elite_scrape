@@ -17,6 +17,8 @@ bn91	-91- Marc El-Sayed (EC Bad Nauheim)
 - Tölzer Löwen -
 
 bt	-- Erik Gollenbeck (Tölzer Löwen)
+bt	-- Oliver Ott (Tölzer Löwen)
+bt	-- Philipp Schlager (Tölzer Löwen)
 bt5	-5- Anton Engel (Tölzer Löwen)
 bt93	-93- Niklas Hörmann (Tölzer Löwen)
 bt100	Ryan Foster (Trainer Tölzer Löwen)
@@ -167,6 +169,7 @@ lh100	Heiko Vogler (Trainer EV Landshut)
 
 - Ravensburg Towerstars -
 
+rt	-- Denis Pfaffengut (Ravensburg Towerstars)
 rt19	-19- Josh MacDonald (Ravensburg Towerstars)
 rt34	-34- Jonas Langmann (Ravensburg Towerstars)
 rt41	-41- Sam Herr (Ravensburg Towerstars)
