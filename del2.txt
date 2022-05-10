@@ -77,6 +77,7 @@ dd100	Andreas Brockmann (Trainer Dresdner Eislöwen)
 
 - EHC Freiburg -
 
+fr	-- Mick Hochreither (EHC Freiburg)
 fr	-- Calvin Pokorny (EHC Freiburg)
 fr	-- Konstantin Bongers (EHC Freiburg)
 fr	-- Kevin Orendorz (EHC Freiburg)
@@ -170,6 +171,7 @@ lh100	Heiko Vogler (Trainer EV Landshut)
 - Ravensburg Towerstars -
 
 rt	-- Denis Pfaffengut (Ravensburg Towerstars)
+rt	-- Robbie Czarnik (Ravensburg Towerstars)
 rt19	-19- Josh MacDonald (Ravensburg Towerstars)
 rt34	-34- Jonas Langmann (Ravensburg Towerstars)
 rt41	-41- Sam Herr (Ravensburg Towerstars)
