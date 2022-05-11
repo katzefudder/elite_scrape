@@ -42,6 +42,7 @@ cr	-- Christian Schneider (Eispiraten Crimmitschau)
 cr3	-3- Nick Walters (Eispiraten Crimmitschau)
 cr4	-4- Felix Thomas (Eispiraten Crimmitschau)
 cr15	-15- Ole Olleff (Eispiraten Crimmitschau)
+cr23	-23- Willy Rudert (Eispiraten Crimmitschau)
 cr28	-28- Patrick Pohl (Eispiraten Crimmitschau)
 cr79	-79- Mario Scalzo (Eispiraten Crimmitschau)
 cr100	Marian Bazany (Trainer Eispiraten Crimmitschau)
@@ -73,6 +74,11 @@ dd100	Andreas Brockmann (Trainer Dresdner Eislöwen)
 
 - Löwen Frankfurt -
 
+fl	-- Magnus Eisenmenger (Löwen Frankfurt)
+fl	-- Ryon Moser (Löwen Frankfurt)
+fl	-- Dylan Wruck (Löwen Frankfurt)
+fl	-- Nathan Burns (Löwen Frankfurt)
+fl101	Jan Barta (Co-Trainer Löwen Frankfurt)
 
 
 - EHC Freiburg -
@@ -118,6 +124,8 @@ ka89	-89- Hans Detsch (EC Kassel Huskies)
 
 - ESV Kaufbeuren -
 
+kb	-- Dieter Geidl (ESV Kaufbeuren)
+kb	-- Philipp Bidoul (ESV Kaufbeuren)
 kb	-- Simon Schütz (ESV Kaufbeuren)
 kb	-- Johannes Krauß (ESV Kaufbeuren)
 kb	-- Jere Laaksonen (ESV Kaufbeuren)
