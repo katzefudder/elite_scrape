@@ -16,6 +16,8 @@ bn91	-91- Marc El-Sayed (EC Bad Nauheim)
 
 - Tölzer Löwen -
 
+bt	-- Josef Hölzl (Tölzer Löwen)
+bt	-- Enrico Salvarani (Tölzer Löwen)
 bt	-- Erik Gollenbeck (Tölzer Löwen)
 bt	-- Oliver Ott (Tölzer Löwen)
 bt	-- Philipp Schlager (Tölzer Löwen)
