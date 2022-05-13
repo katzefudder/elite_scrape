@@ -1,5 +1,6 @@
 - EC Bad Nauheim -
 
+bn	-- Rihards Babulis (EC Bad Nauheim)
 bn4	-4- Kevin Schmidt (EC Bad Nauheim)
 bn9	-9- Huba Sekesi (EC Bad Nauheim)
 bn16	-16- Christoph Körner (EC Bad Nauheim)
@@ -67,6 +68,7 @@ dd47	-47- Vladislav Filin (Dresdner Eislöwen)
 dd62	-62- Janick Schwendener (Dresdner Eislöwen)
 dd67	-67- Tom Knobloch (Dresdner Eislöwen)
 dd71	-71- Adam Kiedewicz (Dresdner Eislöwen)
+dd73	-73- Pascal Seidel (Dresdner Eislöwen)
 dd75	-75- Bruno Riedl (Dresdner Eislöwen)
 dd77	-77- Arne Uplegger (Dresdner Eislöwen)
 dd92	-92- Tomas Andres (Dresdner Eislöwen)
@@ -76,6 +78,7 @@ dd100	Andreas Brockmann (Trainer Dresdner Eislöwen)
 
 - Löwen Frankfurt -
 
+fl	-- Kevin Maginot (Löwen Frankfurt)
 fl	-- Magnus Eisenmenger (Löwen Frankfurt)
 fl	-- Ryon Moser (Löwen Frankfurt)
 fl	-- Dylan Wruck (Löwen Frankfurt)
