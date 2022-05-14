@@ -29,6 +29,7 @@ bt100	Ryan Foster (Trainer Tölzer Löwen)
 
 - Bayreuth Tigers -
 
+by	-- Olafr Schmidt (Bayreuth Tigers)
 by	-- Sami Blomqvist (Bayreuth Tigers)
 by10	-10- Niklas Gabriel (Bayreuth Tigers)
 by11	-11- Lubor Pokovic (Bayreuth Tigers)
@@ -78,6 +79,9 @@ dd100	Andreas Brockmann (Trainer Dresdner Eislöwen)
 
 - Löwen Frankfurt -
 
+fl	-- Jonas Gähr (Löwen Frankfurt)
+fl	-- Jake Hildebrand (Löwen Frankfurt)
+fl	-- Bastian Kucis (Löwen Frankfurt)
 fl	-- Kevin Maginot (Löwen Frankfurt)
 fl	-- Magnus Eisenmenger (Löwen Frankfurt)
 fl	-- Ryon Moser (Löwen Frankfurt)
@@ -150,10 +154,12 @@ kb101	Daniel Jun (Co-Trainer ESV Kaufbeuren)
 - Lausitzer Füchse -
 
 lf	-- Dominik Bohac (Lausitzer Füchse)
+lf	-- Thomas Gauch (Lausitzer Füchse)
 lf	-- Julian Wäser (Lausitzer Füchse)
+lf	-- Louis Anders (Lausitzer Füchse)
+lf	-- Tim Detig (Lausitzer Füchse)
 lf	-- Ilja Fleischmann (Lausitzer Füchse)
 lf	-- Daniel Visner (Lausitzer Füchse)
-lf16	-16- Stephane Döring (Lausitzer Füchse)
 lf44	-44- Luis Müller (Lausitzer Füchse)
 lf65	-65- Hunter Garlent (Lausitzer Füchse)
 lf91	-91- Roope Mäkitalo (Lausitzer Füchse)
@@ -173,7 +179,6 @@ lh25	-25- Andreas Schwarz (EV Landshut)
 lh27	-27- Alexander Dersch (EV Landshut)
 lh28	-28- Fabian Baßler (EV Landshut)
 lh30	-30- Nico Pertuch (EV Landshut)
-lh35	-35- Olafr Schmidt (EV Landshut)
 lh47	-47- Marco Pfleger (EV Landshut)
 lh57	-57- Robin Weihager (EV Landshut)
 lh61	-61- Andreé Hult (EV Landshut)
