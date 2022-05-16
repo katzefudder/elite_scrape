@@ -37,7 +37,6 @@ by20	-20- Ville Järveläinen (Bayreuth Tigers)
 by41	-41- Dani Bindels (Bayreuth Tigers)
 by57	-57- Christian Kretschmann (Bayreuth Tigers)
 by66	-66- Jan-Luca Schumacher (Bayreuth Tigers)
-by83	-83- Kevin Kunz (Bayreuth Tigers)
 
 
 - Eispiraten Crimmitschau -
@@ -83,6 +82,7 @@ fl	-- Jonas Gähr (Löwen Frankfurt)
 fl	-- Jake Hildebrand (Löwen Frankfurt)
 fl	-- Bastian Kucis (Löwen Frankfurt)
 fl	-- Kevin Maginot (Löwen Frankfurt)
+fl	-- Brett Breitkreuz (Löwen Frankfurt)
 fl	-- Magnus Eisenmenger (Löwen Frankfurt)
 fl	-- Ryon Moser (Löwen Frankfurt)
 fl	-- Dylan Wruck (Löwen Frankfurt)
