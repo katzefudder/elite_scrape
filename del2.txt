@@ -41,6 +41,8 @@ by66	-66- Jan-Luca Schumacher (Bayreuth Tigers)
 
 - Eispiraten Crimmitschau -
 
+cr	-- Lucas Böttcher (Eispiraten Crimmitschau)
+cr	-- Tamás Kánya (Eispiraten Crimmitschau)
 cr	-- Christian Schneider (Eispiraten Crimmitschau)
 cr3	-3- Nick Walters (Eispiraten Crimmitschau)
 cr4	-4- Felix Thomas (Eispiraten Crimmitschau)
@@ -49,6 +51,7 @@ cr23	-23- Willy Rudert (Eispiraten Crimmitschau)
 cr28	-28- Patrick Pohl (Eispiraten Crimmitschau)
 cr79	-79- Mario Scalzo (Eispiraten Crimmitschau)
 cr100	Marian Bazany (Trainer Eispiraten Crimmitschau)
+cr101	Esbjörn Hofverberg (Co-Trainer Eispiraten Crimmitschau)
 
 
 - Dresdner Eislöwen -
@@ -92,6 +95,7 @@ fl101	Jan Barta (Co-Trainer Löwen Frankfurt)
 
 - EHC Freiburg -
 
+fr	-- Luis Benzing (EHC Freiburg)
 fr	-- Mick Hochreither (EHC Freiburg)
 fr	-- Calvin Pokorny (EHC Freiburg)
 fr	-- Konstantin Bongers (EHC Freiburg)
@@ -101,6 +105,7 @@ fr33	-33- Hagen Kaisler (EHC Freiburg)
 fr64	-64- Patrik Cerveny (EHC Freiburg)
 fr81	-81- Christian Billich (EHC Freiburg)
 fr100	Robert Hoffmann (Trainer EHC Freiburg)
+fr101	Pyry Eskola (Co-Trainer EHC Freiburg)
 
 
 - Heilbronner Falken -
@@ -188,6 +193,7 @@ lh100	Heiko Vogler (Trainer EV Landshut)
 
 - Ravensburg Towerstars -
 
+rt	-- Florin Ketterer (Ravensburg Towerstars)
 rt	-- Denis Pfaffengut (Ravensburg Towerstars)
 rt	-- Robbie Czarnik (Ravensburg Towerstars)
 rt19	-19- Josh MacDonald (Ravensburg Towerstars)
