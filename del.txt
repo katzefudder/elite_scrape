@@ -1,28 +1,3 @@
-- Adler Mannheim -
-
-am	-- Arno Tiefensee (Adler Mannheim)
-am	-- Sinan Akdag (Adler Mannheim)
-am	-- Korbinian Holzer (Adler Mannheim)
-am	-- Mark Katic (Adler Mannheim)
-am	-- Thomas Larkin (Adler Mannheim)
-am	-- Joonas Lehtivuori (Adler Mannheim)
-am	-- Denis Reul (Adler Mannheim)
-am	-- Nigel Dawes (Adler Mannheim)
-am	-- Markus Eisenschmid (Adler Mannheim)
-am	-- Tyler Gaudet (Adler Mannheim)
-am	-- Taro Jentzsch (Adler Mannheim)
-am	-- Nico Krämmer (Adler Mannheim)
-am	-- Stefan Loibl (Adler Mannheim)
-am	-- Matthias Plachta (Adler Mannheim)
-am	-- Borna Rendulic (Adler Mannheim)
-am	-- Jordan Szwarz (Adler Mannheim)
-am	-- Tim Wohlgemuth (Adler Mannheim)
-am	-- David Wolf (Adler Mannheim)
-am	-- Felix Brückmann (Adler Mannheim)
-am100	Bill Stewart (Trainer Adler Mannheim)
-am101	Marcel Goc (Co-Trainer Adler Mannheim)
-
-
 - Augsburger Panther -
 
 ap	-- Dennis Endras (Augsburger Panther)
@@ -42,6 +17,28 @@ ap2	-2- Brady Lamb (Augsburger Panther)
 ap11	-11- Adam Payerl (Augsburger Panther)
 ap19	-19- Drew LeBlanc (Augsburger Panther)
 ap100	Peter Russell (Trainer Augsburger Panther)
+
+
+- Grizzlys Wolfsburg -
+
+wb1	-1- Dustin Strahlmeier (Grizzlys Wolfsburg)
+wb5	-5- Björn Krupp (Grizzlys Wolfsburg)
+wb7	-7- Dominik Bittner (Grizzlys Wolfsburg)
+wb8	-8- Jordan Murray (Grizzlys Wolfsburg)
+wb11	-11- Trevor Mingoia (Grizzlys Wolfsburg)
+wb12	-12- Armin Wurm (Grizzlys Wolfsburg)
+wb13	-13- Lucas Dumont (Grizzlys Wolfsburg)
+wb18	-18- Laurin Braun (Grizzlys Wolfsburg)
+wb23	-23- Gerrit Fauser (Grizzlys Wolfsburg)
+wb24	-24- Janik Möser (Grizzlys Wolfsburg)
+wb25	-25- Darren Archibald (Grizzlys Wolfsburg)
+wb27	-27- Thomas Reichel (Grizzlys Wolfsburg)
+wb34	-34- Chet Pickard (Grizzlys Wolfsburg)
+wb41	-41- Steven Raabe (Grizzlys Wolfsburg)
+wb55	-55- Ryan Button (Grizzlys Wolfsburg)
+wb63	-63- Luis Schinko (Grizzlys Wolfsburg)
+wb93	-93- Spencer Machacek (Grizzlys Wolfsburg)
+wb95	-95- Fabio Pfohl (Grizzlys Wolfsburg)
 
 
 - Schwenninger Wild Wings -
@@ -69,10 +66,85 @@ sw	-- Kai Zernikel (Schwenninger Wild Wings)
 sw100	Harold Kreis (Trainer Schwenninger Wild Wings)
 
 
+- Nürnberg Ice Tigers -
+
+nb	-- Leon Hungerecker (Nürnberg Ice Tigers)
+nb	-- Niklas Treutle (Nürnberg Ice Tigers)
+nb	-- Andrew Bodnarchuk (Nürnberg Ice Tigers)
+nb	-- Julius Karrer (Nürnberg Ice Tigers)
+nb	-- Oliver Mebus (Nürnberg Ice Tigers)
+nb	-- Blake Parlett (Nürnberg Ice Tigers)
+nb	-- Marcus Weber (Nürnberg Ice Tigers)
+nb	-- Nicholas Welsh (Nürnberg Ice Tigers)
+nb	-- Tim Fleischer (Nürnberg Ice Tigers)
+nb	-- Dane Fox (Nürnberg Ice Tigers)
+nb	-- Charlie Jahnke (Nürnberg Ice Tigers)
+nb	-- Roman Kechter (Nürnberg Ice Tigers)
+nb	-- Max Kislinger (Nürnberg Ice Tigers)
+nb	-- Danjo Leonhardt (Nürnberg Ice Tigers)
+nb	-- Dennis Lobach (Nürnberg Ice Tigers)
+nb	-- Gregor MacLeod (Nürnberg Ice Tigers)
+nb	-- Patrick Reimer (Nürnberg Ice Tigers)
+nb	-- Lukas Ribarik (Nürnberg Ice Tigers)
+nb	-- Daniel Schmölz (Nürnberg Ice Tigers)
+nb	-- Tyler Sheehy (Nürnberg Ice Tigers)
+nb	-- Ryan Stoa (Nürnberg Ice Tigers)
+nb	-- Jake Ustorf (Nürnberg Ice Tigers)
+
+
+- Adler Mannheim -
+
+am	-- Arno Tiefensee (Adler Mannheim)
+am	-- Sinan Akdag (Adler Mannheim)
+am	-- Korbinian Holzer (Adler Mannheim)
+am	-- Mark Katic (Adler Mannheim)
+am	-- Thomas Larkin (Adler Mannheim)
+am	-- Joonas Lehtivuori (Adler Mannheim)
+am	-- Maximilian Leitner (Adler Mannheim)
+am	-- Denis Reul (Adler Mannheim)
+am	-- Nigel Dawes (Adler Mannheim)
+am	-- Markus Eisenschmid (Adler Mannheim)
+am	-- Tyler Gaudet (Adler Mannheim)
+am	-- Taro Jentzsch (Adler Mannheim)
+am	-- Nico Krämmer (Adler Mannheim)
+am	-- Stefan Loibl (Adler Mannheim)
+am	-- Lukas Mühlbauer (Adler Mannheim)
+am	-- Matthias Plachta (Adler Mannheim)
+am	-- Borna Rendulic (Adler Mannheim)
+am	-- Jordan Szwarz (Adler Mannheim)
+am	-- Tim Wohlgemuth (Adler Mannheim)
+am	-- David Wolf (Adler Mannheim)
+am	-- Felix Brückmann (Adler Mannheim)
+am100	Bill Stewart (Trainer Adler Mannheim)
+am101	Marcel Goc (Co-Trainer Adler Mannheim)
+
+
 - EHC München -
 
 rb	-- Andreas Eder (EHC München)
 rb35	-35- Mathias Niederberger (EHC München)
+
+
+- Eisbären Berlin -
+
+eb	-- Morgan Ellis (Eisbären Berlin)
+eb	-- Jonas Müller (Eisbären Berlin)
+eb	-- Kai Wissmann (Eisbären Berlin)
+eb	-- Marco Baßler (Eisbären Berlin)
+eb	-- Kevin Clark (Eisbären Berlin)
+eb	-- Tobias Ancicka (Eisbären Berlin)
+eb	-- Korbinian Geibel (Eisbären Berlin)
+eb	-- Nicholas B. Jensen (Eisbären Berlin)
+eb	-- Eric Mik (Eisbären Berlin)
+eb	-- Zach Boychuk (Eisbären Berlin)
+eb	-- Bennet Roßmy (Eisbären Berlin)
+eb	-- Matt White (Eisbären Berlin)
+eb	-- Manuel Wiederer (Eisbären Berlin)
+eb7	-7- Frank Hördler (Eisbären Berlin)
+eb8	-8- Marco Nowak (Eisbären Berlin)
+eb38	-38- Yannick Veilleux (Eisbären Berlin)
+eb83	-83- Leo Pföderl (Eisbären Berlin)
+eb92	-92- Marcel Noebels (Eisbären Berlin)
 
 
 - Iserlohn Roosters -
@@ -104,73 +176,20 @@ ir77	-77- Tim Bender (Iserlohn Roosters)
 ir100	Kurt Kleinendorst (Trainer Iserlohn Roosters)
 
 
-- Eisbären Berlin -
+- Bietigheim Steelers -
 
-eb	-- Morgan Ellis (Eisbären Berlin)
-eb	-- Jonas Müller (Eisbären Berlin)
-eb	-- Kai Wissmann (Eisbären Berlin)
-eb	-- Marco Baßler (Eisbären Berlin)
-eb	-- Kevin Clark (Eisbären Berlin)
-eb	-- Tobias Ancicka (Eisbären Berlin)
-eb	-- Korbinian Geibel (Eisbären Berlin)
-eb	-- Nicholas B. Jensen (Eisbären Berlin)
-eb	-- Eric Mik (Eisbären Berlin)
-eb	-- Zach Boychuk (Eisbären Berlin)
-eb	-- Bennet Roßmy (Eisbären Berlin)
-eb	-- Matt White (Eisbären Berlin)
-eb	-- Manuel Wiederer (Eisbären Berlin)
-eb7	-7- Frank Hördler (Eisbären Berlin)
-eb38	-38- Yannick Veilleux (Eisbären Berlin)
-eb83	-83- Leo Pföderl (Eisbären Berlin)
-eb92	-92- Marcel Noebels (Eisbären Berlin)
-
-
-- Nürnberg Ice Tigers -
-
-nb	-- Leon Hungerecker (Nürnberg Ice Tigers)
-nb	-- Niklas Treutle (Nürnberg Ice Tigers)
-nb	-- Andrew Bodnarchuk (Nürnberg Ice Tigers)
-nb	-- Julius Karrer (Nürnberg Ice Tigers)
-nb	-- Oliver Mebus (Nürnberg Ice Tigers)
-nb	-- Blake Parlett (Nürnberg Ice Tigers)
-nb	-- Marcus Weber (Nürnberg Ice Tigers)
-nb	-- Nicholas Welsh (Nürnberg Ice Tigers)
-nb	-- Tim Fleischer (Nürnberg Ice Tigers)
-nb	-- Dane Fox (Nürnberg Ice Tigers)
-nb	-- Charlie Jahnke (Nürnberg Ice Tigers)
-nb	-- Roman Kechter (Nürnberg Ice Tigers)
-nb	-- Max Kislinger (Nürnberg Ice Tigers)
-nb	-- Danjo Leonhardt (Nürnberg Ice Tigers)
-nb	-- Dennis Lobach (Nürnberg Ice Tigers)
-nb	-- Gregor MacLeod (Nürnberg Ice Tigers)
-nb	-- Patrick Reimer (Nürnberg Ice Tigers)
-nb	-- Lukas Ribarik (Nürnberg Ice Tigers)
-nb	-- Daniel Schmölz (Nürnberg Ice Tigers)
-nb	-- Tyler Sheehy (Nürnberg Ice Tigers)
-nb	-- Ryan Stoa (Nürnberg Ice Tigers)
-nb	-- Jake Ustorf (Nürnberg Ice Tigers)
-
-
-- Grizzlys Wolfsburg -
-
-wb1	-1- Dustin Strahlmeier (Grizzlys Wolfsburg)
-wb5	-5- Björn Krupp (Grizzlys Wolfsburg)
-wb7	-7- Dominik Bittner (Grizzlys Wolfsburg)
-wb8	-8- Jordan Murray (Grizzlys Wolfsburg)
-wb11	-11- Trevor Mingoia (Grizzlys Wolfsburg)
-wb12	-12- Armin Wurm (Grizzlys Wolfsburg)
-wb13	-13- Lucas Dumont (Grizzlys Wolfsburg)
-wb18	-18- Laurin Braun (Grizzlys Wolfsburg)
-wb23	-23- Gerrit Fauser (Grizzlys Wolfsburg)
-wb24	-24- Janik Möser (Grizzlys Wolfsburg)
-wb25	-25- Darren Archibald (Grizzlys Wolfsburg)
-wb27	-27- Thomas Reichel (Grizzlys Wolfsburg)
-wb34	-34- Chet Pickard (Grizzlys Wolfsburg)
-wb41	-41- Steven Raabe (Grizzlys Wolfsburg)
-wb55	-55- Ryan Button (Grizzlys Wolfsburg)
-wb63	-63- Luis Schinko (Grizzlys Wolfsburg)
-wb93	-93- Spencer Machacek (Grizzlys Wolfsburg)
-wb95	-95- Fabio Pfohl (Grizzlys Wolfsburg)
+bs	-- Evan Jasper (Bietigheim Steelers)
+bs	-- C.J. Stretch (Bietigheim Steelers)
+bs	-- Daniel Weiß (Bietigheim Steelers)
+bs3	-3- Max Prommersberger (Bietigheim Steelers)
+bs10	-10- Norman Hauner (Bietigheim Steelers)
+bs14	-14- Benjamin Zientek (Bietigheim Steelers)
+bs24	-24- Maximilian Renner (Bietigheim Steelers)
+bs29	-29- Alexander Preibisch (Bietigheim Steelers)
+bs40	-40- Tim Schüle (Bietigheim Steelers)
+bs51	-51- Cody Brenner (Bietigheim Steelers)
+bs74	-74- Sami Aittokallio (Bietigheim Steelers)
+bs90	-90- Constantin Braun (Bietigheim Steelers)
 
 
 - Krefeld Pinguine -
@@ -187,78 +206,6 @@ kp	-- Marcel Müller (Krefeld Pinguine)
 kp17	-17- Leon Niederberger (Krefeld Pinguine)
 kp43	-43- Alexander Weiß (Krefeld Pinguine)
 kp72	-72- Sergey Belov (Krefeld Pinguine)
-
-
-- Straubing Tigers -
-
-st	-- Florian Bugl (Straubing Tigers)
-st	-- Marcel Brandt (Straubing Tigers)
-st	-- Stephan Daschner (Straubing Tigers)
-st	-- Cody Lampl (Straubing Tigers)
-st	-- Ian Scheid (Straubing Tigers)
-st	-- Mario Zimmermann (Straubing Tigers)
-st	-- Tim Brunnhuber (Straubing Tigers)
-st	-- Taylor Leier (Straubing Tigers)
-st	-- Sandro Schönberger (Straubing Tigers)
-st	-- Travis St. Denis (Straubing Tigers)
-st10	-10- Garrett Festerling (Straubing Tigers)
-st77	-77- Travis Turnbull (Straubing Tigers)
-st98	-98- Bastian Eckl (Straubing Tigers)
-st100	Tom Pokel (Trainer Straubing Tigers)
-
-
-- Bietigheim Steelers -
-
-bs	-- Evan Jasper (Bietigheim Steelers)
-bs	-- C.J. Stretch (Bietigheim Steelers)
-bs3	-3- Max Prommersberger (Bietigheim Steelers)
-bs10	-10- Norman Hauner (Bietigheim Steelers)
-bs14	-14- Benjamin Zientek (Bietigheim Steelers)
-bs24	-24- Maximilian Renner (Bietigheim Steelers)
-bs29	-29- Alexander Preibisch (Bietigheim Steelers)
-bs40	-40- Tim Schüle (Bietigheim Steelers)
-bs51	-51- Cody Brenner (Bietigheim Steelers)
-bs74	-74- Sami Aittokallio (Bietigheim Steelers)
-bs90	-90- Constantin Braun (Bietigheim Steelers)
-
-
-- Fischtown Pinguins -
-
-ft	-- Maximilian Franzreb (Fischtown Pinguins)
-ft	-- Brandon Maxwell (Fischtown Pinguins)
-ft	-- Phillip Bruggisser (Fischtown Pinguins)
-ft	-- Ross Mauermann (Fischtown Pinguins)
-ft	-- Dominik Uher (Fischtown Pinguins)
-ft	-- Christian Wejse (Fischtown Pinguins)
-ft	-- Ziga Jeglic (Fischtown Pinguins)
-ft	-- Jan Urbas (Fischtown Pinguins)
-ft	-- Miha Verlic (Fischtown Pinguins)
-ft100	Thomas Popiesch (Trainer Fischtown Pinguins)
-ft101	Alexander Sulzer (Co-Trainer Fischtown Pinguins)
-
-
-- Kölner Haie -
-
-kh	-- Niklas Lunemann (Kölner Haie)
-kh	-- Maximilian Glötzl (Kölner Haie)
-kh	-- Moritz Müller (Kölner Haie)
-kh	-- Jan Luca Sennhenn (Kölner Haie)
-kh	-- Robin van Calster (Kölner Haie)
-kh	-- Julian Chrobot (Kölner Haie)
-kh	-- Landon Ferraro (Kölner Haie)
-kh	-- Maximilian Kammerer (Kölner Haie)
-kh	-- Jon Matsumoto (Kölner Haie)
-kh	-- Alexander Oblinger (Kölner Haie)
-kh	-- Mark Olver (Kölner Haie)
-kh	-- Zach Sill (Kölner Haie)
-kh	-- Pascal Steck (Kölner Haie)
-kh	-- Andreas Thuresson (Kölner Haie)
-kh	-- Sebastian Uvira (Kölner Haie)
-kh	-- Luis Üffing (Kölner Haie)
-kh15	-15- Louis-Marc Aubry (Kölner Haie)
-kh30	-30- Mirko Pantkowski (Kölner Haie)
-kh67	-67- Stanislav Dietz (Kölner Haie)
-kh74	-74- Oleg Shilin (Kölner Haie)
 
 
 - ERC Ingolstadt -
@@ -284,6 +231,22 @@ ei	-- Frederik Storm (ERC Ingolstadt)
 ei67	-67- Marko Friedrich (ERC Ingolstadt)
 
 
+- Fischtown Pinguins -
+
+ft	-- Maximilian Franzreb (Fischtown Pinguins)
+ft	-- Brandon Maxwell (Fischtown Pinguins)
+ft	-- Phillip Bruggisser (Fischtown Pinguins)
+ft	-- Ross Mauermann (Fischtown Pinguins)
+ft	-- Dominik Uher (Fischtown Pinguins)
+ft	-- Christian Wejse (Fischtown Pinguins)
+ft	-- Ziga Jeglic (Fischtown Pinguins)
+ft	-- Jan Urbas (Fischtown Pinguins)
+ft	-- Miha Verlic (Fischtown Pinguins)
+ft5	-5- Moritz Wirth (Fischtown Pinguins)
+ft100	Thomas Popiesch (Trainer Fischtown Pinguins)
+ft101	Alexander Sulzer (Co-Trainer Fischtown Pinguins)
+
+
 - Düsseldorfer EG -
 
 de	-- Bernhard Ebner (Düsseldorfer EG)
@@ -302,5 +265,49 @@ de	-- Cedric Schiemenz (Düsseldorfer EG)
 de	-- Victor Svensson (Düsseldorfer EG)
 de100	Roger Hansson (Trainer Düsseldorfer EG)
 de101	Thomas Dolak (Co-Trainer Düsseldorfer EG)
+
+
+- Straubing Tigers -
+
+st	-- Florian Bugl (Straubing Tigers)
+st	-- Marcel Brandt (Straubing Tigers)
+st	-- Stephan Daschner (Straubing Tigers)
+st	-- Cody Lampl (Straubing Tigers)
+st	-- Ian Scheid (Straubing Tigers)
+st	-- Mario Zimmermann (Straubing Tigers)
+st	-- Tim Brunnhuber (Straubing Tigers)
+st	-- Taylor Leier (Straubing Tigers)
+st	-- Sandro Schönberger (Straubing Tigers)
+st	-- Travis St. Denis (Straubing Tigers)
+st10	-10- Garrett Festerling (Straubing Tigers)
+st77	-77- Travis Turnbull (Straubing Tigers)
+st98	-98- Bastian Eckl (Straubing Tigers)
+st100	Tom Pokel (Trainer Straubing Tigers)
+
+
+- Kölner Haie -
+
+kh	-- Niklas Lunemann (Kölner Haie)
+kh	-- Maximilian Glötzl (Kölner Haie)
+kh	-- Moritz Müller (Kölner Haie)
+kh	-- Jan Luca Sennhenn (Kölner Haie)
+kh	-- Robin van Calster (Kölner Haie)
+kh	-- Julian Chrobot (Kölner Haie)
+kh	-- Landon Ferraro (Kölner Haie)
+kh	-- Maximilian Kammerer (Kölner Haie)
+kh	-- Jon Matsumoto (Kölner Haie)
+kh	-- Alexander Oblinger (Kölner Haie)
+kh	-- Mark Olver (Kölner Haie)
+kh	-- Zach Sill (Kölner Haie)
+kh	-- Pascal Steck (Kölner Haie)
+kh	-- Andreas Thuresson (Kölner Haie)
+kh	-- Sebastian Uvira (Kölner Haie)
+kh	-- Luis Üffing (Kölner Haie)
+kh15	-15- Louis-Marc Aubry (Kölner Haie)
+kh16	-16- Jason Bast (Kölner Haie)
+kh30	-30- Mirko Pantkowski (Kölner Haie)
+kh55	-55- Carter Proft (Kölner Haie)
+kh67	-67- Stanislav Dietz (Kölner Haie)
+kh74	-74- Oleg Shilin (Kölner Haie)
 
 
