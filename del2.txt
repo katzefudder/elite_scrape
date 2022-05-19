@@ -31,6 +31,7 @@ bt100	Ryan Foster (Trainer Tölzer Löwen)
 
 by	-- Olafr Schmidt (Bayreuth Tigers)
 by	-- Sami Blomqvist (Bayreuth Tigers)
+by	-- Mike Mieszkowski (Bayreuth Tigers)
 by10	-10- Niklas Gabriel (Bayreuth Tigers)
 by11	-11- Lubor Pokovic (Bayreuth Tigers)
 by20	-20- Ville Järveläinen (Bayreuth Tigers)
@@ -41,6 +42,7 @@ by66	-66- Jan-Luca Schumacher (Bayreuth Tigers)
 
 - Eispiraten Crimmitschau -
 
+cr	-- Ilya Sharipov (Eispiraten Crimmitschau)
 cr	-- Lucas Böttcher (Eispiraten Crimmitschau)
 cr	-- Tamás Kánya (Eispiraten Crimmitschau)
 cr	-- Christian Schneider (Eispiraten Crimmitschau)
@@ -175,6 +177,7 @@ lf100	Petteri Väkiparta (Trainer Lausitzer Füchse)
 - EV Landshut -
 
 lh	-- Markus Eberhardt (EV Landshut)
+lh	-- Brett Cameron (EV Landshut)
 lh	-- Samir Kharboutli (EV Landshut)
 lh	-- David Zucker (EV Landshut)
 lh6	-6- Michael Reich (EV Landshut)
@@ -197,6 +200,7 @@ lh100	Heiko Vogler (Trainer EV Landshut)
 rt	-- Florin Ketterer (Ravensburg Towerstars)
 rt	-- Denis Pfaffengut (Ravensburg Towerstars)
 rt	-- Robbie Czarnik (Ravensburg Towerstars)
+rt	-- Nick Latta (Ravensburg Towerstars)
 rt19	-19- Josh MacDonald (Ravensburg Towerstars)
 rt34	-34- Jonas Langmann (Ravensburg Towerstars)
 rt41	-41- Sam Herr (Ravensburg Towerstars)
