@@ -46,6 +46,7 @@ by100	Robin Farkas (Trainer Bayreuth Tigers)
 
 cr	-- Ilya Sharipov (Eispiraten Crimmitschau)
 cr	-- Lucas Böttcher (Eispiraten Crimmitschau)
+cr	-- Tyler Gron (Eispiraten Crimmitschau)
 cr	-- Tamás Kánya (Eispiraten Crimmitschau)
 cr	-- Filip Reisnecker (Eispiraten Crimmitschau)
 cr	-- Christian Schneider (Eispiraten Crimmitschau)
@@ -105,6 +106,7 @@ fr	-- Luis Benzing (EHC Freiburg)
 fr	-- Mick Hochreither (EHC Freiburg)
 fr	-- Calvin Pokorny (EHC Freiburg)
 fr	-- Sebastian Hon (EHC Freiburg)
+fr	-- Nikolas Linsenmaier (EHC Freiburg)
 fr	-- Konstantin Bongers (EHC Freiburg)
 fr	-- Kevin Orendorz (EHC Freiburg)
 fr27	-27- Marvin Neher (EHC Freiburg)
@@ -185,6 +187,7 @@ lf100	Petteri Väkiparta (Trainer Lausitzer Füchse)
 
 - EV Landshut -
 
+lh	-- Sebastian Vogl (EV Landshut)
 lh	-- Markus Eberhardt (EV Landshut)
 lh	-- Brett Cameron (EV Landshut)
 lh	-- Samir Kharboutli (EV Landshut)
