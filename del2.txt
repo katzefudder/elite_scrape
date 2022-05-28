@@ -30,6 +30,7 @@ bt100	Ryan Foster (Trainer Tölzer Löwen)
 - Bayreuth Tigers -
 
 by	-- Olafr Schmidt (Bayreuth Tigers)
+by	-- Lukas Slavetinsky (Bayreuth Tigers)
 by	-- Sami Blomqvist (Bayreuth Tigers)
 by	-- Philippe Cornet (Bayreuth Tigers)
 by	-- Mike Mieszkowski (Bayreuth Tigers)
@@ -40,6 +41,7 @@ by41	-41- Dani Bindels (Bayreuth Tigers)
 by57	-57- Christian Kretschmann (Bayreuth Tigers)
 by66	-66- Jan-Luca Schumacher (Bayreuth Tigers)
 by100	Robin Farkas (Trainer Bayreuth Tigers)
+by101	Marc Vorderbrüggen (Co-Trainer Bayreuth Tigers)
 
 
 - Eispiraten Crimmitschau -
@@ -95,12 +97,14 @@ fl	-- Markus Freis (Löwen Frankfurt)
 fl	-- Kevin Maginot (Löwen Frankfurt)
 fl	-- Reid McNeill (Löwen Frankfurt)
 fl	-- Brett Breitkreuz (Löwen Frankfurt)
+fl	-- Nathan Burns (Löwen Frankfurt)
 fl	-- Magnus Eisenmenger (Löwen Frankfurt)
 fl	-- David Elsner (Löwen Frankfurt)
 fl	-- Ryon Moser (Löwen Frankfurt)
+fl	-- Rylan Schwartz (Löwen Frankfurt)
 fl	-- Constantin Vogt (Löwen Frankfurt)
+fl	-- Yannick Wenzel (Löwen Frankfurt)
 fl	-- Dylan Wruck (Löwen Frankfurt)
-fl	-- Nathan Burns (Löwen Frankfurt)
 fl101	Jan Barta (Co-Trainer Löwen Frankfurt)
 
 
@@ -124,6 +128,7 @@ fr101	Pyry Eskola (Co-Trainer EHC Freiburg)
 - Heilbronner Falken -
 
 hn	-- Ilya Andryukhov (Heilbronner Falken)
+hn	-- August von Ungern-Sternberg (Heilbronner Falken)
 hn	-- Malte Krenzlin (Heilbronner Falken)
 hn7	-7- Jesse Dudas (Heilbronner Falken)
 hn12	-12- Justin Kirsch (Heilbronner Falken)
