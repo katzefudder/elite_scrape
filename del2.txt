@@ -90,6 +90,7 @@ dd100	Andreas Brockmann (Trainer Dresdner Eislöwen)
 
 - Löwen Frankfurt -
 
+fl	-- Carson McMillan (Löwen Frankfurt)
 fl	-- Jonas Gähr (Löwen Frankfurt)
 fl	-- Jake Hildebrand (Löwen Frankfurt)
 fl	-- Bastian Kucis (Löwen Frankfurt)
