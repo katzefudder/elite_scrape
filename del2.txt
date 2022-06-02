@@ -32,6 +32,7 @@ bt100	Ryan Foster (Trainer Tölzer Löwen)
 by	-- Olafr Schmidt (Bayreuth Tigers)
 by	-- Lukas Slavetinsky (Bayreuth Tigers)
 by	-- Sami Blomqvist (Bayreuth Tigers)
+by	-- Frédérik Cabana (Bayreuth Tigers)
 by	-- Philippe Cornet (Bayreuth Tigers)
 by	-- Mike Mieszkowski (Bayreuth Tigers)
 by10	-10- Niklas Gabriel (Bayreuth Tigers)
@@ -188,6 +189,8 @@ kb101	Daniel Jun (Co-Trainer ESV Kaufbeuren)
 
 - Lausitzer Füchse -
 
+lf	-- Kristian Hufsky (Lausitzer Füchse)
+lf	-- Marian Kapicak (Lausitzer Füchse)
 lf	-- Dominik Bohac (Lausitzer Füchse)
 lf	-- Thomas Gauch (Lausitzer Füchse)
 lf	-- Julian Wäser (Lausitzer Füchse)
