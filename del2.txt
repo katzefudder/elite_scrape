@@ -1,6 +1,7 @@
 - EC Bad Nauheim -
 
 bn	-- Rihards Babulis (EC Bad Nauheim)
+bn	-- Philipp Wachter (EC Bad Nauheim)
 bn4	-4- Kevin Schmidt (EC Bad Nauheim)
 bn9	-9- Huba Sekesi (EC Bad Nauheim)
 bn16	-16- Christoph Körner (EC Bad Nauheim)
