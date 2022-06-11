@@ -1,58 +1,3 @@
-- Grizzlys Wolfsburg -
-
-wb	-- Philipp Mass (Grizzlys Wolfsburg)
-wb	-- Valentino Klos (Grizzlys Wolfsburg)
-wb	-- Tyler Morley (Grizzlys Wolfsburg)
-wb1	-1- Dustin Strahlmeier (Grizzlys Wolfsburg)
-wb5	-5- Björn Krupp (Grizzlys Wolfsburg)
-wb7	-7- Dominik Bittner (Grizzlys Wolfsburg)
-wb8	-8- Jordan Murray (Grizzlys Wolfsburg)
-wb11	-11- Trevor Mingoia (Grizzlys Wolfsburg)
-wb12	-12- Armin Wurm (Grizzlys Wolfsburg)
-wb13	-13- Lucas Dumont (Grizzlys Wolfsburg)
-wb18	-18- Laurin Braun (Grizzlys Wolfsburg)
-wb23	-23- Gerrit Fauser (Grizzlys Wolfsburg)
-wb24	-24- Janik Möser (Grizzlys Wolfsburg)
-wb25	-25- Darren Archibald (Grizzlys Wolfsburg)
-wb27	-27- Thomas Reichel (Grizzlys Wolfsburg)
-wb34	-34- Chet Pickard (Grizzlys Wolfsburg)
-wb41	-41- Steven Raabe (Grizzlys Wolfsburg)
-wb44	-44- Nolan Zajac (Grizzlys Wolfsburg)
-wb55	-55- Ryan Button (Grizzlys Wolfsburg)
-wb63	-63- Luis Schinko (Grizzlys Wolfsburg)
-wb89	-89- Rhett Rakhshani (Grizzlys Wolfsburg)
-wb93	-93- Spencer Machacek (Grizzlys Wolfsburg)
-wb95	-95- Fabio Pfohl (Grizzlys Wolfsburg)
-
-
-- Schwenninger Wild Wings -
-
-sw	-- Brandon DeFazio (Schwenninger Wild Wings)
-sw7	-7- Kai Zernikel (Schwenninger Wild Wings)
-sw9	-9- Philip Feist (Schwenninger Wild Wings)
-sw18	-18- Andrew Calof (Schwenninger Wild Wings)
-sw26	-26- David Cerny (Schwenninger Wild Wings)
-sw39	-39- Marvin Cüpper (Schwenninger Wild Wings)
-sw40	-40- Ken Andre Olimb (Schwenninger Wild Wings)
-sw47	-47- Alexander Karachun (Schwenninger Wild Wings)
-sw50	-50- Peter Spornberger (Schwenninger Wild Wings)
-sw52	-52- Johannes Huß (Schwenninger Wild Wings)
-sw53	-53- Alex Trivellato (Schwenninger Wild Wings)
-sw55	-55- John Ramage (Schwenninger Wild Wings)
-sw60	-60- Joacim Eriksson (Schwenninger Wild Wings)
-sw63	-63- Manuel Alberg (Schwenninger Wild Wings)
-sw64	-64- Boaz Bassen (Schwenninger Wild Wings)
-sw67	-67- Florian Elias (Schwenninger Wild Wings)
-sw77	-77- Daniel Pfaffengut (Schwenninger Wild Wings)
-sw78	-78- Will Weber (Schwenninger Wild Wings)
-sw79	-79- Mitch Wahl (Schwenninger Wild Wings)
-sw90	-90- Tylor Spink (Schwenninger Wild Wings)
-sw91	-91- Marius Möchel (Schwenninger Wild Wings)
-sw94	-94- Phil Hungerecker (Schwenninger Wild Wings)
-sw96	-96- Tyson Spink (Schwenninger Wild Wings)
-sw100	Harold Kreis (Trainer Schwenninger Wild Wings)
-
-
 - EHC München -
 
 rb6	-6- Daryl Boyle (EHC München)
@@ -81,28 +26,6 @@ rb84	-84- Trevor Parkes (EHC München)
 rb88	-88- Julian Lutz (EHC München)
 rb91	-91- Filip Varejcka (EHC München)
 rb93	-93- Maximilian Kastner (EHC München)
-
-
-- Augsburger Panther -
-
-ap	-- Dennis Endras (Augsburger Panther)
-ap	-- Markus Keller (Augsburger Panther)
-ap	-- Wade Bergman (Augsburger Panther)
-ap	-- Blaz Gregorc (Augsburger Panther)
-ap	-- Henry Haase (Augsburger Panther)
-ap	-- Niklas Länger (Augsburger Panther)
-ap	-- John Rogl (Augsburger Panther)
-ap	-- Mirko Sacher (Augsburger Panther)
-ap	-- Michael Clarke (Augsburger Panther)
-ap	-- Vinny Saponari (Augsburger Panther)
-ap	-- Samuel Soramies (Augsburger Panther)
-ap	-- David Stieler (Augsburger Panther)
-ap	-- T.J. Trevelyan (Augsburger Panther)
-ap	-- Justin Volek (Augsburger Panther)
-ap2	-2- Brady Lamb (Augsburger Panther)
-ap11	-11- Adam Payerl (Augsburger Panther)
-ap19	-19- Drew LeBlanc (Augsburger Panther)
-ap100	Peter Russell (Trainer Augsburger Panther)
 
 
 - Iserlohn Roosters -
@@ -163,6 +86,83 @@ nb	-- Ryan Stoa (Nürnberg Ice Tigers)
 nb	-- Jake Ustorf (Nürnberg Ice Tigers)
 
 
+- Schwenninger Wild Wings -
+
+sw	-- Brandon DeFazio (Schwenninger Wild Wings)
+sw7	-7- Kai Zernikel (Schwenninger Wild Wings)
+sw9	-9- Philip Feist (Schwenninger Wild Wings)
+sw18	-18- Andrew Calof (Schwenninger Wild Wings)
+sw26	-26- David Cerny (Schwenninger Wild Wings)
+sw39	-39- Marvin Cüpper (Schwenninger Wild Wings)
+sw40	-40- Ken Andre Olimb (Schwenninger Wild Wings)
+sw47	-47- Alexander Karachun (Schwenninger Wild Wings)
+sw50	-50- Peter Spornberger (Schwenninger Wild Wings)
+sw52	-52- Johannes Huß (Schwenninger Wild Wings)
+sw53	-53- Alex Trivellato (Schwenninger Wild Wings)
+sw55	-55- John Ramage (Schwenninger Wild Wings)
+sw60	-60- Joacim Eriksson (Schwenninger Wild Wings)
+sw63	-63- Manuel Alberg (Schwenninger Wild Wings)
+sw64	-64- Boaz Bassen (Schwenninger Wild Wings)
+sw67	-67- Florian Elias (Schwenninger Wild Wings)
+sw77	-77- Daniel Pfaffengut (Schwenninger Wild Wings)
+sw78	-78- Will Weber (Schwenninger Wild Wings)
+sw79	-79- Mitch Wahl (Schwenninger Wild Wings)
+sw90	-90- Tylor Spink (Schwenninger Wild Wings)
+sw91	-91- Marius Möchel (Schwenninger Wild Wings)
+sw94	-94- Phil Hungerecker (Schwenninger Wild Wings)
+sw96	-96- Tyson Spink (Schwenninger Wild Wings)
+sw100	Harold Kreis (Trainer Schwenninger Wild Wings)
+
+
+- Grizzlys Wolfsburg -
+
+wb	-- Philipp Mass (Grizzlys Wolfsburg)
+wb	-- Valentino Klos (Grizzlys Wolfsburg)
+wb	-- Tyler Morley (Grizzlys Wolfsburg)
+wb1	-1- Dustin Strahlmeier (Grizzlys Wolfsburg)
+wb5	-5- Björn Krupp (Grizzlys Wolfsburg)
+wb7	-7- Dominik Bittner (Grizzlys Wolfsburg)
+wb8	-8- Jordan Murray (Grizzlys Wolfsburg)
+wb11	-11- Trevor Mingoia (Grizzlys Wolfsburg)
+wb12	-12- Armin Wurm (Grizzlys Wolfsburg)
+wb13	-13- Lucas Dumont (Grizzlys Wolfsburg)
+wb18	-18- Laurin Braun (Grizzlys Wolfsburg)
+wb23	-23- Gerrit Fauser (Grizzlys Wolfsburg)
+wb24	-24- Janik Möser (Grizzlys Wolfsburg)
+wb25	-25- Darren Archibald (Grizzlys Wolfsburg)
+wb27	-27- Thomas Reichel (Grizzlys Wolfsburg)
+wb34	-34- Chet Pickard (Grizzlys Wolfsburg)
+wb41	-41- Steven Raabe (Grizzlys Wolfsburg)
+wb44	-44- Nolan Zajac (Grizzlys Wolfsburg)
+wb55	-55- Ryan Button (Grizzlys Wolfsburg)
+wb63	-63- Luis Schinko (Grizzlys Wolfsburg)
+wb89	-89- Rhett Rakhshani (Grizzlys Wolfsburg)
+wb93	-93- Spencer Machacek (Grizzlys Wolfsburg)
+wb95	-95- Fabio Pfohl (Grizzlys Wolfsburg)
+
+
+- Augsburger Panther -
+
+ap	-- Dennis Endras (Augsburger Panther)
+ap	-- Markus Keller (Augsburger Panther)
+ap	-- Wade Bergman (Augsburger Panther)
+ap	-- Blaz Gregorc (Augsburger Panther)
+ap	-- Henry Haase (Augsburger Panther)
+ap	-- Niklas Länger (Augsburger Panther)
+ap	-- John Rogl (Augsburger Panther)
+ap	-- Mirko Sacher (Augsburger Panther)
+ap	-- Michael Clarke (Augsburger Panther)
+ap	-- Vinny Saponari (Augsburger Panther)
+ap	-- Samuel Soramies (Augsburger Panther)
+ap	-- David Stieler (Augsburger Panther)
+ap	-- T.J. Trevelyan (Augsburger Panther)
+ap	-- Justin Volek (Augsburger Panther)
+ap2	-2- Brady Lamb (Augsburger Panther)
+ap11	-11- Adam Payerl (Augsburger Panther)
+ap19	-19- Drew LeBlanc (Augsburger Panther)
+ap100	Peter Russell (Trainer Augsburger Panther)
+
+
 - Eisbären Berlin -
 
 eb4	-4- Morgan Ellis (Eisbären Berlin)
@@ -187,30 +187,6 @@ eb89	-89- Zach Boychuk (Eisbären Berlin)
 eb92	-92- Marcel Noebels (Eisbären Berlin)
 eb93	-93- Leo Pföderl (Eisbären Berlin)
 eb97	-97- Matt White (Eisbären Berlin)
-
-
-- ERC Ingolstadt -
-
-ei	-- Michael Garteig (ERC Ingolstadt)
-ei	-- Kevin Reich (ERC Ingolstadt)
-ei	-- Mathew Bodie (ERC Ingolstadt)
-ei	-- Maury Edwards (ERC Ingolstadt)
-ei	-- Simon Gnyp (ERC Ingolstadt)
-ei	-- Leon Hüttl (ERC Ingolstadt)
-ei	-- Ben Marshall (ERC Ingolstadt)
-ei	-- Louis Brune (ERC Ingolstadt)
-ei	-- Enrico Henriquez-Morales (ERC Ingolstadt)
-ei	-- Philipp Krauß (ERC Ingolstadt)
-ei	-- Daniel Pietta (ERC Ingolstadt)
-ei	-- Wayne Simpson (ERC Ingolstadt)
-ei	-- Colton Jobke (ERC Ingolstadt)
-ei	-- Emil Quaas (ERC Ingolstadt)
-ei	-- Fabio Wagner (ERC Ingolstadt)
-ei	-- Justin Feser (ERC Ingolstadt)
-ei	-- Mirko Höfflin (ERC Ingolstadt)
-ei	-- Frederik Storm (ERC Ingolstadt)
-ei67	-67- Marko Friedrich (ERC Ingolstadt)
-ei100	Mark French (Trainer ERC Ingolstadt)
 
 
 - Adler Mannheim -
@@ -244,6 +220,7 @@ am101	Marcel Goc (Co-Trainer Adler Mannheim)
 - Straubing Tigers -
 
 st	-- Trent Bourque (Straubing Tigers)
+st	-- Benedikt Kohl (Straubing Tigers)
 st	-- Joshua Samanski (Straubing Tigers)
 st	-- Parker Tuomie (Straubing Tigers)
 st	-- Florian Bugl (Straubing Tigers)
@@ -263,6 +240,30 @@ st91	-91- Jason Akeson (Straubing Tigers)
 st98	-98- Bastian Eckl (Straubing Tigers)
 st100	Tom Pokel (Trainer Straubing Tigers)
 st101	Robert Leask (Co-Trainer Straubing Tigers)
+
+
+- ERC Ingolstadt -
+
+ei	-- Michael Garteig (ERC Ingolstadt)
+ei	-- Kevin Reich (ERC Ingolstadt)
+ei	-- Mathew Bodie (ERC Ingolstadt)
+ei	-- Maury Edwards (ERC Ingolstadt)
+ei	-- Simon Gnyp (ERC Ingolstadt)
+ei	-- Leon Hüttl (ERC Ingolstadt)
+ei	-- Ben Marshall (ERC Ingolstadt)
+ei	-- Louis Brune (ERC Ingolstadt)
+ei	-- Enrico Henriquez-Morales (ERC Ingolstadt)
+ei	-- Philipp Krauß (ERC Ingolstadt)
+ei	-- Daniel Pietta (ERC Ingolstadt)
+ei	-- Wayne Simpson (ERC Ingolstadt)
+ei	-- Colton Jobke (ERC Ingolstadt)
+ei	-- Emil Quaas (ERC Ingolstadt)
+ei	-- Fabio Wagner (ERC Ingolstadt)
+ei	-- Justin Feser (ERC Ingolstadt)
+ei	-- Mirko Höfflin (ERC Ingolstadt)
+ei	-- Frederik Storm (ERC Ingolstadt)
+ei67	-67- Marko Friedrich (ERC Ingolstadt)
+ei100	Mark French (Trainer ERC Ingolstadt)
 
 
 - Bietigheim Steelers -
@@ -294,32 +295,6 @@ bs84	-84- Chris Wilkie (Bietigheim Steelers)
 bs90	-90- Constantin Braun (Bietigheim Steelers)
 
 
-- Kölner Haie -
-
-kh	-- Niklas Lunemann (Kölner Haie)
-kh	-- Maximilian Glötzl (Kölner Haie)
-kh	-- Moritz Müller (Kölner Haie)
-kh	-- Jan Luca Sennhenn (Kölner Haie)
-kh	-- Robin van Calster (Kölner Haie)
-kh	-- Julian Chrobot (Kölner Haie)
-kh	-- Landon Ferraro (Kölner Haie)
-kh	-- Maximilian Kammerer (Kölner Haie)
-kh	-- Jon Matsumoto (Kölner Haie)
-kh	-- Alexander Oblinger (Kölner Haie)
-kh	-- Mark Olver (Kölner Haie)
-kh	-- Zach Sill (Kölner Haie)
-kh	-- Pascal Steck (Kölner Haie)
-kh	-- Andreas Thuresson (Kölner Haie)
-kh	-- Sebastian Uvira (Kölner Haie)
-kh	-- Luis Üffing (Kölner Haie)
-kh15	-15- Louis-Marc Aubry (Kölner Haie)
-kh16	-16- Jason Bast (Kölner Haie)
-kh30	-30- Mirko Pantkowski (Kölner Haie)
-kh55	-55- Carter Proft (Kölner Haie)
-kh67	-67- Stanislav Dietz (Kölner Haie)
-kh74	-74- Oleg Shilin (Kölner Haie)
-
-
 - Krefeld Pinguine -
 
 kp	-- Tom-Eric Bappert (Krefeld Pinguine)
@@ -348,6 +323,7 @@ kp101	Per Bäcklin (Co-Trainer Krefeld Pinguine)
 
 - Düsseldorfer EG -
 
+de	-- Joonas Järvinen (Düsseldorfer EG)
 de	-- Hendrik Hane (Düsseldorfer EG)
 de	-- Kyle Cumiskey (Düsseldorfer EG)
 de	-- Bernhard Ebner (Düsseldorfer EG)
@@ -385,5 +361,31 @@ ft72	-72- Phillip Bruggisser (Fischtown Pinguins)
 ft91	-91- Miha Verlic (Fischtown Pinguins)
 ft100	Thomas Popiesch (Trainer Fischtown Pinguins)
 ft101	Alexander Sulzer (Co-Trainer Fischtown Pinguins)
+
+
+- Kölner Haie -
+
+kh	-- Niklas Lunemann (Kölner Haie)
+kh	-- Maximilian Glötzl (Kölner Haie)
+kh	-- Moritz Müller (Kölner Haie)
+kh	-- Jan Luca Sennhenn (Kölner Haie)
+kh	-- Robin van Calster (Kölner Haie)
+kh	-- Julian Chrobot (Kölner Haie)
+kh	-- Landon Ferraro (Kölner Haie)
+kh	-- Maximilian Kammerer (Kölner Haie)
+kh	-- Jon Matsumoto (Kölner Haie)
+kh	-- Alexander Oblinger (Kölner Haie)
+kh	-- Mark Olver (Kölner Haie)
+kh	-- Zach Sill (Kölner Haie)
+kh	-- Pascal Steck (Kölner Haie)
+kh	-- Andreas Thuresson (Kölner Haie)
+kh	-- Sebastian Uvira (Kölner Haie)
+kh	-- Luis Üffing (Kölner Haie)
+kh15	-15- Louis-Marc Aubry (Kölner Haie)
+kh16	-16- Jason Bast (Kölner Haie)
+kh30	-30- Mirko Pantkowski (Kölner Haie)
+kh55	-55- Carter Proft (Kölner Haie)
+kh67	-67- Stanislav Dietz (Kölner Haie)
+kh74	-74- Oleg Shilin (Kölner Haie)
 
 
