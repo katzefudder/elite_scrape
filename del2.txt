@@ -128,6 +128,7 @@ fl101	Jan Barta (Co-Trainer Löwen Frankfurt)
 
 - EHC Freiburg -
 
+fr	-- Martin Réway (EHC Freiburg)
 fr	-- Mick Hochreither (EHC Freiburg)
 fr	-- Konstantin Bongers (EHC Freiburg)
 fr	-- Sebastian Hon (EHC Freiburg)
@@ -272,6 +273,7 @@ rt14	-14- Nick Latta (Ravensburg Towerstars)
 rt16	-16- Florin Ketterer (Ravensburg Towerstars)
 rt21	-21- Vincent Hessler (Ravensburg Towerstars)
 rt23	-23- Oliver Granz (Ravensburg Towerstars)
+rt27	-27- Tim Gorgenländer (Ravensburg Towerstars)
 rt34	-34- Jonas Langmann (Ravensburg Towerstars)
 rt41	-41- Sam Herr (Ravensburg Towerstars)
 rt57	-57- Charlie Sarault (Ravensburg Towerstars)
@@ -283,5 +285,6 @@ rt77	-77- Robbie Czarnik (Ravensburg Towerstars)
 rt86	-86- Josh MacDonald (Ravensburg Towerstars)
 rt87	-87- Fabian Dietz (Ravensburg Towerstars)
 rt91	-91- Julian Eichinger (Ravensburg Towerstars)
+rt93	-93- Luigi Calce (Ravensburg Towerstars)
 
 
