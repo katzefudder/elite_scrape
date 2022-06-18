@@ -219,8 +219,8 @@ kb101	Daniel Jun (Co-Trainer ESV Kaufbeuren)
 
 - Lausitzer Füchse -
 
-lf	-- Jan Bednar (Lausitzer Füchse)
 lf	-- Kristian Hufsky (Lausitzer Füchse)
+lf	-- Jan Bednar (Lausitzer Füchse)
 lf	-- Thomas Gauch (Lausitzer Füchse)
 lf	-- Louis Anders (Lausitzer Füchse)
 lf	-- Maximilian Heim (Lausitzer Füchse)
@@ -232,6 +232,7 @@ lf10	-10- Maximilian Adam (Lausitzer Füchse)
 lf11	-11- Tim Detig (Lausitzer Füchse)
 lf12	-12- Eric Valentin (Lausitzer Füchse)
 lf13	-13- Ilja Fleischmann (Lausitzer Füchse)
+lf16	-16- Teemu Henritius (Lausitzer Füchse)
 lf17	-17- Toni Ritter (Lausitzer Füchse)
 lf20	-20- Marian Kapicak (Lausitzer Füchse)
 lf29	-29- Jens Baxmann (Lausitzer Füchse)
@@ -269,6 +270,8 @@ lh100	Heiko Vogler (Trainer EV Landshut)
 
 - Ravensburg Towerstars -
 
+rt	-- Robin Drothen (Ravensburg Towerstars)
+rt	-- Marvin Drothen (Ravensburg Towerstars)
 rt1	-1- Jonas Stettmer (Ravensburg Towerstars)
 rt5	-5- Marvin Feigl (Ravensburg Towerstars)
 rt12	-12- Pawel Dronia (Ravensburg Towerstars)
