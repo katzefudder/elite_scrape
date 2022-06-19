@@ -55,6 +55,7 @@ by101	Marc Vorderbrüggen (Co-Trainer Bayreuth Tigers)
 
 - Eispiraten Crimmitschau -
 
+cr	-- Taylor Doherty (Eispiraten Crimmitschau)
 cr	-- Christian Schneider (Eispiraten Crimmitschau)
 cr	-- Ilya Sharipov (Eispiraten Crimmitschau)
 cr	-- Lucas Böttcher (Eispiraten Crimmitschau)
