@@ -38,6 +38,7 @@ by	-- Olafr Schmidt (Bayreuth Tigers)
 by	-- Lukas Steinhauer (Bayreuth Tigers)
 by	-- Jakub Kania (Bayreuth Tigers)
 by	-- Patrick Kurz (Bayreuth Tigers)
+by	-- Petteri Nikkilä (Bayreuth Tigers)
 by	-- Lukas Slavetinsky (Bayreuth Tigers)
 by	-- Sami Blomqvist (Bayreuth Tigers)
 by	-- Frédérik Cabana (Bayreuth Tigers)
@@ -80,6 +81,7 @@ cr101	Esbjörn Hofverberg (Co-Trainer Eispiraten Crimmitschau)
 
 - Dresdner Eislöwen -
 
+dd	-- Niklas Postel (Dresdner Eislöwen)
 dd8	-8- Jannis Kälble (Dresdner Eislöwen)
 dd9	-9- Jordan Knackstedt (Dresdner Eislöwen)
 dd14	-14- Jussi Petersen (Dresdner Eislöwen)
