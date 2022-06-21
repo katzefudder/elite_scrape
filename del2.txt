@@ -132,6 +132,7 @@ fl101	Jan Barta (Co-Trainer Löwen Frankfurt)
 
 - EHC Freiburg -
 
+fr	-- Shawn O'Donnell (EHC Freiburg)
 fr	-- Martin Réway (EHC Freiburg)
 fr	-- Mick Hochreither (EHC Freiburg)
 fr	-- Konstantin Bongers (EHC Freiburg)
@@ -273,6 +274,7 @@ lh100	Heiko Vogler (Trainer EV Landshut)
 
 - Ravensburg Towerstars -
 
+rt	-- Daniel Schwaiger (Ravensburg Towerstars)
 rt	-- Robin Drothen (Ravensburg Towerstars)
 rt	-- Marvin Drothen (Ravensburg Towerstars)
 rt1	-1- Jonas Stettmer (Ravensburg Towerstars)
