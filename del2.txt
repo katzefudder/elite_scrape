@@ -1,5 +1,6 @@
 - EC Bad Nauheim -
 
+bn	-- Michael Bartuli (EC Bad Nauheim)
 bn	-- Rihards Babulis (EC Bad Nauheim)
 bn	-- Jordan Hickmott (EC Bad Nauheim)
 bn4	-4- Kevin Schmidt (EC Bad Nauheim)
@@ -116,6 +117,7 @@ dd100	Andreas Brockmann (Trainer Dresdner Eislöwen)
 - Löwen Frankfurt -
 
 fl	-- Reece Scarlett (Löwen Frankfurt)
+fl	-- Brendan Ranford (Löwen Frankfurt)
 fl	-- Paul Reiner (Löwen Frankfurt)
 fl1	-1- Jonas Gähr (Löwen Frankfurt)
 fl4	-4- Reid McNeill (Löwen Frankfurt)
@@ -141,6 +143,7 @@ fl101	Jan Barta (Co-Trainer Löwen Frankfurt)
 - EHC Freiburg -
 
 fr	-- Shawn O'Donnell (EHC Freiburg)
+fr	-- Lennart Otten (EHC Freiburg)
 fr	-- Martin Réway (EHC Freiburg)
 fr	-- Mick Hochreither (EHC Freiburg)
 fr	-- Konstantin Bongers (EHC Freiburg)
