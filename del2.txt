@@ -142,6 +142,7 @@ fl101	Jan Barta (Co-Trainer Löwen Frankfurt)
 
 - EHC Freiburg -
 
+fr	-- Jackson Cressey (EHC Freiburg)
 fr	-- Shawn O'Donnell (EHC Freiburg)
 fr	-- Lennart Otten (EHC Freiburg)
 fr	-- Martin Réway (EHC Freiburg)
