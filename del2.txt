@@ -63,9 +63,9 @@ by101	Marc Vorderbrüggen (Co-Trainer Bayreuth Tigers)
 
 - Eispiraten Crimmitschau -
 
-cr	-- Taylor Doherty (Eispiraten Crimmitschau)
 cr	-- Christian Schneider (Eispiraten Crimmitschau)
 cr	-- Ilya Sharipov (Eispiraten Crimmitschau)
+cr	-- Taylor Doherty (Eispiraten Crimmitschau)
 cr	-- Lucas Böttcher (Eispiraten Crimmitschau)
 cr	-- Scott Feser (Eispiraten Crimmitschau)
 cr	-- Timo Gams (Eispiraten Crimmitschau)
@@ -82,6 +82,7 @@ cr15	-15- Ole Olleff (Eispiraten Crimmitschau)
 cr23	-23- Willy Rudert (Eispiraten Crimmitschau)
 cr28	-28- Patrick Pohl (Eispiraten Crimmitschau)
 cr79	-79- Mario Scalzo (Eispiraten Crimmitschau)
+cr89	-89- Henri Kanninen (Eispiraten Crimmitschau)
 cr100	Marian Bazany (Trainer Eispiraten Crimmitschau)
 cr101	Esbjörn Hofverberg (Co-Trainer Eispiraten Crimmitschau)
 
@@ -117,6 +118,7 @@ dd100	Andreas Brockmann (Trainer Dresdner Eislöwen)
 - Löwen Frankfurt -
 
 fl	-- Reece Scarlett (Löwen Frankfurt)
+fl	-- Simon Sezemsky (Löwen Frankfurt)
 fl	-- Brendan Ranford (Löwen Frankfurt)
 fl	-- Paul Reiner (Löwen Frankfurt)
 fl1	-1- Jonas Gähr (Löwen Frankfurt)
@@ -189,6 +191,8 @@ hn101	Christoph Schubert (Co-Trainer Heilbronner Falken)
 
 - EC Kassel Huskies -
 
+ka	-- Darren Mieszkowski (EC Kassel Huskies)
+ka	-- Tomas Sykora (EC Kassel Huskies)
 ka	-- Philipp Maurer (EC Kassel Huskies)
 ka	-- Maximilian Faber (EC Kassel Huskies)
 ka	-- Alec Ahlroth (EC Kassel Huskies)
