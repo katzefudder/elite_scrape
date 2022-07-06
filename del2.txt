@@ -140,6 +140,7 @@ fl55	-55- Davis Vandane (Löwen Frankfurt)
 fl61	-61- David Elsner (Löwen Frankfurt)
 fl76	-76- Daniel Wirt (Löwen Frankfurt)
 fl82	-82- Magnus Eisenmenger (Löwen Frankfurt)
+fl100	Gerry Fleming (Trainer Löwen Frankfurt)
 fl101	Jan Barta (Co-Trainer Löwen Frankfurt)
 
 
