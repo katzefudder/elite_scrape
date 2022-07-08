@@ -197,6 +197,7 @@ hn101	Christoph Schubert (Co-Trainer Heilbronner Falken)
 
 - EC Kassel Huskies -
 
+ka	-- Jamie Arniel (EC Kassel Huskies)
 ka	-- Darren Mieszkowski (EC Kassel Huskies)
 ka	-- Tomas Sykora (EC Kassel Huskies)
 ka	-- Philipp Maurer (EC Kassel Huskies)
