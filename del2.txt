@@ -1,8 +1,13 @@
 - EC Bad Nauheim -
 
 bn	-- Rihards Babulis (EC Bad Nauheim)
+bn	-- Michael Gottwald (EC Bad Nauheim)
 bn	-- Leo Hafenrichter (EC Bad Nauheim)
+bn	-- Mark Shevyrin (EC Bad Nauheim)
+bn	-- Alexander Komov (EC Bad Nauheim)
+bn	-- Leon Köhler (EC Bad Nauheim)
 bn	-- Pascal Steck (EC Bad Nauheim)
+bn	-- Lars Stelzmann (EC Bad Nauheim)
 bn4	-4- Kevin Schmidt (EC Bad Nauheim)
 bn9	-9- Huba Sekesi (EC Bad Nauheim)
 bn11	-11- Philipp Wachter (EC Bad Nauheim)
@@ -121,6 +126,7 @@ dd100	Andreas Brockmann (Trainer Dresdner Eislöwen)
 
 - Löwen Frankfurt -
 
+fl	-- Maximilian Gläßl (Löwen Frankfurt)
 fl	-- Reece Scarlett (Löwen Frankfurt)
 fl	-- Simon Sezemsky (Löwen Frankfurt)
 fl	-- Brendan Ranford (Löwen Frankfurt)
