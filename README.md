@@ -1,4 +1,4 @@
-[![Scrape Eliteprospects for team rosters](https://github.com/katzefudder/elite_scrape/actions/workflows/scrape_del2.yml/badge.svg)](https://github.com/katzefudder/elite_scrape/actions/workflows/scrape_del2.yml)
+[![Scrape Eliteprospects for team rosters](https://github.com/katzefudder/elite_scrape/actions/workflows/run_spiders.yml/badge.svg)](https://github.com/katzefudder/elite_scrape/actions/workflows/run_spiders.yml)
 
 # Scrape using Python and scrapy
 
