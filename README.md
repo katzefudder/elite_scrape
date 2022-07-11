@@ -6,11 +6,8 @@
 python3 -m venv venv
 source ./venv/bin/activate
 
-## Install scrapy
-venv/bin/pip3 install scrapy
-
-## scrape URL to extract roster
-scrapy shell https://www.eliteprospects.com/team/677/esv-kaufbeuren
+## Install requirements
+venv/bin/pip3 install -r requirements.txt
 
 ## run scrapy spider
-scrapy runspider elitescrape/elitescrape/spiders/teams_del2.py
+scrapy runspider elitescrape/spiders/spider_del.py
