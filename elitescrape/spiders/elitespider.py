@@ -1,28 +1,27 @@
 import scrapy, re
+import yaml
 from scrapy.http.request import Request
 
 class EliteSpider(scrapy.Spider):
-  name = "elite"
+  name = ""
+  league_key = ''
+  teams_file = ""
 
+  teams = {}
   results = {}
-  content = ""
 
-  teams = {
-    'bn' : 'https://www.eliteprospects.com/team/438/ec-bad-nauheim?sort=jersey',
-    'sw' : 'https://www.eliteprospects.com/team/662/selber-wolfe?sort=jersey',
-    'fl' : 'https://www.eliteprospects.com/team/5065/lowen-frankfurt?sort=jersey',
-    'bt' : 'https://www.eliteprospects.com/team/439/tolzer-lowen?sort=jersey',
-    'by' : 'https://www.eliteprospects.com/team/746/bayreuth-tigers?sort=jersey',
-    'dd' : 'https://www.eliteprospects.com/team/983/dresdner-eislowen?sort=jersey',
-    'ka' : 'https://www.eliteprospects.com/team/8287/ec-kassel-huskies?sort=jersey',
-    'fr' : 'https://www.eliteprospects.com/team/9328/ehc-freiburg?sort=jersey',
-    'cr' : 'https://www.eliteprospects.com/team/659/eispiraten-crimmitschau?sort=jersey',
-    'kb' : 'https://www.eliteprospects.com/team/677/esv-kaufbeuren?sort=jersey',
-    'lh' : 'https://www.eliteprospects.com/team/642/ev-landshut?sort=jersey',
-    'hn' : 'https://www.eliteprospects.com/team/444/heilbronner-falken?sort=jersey',
-    'lf' : 'https://www.eliteprospects.com/team/448/lausitzer-fuchse?sort=jersey',
-    'rt' : 'https://www.eliteprospects.com/team/747/ravensburg-towerstars?sort=jersey'
-  }
+  def __init__(self):
+    with open(self.teams_file, 'r') as yaml_in:
+      try:
+          teams = yaml.load(yaml_in, Loader=yaml.FullLoader)
+          self.teams = teams[self.league_key]
+      except yaml.YAMLError as yamlException:
+        raise yamlException
+
+  # override start_request to use an own dict instead of start_urls
+  def start_requests(self):
+    for key, url in self.teams.items():
+      yield Request(url, self.parse)
 
   def parse(self, response):
     # invert the dict
@@ -58,19 +57,10 @@ class EliteSpider(scrapy.Spider):
     content += "\n\n"
     self.results[team_keys[response.url]] = content
 
-  # write content to a file
-  def writeFile(self, content):
-    with open('del2.txt', 'w+') as f:
-      f.write(content)
-
-  # override start_request to use an own dict instead of start_urls
-  def start_requests(self):
-    for key, url in self.teams.items():
-      yield Request(url, self.parse)
-
   def __del__(self):
     content = ""
     for key in sorted(self.results):
       content += self.results[key]
-      
-    self.writeFile(content)
+
+    with open(self.league_key + '.txt', 'w+') as f:
+      f.write(content)
