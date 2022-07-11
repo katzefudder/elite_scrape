@@ -25,22 +25,6 @@ bn89	-89- Stefan Reiter (EC Bad Nauheim)
 bn91	-91- Marc El-Sayed (EC Bad Nauheim)
 
 
-- Tölzer Löwen -
-
-bt	-- Josef Hölzl (Tölzer Löwen)
-bt	-- Enrico Salvarani (Tölzer Löwen)
-bt	-- Erik Gollenbeck (Tölzer Löwen)
-bt	-- Christoph Fischhaber (Tölzer Löwen)
-bt	-- Ludwig Nirschl (Tölzer Löwen)
-bt	-- Oliver Ott (Tölzer Löwen)
-bt	-- Philipp Schlager (Tölzer Löwen)
-bt	-- Timo Sticha (Tölzer Löwen)
-bt	-- Tyler Ward (Tölzer Löwen)
-bt5	-5- Anton Engel (Tölzer Löwen)
-bt93	-93- Niklas Hörmann (Tölzer Löwen)
-bt100	Ryan Foster (Trainer Tölzer Löwen)
-
-
 - Bayreuth Tigers -
 
 by	-- Travis Ewanyk (Bayreuth Tigers)
@@ -125,34 +109,29 @@ dd95	-95- Mike Schmitz (Dresdner Eislöwen)
 dd100	Andreas Brockmann (Trainer Dresdner Eislöwen)
 
 
-- Löwen Frankfurt -
+- Eisbären Regensburg -
 
-fl	-- Maximilian Gläßl (Löwen Frankfurt)
-fl	-- Reece Scarlett (Löwen Frankfurt)
-fl	-- Simon Sezemsky (Löwen Frankfurt)
-fl	-- Ryan Olsen (Löwen Frankfurt)
-fl	-- Brendan Ranford (Löwen Frankfurt)
-fl	-- Paul Reiner (Löwen Frankfurt)
-fl1	-1- Jonas Gähr (Löwen Frankfurt)
-fl4	-4- Reid McNeill (Löwen Frankfurt)
-fl5	-5- Markus Freis (Löwen Frankfurt)
-fl6	-6- Kevin Maginot (Löwen Frankfurt)
-fl8	-8- Nathan Burns (Löwen Frankfurt)
-fl13	-13- Rylan Schwartz (Löwen Frankfurt)
-fl14	-14- Yannick Wenzel (Löwen Frankfurt)
-fl19	-19- Ryon Moser (Löwen Frankfurt)
-fl22	-22- Dylan Wruck (Löwen Frankfurt)
-fl26	-26- Constantin Vogt (Löwen Frankfurt)
-fl29	-29- Brett Breitkreuz (Löwen Frankfurt)
-fl30	-30- Jake Hildebrand (Löwen Frankfurt)
-fl45	-45- Carson McMillan (Löwen Frankfurt)
-fl53	-53- Bastian Kucis (Löwen Frankfurt)
-fl55	-55- Davis Vandane (Löwen Frankfurt)
-fl61	-61- David Elsner (Löwen Frankfurt)
-fl76	-76- Daniel Wirt (Löwen Frankfurt)
-fl82	-82- Magnus Eisenmenger (Löwen Frankfurt)
-fl100	Gerry Fleming (Trainer Löwen Frankfurt)
-fl101	Jan Barta (Co-Trainer Löwen Frankfurt)
+er	-- Patrick Demetz (Eisbären Regensburg)
+er1	-1- Peter Holmgren (Eisbären Regensburg)
+er9	-9- Richard Divis (Eisbären Regensburg)
+er10	-10- Tomas Schwamberger (Eisbären Regensburg)
+er13	-13- Marvin Schmid (Eisbären Regensburg)
+er19	-19- Constantin Ontl (Eisbären Regensburg)
+er21	-21- Erik Keresztury (Eisbären Regensburg)
+er24	-24- Lukas Heger (Eisbären Regensburg)
+er25	-25- Tomas Gulda (Eisbären Regensburg)
+er26	-26- Lukas Wagner (Eisbären Regensburg)
+er28	-28- Lars Schiller (Eisbären Regensburg)
+er31	-31- Patrick Berger (Eisbären Regensburg)
+er43	-43- Xaver Tippmann (Eisbären Regensburg)
+er55	-55- Jakob Weber (Eisbären Regensburg)
+er66	-66- Nico Kroschinski (Eisbären Regensburg)
+er69	-69- Nikola Gajovský (Eisbären Regensburg)
+er72	-72- André Bühler (Eisbären Regensburg)
+er74	-74- Andrew Schembri (Eisbären Regensburg)
+er77	-77- Petr Heider (Eisbären Regensburg)
+er78	-78- Korbinian Schütz (Eisbären Regensburg)
+er79	-79- Kyle Osterberg (Eisbären Regensburg)
 
 
 - EHC Freiburg -
@@ -253,6 +232,32 @@ kb83	-83- Jacob Lagacé (ESV Kaufbeuren)
 kb97	-97- Simon Schütz (ESV Kaufbeuren)
 kb100	Marko Raita (Trainer ESV Kaufbeuren)
 kb101	Daniel Jun (Co-Trainer ESV Kaufbeuren)
+
+
+- Krefeld Pinguine -
+
+kp	-- Sergey Belov (Krefeld Pinguine)
+kp	-- Tom-Eric Bappert (Krefeld Pinguine)
+kp	-- Sandro Mayr (Krefeld Pinguine)
+kp	-- Philip Riefers (Krefeld Pinguine)
+kp	-- Maximilian Söll (Krefeld Pinguine)
+kp	-- Dominik Tiffels (Krefeld Pinguine)
+kp	-- David Trinkberger (Krefeld Pinguine)
+kp	-- Pascal Zerressen (Krefeld Pinguine)
+kp	-- Mike Fischer (Krefeld Pinguine)
+kp	-- Davis Koch (Krefeld Pinguine)
+kp	-- Nikita Krymskiy (Krefeld Pinguine)
+kp	-- Eduard Lewandowski (Krefeld Pinguine)
+kp	-- Zach Magwood (Krefeld Pinguine)
+kp	-- Dennis Miller (Krefeld Pinguine)
+kp	-- Kael Mouillierat (Krefeld Pinguine)
+kp	-- Marcel Müller (Krefeld Pinguine)
+kp	-- Leon Niederberger (Krefeld Pinguine)
+kp	-- Nikita Shatsky (Krefeld Pinguine)
+kp	-- Justin van der Ven (Krefeld Pinguine)
+kp	-- Alexander Weiß (Krefeld Pinguine)
+kp100	Leif Strömberg (Trainer Krefeld Pinguine)
+kp101	Per Bäcklin (Co-Trainer Krefeld Pinguine)
 
 
 - Lausitzer Füchse -
