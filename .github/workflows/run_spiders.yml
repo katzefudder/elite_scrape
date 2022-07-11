@@ -22,14 +22,10 @@ jobs:
       run: |
         scrapy runspider elitescrape/spiders/spider_del.py
         scrapy runspider elitescrape/spiders/spider_del2.py
+        scrapy runspider elitescrape/spiders/spider_oberliga.py
         scrapy runspider elitescrape/spiders/team_stripes.py
         git config --global user.name 'Bot'
         git config --global user.email 'bot@katzefudder.de'
-        touch del.txt
-        touch del2.txt
-        touch team_stripes.txt
-        git add del.txt
-        git add del2.txt
-        git add team_stripes.txt
+        git add .
         git commit -m "automated scraping of DEL, DEL 2 and Team Stripes rosters"
         git push
