@@ -23,7 +23,7 @@ jobs:
         scrapy runspider elitescrape/spiders/spider_del.py
         scrapy runspider elitescrape/spiders/spider_del2.py
         scrapy runspider elitescrape/spiders/spider_oberliga.py
-        scrapy runspider elitescrape/spiders/team_stripes.py
+        scrapy runspider elitescrape/spiders/spider_stripes.py
         git config --global user.name 'Bot'
         git config --global user.email 'bot@katzefudder.de'
         git add .
