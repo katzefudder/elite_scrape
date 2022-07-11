@@ -136,6 +136,7 @@ er79	-79- Kyle Osterberg (Eisbären Regensburg)
 
 - EHC Freiburg -
 
+fr	-- Kyle Sonnenburg (EHC Freiburg)
 fr6	-6- Lennart Otten (EHC Freiburg)
 fr7	-7- Trevor Gooch (EHC Freiburg)
 fr9	-9- Nikolas Linsenmaier (EHC Freiburg)
