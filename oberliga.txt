@@ -198,33 +198,6 @@ hf96	-96- Killian Hutt (Herforder EV)
 hf100	Milan Vanek (Trainer Herforder EV)
 
 
-- Hannover Indians -
-
-hi	-- Andrei Strakhov (Hannover Indians)
-hi	-- Maks Selan (Hannover Indians)
-hi1	-1- Sebastian Graf (Hannover Indians)
-hi4	-4- Robin Thalmeier (Hannover Indians)
-hi7	-7- Tobias Möller (Hannover Indians)
-hi10	-10- Igor Bacek (Hannover Indians)
-hi14	-14- Niko Esposito-Selivanov (Hannover Indians)
-hi16	-16- Jannik Striepeke (Hannover Indians)
-hi20	-20- Robin Palka (Hannover Indians)
-hi21	-21- Joe Kiss (Hannover Indians)
-hi22	-22- Nicolas Turnwald (Hannover Indians)
-hi24	-24- Sebastian Christmann (Hannover Indians)
-hi25	-25- Branislav Pohanka (Hannover Indians)
-hi27	-27- Dennis Palka (Hannover Indians)
-hi28	-28- Sofiene Bräuner (Hannover Indians)
-hi36	-36- Matthew Pistilli (Hannover Indians)
-hi40	-40- Phillip Messing (Hannover Indians)
-hi67	-67- David Miserotti-Böttcher (Hannover Indians)
-hi71	-71- Maximilian Pohl (Hannover Indians)
-hi90	-90- Jan Dalgic (Hannover Indians)
-hi97	-97- Jayden Schubert (Hannover Indians)
-hi100	Len Soccio (Trainer Hannover Indians)
-hi101	Björn Naujokat (Co-Trainer Hannover Indians)
-
-
 - MEC Halle 04 -
 
 hl	-- Matias Varttinen (MEC Halle 04)
@@ -291,6 +264,8 @@ ks100	Dominik Quinlan (Trainer EHC Klostersee)
 lb	-- Dominic Erdt (HC Landsberg)
 lb	-- Markus Jänichen (HC Landsberg)
 lb	-- Manuel Malzer (HC Landsberg)
+lb	-- Lucas Spindler (HC Landsberg)
+lb	-- Luis Hegner (HC Landsberg)
 lb	-- Steven Ipri (HC Landsberg)
 lb19	-19- Adriano Carciola (HC Landsberg)
 lb20	-20- Nicolas Strodel (HC Landsberg)
