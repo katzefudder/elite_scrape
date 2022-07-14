@@ -1,5 +1,6 @@
 - EC Bad Nauheim -
 
+bn	-- Tim Coffman (EC Bad Nauheim)
 bn	-- Rihards Babulis (EC Bad Nauheim)
 bn	-- Michael Gottwald (EC Bad Nauheim)
 bn	-- Leo Hafenrichter (EC Bad Nauheim)
@@ -116,7 +117,6 @@ dd100	Andreas Brockmann (Trainer Dresdner Eislöwen)
 
 er	-- Daniel Pronin (Eisbären Regensburg)
 er	-- Patrick Demetz (Eisbären Regensburg)
-er1	-1- Peter Holmgren (Eisbären Regensburg)
 er9	-9- Richard Divis (Eisbären Regensburg)
 er10	-10- Tomas Schwamberger (Eisbären Regensburg)
 er13	-13- Marvin Schmid (Eisbären Regensburg)
@@ -141,6 +141,7 @@ er79	-79- Kyle Osterberg (Eisbären Regensburg)
 - EHC Freiburg -
 
 fr	-- Kyle Sonnenburg (EHC Freiburg)
+fr	-- Davyd Makutsky (EHC Freiburg)
 fr6	-6- Lennart Otten (EHC Freiburg)
 fr7	-7- Trevor Gooch (EHC Freiburg)
 fr9	-9- Nikolas Linsenmaier (EHC Freiburg)
