@@ -250,6 +250,7 @@ hs100	Mikhail Nemirovsky (Trainer Höchstadter EC)
 
 - EHC Klostersee -
 
+ks	-- Joseph Leonidas (EHC Klostersee)
 ks	-- Fabian Zick (EHC Klostersee)
 ks	-- Marc Bosecker (EHC Klostersee)
 ks10	-10- Simon Roeder (EHC Klostersee)
@@ -328,6 +329,7 @@ mm	-- Leon Meder (ECDC Memmingen)
 mm	-- Benedikt Jiranek (ECDC Memmingen)
 mm	-- Maximilian Menner (ECDC Memmingen)
 mm3	-3- Leon Kittel (ECDC Memmingen)
+mm14	-14- Lion Stange (ECDC Memmingen)
 mm20	-20- Sergei Topol (ECDC Memmingen)
 mm22	-22- Dominik Meisinger (ECDC Memmingen)
 mm29	-29- Jochen Vollmer (ECDC Memmingen)
@@ -417,6 +419,7 @@ ri100	Pat Cortina (Trainer SC Riessersee)
 
 ro	-- Christian Guran (Rostocker EC)
 ro	-- Mathieu Henderson (Rostocker EC)
+ro	-- Florian Kraus (Rostocker EC)
 ro	-- Stephane Döring (Rostocker EC)
 ro	-- Thomas Voronov (Rostocker EC)
 ro19	-19- Dante Hahn (Rostocker EC)

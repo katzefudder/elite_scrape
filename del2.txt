@@ -28,6 +28,7 @@ bn91	-91- Marc El-Sayed (EC Bad Nauheim)
 
 - Bayreuth Tigers -
 
+by	-- Eric Stephan (Bayreuth Tigers)
 by	-- Nico Zimmermann (Bayreuth Tigers)
 by	-- Marius Winkelmann (Bayreuth Tigers)
 by3	-3- Leon Schuster (Bayreuth Tigers)
@@ -115,6 +116,7 @@ dd100	Andreas Brockmann (Trainer Dresdner Eislöwen)
 
 - Eisbären Regensburg -
 
+er	-- Devin Williams (Eisbären Regensburg)
 er	-- Daniel Pronin (Eisbären Regensburg)
 er	-- Patrick Demetz (Eisbären Regensburg)
 er9	-9- Richard Divis (Eisbären Regensburg)
@@ -143,7 +145,6 @@ er79	-79- Kyle Osterberg (Eisbären Regensburg)
 fr	-- Kyle Sonnenburg (EHC Freiburg)
 fr	-- Davyd Makutsky (EHC Freiburg)
 fr6	-6- Lennart Otten (EHC Freiburg)
-fr7	-7- Trevor Gooch (EHC Freiburg)
 fr9	-9- Nikolas Linsenmaier (EHC Freiburg)
 fr11	-11- Jackson Cressey (EHC Freiburg)
 fr13	-13- Christoph Kiefersauer (EHC Freiburg)
@@ -356,6 +357,7 @@ se	-- Ryker Killins (VER Selb)
 se	-- Michael Schaaf (VER Selb)
 se	-- Peter Trska (VER Selb)
 se	-- Jan Hammerbauer (VER Selb)
+se	-- Arturs Kruminsch (VER Selb)
 se	-- Mark McNeill (VER Selb)
 se	-- Oliver Noack (VER Selb)
 se	-- Daniel Schwamberger (VER Selb)
