@@ -59,6 +59,7 @@ dl	-- Maximilian Herz (EG Diez-Limburg)
 dl	-- Egils Kalns (EG Diez-Limburg)
 dl	-- Marcel Kurth (EG Diez-Limburg)
 dl	-- Paul Jan König (EG Diez-Limburg)
+dl	-- David Lademann (EG Diez-Limburg)
 dl	-- Niko Lehtonen (EG Diez-Limburg)
 dl	-- Noam Sherf (EG Diez-Limburg)
 dl	-- Sandis Zolmanis (EG Diez-Limburg)
@@ -326,6 +327,7 @@ li100	Stefan Wiedmaier (Trainer EV Lindau)
 
 - ECDC Memmingen -
 
+mm	-- Gints Meija (ECDC Memmingen)
 mm	-- Petr Pohl (ECDC Memmingen)
 mm	-- Leon Meder (ECDC Memmingen)
 mm	-- Benedikt Jiranek (ECDC Memmingen)
