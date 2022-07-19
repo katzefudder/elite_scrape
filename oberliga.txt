@@ -253,8 +253,8 @@ hs100	Mikhail Nemirovsky (Trainer Höchstadter EC)
 
 - EHC Klostersee -
 
-ks	-- Joseph Leonidas (EHC Klostersee)
 ks	-- Fabian Zick (EHC Klostersee)
+ks	-- Joseph Leonidas (EHC Klostersee)
 ks	-- Marc Bosecker (EHC Klostersee)
 ks10	-10- Simon Roeder (EHC Klostersee)
 ks19	-19- Matthias Baumhackl (EHC Klostersee)

@@ -290,7 +290,6 @@ kh67	-67- Stanislav Dietz (Kölner Haie)
 kh72	-72- Niklas Lunemann (Kölner Haie)
 kh74	-74- Oleg Shilin (Kölner Haie)
 kh91	-91- Moritz Müller (Kölner Haie)
-kh93	-93- Sebastian Uvira (Kölner Haie)
 
 
 - Nürnberg Ice Tigers -
@@ -384,6 +383,7 @@ st101	Robert Leask (Co-Trainer Straubing Tigers)
 
 - Schwenninger Wild Wings -
 
+sw	-- Sebastian Uvira (Schwenninger Wild Wings)
 sw	-- Ville Lajunen (Schwenninger Wild Wings)
 sw7	-7- Kai Zernikel (Schwenninger Wild Wings)
 sw9	-9- Philip Feist (Schwenninger Wild Wings)
@@ -424,6 +424,7 @@ wb8	-8- Jordan Murray (Grizzlys Wolfsburg)
 wb11	-11- Trevor Mingoia (Grizzlys Wolfsburg)
 wb12	-12- Armin Wurm (Grizzlys Wolfsburg)
 wb13	-13- Lucas Dumont (Grizzlys Wolfsburg)
+wb15	-15- Dustin Jeffrey (Grizzlys Wolfsburg)
 wb18	-18- Laurin Braun (Grizzlys Wolfsburg)
 wb23	-23- Gerrit Fauser (Grizzlys Wolfsburg)
 wb24	-24- Janik Möser (Grizzlys Wolfsburg)
