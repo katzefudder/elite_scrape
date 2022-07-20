@@ -118,6 +118,7 @@ dd100	Andreas Brockmann (Trainer Dresdner Eislöwen)
 - Eisbären Regensburg -
 
 er	-- Devin Williams (Eisbären Regensburg)
+er	-- Radim Matus (Eisbären Regensburg)
 er	-- Daniel Pronin (Eisbären Regensburg)
 er	-- Patrick Demetz (Eisbären Regensburg)
 er9	-9- Richard Divis (Eisbären Regensburg)
