@@ -89,6 +89,7 @@ cr101	Esbjörn Hofverberg (Co-Trainer Eispiraten Crimmitschau)
 - Dresdner Eislöwen -
 
 dd	-- Fabian Belendir (Dresdner Eislöwen)
+dd	-- Joshua Geuß (Dresdner Eislöwen)
 dd	-- Yannick Drews (Dresdner Eislöwen)
 dd	-- Niklas Postel (Dresdner Eislöwen)
 dd8	-8- Jannis Kälble (Dresdner Eislöwen)

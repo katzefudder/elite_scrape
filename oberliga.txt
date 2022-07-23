@@ -261,6 +261,17 @@ hs100	Mikhail Nemirovsky (Trainer Höchstadter EC)
 
 - Krefelder EV 1981 II -
 
+kf	-- Marcel Marten (Krefelder EV 1981 II)
+kf	-- Benedikt Pricken (Krefelder EV 1981 II)
+kf	-- Stefan Laschitzky (Krefelder EV 1981 II)
+kf	-- Giovanni Schönfeld (Krefelder EV 1981 II)
+kf	-- Brian Westerkamp (Krefelder EV 1981 II)
+kf17	-17- Lars Ehrich (Krefelder EV 1981 II)
+kf18	-18- Mathias Onckels (Krefelder EV 1981 II)
+kf25	-25- Tom Schmitz (Krefelder EV 1981 II)
+kf39	-39- Julius Bauermeister (Krefelder EV 1981 II)
+kf82	-82- Tobias Esch (Krefelder EV 1981 II)
+kf100	Elmar Schmitz (Trainer Krefelder EV 1981 II)
 
 
 - EHC Klostersee -
@@ -342,18 +353,20 @@ li100	Stefan Wiedmaier (Trainer EV Lindau)
 
 - ECDC Memmingen -
 
-mm	-- Gints Meija (ECDC Memmingen)
-mm	-- Petr Pohl (ECDC Memmingen)
+mm	-- Pascal Dopatka (ECDC Memmingen)
 mm	-- Leon Meder (ECDC Memmingen)
-mm	-- Benedikt Jiranek (ECDC Memmingen)
 mm	-- Maximilian Menner (ECDC Memmingen)
+mm	-- Gints Meija (ECDC Memmingen)
 mm3	-3- Leon Kittel (ECDC Memmingen)
+mm12	-12- Benedikt Jiranek (ECDC Memmingen)
 mm14	-14- Lion Stange (ECDC Memmingen)
+mm19	-19- Milan Pfalzer (ECDC Memmingen)
 mm20	-20- Sergei Topol (ECDC Memmingen)
 mm22	-22- Dominik Meisinger (ECDC Memmingen)
 mm29	-29- Jochen Vollmer (ECDC Memmingen)
 mm31	-31- Marco Eisenhut (ECDC Memmingen)
 mm33	-33- Sven Schirrmacher (ECDC Memmingen)
+mm51	-51- Petr Pohl (ECDC Memmingen)
 mm55	-55- Christopher Kasten (ECDC Memmingen)
 mm69	-69- Matej Pekr (ECDC Memmingen)
 mm72	-72- Linus Svedlund (ECDC Memmingen)
