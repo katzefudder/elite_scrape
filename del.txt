@@ -384,6 +384,7 @@ st101	Robert Leask (Co-Trainer Straubing Tigers)
 
 - Schwenninger Wild Wings -
 
+sw	-- Miks Indrasis (Schwenninger Wild Wings)
 sw	-- Sebastian Uvira (Schwenninger Wild Wings)
 sw	-- Ville Lajunen (Schwenninger Wild Wings)
 sw7	-7- Kai Zernikel (Schwenninger Wild Wings)

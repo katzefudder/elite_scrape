@@ -59,7 +59,6 @@ dg100	Jiri Ehrenberger (Trainer Deggendorfer SC)
 dl	-- Tommi Steffen (EG Diez-Limburg)
 dl	-- Tim Stenger (EG Diez-Limburg)
 dl	-- Jonas Vogt (EG Diez-Limburg)
-dl	-- Noureddine Bettahar (EG Diez-Limburg)
 dl	-- Philipp Seckel (EG Diez-Limburg)
 dl	-- Lorenzo Valenti (EG Diez-Limburg)
 dl	-- Jan Wächtershäuser (EG Diez-Limburg)
@@ -73,6 +72,7 @@ dl	-- Niko Lehtonen (EG Diez-Limburg)
 dl	-- Noam Sherf (EG Diez-Limburg)
 dl	-- Sandis Zolmanis (EG Diez-Limburg)
 dl	-- Torben Reuner (EG Diez-Limburg)
+dl94	-94- Noureddine Bettahar (EG Diez-Limburg)
 
 
 - EHC Erfurt -
