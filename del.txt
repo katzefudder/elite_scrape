@@ -353,6 +353,7 @@ rb93	-93- Maximilian Kastner (EHC München)
 
 - Straubing Tigers -
 
+st	-- JC Lipon (Straubing Tigers)
 st	-- Florian Bugl (Straubing Tigers)
 st	-- Trent Bourque (Straubing Tigers)
 st	-- Marcel Brandt (Straubing Tigers)
@@ -416,6 +417,8 @@ sw101	Ryan Marsh (Co-Trainer Schwenninger Wild Wings)
 
 - Grizzlys Wolfsburg -
 
+wb	-- Ennio Albrecht (Grizzlys Wolfsburg)
+wb	-- Justin Pogge (Grizzlys Wolfsburg)
 wb	-- Philipp Mass (Grizzlys Wolfsburg)
 wb	-- Valentino Klos (Grizzlys Wolfsburg)
 wb	-- Tyler Morley (Grizzlys Wolfsburg)
@@ -432,7 +435,6 @@ wb23	-23- Gerrit Fauser (Grizzlys Wolfsburg)
 wb24	-24- Janik Möser (Grizzlys Wolfsburg)
 wb25	-25- Darren Archibald (Grizzlys Wolfsburg)
 wb27	-27- Thomas Reichel (Grizzlys Wolfsburg)
-wb34	-34- Chet Pickard (Grizzlys Wolfsburg)
 wb41	-41- Steven Raabe (Grizzlys Wolfsburg)
 wb44	-44- Nolan Zajac (Grizzlys Wolfsburg)
 wb55	-55- Ryan Button (Grizzlys Wolfsburg)
