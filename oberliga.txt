@@ -1,11 +1,11 @@
 - Crocodiles Hamburg -
 
-ch	-- Thomas Zuravlev (Crocodiles Hamburg)
 ch	-- Marian Kapicak (Crocodiles Hamburg)
 ch	-- Louis Anders (Crocodiles Hamburg)
 ch	-- Tim Detig (Crocodiles Hamburg)
 ch	-- Ilja Fleischmann (Crocodiles Hamburg)
 ch	-- Luis Müller (Crocodiles Hamburg)
+ch	-- Juuso Rajala (Crocodiles Hamburg)
 ch	-- Daniel Visner (Crocodiles Hamburg)
 ch5	-5- Maximilian Schaludek (Crocodiles Hamburg)
 ch14	-14- Niklas Jentsch (Crocodiles Hamburg)
@@ -22,6 +22,7 @@ ch59	-59- Sebastian Moberg (Crocodiles Hamburg)
 ch63	-63- Philipp Hertel (Crocodiles Hamburg)
 ch78	-78- Maximilian Spöttel (Crocodiles Hamburg)
 ch83	-83- Harrison Reed (Crocodiles Hamburg)
+ch87	-87- Thomas Zuravlev (Crocodiles Hamburg)
 ch90	-90- Louis Habel (Crocodiles Hamburg)
 ch100	Henry Thom (Trainer Crocodiles Hamburg)
 
