@@ -251,6 +251,7 @@ hs6	-6- Tom Horschel (Höchstadter EC)
 hs13	-13- Leon Hartl (Höchstadter EC)
 hs23	-23- Jari Neugebauer (Höchstadter EC)
 hs30	-30- Benjamin Dirksen (Höchstadter EC)
+hs34	-34- Thilo Grau (Höchstadter EC)
 hs37	-37- Dominik Zbaranski (Höchstadter EC)
 hs47	-47- Philipp Stobbe (Höchstadter EC)
 hs50	-50- Martin Kokes (Höchstadter EC)
@@ -408,6 +409,7 @@ pa100	Petr Bares (Trainer EHF Passau Black Hawks)
 - EC Peiting -
 
 pe	-- Justin Bachmann (EC Peiting)
+pe	-- Sean Morgan (EC Peiting)
 pe	-- Manuel Bartsch (EC Peiting)
 pe	-- David Miller (EC Peiting)
 pe	-- Konrad Fiedler (EC Peiting)
@@ -471,6 +473,7 @@ ro19	-19- Dante Hahn (Rostocker EC)
 ro31	-31- Lucas Di Berardo (Rostocker EC)
 ro68	-68- Tom Pauker (Rostocker EC)
 ro72	-72- Kilian Steinmann (Rostocker EC)
+ro97	-97- Mark Ledlin (Rostocker EC)
 ro100	Chris Stanley (Trainer Rostocker EC)
 
 
