@@ -79,6 +79,8 @@ dl94	-94- Noureddine Bettahar (EG Diez-Limburg)
 
 - EHC Erfurt -
 
+ef	-- Enzo Herrschaft (EHC Erfurt)
+ef	-- D'Artagnan Joly (EHC Erfurt)
 ef	-- Alexandre Ranger (EHC Erfurt)
 ef	-- Fabian Belendir (EHC Erfurt)
 ef	-- Tim May (EHC Erfurt)
