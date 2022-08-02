@@ -319,10 +319,12 @@ ks100	Dominik Quinlan (Trainer EHC Klostersee)
 
 - HC Landsberg -
 
+lb	-- Alexander Binder (HC Landsberg)
 lb	-- Dominic Erdt (HC Landsberg)
 lb	-- Markus Jänichen (HC Landsberg)
 lb	-- Manuel Malzer (HC Landsberg)
 lb	-- Lucas Spindler (HC Landsberg)
+lb	-- David Amort (HC Landsberg)
 lb	-- Luis Hegner (HC Landsberg)
 lb	-- Steven Ipri (HC Landsberg)
 lb19	-19- Adriano Carciola (HC Landsberg)
