@@ -404,6 +404,7 @@ mm101	Daniel Huhn (Co-Trainer ECDC Memmingen)
 
 pa	-- Luca Mayer (EHF Passau Black Hawks)
 pa	-- Raul Jakob (EHF Passau Black Hawks)
+pa	-- Samuel Mantsch (EHF Passau Black Hawks)
 pa	-- Jakub Bitomsky (EHF Passau Black Hawks)
 pa	-- Jakub Cizek (EHF Passau Black Hawks)
 pa	-- Maximilian Kolesnikov (EHF Passau Black Hawks)
