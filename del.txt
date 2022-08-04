@@ -237,6 +237,7 @@ ft101	Alexander Sulzer (Co-Trainer Fischtown Pinguins)
 
 ir	-- Chris Brown (Iserlohn Roosters)
 ir	-- Valentin Busch (Iserlohn Roosters)
+ir	-- Felix Maegaard Scheel (Iserlohn Roosters)
 ir	-- Colin Smith (Iserlohn Roosters)
 ir6	-6- Ryan O'Connor (Iserlohn Roosters)
 ir9	-9- Brent Raedeke (Iserlohn Roosters)
