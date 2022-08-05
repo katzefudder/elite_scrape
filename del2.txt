@@ -200,6 +200,7 @@ hn101	Christoph Schubert (Co-Trainer Heilbronner Falken)
 - EC Kassel Huskies -
 
 ka	-- Nick Neufeld (EC Kassel Huskies)
+ka	-- Steven Seigo (EC Kassel Huskies)
 ka	-- Jamie Arniel (EC Kassel Huskies)
 ka	-- Tristan Keck (EC Kassel Huskies)
 ka	-- Joel Lowry (EC Kassel Huskies)

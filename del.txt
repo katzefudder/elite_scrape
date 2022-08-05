@@ -302,6 +302,7 @@ kh91	-91- Moritz Müller (Kölner Haie)
 - Nürnberg Ice Tigers -
 
 nb	-- Leon Hungerecker (Nürnberg Ice Tigers)
+nb	-- Maximilian Meier (Nürnberg Ice Tigers)
 nb	-- Niklas Treutle (Nürnberg Ice Tigers)
 nb	-- Andrew Bodnarchuk (Nürnberg Ice Tigers)
 nb	-- Luke Green (Nürnberg Ice Tigers)
