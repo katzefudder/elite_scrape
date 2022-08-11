@@ -271,7 +271,6 @@ ir101	Pierre Beaulieu (Co-Trainer Iserlohn Roosters)
 - Kölner Haie -
 
 kh	-- Yannick Hänggi (Kölner Haie)
-kh	-- Leo Hafenrichter (Kölner Haie)
 kh5	-5- Robin van Calster (Kölner Haie)
 kh7	-7- Nick Bailen (Kölner Haie)
 kh10	-10- Jon Matsumoto (Kölner Haie)
@@ -295,10 +294,13 @@ kh44	-44- Alex Roach (Kölner Haie)
 kh50	-50- Alexander Oblinger (Kölner Haie)
 kh55	-55- Carter Proft (Kölner Haie)
 kh57	-57- Brady Austin (Kölner Haie)
+kh65	-65- Leo Hafenrichter (Kölner Haie)
 kh67	-67- Stanislav Dietz (Kölner Haie)
 kh72	-72- Niklas Lunemann (Kölner Haie)
 kh74	-74- Oleg Shilin (Kölner Haie)
 kh91	-91- Moritz Müller (Kölner Haie)
+kh100	Uwe Krupp (Trainer Kölner Haie)
+kh101	Thomas Brandl (Co-Trainer Kölner Haie)
 
 
 - Nürnberg Ice Tigers -
