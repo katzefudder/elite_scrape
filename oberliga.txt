@@ -57,6 +57,7 @@ dg100	Jiri Ehrenberger (Trainer Deggendorfer SC)
 
 - EG Diez-Limburg -
 
+dl	-- Fedor Kolupaylo (EG Diez-Limburg)
 dl	-- Tommi Steffen (EG Diez-Limburg)
 dl	-- Tim Stenger (EG Diez-Limburg)
 dl	-- Jonas Vogt (EG Diez-Limburg)
@@ -77,27 +78,6 @@ dl	-- Niko Lehtonen (EG Diez-Limburg)
 dl	-- Torben Reuner (EG Diez-Limburg)
 dl	-- Noam Sherf (EG Diez-Limburg)
 dl	-- Sandis Zolmanis (EG Diez-Limburg)
-
-
-- EHC Erfurt -
-
-ef	-- Enzo Herrschaft (EHC Erfurt)
-ef	-- D'Artagnan Joly (EHC Erfurt)
-ef	-- Alexandre Ranger (EHC Erfurt)
-ef	-- Fabian Belendir (EHC Erfurt)
-ef	-- Tim May (EHC Erfurt)
-ef1	-1- Konstantin Kessler (EHC Erfurt)
-ef6	-6- Justus Böttner (EHC Erfurt)
-ef7	-7- Reto Schüpping (EHC Erfurt)
-ef8	-8- Tom Banach (EHC Erfurt)
-ef10	-10- Max Weigandt (EHC Erfurt)
-ef12	-12- Maurice Keil (EHC Erfurt)
-ef20	-20- Niklas Jakob (EHC Erfurt)
-ef33	-33- Arnoldas Bosas (EHC Erfurt)
-ef41	-41- Michal Bezouska (EHC Erfurt)
-ef63	-63- Eric Wunderlich (EHC Erfurt)
-ef69	-69- Petr Gulda (EHC Erfurt)
-ef96	-96- Fritz Denner (EHC Erfurt)
 
 
 - ESC Moskitos Essen -
@@ -209,6 +189,7 @@ hf	-- Maximilian Droick (Herforder EV)
 hf	-- Jonas Gerstung (Herforder EV)
 hf	-- Aaron Reckers (Herforder EV)
 hf	-- Dominik Scharfenort (Herforder EV)
+hf	-- Logan DeNoble (Herforder EV)
 hf	-- André Gerartz (Herforder EV)
 hf	-- Greg Gibson (Herforder EV)
 hf	-- Jan-Niklas Linnenbrügger (Herforder EV)
@@ -227,30 +208,33 @@ hf96	-96- Killian Hutt (Herforder EV)
 hf100	Milan Vanek (Trainer Herforder EV)
 
 
-- MEC Halle 04 -
+- Hannover Indians -
 
-hl	-- Matias Varttinen (MEC Halle 04)
-hl3	-3- Maurice Becker (MEC Halle 04)
-hl5	-5- Jeroen Plauschin (MEC Halle 04)
-hl7	-7- Mathieu Tousignant (MEC Halle 04)
-hl9	-9- Niklas Hildebrand (MEC Halle 04)
-hl10	-10- Denis Gulda (MEC Halle 04)
-hl11	-11- Finn Walkowiak (MEC Halle 04)
-hl12	-12- Sören Sturm (MEC Halle 04)
-hl15	-15- Erik Hoffmann (MEC Halle 04)
-hl16	-16- Joel Hofmann (MEC Halle 04)
-hl17	-17- Marius Demmler (MEC Halle 04)
-hl22	-22- Thore Weyrauch (MEC Halle 04)
-hl23	-23- Roman Pfennings (MEC Halle 04)
-hl24	-24- Tatu Vihavainen (MEC Halle 04)
-hl30	-30- Sebastian Albrecht (MEC Halle 04)
-hl51	-51- Vojtech Suchomer (MEC Halle 04)
-hl55	-55- Jakub Urbisch (MEC Halle 04)
-hl58	-58- Dennis Schütt (MEC Halle 04)
-hl72	-72- Sergei Stas (MEC Halle 04)
-hl74	-74- Lukas Valasek (MEC Halle 04)
-hl92	-92- Thomas Merl (MEC Halle 04)
-hl100	Marius Riedel (Trainer MEC Halle 04)
+hi	-- Nick Aichinger (Hannover Indians)
+hi1	-1- Sebastian Graf (Hannover Indians)
+hi4	-4- Robin Thalmeier (Hannover Indians)
+hi7	-7- Tobias Möller (Hannover Indians)
+hi10	-10- Igor Bacek (Hannover Indians)
+hi14	-14- Niko Esposito-Selivanov (Hannover Indians)
+hi16	-16- Jannik Striepeke (Hannover Indians)
+hi20	-20- Robin Palka (Hannover Indians)
+hi21	-21- Joe Kiss (Hannover Indians)
+hi22	-22- Nicolas Turnwald (Hannover Indians)
+hi24	-24- Sebastian Christmann (Hannover Indians)
+hi25	-25- Branislav Pohanka (Hannover Indians)
+hi27	-27- Dennis Palka (Hannover Indians)
+hi28	-28- Sofiene Bräuner (Hannover Indians)
+hi36	-36- Matthew Pistilli (Hannover Indians)
+hi40	-40- Phillip Messing (Hannover Indians)
+hi44	-44- Maks Selan (Hannover Indians)
+hi45	-45- Andrei Strakhov (Hannover Indians)
+hi67	-67- David Miserotti-Böttcher (Hannover Indians)
+hi71	-71- Maximilian Pohl (Hannover Indians)
+hi90	-90- Jan Dalgic (Hannover Indians)
+hi91	-91- Elvijs Biezais (Hannover Indians)
+hi97	-97- Jayden Schubert (Hannover Indians)
+hi100	Len Soccio (Trainer Hannover Indians)
+hi101	Björn Naujokat (Co-Trainer Hannover Indians)
 
 
 - Höchstadter EC -
@@ -283,21 +267,6 @@ hs88	-88- David Seidl (Höchstadter EC)
 hs91	-91- Dmitrij Litesov (Höchstadter EC)
 hs96	-96- Anton Zeivald (Höchstadter EC)
 hs100	Mikhail Nemirovsky (Trainer Höchstadter EC)
-
-
-- Krefelder EV 1981 II -
-
-kf	-- Marcel Marten (Krefelder EV 1981 II)
-kf	-- Benedikt Pricken (Krefelder EV 1981 II)
-kf	-- Stefan Laschitzky (Krefelder EV 1981 II)
-kf	-- Giovanni Schönfeld (Krefelder EV 1981 II)
-kf	-- Brian Westerkamp (Krefelder EV 1981 II)
-kf17	-17- Lars Ehrich (Krefelder EV 1981 II)
-kf18	-18- Mathias Onckels (Krefelder EV 1981 II)
-kf25	-25- Tom Schmitz (Krefelder EV 1981 II)
-kf39	-39- Julius Bauermeister (Krefelder EV 1981 II)
-kf82	-82- Tobias Esch (Krefelder EV 1981 II)
-kf100	Elmar Schmitz (Trainer Krefelder EV 1981 II)
 
 
 - EHC Klostersee -
@@ -487,28 +456,6 @@ ri95	-95- Simon Mayr (SC Riessersee)
 ri100	Pat Cortina (Trainer SC Riessersee)
 
 
-- Rostocker EC -
-
-ro4	-4- Nolan Renke (Rostocker EC)
-ro7	-7- Thomas Voronov (Rostocker EC)
-ro10	-10- Alexander Seifert (Rostocker EC)
-ro16	-16- Stephane Döring (Rostocker EC)
-ro18	-18- Thomas Richter (Rostocker EC)
-ro19	-19- Dante Hahn (Rostocker EC)
-ro21	-21- Keegan Dansereau (Rostocker EC)
-ro23	-23- Christian Guran (Rostocker EC)
-ro24	-24- Mathieu Henderson (Rostocker EC)
-ro26	-26- Florian Kraus (Rostocker EC)
-ro28	-28- Brett Parnham (Rostocker EC)
-ro29	-29- Daniel Schröpfer (Rostocker EC)
-ro31	-31- Lucas Di Berardo (Rostocker EC)
-ro68	-68- Tom Pauker (Rostocker EC)
-ro72	-72- Kilian Steinmann (Rostocker EC)
-ro90	-90- Marius Pöpel (Rostocker EC)
-ro97	-97- Mark Ledlin (Rostocker EC)
-ro100	Chris Stanley (Trainer Rostocker EC)
-
-
 - Starbulls Rosenheim -
 
 sr4	-4- Aaron Reinig (Starbulls Rosenheim)
@@ -584,35 +531,5 @@ tt77	-77- Reno de Hondt (Tilburg Trappers)
 tt81	-81- Max Hermens (Tilburg Trappers)
 tt95	-95- Danny Stempher (Tilburg Trappers)
 tt100	Doug Mason (Trainer Tilburg Trappers)
-
-
-- 1. EV Weiden -
-
-we	-- Anthony Hermer (1. EV Weiden)
-we4	-4- Philipp Siller (1. EV Weiden)
-we6	-6- Ralf Herbst (1. EV Weiden)
-we7	-7- Luca Gläser (1. EV Weiden)
-we8	-8- Neal Samanski (1. EV Weiden)
-we9	-9- Mirko Schreyer (1. EV Weiden)
-we10	-10- Nardo Nagtzaam (1. EV Weiden)
-we15	-15- Fabian Voit (1. EV Weiden)
-we17	-17- Elia Ostwald (1. EV Weiden)
-we19	-19- Alessandro Schmidbauer (1. EV Weiden)
-we20	-20- Adam Schusser (1. EV Weiden)
-we22	-22- Dominik Müller (1. EV Weiden)
-we23	-23- Martin Heinisch (1. EV Weiden)
-we24	-24- Jaroslav Hübl (1. EV Weiden)
-we26	-26- Joey Luknowsky (1. EV Weiden)
-we44	-44- Kurt Davis (1. EV Weiden)
-we60	-60- Moritz Schug (1. EV Weiden)
-we61	-61- Chad Bassen (1. EV Weiden)
-we67	-67- Marius Schmidt (1. EV Weiden)
-we69	-69- Robert Hechtl (1. EV Weiden)
-we71	-71- Edgars Homjakovs (1. EV Weiden)
-we73	-73- Tomas Rubes (1. EV Weiden)
-we91	-91- Dennis Thielsch (1. EV Weiden)
-we94	-94- Marco Wölfl (1. EV Weiden)
-we100	Sebastian Buchwieser (Trainer 1. EV Weiden)
-we101	Martin Mazanec (Co-Trainer 1. EV Weiden)
 
 
