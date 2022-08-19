@@ -191,7 +191,6 @@ hf	-- Aaron Reckers (Herforder EV)
 hf	-- Dominik Scharfenort (Herforder EV)
 hf	-- Logan DeNoble (Herforder EV)
 hf	-- André Gerartz (Herforder EV)
-hf	-- Greg Gibson (Herforder EV)
 hf	-- Jan-Niklas Linnenbrügger (Herforder EV)
 hf	-- Nicklas Müller (Herforder EV)
 hf	-- Dominik Patocka (Herforder EV)
@@ -239,6 +238,7 @@ hi101	Björn Naujokat (Co-Trainer Hannover Indians)
 
 - Höchstadter EC -
 
+hs	-- Tim Zimmermann (Höchstadter EC)
 hs	-- Justin Spiewok (Höchstadter EC)
 hs	-- Max Gimmel (Höchstadter EC)
 hs	-- Elias Pata (Höchstadter EC)
