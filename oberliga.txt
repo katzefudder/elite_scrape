@@ -57,6 +57,7 @@ dg100	Jiri Ehrenberger (Trainer Deggendorfer SC)
 
 - EG Diez-Limburg -
 
+dl	-- Steve Slaton (EG Diez-Limburg)
 dl	-- Fedor Kolupaylo (EG Diez-Limburg)
 dl	-- Tommi Steffen (EG Diez-Limburg)
 dl	-- Tim Stenger (EG Diez-Limburg)
