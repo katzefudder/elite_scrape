@@ -212,6 +212,7 @@ fl101	Jan Barta (Co-Trainer Löwen Frankfurt)
 
 - Fischtown Pinguins -
 
+ft	-- David Miserotti-Böttcher (Fischtown Pinguins)
 ft3	-3- Nick Aichinger (Fischtown Pinguins)
 ft5	-5- Moritz Wirth (Fischtown Pinguins)
 ft8	-8- Nino Kinder (Fischtown Pinguins)
@@ -235,6 +236,7 @@ ft65	-65- Christian Wejse (Fischtown Pinguins)
 ft71	-71- Niklas Andersen (Fischtown Pinguins)
 ft72	-72- Phillip Bruggisser (Fischtown Pinguins)
 ft91	-91- Miha Verlic (Fischtown Pinguins)
+ft96	-96- Richard Jarusek (Fischtown Pinguins)
 ft100	Thomas Popiesch (Trainer Fischtown Pinguins)
 ft101	Alexander Sulzer (Co-Trainer Fischtown Pinguins)
 
