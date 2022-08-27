@@ -25,6 +25,7 @@ ch83	-83- Harrison Reed (Crocodiles Hamburg)
 ch87	-87- Thomas Zuravlev (Crocodiles Hamburg)
 ch90	-90- Louis Habel (Crocodiles Hamburg)
 ch100	Henry Thom (Trainer Crocodiles Hamburg)
+ch101	Patrick Saggau (Co-Trainer Crocodiles Hamburg)
 
 
 - Deggendorfer SC -

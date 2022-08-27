@@ -152,11 +152,11 @@ er79	-79- Kyle Osterberg (Eisbären Regensburg)
 
 - EHC Freiburg -
 
-fr	-- Kyle Sonnenburg (EHC Freiburg)
-fr	-- Davyd Makutsky (EHC Freiburg)
 fr6	-6- Lennart Otten (EHC Freiburg)
+fr7	-7- Kyle Sonnenburg (EHC Freiburg)
 fr9	-9- Nikolas Linsenmaier (EHC Freiburg)
 fr11	-11- Jackson Cressey (EHC Freiburg)
+fr12	-12- Davyd Makutsky (EHC Freiburg)
 fr13	-13- Christoph Kiefersauer (EHC Freiburg)
 fr14	-14- Simon Danner (EHC Freiburg)
 fr17	-17- Konstantin Bongers (EHC Freiburg)
@@ -164,6 +164,7 @@ fr23	-23- Luca Trinkberger (EHC Freiburg)
 fr27	-27- Marvin Neher (EHC Freiburg)
 fr30	-30- Luis Benzing (EHC Freiburg)
 fr33	-33- Hagen Kaisler (EHC Freiburg)
+fr42	-42- Maurice Hempel (EHC Freiburg)
 fr43	-43- Marc Wittfoth (EHC Freiburg)
 fr55	-55- Mick Hochreither (EHC Freiburg)
 fr62	-62- Tor Immo (EHC Freiburg)
@@ -383,7 +384,6 @@ rt101	Casey Fratkin (Co-Trainer Ravensburg Towerstars)
 
 - VER Selb -
 
-se	-- Ondrej Nedved (VER Selb)
 se1	-1- Michael Bitzer (VER Selb)
 se2	-2- Mauriz Silbermann (VER Selb)
 se5	-5- Elias Pata (VER Selb)
