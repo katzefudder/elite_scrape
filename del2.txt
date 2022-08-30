@@ -123,6 +123,7 @@ dd100	Andreas Brockmann (Trainer Dresdner Eislöwen)
 
 - Eisbären Regensburg -
 
+er	-- Jonas Leserer (Eisbären Regensburg)
 er	-- Jeff Fearing (Eisbären Regensburg)
 er	-- Devin Williams (Eisbären Regensburg)
 er	-- Patrick Demetz (Eisbären Regensburg)
