@@ -328,7 +328,6 @@ nb	-- Dane Fox (Nürnberg Ice Tigers)
 nb	-- Charlie Jahnke (Nürnberg Ice Tigers)
 nb	-- Roman Kechter (Nürnberg Ice Tigers)
 nb	-- Max Kislinger (Nürnberg Ice Tigers)
-nb	-- Danjo Leonhardt (Nürnberg Ice Tigers)
 nb	-- Dennis Lobach (Nürnberg Ice Tigers)
 nb	-- Gregor MacLeod (Nürnberg Ice Tigers)
 nb	-- Patrick Reimer (Nürnberg Ice Tigers)
@@ -337,6 +336,7 @@ nb	-- Daniel Schmölz (Nürnberg Ice Tigers)
 nb	-- Tyler Sheehy (Nürnberg Ice Tigers)
 nb	-- Ryan Stoa (Nürnberg Ice Tigers)
 nb	-- Jake Ustorf (Nürnberg Ice Tigers)
+nb	-- Danjo Leonhardt (Nürnberg Ice Tigers)
 
 
 - EHC München -
