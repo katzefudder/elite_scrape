@@ -111,6 +111,7 @@ es100	Frank Petrozza (Trainer ESC Moskitos Essen)
 
 - EV Füssen -
 
+fu	-- Niklas Gabriel (EV Füssen)
 fu	-- Victor Knaub (EV Füssen)
 fu	-- Ondrej Zelenka (EV Füssen)
 fu	-- Moritz Borst (EV Füssen)
