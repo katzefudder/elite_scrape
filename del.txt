@@ -338,6 +338,8 @@ nb	-- Tyler Sheehy (Nürnberg Ice Tigers)
 nb	-- Ryan Stoa (Nürnberg Ice Tigers)
 nb	-- Jake Ustorf (Nürnberg Ice Tigers)
 nb	-- Danjo Leonhardt (Nürnberg Ice Tigers)
+nb100	Tom Rowe (Trainer Nürnberg Ice Tigers)
+nb101	Manuel Kofler (Co-Trainer Nürnberg Ice Tigers)
 
 
 - EHC München -
