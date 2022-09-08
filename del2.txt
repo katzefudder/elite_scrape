@@ -114,7 +114,6 @@ dd72	-72- Nicklas Mannes (Dresdner Eislöwen)
 dd73	-73- Pascal Seidel (Dresdner Eislöwen)
 dd75	-75- Bruno Riedl (Dresdner Eislöwen)
 dd77	-77- Arne Uplegger (Dresdner Eislöwen)
-dd83	-83- Martin Hlozek (Dresdner Eislöwen)
 dd88	-88- Johan Porsberger (Dresdner Eislöwen)
 dd92	-92- Tomas Andres (Dresdner Eislöwen)
 dd95	-95- Mike Schmitz (Dresdner Eislöwen)
@@ -386,6 +385,7 @@ rt101	Casey Fratkin (Co-Trainer Ravensburg Towerstars)
 
 - VER Selb -
 
+se	-- Martin Hlozek (VER Selb)
 se1	-1- Michael Bitzer (VER Selb)
 se2	-2- Mauriz Silbermann (VER Selb)
 se5	-5- Elias Pata (VER Selb)
