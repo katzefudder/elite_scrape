@@ -49,6 +49,7 @@ ap25	-25- Christian Hanke (Augsburger Panther)
 ap26	-26- Samuel Soramies (Augsburger Panther)
 ap28	-28- John Rogl (Augsburger Panther)
 ap35	-35- Markus Keller (Augsburger Panther)
+ap37	-37- Terry Broadhurst (Augsburger Panther)
 ap44	-44- Dennis Endras (Augsburger Panther)
 ap47	-47- Wade Bergman (Augsburger Panther)
 ap49	-49- Michael Clarke (Augsburger Panther)
@@ -278,7 +279,6 @@ ir101	Pierre Beaulieu (Co-Trainer Iserlohn Roosters)
 
 - Kölner Haie -
 
-kh	-- Yannick Hänggi (Kölner Haie)
 kh	-- Kevin Niedenz (Kölner Haie)
 kh5	-5- Robin van Calster (Kölner Haie)
 kh7	-7- Nick Bailen (Kölner Haie)
