@@ -1,5 +1,6 @@
 - EC Bad Nauheim -
 
+bn	-- David Cerny (EC Bad Nauheim)
 bn	-- Rihards Babulis (EC Bad Nauheim)
 bn	-- Michael Gottwald (EC Bad Nauheim)
 bn	-- Leo Hafenrichter (EC Bad Nauheim)

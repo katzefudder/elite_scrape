@@ -34,6 +34,7 @@ am101	Marcel Goc (Co-Trainer Adler Mannheim)
 
 - Augsburger Panther -
 
+ap	-- Adam Johnson (Augsburger Panther)
 ap	-- Sebastian Wännström (Augsburger Panther)
 ap2	-2- Brady Lamb (Augsburger Panther)
 ap4	-4- Henry Haase (Augsburger Panther)
@@ -182,6 +183,7 @@ ei100	Mark French (Trainer ERC Ingolstadt)
 
 - Löwen Frankfurt -
 
+fl	-- Carter Rowney (Löwen Frankfurt)
 fl	-- Maximilian Gläßl (Löwen Frankfurt)
 fl	-- Paul Reiner (Löwen Frankfurt)
 fl	-- Reece Scarlett (Löwen Frankfurt)
@@ -415,7 +417,6 @@ sw	-- Sebastian Uvira (Schwenninger Wild Wings)
 sw	-- Ville Lajunen (Schwenninger Wild Wings)
 sw7	-7- Kai Zernikel (Schwenninger Wild Wings)
 sw9	-9- Philip Feist (Schwenninger Wild Wings)
-sw11	-11- David Cerny (Schwenninger Wild Wings)
 sw26	-26- Brandon DeFazio (Schwenninger Wild Wings)
 sw39	-39- Marvin Cüpper (Schwenninger Wild Wings)
 sw40	-40- Ken Andre Olimb (Schwenninger Wild Wings)
