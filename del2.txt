@@ -91,6 +91,7 @@ cr101	Esbjörn Hofverberg (Co-Trainer Eispiraten Crimmitschau)
 
 - Dresdner Eislöwen -
 
+dd	-- Jonas Neffin (Dresdner Eislöwen)
 dd8	-8- Jannis Kälble (Dresdner Eislöwen)
 dd9	-9- Jordan Knackstedt (Dresdner Eislöwen)
 dd14	-14- Jussi Petersen (Dresdner Eislöwen)
@@ -206,6 +207,7 @@ hn101	Christoph Schubert (Co-Trainer Heilbronner Falken)
 
 - EC Kassel Huskies -
 
+ka1	-1- Jake Kielly (EC Kassel Huskies)
 ka7	-7- Joel Keussen (EC Kassel Huskies)
 ka8	-8- Oleg Tschwanow (EC Kassel Huskies)
 ka11	-11- Jake Weidner (EC Kassel Huskies)
@@ -287,6 +289,7 @@ kp	-- Leon Niederberger (Krefeld Pinguine)
 kp	-- Nikita Shatsky (Krefeld Pinguine)
 kp	-- Justin van der Ven (Krefeld Pinguine)
 kp	-- Alexander Weiß (Krefeld Pinguine)
+kp35	-35- Matthias Bittner (Krefeld Pinguine)
 kp100	Leif Strömberg (Trainer Krefeld Pinguine)
 kp101	Per Bäcklin (Co-Trainer Krefeld Pinguine)
 
