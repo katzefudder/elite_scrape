@@ -367,6 +367,7 @@ li86	-86- Martin Mairitsch (EV Lindau)
 li90	-90- Daniel Stiefenhofer (EV Lindau)
 li98	-98- Florian Lüsch (EV Lindau)
 li100	Stefan Wiedmaier (Trainer EV Lindau)
+li101	Marko Sakic (Co-Trainer EV Lindau)
 
 
 - ECDC Memmingen -
@@ -449,7 +450,6 @@ pe100	Anton Saal (Trainer EC Peiting)
 
 - SC Riessersee -
 
-ri	-- Ryker Killins (SC Riessersee)
 ri5	-5- Thomas Schmid (SC Riessersee)
 ri7	-7- Uli Maurer (SC Riessersee)
 ri8	-8- Jan Niklas Pietsch (SC Riessersee)
@@ -461,13 +461,17 @@ ri16	-16- Christopher Chyzowski (SC Riessersee)
 ri20	-20- Christoph Eckl (SC Riessersee)
 ri21	-21- Alexander Höller (SC Riessersee)
 ri22	-22- Robin Soudek (SC Riessersee)
+ri27	-27- Veit Oswald (SC Riessersee)
 ri28	-28- Aziz Ehliz (SC Riessersee)
 ri30	-30- Xaver Nagel (SC Riessersee)
 ri36	-36- Sam Verelst (SC Riessersee)
 ri41	-41- Michael Boehm (SC Riessersee)
 ri49	-49- Felix Linden (SC Riessersee)
 ri57	-57- Lubor Dibelka (SC Riessersee)
+ri61	-61- Sebastian Cimmerman (SC Riessersee)
+ri72	-72- Daniel Allavena (SC Riessersee)
 ri76	-76- Luca Allavena (SC Riessersee)
+ri77	-77- Ryker Killins (SC Riessersee)
 ri81	-81- Kevin Slezak (SC Riessersee)
 ri84	-84- Lukas Koziol (SC Riessersee)
 ri89	-89- Simon Gerstmeir (SC Riessersee)
