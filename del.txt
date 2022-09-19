@@ -127,10 +127,10 @@ de101	Thomas Dolak (Co-Trainer Düsseldorfer EG)
 
 - Eisbären Berlin -
 
-eb4	-4- Morgan Ellis (Eisbären Berlin)
-eb7	-7- Frank Hördler (Eisbären Berlin)
-eb8	-8- Marco Nowak (Eisbären Berlin)
-eb9	-9- Jan Nijenhuis (Eisbären Berlin)
+eb04	-04- Morgan Ellis (Eisbären Berlin)
+eb07	-07- Frank Hördler (Eisbären Berlin)
+eb08	-08- Marco Nowak (Eisbären Berlin)
+eb09	-09- Jan Nijenhuis (Eisbären Berlin)
 eb12	-12- Eric Mik (Eisbären Berlin)
 eb13	-13- Peter Regin (Eisbären Berlin)
 eb15	-15- Manuel Wiederer (Eisbären Berlin)
