@@ -159,6 +159,7 @@ er74	-74- Andrew Schembri (Eisbären Regensburg)
 er77	-77- Petr Heider (Eisbären Regensburg)
 er78	-78- Korbinian Schütz (Eisbären Regensburg)
 er79	-79- Kyle Osterberg (Eisbären Regensburg)
+er86	-86- Corey Trivino (Eisbären Regensburg)
 er92	-92- Patrick Demetz (Eisbären Regensburg)
 
 
