@@ -92,6 +92,8 @@ bs74	-74- Sami Aittokallio (Bietigheim Steelers)
 bs75	-75- Teemu Lepaus (Bietigheim Steelers)
 bs84	-84- Chris Wilkie (Bietigheim Steelers)
 bs90	-90- Constantin Braun (Bietigheim Steelers)
+bs100	Daniel Naud (Trainer Bietigheim Steelers)
+bs101	Fabian Dahlem (Co-Trainer Bietigheim Steelers)
 
 
 - Düsseldorfer EG -
