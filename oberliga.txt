@@ -118,6 +118,7 @@ es100	Frank Petrozza (Trainer ESC Moskitos Essen)
 
 - EV Füssen -
 
+fu	-- Jonas Schwarzfischer (EV Füssen)
 fu4	-4- Carl Zimmermann (EV Füssen)
 fu6	-6- Ondrej Zelenka (EV Füssen)
 fu7	-7- Maximilian Dropmann (EV Füssen)
