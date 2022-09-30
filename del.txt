@@ -123,6 +123,7 @@ de81	-81- Stephen MacAulay (Düsseldorfer EG)
 de87	-87- Philip Gogulla (Düsseldorfer EG)
 de88	-88- Niklas Heinzinger (Düsseldorfer EG)
 de92	-92- Jakub Borzecki (Düsseldorfer EG)
+de97	-97- Edmund Junemann (Düsseldorfer EG)
 de100	Roger Hansson (Trainer Düsseldorfer EG)
 de101	Thomas Dolak (Co-Trainer Düsseldorfer EG)
 
