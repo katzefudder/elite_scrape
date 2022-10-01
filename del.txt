@@ -91,6 +91,7 @@ bs71	-71- Michael Keränen (Bietigheim Steelers)
 bs74	-74- Sami Aittokallio (Bietigheim Steelers)
 bs75	-75- Teemu Lepaus (Bietigheim Steelers)
 bs84	-84- Chris Wilkie (Bietigheim Steelers)
+bs85	-85- Wotan Knecht (Bietigheim Steelers)
 bs90	-90- Constantin Braun (Bietigheim Steelers)
 bs100	Daniel Naud (Trainer Bietigheim Steelers)
 bs101	Fabian Dahlem (Co-Trainer Bietigheim Steelers)
@@ -224,6 +225,7 @@ fl101	Jan Barta (Co-Trainer Löwen Frankfurt)
 
 - Fischtown Pinguins -
 
+ft01	-01- Sebastian Graf (Fischtown Pinguins)
 ft03	-03- Nick Aichinger (Fischtown Pinguins)
 ft05	-05- Moritz Wirth (Fischtown Pinguins)
 ft08	-08- Nino Kinder (Fischtown Pinguins)
