@@ -1,5 +1,6 @@
 - EC Bad Nauheim -
 
+bn	-- Andreas Pauli (EC Bad Nauheim)
 bn	-- Michael Gottwald (EC Bad Nauheim)
 bn	-- Alexander Komov (EC Bad Nauheim)
 bn	-- Lars Stelzmann (EC Bad Nauheim)
@@ -196,11 +197,13 @@ fr101	Pyry Eskola (Co-Trainer EHC Freiburg)
 
 - Heilbronner Falken -
 
+hn4	-4- Lukas Bender (Heilbronner Falken)
 hn8	-8- Noah Dunham (Heilbronner Falken)
 hn12	-12- Justin Kirsch (Heilbronner Falken)
 hn16	-16- Arkadiusz Dziambor (Heilbronner Falken)
 hn18	-18- Jeremy Williams (Heilbronner Falken)
 hn19	-19- Stefan Della Rovere (Heilbronner Falken)
+hn20	-20- Marco Haas (Heilbronner Falken)
 hn22	-22- Luca Tosto (Heilbronner Falken)
 hn23	-23- Maximilian Leitner (Heilbronner Falken)
 hn24	-24- Corey Mapes (Heilbronner Falken)
