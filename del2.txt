@@ -1,12 +1,12 @@
 - EC Bad Nauheim -
 
-bn	-- Andreas Pauli (EC Bad Nauheim)
 bn	-- Michael Gottwald (EC Bad Nauheim)
 bn	-- Alexander Komov (EC Bad Nauheim)
 bn	-- Lars Stelzmann (EC Bad Nauheim)
 bn4	-4- Kevin Schmidt (EC Bad Nauheim)
 bn6	-6- Tim Coffman (EC Bad Nauheim)
 bn9	-9- Huba Sekesi (EC Bad Nauheim)
+bn10	-10- Andreas Pauli (EC Bad Nauheim)
 bn11	-11- Philipp Wachter (EC Bad Nauheim)
 bn14	-14- Kevin Niedenz (EC Bad Nauheim)
 bn15	-15- Robin van Calster (EC Bad Nauheim)
