@@ -80,7 +80,6 @@ cr29	-29- Valentino Weißgerber (Eispiraten Crimmitschau)
 cr30	-30- Yannic Schulze (Eispiraten Crimmitschau)
 cr33	-33- Nicolas Sauer (Eispiraten Crimmitschau)
 cr34	-34- Ilya Sharipov (Eispiraten Crimmitschau)
-cr40	-40- Tim Lutz (Eispiraten Crimmitschau)
 cr44	-44- Taylor Doherty (Eispiraten Crimmitschau)
 cr49	-49- Janis Hübner (Eispiraten Crimmitschau)
 cr53	-53- Maxim Rausch (Eispiraten Crimmitschau)
@@ -330,6 +329,7 @@ kp101	Per Bäcklin (Co-Trainer Krefeld Pinguine)
 
 - Lausitzer Füchse -
 
+lf	-- Ville Kolppanen (Lausitzer Füchse)
 lf2	-2- Sebastian Zauner (Lausitzer Füchse)
 lf4	-4- Steve Hanusch (Lausitzer Füchse)
 lf5	-5- Jan Bednar (Lausitzer Füchse)
