@@ -475,5 +475,7 @@ wb86	-86- Tyler Morley (Grizzlys Wolfsburg)
 wb89	-89- Rhett Rakhshani (Grizzlys Wolfsburg)
 wb93	-93- Spencer Machacek (Grizzlys Wolfsburg)
 wb95	-95- Fabio Pfohl (Grizzlys Wolfsburg)
+wb100	Michael Stewart (Trainer Grizzlys Wolfsburg)
+wb101	Tyler Haskins (Co-Trainer Grizzlys Wolfsburg)
 
 
