@@ -454,6 +454,7 @@ mm101	Daniel Huhn (Co-Trainer ECDC Memmingen)
 
 - EHF Passau Black Hawks -
 
+pa1	-1- Alexander Wunderlich (EHF Passau Black Hawks)
 pa6	-6- Michael Reich (EHF Passau Black Hawks)
 pa7	-7- Raul Jakob (EHF Passau Black Hawks)
 pa10	-10- Maximilian Kolesnikov (EHF Passau Black Hawks)
