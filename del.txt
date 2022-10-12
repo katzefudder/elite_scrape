@@ -227,7 +227,7 @@ fl101	Jan Barta (Co-Trainer Löwen Frankfurt)
 
 - Fischtown Pinguins -
 
-ft01	-01- Sebastian Graf (Fischtown Pinguins)
+ft	-- Antti Tyrväinen (Fischtown Pinguins)
 ft03	-03- Nick Aichinger (Fischtown Pinguins)
 ft05	-05- Moritz Wirth (Fischtown Pinguins)
 ft08	-08- Nino Kinder (Fischtown Pinguins)
@@ -248,7 +248,6 @@ ft50	-50- Patch Alber (Fischtown Pinguins)
 ft56	-56- Maximilian Franzreb (Fischtown Pinguins)
 ft57	-57- Alex Friesen (Fischtown Pinguins)
 ft65	-65- Christian Wejse (Fischtown Pinguins)
-ft67	-67- David Miserotti-Böttcher (Fischtown Pinguins)
 ft71	-71- Niklas Andersen (Fischtown Pinguins)
 ft72	-72- Phillip Bruggisser (Fischtown Pinguins)
 ft91	-91- Miha Verlic (Fischtown Pinguins)
