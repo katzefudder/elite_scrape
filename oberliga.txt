@@ -255,7 +255,6 @@ hf101	Gordon Nickel (Co-Trainer Herforder EV)
 
 - Hannover Indians -
 
-hi	-- Johan Skinnars (Hannover Indians)
 hi1	-1- Sebastian Graf (Hannover Indians)
 hi4	-4- Robin Thalmeier (Hannover Indians)
 hi7	-7- Tobias Möller (Hannover Indians)
@@ -277,6 +276,7 @@ hi45	-45- Andrei Strakhov (Hannover Indians)
 hi67	-67- David Miserotti-Böttcher (Hannover Indians)
 hi71	-71- Maximilian Pohl (Hannover Indians)
 hi90	-90- Jan Dalgic (Hannover Indians)
+hi95	-95- Johan Skinnars (Hannover Indians)
 hi97	-97- Jayden Schubert (Hannover Indians)
 hi100	Len Soccio (Trainer Hannover Indians)
 hi101	Björn Naujokat (Co-Trainer Hannover Indians)
@@ -284,10 +284,12 @@ hi101	Björn Naujokat (Co-Trainer Hannover Indians)
 
 - Höchstadter EC -
 
+hs	-- Konstantin Melnikow (Höchstadter EC)
 hs2	-2- Mauriz Silbermann (Höchstadter EC)
 hs5	-5- Elias Pata (Höchstadter EC)
 hs6	-6- Tom Horschel (Höchstadter EC)
 hs13	-13- Leon Hartl (Höchstadter EC)
+hs14	-14- Leon Schuster (Höchstadter EC)
 hs20	-20- Daniel Tratz (Höchstadter EC)
 hs23	-23- Jari Neugebauer (Höchstadter EC)
 hs23	-23- Oliver Noack (Höchstadter EC)

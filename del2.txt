@@ -438,6 +438,8 @@ rt101	Casey Fratkin (Co-Trainer Ravensburg Towerstars)
 
 - VER Selb -
 
+se	-- Jakub Kania (VER Selb)
+se	-- Konstantin Melnikow (VER Selb)
 se1	-1- Michael Bitzer (VER Selb)
 se2	-2- Mauriz Silbermann (VER Selb)
 se5	-5- Elias Pata (VER Selb)
