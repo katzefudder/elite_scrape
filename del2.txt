@@ -324,7 +324,6 @@ kp77	-77- Tom-Eric Bappert (Krefeld Pinguine)
 kp79	-79- Nikita Krymskiy (Krefeld Pinguine)
 kp91	-91- Mike Fischer (Krefeld Pinguine)
 kp98	-98- Davis Koch (Krefeld Pinguine)
-kp100	Leif Strömberg (Trainer Krefeld Pinguine)
 kp101	Per Bäcklin (Co-Trainer Krefeld Pinguine)
 
 

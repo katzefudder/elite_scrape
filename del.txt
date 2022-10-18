@@ -70,7 +70,6 @@ ap101	Derek Mayer (Co-Trainer Augsburger Panther)
 
 bs03	-03- Max Prommersberger (Bietigheim Steelers)
 bs08	-08- Guillaume Naud (Bietigheim Steelers)
-bs10	-10- Norman Hauner (Bietigheim Steelers)
 bs12	-12- C.J. Stretch (Bietigheim Steelers)
 bs14	-14- Benjamin Zientek (Bietigheim Steelers)
 bs15	-15- Robert Kneisler (Bietigheim Steelers)
@@ -285,7 +284,7 @@ ir92	-92- Andreas Jenike (Iserlohn Roosters)
 ir93	-93- Casey Bailey (Iserlohn Roosters)
 ir95	-95- Eugen Alanov (Iserlohn Roosters)
 ir98	-98- Kris Foucault (Iserlohn Roosters)
-ir100	Kurt Kleinendorst (Trainer Iserlohn Roosters)
+ir100	Greg Poss (Trainer Iserlohn Roosters)
 ir101	Pierre Beaulieu (Co-Trainer Iserlohn Roosters)
 
 
@@ -422,6 +421,7 @@ st101	Robert Leask (Co-Trainer Straubing Tigers)
 
 - Schwenninger Wild Wings -
 
+sw	-- David Ullström (Schwenninger Wild Wings)
 sw04	-04- Ville Lajunen (Schwenninger Wild Wings)
 sw07	-07- Kai Zernikel (Schwenninger Wild Wings)
 sw09	-09- Philip Feist (Schwenninger Wild Wings)
