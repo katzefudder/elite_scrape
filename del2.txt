@@ -32,7 +32,6 @@ bn91	-91- Marc El-Sayed (EC Bad Nauheim)
 
 - Bayreuth Tigers -
 
-by	-- Branden Gracel (Bayreuth Tigers)
 by3	-3- Leon Schuster (Bayreuth Tigers)
 by6	-6- Paul Fabian (Bayreuth Tigers)
 by10	-10- Eric Stephan (Bayreuth Tigers)
@@ -48,6 +47,7 @@ by41	-41- Dani Bindels (Bayreuth Tigers)
 by48	-48- Mike Mieszkowski (Bayreuth Tigers)
 by51	-51- Philippe Cornet (Bayreuth Tigers)
 by57	-57- Christian Kretschmann (Bayreuth Tigers)
+by58	-58- Branden Gracel (Bayreuth Tigers)
 by66	-66- Jan-Luca Schumacher (Bayreuth Tigers)
 by71	-71- Sami Blomqvist (Bayreuth Tigers)
 by73	-73- Tobias Meier (Bayreuth Tigers)
