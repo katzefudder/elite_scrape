@@ -421,11 +421,11 @@ st101	Robert Leask (Co-Trainer Straubing Tigers)
 
 - Schwenninger Wild Wings -
 
-sw	-- David Ullström (Schwenninger Wild Wings)
 sw04	-04- Ville Lajunen (Schwenninger Wild Wings)
 sw07	-07- Kai Zernikel (Schwenninger Wild Wings)
 sw09	-09- Philip Feist (Schwenninger Wild Wings)
 sw10	-10- Peter Spornberger (Schwenninger Wild Wings)
+sw19	-19- David Ullström (Schwenninger Wild Wings)
 sw26	-26- Brandon DeFazio (Schwenninger Wild Wings)
 sw39	-39- Marvin Cüpper (Schwenninger Wild Wings)
 sw40	-40- Ken Andre Olimb (Schwenninger Wild Wings)
