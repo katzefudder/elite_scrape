@@ -325,6 +325,7 @@ kh101	Thomas Brandl (Co-Trainer Kölner Haie)
 
 - Nürnberg Ice Tigers -
 
+nb	-- Rick Schofield (Nürnberg Ice Tigers)
 nb06	-06- Julius Karrer (Nürnberg Ice Tigers)
 nb08	-08- Tyler Sheehy (Nürnberg Ice Tigers)
 nb13	-13- Ryan Stoa (Nürnberg Ice Tigers)

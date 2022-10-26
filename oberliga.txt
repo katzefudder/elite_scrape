@@ -94,6 +94,8 @@ dl81	-81- Mike Fischer (EG Diez-Limburg)
 dl82	-82- Dennis Miller (EG Diez-Limburg)
 dl83	-83- Tom-Eric Bappert (EG Diez-Limburg)
 dl84	-84- Nikonor Dobryskin (EG Diez-Limburg)
+dl85	-85- Fabian Schuh (EG Diez-Limburg)
+dl86	-86- Sandro Mayr (EG Diez-Limburg)
 dl94	-94- Noureddine Bettahar (EG Diez-Limburg)
 dl100	Andrei Telyukin (Trainer EG Diez-Limburg)
 
