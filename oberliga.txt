@@ -199,6 +199,7 @@ ha100	Jeff Job (Trainer Lippe-Hockey-Hamm)
 
 - Herner EV 2007 -
 
+he	-- Elvijs Biezais (Herner EV 2007)
 he3	-3- Niklas Hane (Herner EV 2007)
 he4	-4- Benjamin Hüfner (Herner EV 2007)
 he5	-5- Nils Elten (Herner EV 2007)
