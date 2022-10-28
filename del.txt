@@ -163,6 +163,8 @@ eb89	-89- Zach Boychuk (Eisbären Berlin)
 eb92	-92- Marcel Noebels (Eisbären Berlin)
 eb93	-93- Leo Pföderl (Eisbären Berlin)
 eb97	-97- Matt White (Eisbären Berlin)
+eb100	Serge Aubin (Trainer Eisbären Berlin)
+eb101	Craig Streu (Co-Trainer Eisbären Berlin)
 
 
 - ERC Ingolstadt -
@@ -259,6 +261,7 @@ ft101	Alexander Sulzer (Co-Trainer Fischtown Pinguins)
 
 - Iserlohn Roosters -
 
+ir	-- Émile Poirier (Iserlohn Roosters)
 ir06	-06- Ryan O'Connor (Iserlohn Roosters)
 ir09	-09- Brent Raedeke (Iserlohn Roosters)
 ir10	-10- Lean Bergmann (Iserlohn Roosters)

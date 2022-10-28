@@ -96,7 +96,7 @@ dl83	-83- Tom-Eric Bappert (EG Diez-Limburg)
 dl84	-84- Nikonor Dobryskin (EG Diez-Limburg)
 dl85	-85- Fabian Schuh (EG Diez-Limburg)
 dl86	-86- Sandro Mayr (EG Diez-Limburg)
-dl94	-94- Noureddine Bettahar (EG Diez-Limburg)
+dl87	-87- Justin van der Ven (EG Diez-Limburg)
 dl100	Andrei Telyukin (Trainer EG Diez-Limburg)
 
 
@@ -199,7 +199,6 @@ ha100	Jeff Job (Trainer Lippe-Hockey-Hamm)
 
 - Herner EV 2007 -
 
-he	-- Elvijs Biezais (Herner EV 2007)
 he3	-3- Niklas Hane (Herner EV 2007)
 he4	-4- Benjamin Hüfner (Herner EV 2007)
 he5	-5- Nils Elten (Herner EV 2007)
@@ -218,6 +217,7 @@ he30	-30- Björn Linda (Herner EV 2007)
 he33	-33- Lennard Brunnert (Herner EV 2007)
 he35	-35- Finn Becker (Herner EV 2007)
 he47	-47- Denis Fominych (Herner EV 2007)
+he70	-70- Elvijs Biezais (Herner EV 2007)
 he71	-71- Marlon Polter (Herner EV 2007)
 he83	-83- Kevin Kunz (Herner EV 2007)
 he87	-87- Michael Gottwald (Herner EV 2007)
