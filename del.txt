@@ -195,6 +195,7 @@ ei71	-71- Justin Feser (ERC Ingolstadt)
 ei86	-86- Daniel Pietta (ERC Ingolstadt)
 ei90	-90- Jerome Flaake (ERC Ingolstadt)
 ei100	Mark French (Trainer ERC Ingolstadt)
+ei101	Brad Tapper (Co-Trainer ERC Ingolstadt)
 
 
 - Löwen Frankfurt -
@@ -323,7 +324,7 @@ kh74	-74- Oleg Shilin (Kölner Haie)
 kh77	-77- Alex Roach (Kölner Haie)
 kh91	-91- Moritz Müller (Kölner Haie)
 kh100	Uwe Krupp (Trainer Kölner Haie)
-kh101	Thomas Brandl (Co-Trainer Kölner Haie)
+kh101	Clément Jodoin (Co-Trainer Kölner Haie)
 
 
 - Nürnberg Ice Tigers -
@@ -387,6 +388,8 @@ rb84	-84- Trevor Parkes (EHC München)
 rb88	-88- Julian Lutz (EHC München)
 rb91	-91- Filip Varejcka (EHC München)
 rb93	-93- Maximilian Kastner (EHC München)
+rb100	Don Jackson (Trainer EHC München)
+rb101	Pierre Allard (Co-Trainer EHC München)
 
 
 - Straubing Tigers -
