@@ -230,7 +230,6 @@ he101	Lars Gerike (Co-Trainer Herner EV 2007)
 
 - Herforder EV -
 
-hf	-- Dominik Scharfenort (Herforder EV)
 hf4	-4- Marcnel Bathe (Herforder EV)
 hf6	-6- Jonas Gerstung (Herforder EV)
 hf7	-7- Rustams Begovs (Herforder EV)

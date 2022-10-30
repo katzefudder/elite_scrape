@@ -329,9 +329,9 @@ kh101	Clément Jodoin (Co-Trainer Kölner Haie)
 
 - Nürnberg Ice Tigers -
 
-nb	-- Rick Schofield (Nürnberg Ice Tigers)
 nb06	-06- Julius Karrer (Nürnberg Ice Tigers)
 nb08	-08- Tyler Sheehy (Nürnberg Ice Tigers)
+nb09	-09- Rick Schofield (Nürnberg Ice Tigers)
 nb13	-13- Ryan Stoa (Nürnberg Ice Tigers)
 nb15	-15- Charlie Jahnke (Nürnberg Ice Tigers)
 nb17	-17- Patrick Reimer (Nürnberg Ice Tigers)
