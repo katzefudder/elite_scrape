@@ -262,7 +262,6 @@ ft101	Alexander Sulzer (Co-Trainer Fischtown Pinguins)
 
 - Iserlohn Roosters -
 
-ir	-- Émile Poirier (Iserlohn Roosters)
 ir06	-06- Ryan O'Connor (Iserlohn Roosters)
 ir09	-09- Brent Raedeke (Iserlohn Roosters)
 ir10	-10- Lean Bergmann (Iserlohn Roosters)
@@ -272,6 +271,7 @@ ir14	-14- Sena Acolatse (Iserlohn Roosters)
 ir15	-15- Erik Buschmann (Iserlohn Roosters)
 ir16	-16- Hubert Labrie (Iserlohn Roosters)
 ir18	-18- Eric Cornel (Iserlohn Roosters)
+ir19	-19- Émile Poirier (Iserlohn Roosters)
 ir20	-20- Jonas Neffin (Iserlohn Roosters)
 ir22	-22- John Broda (Iserlohn Roosters)
 ir24	-24- Sebastian Streu (Iserlohn Roosters)
