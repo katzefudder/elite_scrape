@@ -430,8 +430,7 @@ li90	-90- Daniel Stiefenhofer (EV Lindau)
 li92	-92- Simon Klatte (EV Lindau)
 li93	-93- Skylar Pacheco (EV Lindau)
 li98	-98- Florian Lüsch (EV Lindau)
-li100	Stefan Wiedmaier (Trainer EV Lindau)
-li101	Marko Sakic (Co-Trainer EV Lindau)
+li100	Marko Sakic (Trainer EV Lindau)
 
 
 - ECDC Memmingen -
