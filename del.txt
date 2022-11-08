@@ -201,6 +201,8 @@ ei101	Brad Tapper (Co-Trainer ERC Ingolstadt)
 
 - Löwen Frankfurt -
 
+fl	-- Jerry D'Amigo (Löwen Frankfurt)
+fl	-- Chad Nehring (Löwen Frankfurt)
 fl01	-01- Jonas Gähr (Löwen Frankfurt)
 fl04	-04- Reid McNeill (Löwen Frankfurt)
 fl05	-05- Markus Freis (Löwen Frankfurt)
