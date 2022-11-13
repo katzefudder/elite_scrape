@@ -29,6 +29,7 @@ bn61	-61- Jordan Hickmott (EC Bad Nauheim)
 bn77	-77- Mick Köhler (EC Bad Nauheim)
 bn80	-80- Rihards Babulis (EC Bad Nauheim)
 bn91	-91- Marc El-Sayed (EC Bad Nauheim)
+bn100	Harry Lange (Trainer EC Bad Nauheim)
 
 
 - Bayreuth Tigers -
