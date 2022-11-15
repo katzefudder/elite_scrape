@@ -85,6 +85,7 @@ cr34	-34- Ilya Sharipov (Eispiraten Crimmitschau)
 cr44	-44- Taylor Doherty (Eispiraten Crimmitschau)
 cr49	-49- Janis Hübner (Eispiraten Crimmitschau)
 cr53	-53- Maxim Rausch (Eispiraten Crimmitschau)
+cr61	-61- Walther Klaus (Eispiraten Crimmitschau)
 cr67	-67- Jasper Lindsten (Eispiraten Crimmitschau)
 cr71	-71- Scott Feser (Eispiraten Crimmitschau)
 cr72	-72- Georgiy Saakyan (Eispiraten Crimmitschau)
@@ -202,6 +203,7 @@ fr101	Pyry Eskola (Co-Trainer EHC Freiburg)
 
 - Heilbronner Falken -
 
+hn	-- River Rymsha (Heilbronner Falken)
 hn4	-4- Lukas Bender (Heilbronner Falken)
 hn8	-8- Noah Dunham (Heilbronner Falken)
 hn12	-12- Justin Kirsch (Heilbronner Falken)
