@@ -580,6 +580,7 @@ ri91	-91- Filip Varejcka (SC Riessersee)
 ri94	-94- Louis Waaßmann (SC Riessersee)
 ri95	-95- Simon Mayr (SC Riessersee)
 ri100	Pat Cortina (Trainer SC Riessersee)
+ri101	Anton Raubal (Co-Trainer SC Riessersee)
 
 
 - Starbulls Rosenheim -
@@ -674,6 +675,7 @@ tt74	-74- Ninho Hessels (Tilburg Trappers)
 tt75	-75- Sean Richards (Tilburg Trappers)
 tt77	-77- Reno de Hondt (Tilburg Trappers)
 tt81	-81- Max Hermens (Tilburg Trappers)
+tt92	-92- Brett Bulmer (Tilburg Trappers)
 tt95	-95- Danny Stempher (Tilburg Trappers)
 tt100	Doug Mason (Trainer Tilburg Trappers)
 
