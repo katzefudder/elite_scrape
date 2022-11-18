@@ -380,6 +380,7 @@ lb29	-29- Dominic Erdt (HC Landsberg)
 lb31	-31- Emanuel Geiger (HC Landsberg)
 lb32	-32- Andreas Magg (HC Landsberg)
 lb33	-33- Michael Güßbacher (HC Landsberg)
+lb40	-40- Dominik Held (HC Landsberg)
 lb42	-42- Nico Miedl (HC Landsberg)
 lb43	-43- Marc Sauer (HC Landsberg)
 lb44	-44- Korbinian Benz (HC Landsberg)
@@ -438,6 +439,7 @@ li100	Marko Sakic (Trainer EV Lindau)
 
 - ECDC Memmingen -
 
+mm	-- Andrew Johnston (ECDC Memmingen)
 mm3	-3- Leon Kittel (ECDC Memmingen)
 mm4	-4- Marvin Feigl (ECDC Memmingen)
 mm5	-5- Luigi Calce (ECDC Memmingen)
