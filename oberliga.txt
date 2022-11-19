@@ -439,7 +439,6 @@ li100	Marko Sakic (Trainer EV Lindau)
 
 - ECDC Memmingen -
 
-mm	-- Andrew Johnston (ECDC Memmingen)
 mm3	-3- Leon Kittel (ECDC Memmingen)
 mm4	-4- Marvin Feigl (ECDC Memmingen)
 mm5	-5- Luigi Calce (ECDC Memmingen)
@@ -463,6 +462,7 @@ mm42	-42- Maxim Mastic (ECDC Memmingen)
 mm44	-44- Maxim Kryvorutskyy (ECDC Memmingen)
 mm51	-51- Petr Pohl (ECDC Memmingen)
 mm55	-55- Christopher Kasten (ECDC Memmingen)
+mm61	-61- Andrew Johnston (ECDC Memmingen)
 mm69	-69- Matej Pekr (ECDC Memmingen)
 mm72	-72- Linus Svedlund (ECDC Memmingen)
 mm77	-77- Jaroslav Hafenrichter (ECDC Memmingen)
