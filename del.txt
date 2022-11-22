@@ -134,6 +134,7 @@ de101	Thomas Dolak (Co-Trainer Düsseldorfer EG)
 
 - Eisbären Berlin -
 
+eb2	-2- Rayan Bettahar (Eisbären Berlin)
 eb04	-04- Morgan Ellis (Eisbären Berlin)
 eb07	-07- Frank Hördler (Eisbären Berlin)
 eb08	-08- Marco Nowak (Eisbären Berlin)

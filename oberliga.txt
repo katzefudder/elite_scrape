@@ -609,6 +609,8 @@ sr50	-50- Andreas Mechel (Starbulls Rosenheim)
 sr55	-55- Florian Krumpe (Starbulls Rosenheim)
 sr61	-61- Tommy Müller (Starbulls Rosenheim)
 sr62	-62- Rene Mertz (Starbulls Rosenheim)
+sr63	-63- Yannick Raab (Starbulls Rosenheim)
+sr64	-64- Kilian Böhm (Starbulls Rosenheim)
 sr67	-67- Christopher Kolarz (Starbulls Rosenheim)
 sr76	-76- Kilian Kühnhauser (Starbulls Rosenheim)
 sr77	-77- Michael Knaub (Starbulls Rosenheim)
@@ -623,6 +625,7 @@ sr101	Jamie Bartman (Co-Trainer Starbulls Rosenheim)
 
 - Tölzer Löwen -
 
+to	-- Sören Sturm (Tölzer Löwen)
 to1	-1- Josef Hölzl (Tölzer Löwen)
 to5	-5- Anton Engel (Tölzer Löwen)
 to7	-7- Timo Sticha (Tölzer Löwen)
