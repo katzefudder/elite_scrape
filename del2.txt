@@ -453,7 +453,6 @@ rt101	Casey Fratkin (Co-Trainer Ravensburg Towerstars)
 
 - VER Selb -
 
-se	-- Bryce Reddick (VER Selb)
 se1	-1- Michael Bitzer (VER Selb)
 se2	-2- Mauriz Silbermann (VER Selb)
 se5	-5- Elias Pata (VER Selb)
@@ -481,6 +480,7 @@ se71	-71- Leon Doubrawa (VER Selb)
 se83	-83- Martin Hlozek (VER Selb)
 se86	-86- Philip Woltmann (VER Selb)
 se88	-88- Daniel Schwamberger (VER Selb)
+se89	-89- Bryce Reddick (VER Selb)
 se90	-90- Jan Hammerbauer (VER Selb)
 se91	-91- Steven Deeg (VER Selb)
 se92	-92- Richard Gelke (VER Selb)
