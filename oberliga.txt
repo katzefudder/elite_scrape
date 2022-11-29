@@ -359,7 +359,6 @@ ks82	-82- Vili Vesalainen (EHC Klostersee)
 ks90	-90- Marinus Kritzenberger (EHC Klostersee)
 ks91	-91- Johannes Kroner (EHC Klostersee)
 ks94	-94- Raphael Kaefer (EHC Klostersee)
-ks96	-96- Joseph Leonidas (EHC Klostersee)
 ks97	-97- Sebastian Sterr (EHC Klostersee)
 ks100	Dominik Quinlan (Trainer EHC Klostersee)
 
