@@ -435,6 +435,7 @@ st101	Robert Leask (Co-Trainer Straubing Tigers)
 
 - Schwenninger Wild Wings -
 
+sw	-- Daniel Neumann (Schwenninger Wild Wings)
 sw04	-04- Ville Lajunen (Schwenninger Wild Wings)
 sw07	-07- Kai Zernikel (Schwenninger Wild Wings)
 sw09	-09- Philip Feist (Schwenninger Wild Wings)

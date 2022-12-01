@@ -332,6 +332,7 @@ hs100	Mikhail Nemirovsky (Trainer Höchstadter EC)
 
 - EHC Klostersee -
 
+ks	-- Jordy Stallard (EHC Klostersee)
 ks7	-7- Nicolai Quinlan (EHC Klostersee)
 ks8	-8- Marc Bosecker (EHC Klostersee)
 ks10	-10- Simon Roeder (EHC Klostersee)
