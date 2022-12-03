@@ -169,7 +169,6 @@ er101	Martin Slansky (Co-Trainer Eisbären Regensburg)
 
 - EHC Freiburg -
 
-fr	-- Michael Prapavessis (EHC Freiburg)
 fr6	-6- Lennart Otten (EHC Freiburg)
 fr7	-7- Kyle Sonnenburg (EHC Freiburg)
 fr9	-9- Nikolas Linsenmaier (EHC Freiburg)
@@ -193,6 +192,7 @@ fr55	-55- Mick Hochreither (EHC Freiburg)
 fr62	-62- Tor Immo (EHC Freiburg)
 fr64	-64- Patrik Cerveny (EHC Freiburg)
 fr71	-71- Shawn O'Donnell (EHC Freiburg)
+fr77	-77- Michael Prapavessis (EHC Freiburg)
 fr78	-78- Kevin Orendorz (EHC Freiburg)
 fr79	-79- Calvin Pokorny (EHC Freiburg)
 fr81	-81- Christian Billich (EHC Freiburg)
