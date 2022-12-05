@@ -34,6 +34,7 @@ ch101	Patrick Saggau (Co-Trainer Crocodiles Hamburg)
 
 - Deggendorfer SC -
 
+dg	-- Antonin Dusek (Deggendorfer SC)
 dg3	-3- Eric Wolf (Deggendorfer SC)
 dg4	-4- Silvan Heiß (Deggendorfer SC)
 dg5	-5- Johannes Schmid (Deggendorfer SC)
