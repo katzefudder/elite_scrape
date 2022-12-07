@@ -94,6 +94,7 @@ bs75	-75- Teemu Lepaus (Bietigheim Steelers)
 bs84	-84- Chris Wilkie (Bietigheim Steelers)
 bs85	-85- Wotan Knecht (Bietigheim Steelers)
 bs90	-90- Constantin Braun (Bietigheim Steelers)
+bs100	Pekka Kangasalusta (Trainer Bietigheim Steelers)
 bs101	Fabian Dahlem (Co-Trainer Bietigheim Steelers)
 
 
