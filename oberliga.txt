@@ -69,6 +69,7 @@ dg101	Robert Suchomski (Co-Trainer Deggendorfer SC)
 
 - EG Diez-Limburg -
 
+dl	-- Alexander Seifert (EG Diez-Limburg)
 dl1	-1- Tommi Steffen (EG Diez-Limburg)
 dl4	-4- Andrei Telyukin (EG Diez-Limburg)
 dl5	-5- Torben Reuner (EG Diez-Limburg)
@@ -483,7 +484,6 @@ pa6	-6- Michael Reich (EHF Passau Black Hawks)
 pa7	-7- Raul Jakob (EHF Passau Black Hawks)
 pa10	-10- Maximilian Kolesnikov (EHF Passau Black Hawks)
 pa12	-12- Daniel Vilasek (EHF Passau Black Hawks)
-pa13	-13- Michael Franz (EHF Passau Black Hawks)
 pa15	-15- Sergej Janzen (EHF Passau Black Hawks)
 pa17	-17- Daniel Maul (EHF Passau Black Hawks)
 pa22	-22- Yuma Grimm (EHF Passau Black Hawks)
