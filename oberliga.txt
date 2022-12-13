@@ -477,8 +477,7 @@ mm69	-69- Matej Pekr (ECDC Memmingen)
 mm72	-72- Linus Svedlund (ECDC Memmingen)
 mm77	-77- Jaroslav Hafenrichter (ECDC Memmingen)
 mm88	-88- Donát Péter (ECDC Memmingen)
-mm100	Björn Lidström (Trainer ECDC Memmingen)
-mm101	Daniel Huhn (Co-Trainer ECDC Memmingen)
+mm100	Daniel Huhn (Trainer ECDC Memmingen)
 
 
 - EHF Passau Black Hawks -
