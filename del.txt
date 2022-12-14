@@ -269,6 +269,7 @@ ft101	Alexander Sulzer (Co-Trainer Fischtown Pinguins)
 
 - Iserlohn Roosters -
 
+ir4	-4- Chris Bigras (Iserlohn Roosters)
 ir06	-06- Ryan O'Connor (Iserlohn Roosters)
 ir09	-09- Brent Raedeke (Iserlohn Roosters)
 ir10	-10- Lean Bergmann (Iserlohn Roosters)
