@@ -27,6 +27,7 @@ bn36	-36- Jerry Pollastrone (EC Bad Nauheim)
 bn42	-42- Nicolas Moll (EC Bad Nauheim)
 bn55	-55- Edwin Tropmann (EC Bad Nauheim)
 bn61	-61- Jordan Hickmott (EC Bad Nauheim)
+bn72	-72- Niklas Lunemann (EC Bad Nauheim)
 bn77	-77- Mick Köhler (EC Bad Nauheim)
 bn80	-80- Rihards Babulis (EC Bad Nauheim)
 bn91	-91- Marc El-Sayed (EC Bad Nauheim)
@@ -35,6 +36,7 @@ bn100	Harry Lange (Trainer EC Bad Nauheim)
 
 - Bayreuth Tigers -
 
+by	-- Brandon Halverson (Bayreuth Tigers)
 by3	-3- Leon Schuster (Bayreuth Tigers)
 by6	-6- Paul Fabian (Bayreuth Tigers)
 by10	-10- Eric Stephan (Bayreuth Tigers)
