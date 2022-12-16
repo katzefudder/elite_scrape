@@ -46,7 +46,6 @@ by18	-18- Jesse Roach (Bayreuth Tigers)
 by20	-20- Ville Järveläinen (Bayreuth Tigers)
 by21	-21- Travis Ewanyk (Bayreuth Tigers)
 by25	-25- Dennis Dietmann (Bayreuth Tigers)
-by26	-26- Joey Luknowsky (Bayreuth Tigers)
 by30	-30- Lukas Steinhauer (Bayreuth Tigers)
 by35	-35- Olafr Schmidt (Bayreuth Tigers)
 by41	-41- Dani Bindels (Bayreuth Tigers)
@@ -383,6 +382,7 @@ lf101	André Mücke (Co-Trainer Lausitzer Füchse)
 
 - EV Landshut -
 
+lh	-- Luka Gracnar (EV Landshut)
 lh6	-6- Michael Reich (EV Landshut)
 lh9	-9- Tyson McLellan (EV Landshut)
 lh10	-10- Julian Kornelli (EV Landshut)
