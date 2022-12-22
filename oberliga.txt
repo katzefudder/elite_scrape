@@ -1,5 +1,6 @@
 - Crocodiles Hamburg -
 
+ch1	-1- Tobias Loepp (Crocodiles Hamburg)
 ch3	-3- Dennis Reimer (Crocodiles Hamburg)
 ch5	-5- Maximilian Schaludek (Crocodiles Hamburg)
 ch7	-7- Daniel Visner (Crocodiles Hamburg)

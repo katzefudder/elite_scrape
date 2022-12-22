@@ -341,8 +341,8 @@ kp79	-79- Nikita Krymskiy (Krefeld Pinguine)
 kp91	-91- Mike Fischer (Krefeld Pinguine)
 kp97	-97- Edmund Junemann (Krefeld Pinguine)
 kp98	-98- Davis Koch (Krefeld Pinguine)
-kp100	Peter Draisaitl (Trainer Krefeld Pinguine)
-kp101	Per Bäcklin (Co-Trainer Krefeld Pinguine)
+kp100	Boris Blank (Trainer Krefeld Pinguine)
+kp101	Herbert Hohenberger (Co-Trainer Krefeld Pinguine)
 
 
 - Lausitzer Füchse -
