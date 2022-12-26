@@ -62,7 +62,7 @@ ap65	-65- Niklas Länger (Augsburger Panther)
 ap71	-71- Marcel Barinka (Augsburger Panther)
 ap73	-73- Matt Puempel (Augsburger Panther)
 ap74	-74- Vinny Saponari (Augsburger Panther)
-ap100	Peter Russell (Trainer Augsburger Panther)
+ap100	Kai Suikkanen (Trainer Augsburger Panther)
 ap101	Derek Mayer (Co-Trainer Augsburger Panther)
 
 
