@@ -106,7 +106,6 @@ dl100	Andrei Telyukin (Trainer EG Diez-Limburg)
 
 - ESC Moskitos Essen -
 
-es2	-2- Mike Müller (ESC Moskitos Essen)
 es5	-5- Stephan Kreuzmann (ESC Moskitos Essen)
 es7	-7- Tim Junge (ESC Moskitos Essen)
 es9	-9- Kevin Bruijsten (ESC Moskitos Essen)
@@ -122,8 +121,6 @@ es34	-34- Fabian Hegmann (ESC Moskitos Essen)
 es42	-42- Alexei Dmitriev (ESC Moskitos Essen)
 es43	-43- Nils Velm (ESC Moskitos Essen)
 es44	-44- Maximilian Herz (ESC Moskitos Essen)
-es45	-45- Jan Wiechert (ESC Moskitos Essen)
-es50	-50- Rune-Merlin Raab (ESC Moskitos Essen)
 es55	-55- Jona Dannöhl (ESC Moskitos Essen)
 es67	-67- Devon Daniels (ESC Moskitos Essen)
 es71	-71- Robin Slanina (ESC Moskitos Essen)
