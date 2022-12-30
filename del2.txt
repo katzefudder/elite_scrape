@@ -242,7 +242,6 @@ hn91	-91- Julian Lautenschlager (Heilbronner Falken)
 hn92	-92- Philipp Preto (Heilbronner Falken)
 hn96	-96- Simon Thiel (Heilbronner Falken)
 hn97	-97- Ilya Andryukhov (Heilbronner Falken)
-hn100	Jason Morgan (Trainer Heilbronner Falken)
 hn101	Martin Jiranek (Co-Trainer Heilbronner Falken)
 
 

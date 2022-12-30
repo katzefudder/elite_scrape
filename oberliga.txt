@@ -69,6 +69,7 @@ dg101	Robert Suchomski (Co-Trainer Deggendorfer SC)
 
 - EG Diez-Limburg -
 
+dl	-- Daniel Biggins (EG Diez-Limburg)
 dl1	-1- Tommi Steffen (EG Diez-Limburg)
 dl4	-4- Andrei Telyukin (EG Diez-Limburg)
 dl5	-5- Torben Reuner (EG Diez-Limburg)
@@ -95,7 +96,6 @@ dl75	-75- Nick Kardas (EG Diez-Limburg)
 dl77	-77- Alexander Seifert (EG Diez-Limburg)
 dl81	-81- Mike Fischer (EG Diez-Limburg)
 dl82	-82- Dennis Miller (EG Diez-Limburg)
-dl83	-83- Tom-Eric Bappert (EG Diez-Limburg)
 dl84	-84- Nikonor Dobryskin (EG Diez-Limburg)
 dl85	-85- Fabian Schuh (EG Diez-Limburg)
 dl88	-88- Dave König (EG Diez-Limburg)
@@ -201,7 +201,7 @@ ha90	-90- Artur Tegkaev (Lippe-Hockey-Hamm)
 ha92	-92- Michal Spacek (Lippe-Hockey-Hamm)
 ha95	-95- Kyle Brothers (Lippe-Hockey-Hamm)
 ha96	-96- Daniel Filimonow (Lippe-Hockey-Hamm)
-ha100	Jeff Job (Trainer Lippe-Hockey-Hamm)
+ha100	Joshua Mizerek (Trainer Lippe-Hockey-Hamm)
 
 
 - Herner EV 2007 -
@@ -320,6 +320,7 @@ hs47	-47- Philipp Stobbe (Höchstadter EC)
 hs50	-50- Martin Kokes (Höchstadter EC)
 hs55	-55- Jake Fardoe (Höchstadter EC)
 hs66	-66- Philip Woltmann (Höchstadter EC)
+hs67	-67- Lukas Ullmann (Höchstadter EC)
 hs69	-69- Martin Vojcak (Höchstadter EC)
 hs71	-71- Maximilian Miller (Höchstadter EC)
 hs77	-77- Michail Guft-Sokolov (Höchstadter EC)
