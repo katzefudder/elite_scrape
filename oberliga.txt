@@ -69,7 +69,6 @@ dg101	Robert Suchomski (Co-Trainer Deggendorfer SC)
 
 - EG Diez-Limburg -
 
-dl	-- Daniel Biggins (EG Diez-Limburg)
 dl1	-1- Tommi Steffen (EG Diez-Limburg)
 dl4	-4- Andrei Telyukin (EG Diez-Limburg)
 dl5	-5- Torben Reuner (EG Diez-Limburg)
@@ -89,6 +88,7 @@ dl27	-27- Noam Sherf (EG Diez-Limburg)
 dl29	-29- Janus Haseloff (EG Diez-Limburg)
 dl30	-30- Jonas Vogt (EG Diez-Limburg)
 dl31	-31- Tim Stenger (EG Diez-Limburg)
+dl39	-39- Daniel Biggins (EG Diez-Limburg)
 dl59	-59- Lauris Bajaruns (EG Diez-Limburg)
 dl72	-72- Dennis Bondarenko (EG Diez-Limburg)
 dl74	-74- Dominik Gutjahr (EG Diez-Limburg)
