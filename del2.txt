@@ -205,7 +205,6 @@ fr81	-81- Christian Billich (EHC Freiburg)
 fr85	-85- Viktor Buchner (EHC Freiburg)
 fr86	-86- Alexander De Los Rios (EHC Freiburg)
 fr90	-90- Steve Majher (EHC Freiburg)
-fr92	-92- Martin Réway (EHC Freiburg)
 fr100	Robert Hoffmann (Trainer EHC Freiburg)
 fr101	Pyry Eskola (Co-Trainer EHC Freiburg)
 
