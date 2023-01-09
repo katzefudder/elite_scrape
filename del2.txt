@@ -241,7 +241,8 @@ hn91	-91- Julian Lautenschlager (Heilbronner Falken)
 hn92	-92- Philipp Preto (Heilbronner Falken)
 hn96	-96- Simon Thiel (Heilbronner Falken)
 hn97	-97- Ilya Andryukhov (Heilbronner Falken)
-hn101	Martin Jiranek (Co-Trainer Heilbronner Falken)
+hn100	Martin Jiranek (Trainer Heilbronner Falken)
+hn101	Janne Sinkkonen (Co-Trainer Heilbronner Falken)
 
 
 - EC Kassel Huskies -
