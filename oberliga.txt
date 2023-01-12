@@ -67,6 +67,7 @@ dg101	Robert Suchomski (Co-Trainer Deggendorfer SC)
 
 - EG Diez-Limburg -
 
+dl	-- Nolan Redler (EG Diez-Limburg)
 dl1	-1- Tommi Steffen (EG Diez-Limburg)
 dl4	-4- Andrei Telyukin (EG Diez-Limburg)
 dl5	-5- Torben Reuner (EG Diez-Limburg)

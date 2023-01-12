@@ -172,7 +172,6 @@ eb101	Craig Streu (Co-Trainer Eisbären Berlin)
 
 - ERC Ingolstadt -
 
-ei03	-03- Simon Gnyp (ERC Ingolstadt)
 ei05	-05- Fabio Wagner (ERC Ingolstadt)
 ei07	-07- Colton Jobke (ERC Ingolstadt)
 ei08	-08- Philipp Krauß (ERC Ingolstadt)
