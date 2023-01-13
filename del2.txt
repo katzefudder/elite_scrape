@@ -36,13 +36,13 @@ bn100	Harry Lange (Trainer EC Bad Nauheim)
 
 - Bayreuth Tigers -
 
-by	-- Simon Gnyp (Bayreuth Tigers)
 by3	-3- Leon Schuster (Bayreuth Tigers)
 by4	-4- Tom Schwarz (Bayreuth Tigers)
 by6	-6- Paul Fabian (Bayreuth Tigers)
 by9	-9- Pascal Grosse (Bayreuth Tigers)
 by10	-10- Eric Stephan (Bayreuth Tigers)
 by11	-11- Lubor Pokovic (Bayreuth Tigers)
+by13	-13- Simon Gnyp (Bayreuth Tigers)
 by15	-15- Garret Pruden (Bayreuth Tigers)
 by18	-18- Jesse Roach (Bayreuth Tigers)
 by20	-20- Ville Järveläinen (Bayreuth Tigers)
@@ -454,8 +454,7 @@ rt86	-86- Josh MacDonald (Ravensburg Towerstars)
 rt87	-87- Fabian Dietz (Ravensburg Towerstars)
 rt91	-91- Julian Eichinger (Ravensburg Towerstars)
 rt93	-93- Luigi Calce (Ravensburg Towerstars)
-rt100	Tim Kehler (Trainer Ravensburg Towerstars)
-rt101	Casey Fratkin (Co-Trainer Ravensburg Towerstars)
+rt100	Peter Russell (Trainer Ravensburg Towerstars)
 
 
 - Selber Wölfe -

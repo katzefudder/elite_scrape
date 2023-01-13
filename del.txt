@@ -1,7 +1,7 @@
 - Adler Mannheim -
 
 am04	-04- Korbinian Holzer (Adler Mannheim)
-am6	-6- Joonas Lehtivuori (Adler Mannheim)
+am06	-06- Joonas Lehtivuori (Adler Mannheim)
 am07	-07- Sinan Akdag (Adler Mannheim)
 am09	-09- Nigel Dawes (Adler Mannheim)
 am11	-11- Taro Jentzsch (Adler Mannheim)
