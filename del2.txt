@@ -317,6 +317,7 @@ kb101	Daniel Jun (Co-Trainer ESV Kaufbeuren)
 
 - Krefeld Pinguine -
 
+kp	-- Victor Knaub (Krefeld Pinguine)
 kp5	-5- Nikonor Dobryskin (Krefeld Pinguine)
 kp9	-9- Marcel Müller (Krefeld Pinguine)
 kp11	-11- Eduard Lewandowski (Krefeld Pinguine)
