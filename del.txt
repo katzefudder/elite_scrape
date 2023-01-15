@@ -151,7 +151,6 @@ eb30	-30- Juho Markkanen (Eisbären Berlin)
 eb32	-32- Kevin Clark (Eisbären Berlin)
 eb33	-33- Nikita Quapp (Eisbären Berlin)
 eb34	-34- Kevin Handschuh (Eisbären Berlin)
-eb36	-36- Kristian Hufsky (Eisbären Berlin)
 eb37	-37- Felix Noack (Eisbären Berlin)
 eb38	-38- Yannick Veilleux (Eisbären Berlin)
 eb40	-40- Korbinian Geibel (Eisbären Berlin)
@@ -173,6 +172,7 @@ eb101	Craig Streu (Co-Trainer Eisbären Berlin)
 
 - ERC Ingolstadt -
 
+ei04	-04- Nicolas Schindler (ERC Ingolstadt)
 ei05	-05- Fabio Wagner (ERC Ingolstadt)
 ei07	-07- Colton Jobke (ERC Ingolstadt)
 ei08	-08- Philipp Krauß (ERC Ingolstadt)
