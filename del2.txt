@@ -247,7 +247,6 @@ hn101	Janne Sinkkonen (Co-Trainer Heilbronner Falken)
 
 - EC Kassel Huskies -
 
-ka	-- Kristian Hufsky (EC Kassel Huskies)
 ka1	-1- Jake Kielly (EC Kassel Huskies)
 ka7	-7- Joel Keussen (EC Kassel Huskies)
 ka8	-8- Oleg Tschwanow (EC Kassel Huskies)
@@ -266,6 +265,7 @@ ka31	-31- Nick Ekrot (EC Kassel Huskies)
 ka33	-33- Philipp Maurer (EC Kassel Huskies)
 ka35	-35- Jerry Kuhn (EC Kassel Huskies)
 ka36	-36- Pierre Preto (EC Kassel Huskies)
+ka38	-38- Kristian Hufsky (EC Kassel Huskies)
 ka43	-43- Fabian Ribnitzky (EC Kassel Huskies)
 ka49	-49- Steven Seigo (EC Kassel Huskies)
 ka55	-55- Samuel Dotter (EC Kassel Huskies)
