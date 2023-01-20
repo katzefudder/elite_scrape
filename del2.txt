@@ -36,6 +36,7 @@ bn100	Harry Lange (Trainer EC Bad Nauheim)
 
 - Bayreuth Tigers -
 
+by	-- Brett Schaefer (Bayreuth Tigers)
 by3	-3- Leon Schuster (Bayreuth Tigers)
 by4	-4- Tom Schwarz (Bayreuth Tigers)
 by6	-6- Paul Fabian (Bayreuth Tigers)
