@@ -71,6 +71,7 @@ ap101	Derek Mayer (Co-Trainer Augsburger Panther)
 
 - Bietigheim Steelers -
 
+bs	-- Arvin Atwal (Bietigheim Steelers)
 bs03	-03- Max Prommersberger (Bietigheim Steelers)
 bs08	-08- Guillaume Naud (Bietigheim Steelers)
 bs12	-12- C.J. Stretch (Bietigheim Steelers)
@@ -389,6 +390,7 @@ rb36	-36- Yannic Seidenberg (EHC München)
 rb37	-37- Maksymilian Szuber (EHC München)
 rb42	-42- Yasin Ehliz (EHC München)
 rb44	-44- Zach Redmond (EHC München)
+rb47	-47- Sten Fischer (EHC München)
 rb52	-52- Patrick Hager (EHC München)
 rb58	-58- Ryan McKiernan (EHC München)
 rb61	-61- Sebastian Cimmerman (EHC München)
