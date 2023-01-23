@@ -71,8 +71,8 @@ ap101	Derek Mayer (Co-Trainer Augsburger Panther)
 
 - Bietigheim Steelers -
 
-bs	-- Arvin Atwal (Bietigheim Steelers)
 bs03	-03- Max Prommersberger (Bietigheim Steelers)
+bs04	-04- Arvin Atwal (Bietigheim Steelers)
 bs08	-08- Guillaume Naud (Bietigheim Steelers)
 bs12	-12- C.J. Stretch (Bietigheim Steelers)
 bs14	-14- Benjamin Zientek (Bietigheim Steelers)
