@@ -136,6 +136,7 @@ dd88	-88- Johan Porsberger (Dresdner Eislöwen)
 dd92	-92- Tomas Andres (Dresdner Eislöwen)
 dd95	-95- Mike Schmitz (Dresdner Eislöwen)
 dd100	Andreas Brockmann (Trainer Dresdner Eislöwen)
+dd101	Petteri Kilpivaara (Co-Trainer Dresdner Eislöwen)
 
 
 - Eisbären Regensburg -
