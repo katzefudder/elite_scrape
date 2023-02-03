@@ -207,7 +207,6 @@ ei101	Brad Tapper (Co-Trainer ERC Ingolstadt)
 
 - Löwen Frankfurt -
 
-fl01	-01- Jonas Gähr (Löwen Frankfurt)
 fl04	-04- Reid McNeill (Löwen Frankfurt)
 fl05	-05- Markus Freis (Löwen Frankfurt)
 fl06	-06- Kevin Maginot (Löwen Frankfurt)
@@ -224,6 +223,7 @@ fl25	-25- Paul Reiner (Löwen Frankfurt)
 fl26	-26- Constantin Vogt (Löwen Frankfurt)
 fl29	-29- Brett Breitkreuz (Löwen Frankfurt)
 fl30	-30- Jake Hildebrand (Löwen Frankfurt)
+fl33	-33- Callum Booth (Löwen Frankfurt)
 fl45	-45- Carson McMillan (Löwen Frankfurt)
 fl53	-53- Bastian Kucis (Löwen Frankfurt)
 fl55	-55- Davis Vandane (Löwen Frankfurt)
