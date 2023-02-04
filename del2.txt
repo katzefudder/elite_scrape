@@ -178,7 +178,6 @@ er101	Martin Slansky (Co-Trainer Eisbären Regensburg)
 
 - EHC Freiburg -
 
-fr	-- Kenny Hausinger (EHC Freiburg)
 fr6	-6- Lennart Otten (EHC Freiburg)
 fr7	-7- Kyle Sonnenburg (EHC Freiburg)
 fr9	-9- Nikolas Linsenmaier (EHC Freiburg)
@@ -187,6 +186,7 @@ fr12	-12- Davyd Makutsky (EHC Freiburg)
 fr13	-13- Christoph Kiefersauer (EHC Freiburg)
 fr14	-14- Simon Danner (EHC Freiburg)
 fr17	-17- Konstantin Bongers (EHC Freiburg)
+fr19	-19- Kenny Hausinger (EHC Freiburg)
 fr21	-21- Sebastian Hon (EHC Freiburg)
 fr23	-23- Luca Trinkberger (EHC Freiburg)
 fr27	-27- Marvin Neher (EHC Freiburg)
