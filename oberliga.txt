@@ -596,6 +596,7 @@ ri101	Anton Raubal (Co-Trainer SC Riessersee)
 
 - Starbulls Rosenheim -
 
+sr	-- Brad McGowan (Starbulls Rosenheim)
 sr4	-4- Aaron Reinig (Starbulls Rosenheim)
 sr6	-6- Manuel Edfelder (Starbulls Rosenheim)
 sr7	-7- Klemen Pretnar (Starbulls Rosenheim)
