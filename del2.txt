@@ -137,7 +137,6 @@ dd88	-88- Johan Porsberger (Dresdner Eislöwen)
 dd92	-92- Tomas Andres (Dresdner Eislöwen)
 dd94	-94- Brett Welychka (Dresdner Eislöwen)
 dd95	-95- Mike Schmitz (Dresdner Eislöwen)
-dd100	Andreas Brockmann (Trainer Dresdner Eislöwen)
 dd101	Petteri Kilpivaara (Co-Trainer Dresdner Eislöwen)
 
 
@@ -321,6 +320,7 @@ kb101	Daniel Jun (Co-Trainer ESV Kaufbeuren)
 
 - Krefeld Pinguine -
 
+kp	-- Michael Boivin (Krefeld Pinguine)
 kp5	-5- Nikonor Dobryskin (Krefeld Pinguine)
 kp9	-9- Marcel Müller (Krefeld Pinguine)
 kp11	-11- Eduard Lewandowski (Krefeld Pinguine)
