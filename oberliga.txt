@@ -290,7 +290,7 @@ hi89	-89- Riku Tiainen (Hannover Indians)
 hi90	-90- Jan Dalgic (Hannover Indians)
 hi95	-95- Johan Skinnars (Hannover Indians)
 hi97	-97- Jayden Schubert (Hannover Indians)
-hi100	Len Soccio (Trainer Hannover Indians)
+hi100	Lenny Soccio (Trainer Hannover Indians)
 hi101	Björn Naujokat (Co-Trainer Hannover Indians)
 
 

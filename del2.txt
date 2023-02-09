@@ -214,6 +214,7 @@ fr101	Pyry Eskola (Co-Trainer EHC Freiburg)
 
 hn4	-4- Lukas Bender (Heilbronner Falken)
 hn8	-8- Noah Dunham (Heilbronner Falken)
+hn9	-9- Ryan Valentini (Heilbronner Falken)
 hn12	-12- Justin Kirsch (Heilbronner Falken)
 hn16	-16- Arkadiusz Dziambor (Heilbronner Falken)
 hn18	-18- Jeremy Williams (Heilbronner Falken)
