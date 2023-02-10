@@ -321,7 +321,6 @@ kb101	Daniel Jun (Co-Trainer ESV Kaufbeuren)
 
 - Krefeld Pinguine -
 
-kp	-- Michael Boivin (Krefeld Pinguine)
 kp5	-5- Nikonor Dobryskin (Krefeld Pinguine)
 kp9	-9- Marcel Müller (Krefeld Pinguine)
 kp11	-11- Eduard Lewandowski (Krefeld Pinguine)
@@ -335,6 +334,7 @@ kp22	-22- Zach Magwood (Krefeld Pinguine)
 kp25	-25- Nikita Shatsky (Krefeld Pinguine)
 kp26	-26- Odeen Tufto (Krefeld Pinguine)
 kp27	-27- David Trinkberger (Krefeld Pinguine)
+kp28	-28- Michael Boivin (Krefeld Pinguine)
 kp29	-29- Daniel Biggins (Krefeld Pinguine)
 kp32	-32- Hendrik Hane (Krefeld Pinguine)
 kp33	-33- Lennard Weser (Krefeld Pinguine)
