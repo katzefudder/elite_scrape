@@ -138,11 +138,13 @@ dd88	-88- Johan Porsberger (Dresdner Eislöwen)
 dd92	-92- Tomas Andres (Dresdner Eislöwen)
 dd94	-94- Brett Welychka (Dresdner Eislöwen)
 dd95	-95- Mike Schmitz (Dresdner Eislöwen)
+dd100	Petteri Kilpivaara (Trainer Dresdner Eislöwen)
 dd101	Petteri Kilpivaara (Co-Trainer Dresdner Eislöwen)
 
 
 - Eisbären Regensburg -
 
+er	-- Petr Pohl (Eisbären Regensburg)
 er5	-5- Christoph Schmidt (Eisbären Regensburg)
 er7	-7- Jeff Fearing (Eisbären Regensburg)
 er8	-8- Matteo Stöhr (Eisbären Regensburg)
@@ -162,7 +164,6 @@ er32	-32- Devin Williams (Eisbären Regensburg)
 er35	-35- Jonas Leserer (Eisbären Regensburg)
 er42	-42- Quirin Spies (Eisbären Regensburg)
 er43	-43- Xaver Tippmann (Eisbären Regensburg)
-er53	-53- Radim Matus (Eisbären Regensburg)
 er55	-55- Jakob Weber (Eisbären Regensburg)
 er69	-69- Nikola Gajovský (Eisbären Regensburg)
 er72	-72- André Bühler (Eisbären Regensburg)
@@ -468,6 +469,8 @@ rt100	Peter Russell (Trainer Ravensburg Towerstars)
 
 - Selber Wölfe -
 
+sw	-- Egils Kalns (Selber Wölfe)
+sw	-- Fedor Kolupaylo (Selber Wölfe)
 sw1	-1- Michael Bitzer (Selber Wölfe)
 sw2	-2- Mauriz Silbermann (Selber Wölfe)
 sw006	-006- Elias Lindner (Selber Wölfe)
