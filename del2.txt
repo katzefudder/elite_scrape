@@ -1,5 +1,6 @@
 - EC Bad Nauheim -
 
+bn	-- Grayson Pawlenchuk (EC Bad Nauheim)
 bn	-- Michael Gottwald (EC Bad Nauheim)
 bn	-- Alexander Komov (EC Bad Nauheim)
 bn	-- Lars Stelzmann (EC Bad Nauheim)
@@ -155,6 +156,7 @@ er13	-13- Marvin Schmid (Eisbären Regensburg)
 er17	-17- Daniel Pronin (Eisbären Regensburg)
 er19	-19- Constantin Ontl (Eisbären Regensburg)
 er21	-21- Erik Keresztury (Eisbären Regensburg)
+er23	-23- Tim Schlauderer (Eisbären Regensburg)
 er24	-24- Lukas Heger (Eisbären Regensburg)
 er25	-25- Tomas Gulda (Eisbären Regensburg)
 er26	-26- Lukas Wagner (Eisbären Regensburg)
@@ -180,6 +182,7 @@ er101	Martin Slansky (Co-Trainer Eisbären Regensburg)
 
 - EHC Freiburg -
 
+fr	-- J.C. Campagna (EHC Freiburg)
 fr6	-6- Lennart Otten (EHC Freiburg)
 fr7	-7- Kyle Sonnenburg (EHC Freiburg)
 fr9	-9- Nikolas Linsenmaier (EHC Freiburg)
@@ -406,7 +409,6 @@ lh6	-6- Michael Reich (EV Landshut)
 lh9	-9- Tyson McLellan (EV Landshut)
 lh10	-10- Julian Kornelli (EV Landshut)
 lh12	-12- Thomas Brandl (EV Landshut)
-lh17	-17- Markus Eberhardt (EV Landshut)
 lh18	-18- Samir Kharboutli (EV Landshut)
 lh19	-19- Jack Doremus (EV Landshut)
 lh20	-20- Benedikt Brückner (EV Landshut)
@@ -421,7 +423,6 @@ lh29	-29- Philipp Dietl (EV Landshut)
 lh30	-30- Nico Pertuch (EV Landshut)
 lh31	-31- Florian Bugl (EV Landshut)
 lh33	-33- Luka Gracnar (EV Landshut)
-lh35	-35- Janik Engler (EV Landshut)
 lh35	-35- Luca Mayer (EV Landshut)
 lh41	-41- Jakob Mayenschein (EV Landshut)
 lh42	-42- Nick Pageau (EV Landshut)
@@ -470,6 +471,7 @@ rt100	Peter Russell (Trainer Ravensburg Towerstars)
 
 - Selber Wölfe -
 
+sw	-- Maximilian Gläßl (Selber Wölfe)
 sw	-- Egils Kalns (Selber Wölfe)
 sw	-- Fedor Kolupaylo (Selber Wölfe)
 sw1	-1- Michael Bitzer (Selber Wölfe)
