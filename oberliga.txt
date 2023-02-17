@@ -339,7 +339,6 @@ hs100	Mikhail Nemirovsky (Trainer Höchstadter EC)
 
 - EHC Klostersee -
 
-ks	-- Marino Brlic (EHC Klostersee)
 ks7	-7- Nicolai Quinlan (EHC Klostersee)
 ks8	-8- Marc Bosecker (EHC Klostersee)
 ks10	-10- Simon Roeder (EHC Klostersee)
@@ -362,6 +361,7 @@ ks40	-40- Stefan Würmseer (EHC Klostersee)
 ks41	-41- Arnaud Eibl (EHC Klostersee)
 ks42	-42- Tobias Hilger (EHC Klostersee)
 ks43	-43- Leander Ruß (EHC Klostersee)
+ks44	-44- Marino Brlic (EHC Klostersee)
 ks61	-61- Philipp Quinlan (EHC Klostersee)
 ks64	-64- Yannick Kischer (EHC Klostersee)
 ks82	-82- Vili Vesalainen (EHC Klostersee)
