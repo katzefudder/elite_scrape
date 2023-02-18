@@ -304,7 +304,6 @@ ir101	Pierre Beaulieu (Co-Trainer Iserlohn Roosters)
 
 - Kölner Haie -
 
-kh	-- Jack Dougherty (Kölner Haie)
 kh05	-05- Robin van Calster (Kölner Haie)
 kh07	-07- Nick Bailen (Kölner Haie)
 kh09	-09- Maximilian Kammerer (Kölner Haie)
@@ -321,6 +320,7 @@ kh26	-26- David McIntyre (Kölner Haie)
 kh27	-27- Niklas Lunemann (Kölner Haie)
 kh30	-30- Mirko Pantkowski (Kölner Haie)
 kh36	-36- Andreas Thuresson (Kölner Haie)
+kh37	-37- Jack Dougherty (Kölner Haie)
 kh39	-39- Landon Ferraro (Kölner Haie)
 kh40	-40- Julian Chrobot (Kölner Haie)
 kh42	-42- Luis Üffing (Kölner Haie)
