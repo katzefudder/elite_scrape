@@ -198,6 +198,7 @@ ha100	Joshua Mizerek (Trainer Lippe-Hockey-Hamm)
 
 - Herner EV 2007 -
 
+he	-- Jegors Fleisers (Herner EV 2007)
 he3	-3- Niklas Hane (Herner EV 2007)
 he4	-4- Benjamin Hüfner (Herner EV 2007)
 he5	-5- Nils Elten (Herner EV 2007)
