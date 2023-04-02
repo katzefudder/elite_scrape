@@ -236,10 +236,10 @@ fl101	Jan Barta (Co-Trainer Löwen Frankfurt)
 
 - Fischtown Pinguins -
 
-ft03	-03- Nick Aichinger (Fischtown Pinguins)
-ft05	-05- Moritz Wirth (Fischtown Pinguins)
-ft08	-08- Nino Kinder (Fischtown Pinguins)
-ft09	-09- Jan Urbas (Fischtown Pinguins)
+ft3	-3- Nick Aichinger (Fischtown Pinguins)
+ft5	-5- Moritz Wirth (Fischtown Pinguins)
+ft8	-8- Nino Kinder (Fischtown Pinguins)
+ft9	-9- Jan Urbas (Fischtown Pinguins)
 ft10	-10- Georgiy Saakyan (Fischtown Pinguins)
 ft13	-13- Ziga Jeglic (Fischtown Pinguins)
 ft14	-14- Ross Mauermann (Fischtown Pinguins)
