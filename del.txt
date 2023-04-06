@@ -101,10 +101,10 @@ bs101	Fabian Dahlem (Co-Trainer Bietigheim Steelers)
 
 - Düsseldorfer EG -
 
-de03	-03- Alec McCrea (Düsseldorfer EG)
-de05	-05- Nicolas Geitner (Düsseldorfer EG)
-de06	-06- Justus Böttner (Düsseldorfer EG)
-de08	-08- Mikko Kousa (Düsseldorfer EG)
+de3	-3- Alec McCrea (Düsseldorfer EG)
+de5	-5- Nicolas Geitner (Düsseldorfer EG)
+de6	-6- Justus Böttner (Düsseldorfer EG)
+de8	-8- Mikko Kousa (Düsseldorfer EG)
 de15	-15- Stephen Harper (Düsseldorfer EG)
 de16	-16- Kyle Cumiskey (Düsseldorfer EG)
 de20	-20- Tobias Eder (Düsseldorfer EG)
@@ -204,11 +204,11 @@ ei101	Brad Tapper (Co-Trainer ERC Ingolstadt)
 
 - Löwen Frankfurt -
 
-fl04	-04- Reid McNeill (Löwen Frankfurt)
-fl05	-05- Markus Freis (Löwen Frankfurt)
-fl06	-06- Kevin Maginot (Löwen Frankfurt)
-fl08	-08- Nathan Burns (Löwen Frankfurt)
-fl09	-09- Jerry D'Amigo (Löwen Frankfurt)
+fl4	-4- Reid McNeill (Löwen Frankfurt)
+fl5	-5- Markus Freis (Löwen Frankfurt)
+fl6	-6- Kevin Maginot (Löwen Frankfurt)
+fl8	-8- Nathan Burns (Löwen Frankfurt)
+fl9	-9- Jerry D'Amigo (Löwen Frankfurt)
 fl13	-13- Rylan Schwartz (Löwen Frankfurt)
 fl14	-14- Yannick Wenzel (Löwen Frankfurt)
 fl16	-16- Chad Nehring (Löwen Frankfurt)
@@ -301,9 +301,9 @@ ir101	Pierre Beaulieu (Co-Trainer Iserlohn Roosters)
 
 - Kölner Haie -
 
-kh05	-05- Robin van Calster (Kölner Haie)
-kh07	-07- Nick Bailen (Kölner Haie)
-kh09	-09- Maximilian Kammerer (Kölner Haie)
+kh5	-5- Robin van Calster (Kölner Haie)
+kh7	-7- Nick Bailen (Kölner Haie)
+kh9	-9- Maximilian Kammerer (Kölner Haie)
 kh10	-10- Jon Matsumoto (Kölner Haie)
 kh13	-13- Nick Baptiste (Kölner Haie)
 kh15	-15- Louis-Marc Aubry (Kölner Haie)
@@ -338,9 +338,9 @@ kh101	Clément Jodoin (Co-Trainer Kölner Haie)
 
 - Nürnberg Ice Tigers -
 
-nb06	-06- Julius Karrer (Nürnberg Ice Tigers)
-nb08	-08- Tyler Sheehy (Nürnberg Ice Tigers)
-nb09	-09- Rick Schofield (Nürnberg Ice Tigers)
+nb6	-6- Julius Karrer (Nürnberg Ice Tigers)
+nb8	-8- Tyler Sheehy (Nürnberg Ice Tigers)
+nb9	-9- Rick Schofield (Nürnberg Ice Tigers)
 nb13	-13- Ryan Stoa (Nürnberg Ice Tigers)
 nb15	-15- Charlie Jahnke (Nürnberg Ice Tigers)
 nb17	-17- Patrick Reimer (Nürnberg Ice Tigers)
