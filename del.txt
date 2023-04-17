@@ -160,6 +160,7 @@ eb101	Craig Streu (Co-Trainer Eisbären Berlin)
 
 - ERC Ingolstadt -
 
+ei01	-01- Jonas Stettmer (ERC Ingolstadt)
 ei04	-04- Nicolas Schindler (ERC Ingolstadt)
 ei05	-05- Fabio Wagner (ERC Ingolstadt)
 ei07	-07- Colton Jobke (ERC Ingolstadt)
