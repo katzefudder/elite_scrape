@@ -404,7 +404,7 @@ rb101	Pierre Allard (Co-Trainer EHC München)
 
 st01	-01- Florian Bugl (Straubing Tigers)
 st06	-06- Parker Tuomie (Straubing Tigers)
-st07	-07- Taylor Leier (Straubing Tigers)
+st7	-7- Taylor Leier (Straubing Tigers)
 st08	-08- Joshua Samanski (Straubing Tigers)
 st09	-09- Stephan Daschner (Straubing Tigers)
 st10	-10- Garrett Festerling (Straubing Tigers)
