@@ -452,7 +452,6 @@ mm100	Daniel Huhn (Trainer ECDC Memmingen)
 
 - EHF Passau Black Hawks -
 
-pa5	-5- Christoph Schmidt (EHF Passau Black Hawks)
 pa6	-6- Michael Reich (EHF Passau Black Hawks)
 pa7	-7- Raul Jakob (EHF Passau Black Hawks)
 pa10	-10- Maximilian Kolesnikov (EHF Passau Black Hawks)
@@ -475,7 +474,6 @@ pa69	-69- Jakub Cizek (EHF Passau Black Hawks)
 pa80	-80- Daniel Bruch (EHF Passau Black Hawks)
 pa81	-81- Fabian Baßler (EHF Passau Black Hawks)
 pa82	-82- Simon Stowasser (EHF Passau Black Hawks)
-pa84	-84- Thomas Nuss (EHF Passau Black Hawks)
 pa91	-91- Jakub Bitomsky (EHF Passau Black Hawks)
 pa96	-96- Santeri Ovaska (EHF Passau Black Hawks)
 pa100	Petr Bares (Trainer EHF Passau Black Hawks)
