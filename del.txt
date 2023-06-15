@@ -1,6 +1,6 @@
 - Adler Mannheim -
 
-am4	-4- Korbinian Holzer (Adler Mannheim)
+am04	-04- Korbinian Holzer (Adler Mannheim)
 am6	-6- Joonas Lehtivuori (Adler Mannheim)
 am7	-7- Sinan Akdag (Adler Mannheim)
 am9	-9- Nigel Dawes (Adler Mannheim)
@@ -397,7 +397,7 @@ rb101	Pierre Allard (Co-Trainer EHC München)
 
 - Straubing Tigers -
 
-st1	-1- Florian Bugl (Straubing Tigers)
+st01	-01- Florian Bugl (Straubing Tigers)
 st6	-6- Parker Tuomie (Straubing Tigers)
 st7	-7- Taylor Leier (Straubing Tigers)
 st8	-8- Joshua Samanski (Straubing Tigers)
