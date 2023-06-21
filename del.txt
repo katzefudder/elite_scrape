@@ -190,7 +190,7 @@ ei71	-71- Justin Feser (ERC Ingolstadt)
 ei86	-86- Daniel Pietta (ERC Ingolstadt)
 ei90	-90- Jerome Flaake (ERC Ingolstadt)
 ei100	Mark French (Trainer ERC Ingolstadt)
-ei101	Tim Regan (Co-Trainer ERC Ingolstadt)
+ei101	Brad Tapper (Co-Trainer ERC Ingolstadt)
 
 
 - Löwen Frankfurt -
