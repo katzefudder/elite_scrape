@@ -172,6 +172,7 @@ fu100	Juhani Matikainen (Trainer EV Füssen)
 
 - Lippe-Hockey-Hamm -
 
+ha	-- Moritz Israel (Lippe-Hockey-Hamm)
 ha3	-3- Gianluca Balla (Lippe-Hockey-Hamm)
 ha10	-10- Quirin Stocker (Lippe-Hockey-Hamm)
 ha11	-11- Marius Demmler (Lippe-Hockey-Hamm)
@@ -406,6 +407,7 @@ ro	-- Mathieu Tousignant (Rostocker EC)
 ro4	-4- Nolan Renke (Rostocker EC)
 ro7	-7- Raul Jakob (Rostocker EC)
 ro15	-15- Mark Shevyrin (Rostocker EC)
+ro22	-22- Oskar Siradze (Rostocker EC)
 ro23	-23- Christian Guran (Rostocker EC)
 ro30	-30- Sebastian Albrecht (Rostocker EC)
 ro31	-31- Lucas Di Berardo (Rostocker EC)
