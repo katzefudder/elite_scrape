@@ -1,10 +1,8 @@
 - Crocodiles Hamburg -
 
-ch1	-1- Tobias Loepp (Crocodiles Hamburg)
 ch5	-5- Maximilian Schaludek (Crocodiles Hamburg)
 ch7	-7- Daniel Visner (Crocodiles Hamburg)
 ch8	-8- Juuso Rajala (Crocodiles Hamburg)
-ch9	-9- Julian Wäser (Crocodiles Hamburg)
 ch13	-13- Ilja Fleischmann (Crocodiles Hamburg)
 ch14	-14- Niklas Jentsch (Crocodiles Hamburg)
 ch15	-15- Tobias Bruns (Crocodiles Hamburg)
@@ -16,7 +14,6 @@ ch28	-28- Lukas Usselmann (Crocodiles Hamburg)
 ch31	-31- Nils Kapteinat (Crocodiles Hamburg)
 ch32	-32- Kai Kristian (Crocodiles Hamburg)
 ch33	-33- Raik Rennert (Crocodiles Hamburg)
-ch44	-44- Dominic Steck (Crocodiles Hamburg)
 ch58	-58- Jan Tramm (Crocodiles Hamburg)
 ch59	-59- Sebastian Moberg (Crocodiles Hamburg)
 ch63	-63- Philipp Hertel (Crocodiles Hamburg)
@@ -201,6 +198,7 @@ he21	-21- Erik Keresztury (Herner EV 2007)
 he27	-27- Ondrej Nedved (Herner EV 2007)
 he42	-42- Jegors Fleisers (Herner EV 2007)
 he71	-71- Marlon Polter (Herner EV 2007)
+he73	-73- Jan Dalecký (Herner EV 2007)
 he91	-91- Michél Ackers (Herner EV 2007)
 he97	-97- Dennis Swinnen (Herner EV 2007)
 he98	-98- Nils Liesegang (Herner EV 2007)
@@ -302,7 +300,6 @@ lb101	Leon Lilik (Co-Trainer HC Landsberg)
 
 - EV Lindau -
 
-li	-- Joshua Appler (EV Lindau)
 li	-- Moritz Raab (EV Lindau)
 li	-- Samuel Schindler (EV Lindau)
 li	-- Marvin Drothen (EV Lindau)
@@ -403,6 +400,7 @@ ri95	-95- Simon Mayr (SC Riessersee)
 
 - Rostocker EC -
 
+ro	-- Kilian Steinmann (Rostocker EC)
 ro	-- Mathieu Tousignant (Rostocker EC)
 ro4	-4- Nolan Renke (Rostocker EC)
 ro7	-7- Raul Jakob (Rostocker EC)
