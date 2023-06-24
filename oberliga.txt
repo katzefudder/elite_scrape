@@ -230,23 +230,6 @@ hf100	Milan Vanek (Trainer Herforder EV)
 hf101	Gordon Nickel (Co-Trainer Herforder EV)
 
 
-- MEC Halle 04 -
-
-hl11	-11- Brett Perlini (MEC Halle 04)
-hl13	-13- Leon Fern (MEC Halle 04)
-hl15	-15- Erik Hoffmann (MEC Halle 04)
-hl21	-21- Patrick Schmid (MEC Halle 04)
-hl22	-22- Thore Weyrauch (MEC Halle 04)
-hl23	-23- Roman Pfennings (MEC Halle 04)
-hl24	-24- Tatu Vihavainen (MEC Halle 04)
-hl26	-26- Timo Gams (MEC Halle 04)
-hl35	-35- Timo Herden (MEC Halle 04)
-hl58	-58- Dennis Schütt (MEC Halle 04)
-hl60	-60- Moritz Schug (MEC Halle 04)
-hl72	-72- Sergei Stas (MEC Halle 04)
-hl100	Marius Riedel (Trainer MEC Halle 04)
-
-
 - Höchstadter EC -
 
 hs13	-13- Sergei Topol (Höchstadter EC)
@@ -300,6 +283,7 @@ lb101	Leon Lilik (Co-Trainer HC Landsberg)
 
 - EV Lindau -
 
+li	-- Mathieu Desautels (EV Lindau)
 li	-- Moritz Raab (EV Lindau)
 li	-- Samuel Schindler (EV Lindau)
 li	-- Marvin Drothen (EV Lindau)
