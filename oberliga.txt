@@ -170,6 +170,7 @@ fu100	Juhani Matikainen (Trainer EV Füssen)
 - Lippe-Hockey-Hamm -
 
 ha	-- Moritz Israel (Lippe-Hockey-Hamm)
+ha	-- Tyler Soy (Lippe-Hockey-Hamm)
 ha3	-3- Gianluca Balla (Lippe-Hockey-Hamm)
 ha10	-10- Quirin Stocker (Lippe-Hockey-Hamm)
 ha11	-11- Marius Demmler (Lippe-Hockey-Hamm)
@@ -232,6 +233,7 @@ hf101	Gordon Nickel (Co-Trainer Herforder EV)
 
 - Höchstadter EC -
 
+hs	-- Lars Schiller (Höchstadter EC)
 hs13	-13- Sergei Topol (Höchstadter EC)
 hs16	-16- Philipp Faulhaber (Höchstadter EC)
 hs22	-22- Martin Heinisch (Höchstadter EC)
@@ -315,6 +317,7 @@ li101	Marko Sakic (Co-Trainer EV Lindau)
 
 - ECDC Memmingen -
 
+mm	-- Tobias Meier (ECDC Memmingen)
 mm06	-06- Marcus Marsall (ECDC Memmingen)
 mm8	-8- Felix Fleischer (ECDC Memmingen)
 mm15	-15- Oliver Ott (ECDC Memmingen)
@@ -472,6 +475,7 @@ tt100	Doug Mason (Trainer Tilburg Trappers)
 
 - 1. EV Weiden -
 
+we	-- Janik Engler (1. EV Weiden)
 we7	-7- Luca Gläser (1. EV Weiden)
 we8	-8- Neal Samanski (1. EV Weiden)
 we10	-10- Nardo Nagtzaam (1. EV Weiden)
