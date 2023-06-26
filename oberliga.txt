@@ -341,6 +341,7 @@ mm72	-72- Linus Svedlund (ECDC Memmingen)
 
 - EHF Passau Black Hawks -
 
+pa	-- Liam Blackburn (EHF Passau Black Hawks)
 pa	-- Nicolas Sauer (EHF Passau Black Hawks)
 pa	-- Colin Campbell (EHF Passau Black Hawks)
 pa	-- Maximilian Otte (EHF Passau Black Hawks)
