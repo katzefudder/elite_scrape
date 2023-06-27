@@ -390,6 +390,7 @@ ri95	-95- Simon Mayr (SC Riessersee)
 
 ro	-- Kilian Steinmann (Rostocker EC)
 ro	-- Mathieu Tousignant (Rostocker EC)
+ro	-- Keegan Dansereau (Rostocker EC)
 ro4	-4- Nolan Renke (Rostocker EC)
 ro7	-7- Raul Jakob (Rostocker EC)
 ro15	-15- Mark Shevyrin (Rostocker EC)
@@ -427,6 +428,8 @@ sr	-- C.J. Stretch (Starbulls Rosenheim)
 
 - Tölzer Löwen -
 
+to	-- Steven Deeg (Tölzer Löwen)
+to	-- Henry Sihling (Tölzer Löwen)
 to5	-5- Anton Engel (Tölzer Löwen)
 to7	-7- Reto Schüpping (Tölzer Löwen)
 to14	-14- Christoph Fischhaber (Tölzer Löwen)
