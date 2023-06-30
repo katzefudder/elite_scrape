@@ -115,6 +115,7 @@ du93	-93- Tim Schröder (EV Duisburg)
 
 - EHC Erfurt -
 
+ef	-- Philipp Hertel (EHC Erfurt)
 ef1	-1- Konstantin Kessler (EHC Erfurt)
 ef8	-8- Tom Banach (EHC Erfurt)
 ef12	-12- Maurice Keil (EHC Erfurt)
@@ -122,7 +123,7 @@ ef20	-20- Niklas Jakob (EHC Erfurt)
 ef22	-22- Enzo Herrschaft (EHC Erfurt)
 ef29	-29- Nick Jordan Vieregge (EHC Erfurt)
 ef33	-33- Arnoldas Bosas (EHC Erfurt)
-ef63	-63- Philipp Hertel (EHC Erfurt)
+ef63	-63- Eric Wunderlich (EHC Erfurt)
 ef67	-67- Luis Müller (EHC Erfurt)
 ef68	-68- Tom Pauker (EHC Erfurt)
 ef77	-77- Tim May (EHC Erfurt)
@@ -317,6 +318,7 @@ li101	Marko Sakic (Co-Trainer EV Lindau)
 
 - ECDC Memmingen -
 
+mm	-- Maxim Mastic (ECDC Memmingen)
 mm	-- Tobias Meier (ECDC Memmingen)
 mm06	-06- Marcus Marsall (ECDC Memmingen)
 mm8	-8- Felix Fleischer (ECDC Memmingen)
@@ -385,10 +387,14 @@ ri50	-50- Andreas Mechel (SC Riessersee)
 ri57	-57- Lubor Dibelka (SC Riessersee)
 ri76	-76- Luca Allavena (SC Riessersee)
 ri95	-95- Simon Mayr (SC Riessersee)
+ri100	Pat Cortina (Trainer SC Riessersee)
+ri101	Anton Raubal (Co-Trainer SC Riessersee)
 
 
 - Rostocker EC -
 
+ro	-- Jack Bloem (Rostocker EC)
+ro	-- Maximilian Kolesnikov (Rostocker EC)
 ro	-- Kilian Steinmann (Rostocker EC)
 ro	-- Mathieu Tousignant (Rostocker EC)
 ro4	-4- Nolan Renke (Rostocker EC)
@@ -430,6 +436,7 @@ sr	-- C.J. Stretch (Starbulls Rosenheim)
 - Tölzer Löwen -
 
 to	-- Steven Deeg (Tölzer Löwen)
+to	-- Topi Piipponen (Tölzer Löwen)
 to	-- Henry Sihling (Tölzer Löwen)
 to5	-5- Anton Engel (Tölzer Löwen)
 to7	-7- Reto Schüpping (Tölzer Löwen)
