@@ -1,30 +1,5 @@
 - Crocodiles Hamburg -
 
-ch5	-5- Maximilian Schaludek (Crocodiles Hamburg)
-ch7	-7- Daniel Visner (Crocodiles Hamburg)
-ch8	-8- Juuso Rajala (Crocodiles Hamburg)
-ch13	-13- Ilja Fleischmann (Crocodiles Hamburg)
-ch14	-14- Niklas Jentsch (Crocodiles Hamburg)
-ch15	-15- Tobias Bruns (Crocodiles Hamburg)
-ch18	-18- Yannis Walch (Crocodiles Hamburg)
-ch20	-20- Adam Domogala (Crocodiles Hamburg)
-ch21	-21- Philip Kuschel (Crocodiles Hamburg)
-ch26	-26- Dominik Lascheit (Crocodiles Hamburg)
-ch28	-28- Lukas Usselmann (Crocodiles Hamburg)
-ch31	-31- Nils Kapteinat (Crocodiles Hamburg)
-ch32	-32- Kai Kristian (Crocodiles Hamburg)
-ch33	-33- Raik Rennert (Crocodiles Hamburg)
-ch58	-58- Jan Tramm (Crocodiles Hamburg)
-ch59	-59- Sebastian Moberg (Crocodiles Hamburg)
-ch63	-63- Philipp Hertel (Crocodiles Hamburg)
-ch67	-67- Luis Müller (Crocodiles Hamburg)
-ch78	-78- Maximilian Spöttel (Crocodiles Hamburg)
-ch83	-83- Harrison Reed (Crocodiles Hamburg)
-ch87	-87- Thomas Zuravlev (Crocodiles Hamburg)
-ch90	-90- Louis Habel (Crocodiles Hamburg)
-ch91	-91- Wiljami Kupiainen (Crocodiles Hamburg)
-ch100	Henry Thom (Trainer Crocodiles Hamburg)
-ch101	Patrick Saggau (Co-Trainer Crocodiles Hamburg)
 
 
 - Deggendorfer SC -
@@ -58,28 +33,19 @@ dg97	-97- René Röthke (Deggendorfer SC)
 
 - EG Diez-Limburg -
 
-dl1	-1- Tommi Steffen (EG Diez-Limburg)
-dl4	-4- Andrei Telyukin (EG Diez-Limburg)
-dl5	-5- Torben Reuner (EG Diez-Limburg)
-dl8	-8- Lorenzo Valenti (EG Diez-Limburg)
-dl10	-10- Marcel Kurth (EG Diez-Limburg)
-dl17	-17- Konstantin Firsanov (EG Diez-Limburg)
-dl18	-18- Felix Fleischer (EG Diez-Limburg)
-dl19	-19- Niko Lehtonen (EG Diez-Limburg)
-dl21	-21- Paul Jan König (EG Diez-Limburg)
-dl22	-22- Steve Slaton (EG Diez-Limburg)
-dl23	-23- David Lademann (EG Diez-Limburg)
-dl26	-26- Michael Brunner (EG Diez-Limburg)
-dl27	-27- Noam Sherf (EG Diez-Limburg)
-dl30	-30- Jonas Vogt (EG Diez-Limburg)
-dl31	-31- Tim Stenger (EG Diez-Limburg)
-dl41	-41- Stan Jatczak (EG Diez-Limburg)
-dl72	-72- Dennis Bondarenko (EG Diez-Limburg)
-dl74	-74- Dominik Gutjahr (EG Diez-Limburg)
-dl75	-75- Nick Kardas (EG Diez-Limburg)
-dl77	-77- Alexander Seifert (EG Diez-Limburg)
-dl90	-90- Luca Ladusch (EG Diez-Limburg)
-dl100	Andrei Telyukin (Trainer EG Diez-Limburg)
+dl	-- Marian Kapicak (EG Diez-Limburg)
+dl	-- Tim Stenger (EG Diez-Limburg)
+dl	-- Dominik Dech (EG Diez-Limburg)
+dl	-- Denis Majewski (EG Diez-Limburg)
+dl	-- Torben Reuner (EG Diez-Limburg)
+dl	-- Alexander Seifert (EG Diez-Limburg)
+dl	-- Lorenzo Valenti (EG Diez-Limburg)
+dl	-- Hunter Fortin (EG Diez-Limburg)
+dl	-- Marcel Kurth (EG Diez-Limburg)
+dl	-- Niko Lehtonen (EG Diez-Limburg)
+dl	-- Brendan Nehmer (EG Diez-Limburg)
+dl	-- Horka Sekesi (EG Diez-Limburg)
+dl	-- Paul Jan König (EG Diez-Limburg)
 
 
 - EV Duisburg -
@@ -249,43 +215,25 @@ hs82	-82- Justin Spiewok (Höchstadter EC)
 hs92	-92- Nico Zimmermann (Höchstadter EC)
 
 
+- Krefelder EV 1981 II -
+
+
+
 - EHC Klostersee -
 
 
 
 - HC Landsberg -
 
-lb3	-3- Riley Stadel (HC Landsberg)
-lb4	-4- Alexander Binder (HC Landsberg)
-lb8	-8- Walker Sommer (HC Landsberg)
-lb12	-12- David Amort (HC Landsberg)
-lb13	-13- Christian Hanke (HC Landsberg)
-lb15	-15- Markus Jänichen (HC Landsberg)
-lb18	-18- Luis Hegner (HC Landsberg)
-lb19	-19- Adriano Carciola (HC Landsberg)
-lb20	-20- Nicolas Strodel (HC Landsberg)
-lb28	-28- Mika Reuter (HC Landsberg)
-lb29	-29- Dominic Erdt (HC Landsberg)
-lb31	-31- Emanuel Geiger (HC Landsberg)
-lb32	-32- Andreas Magg (HC Landsberg)
-lb33	-33- Michael Güßbacher (HC Landsberg)
-lb42	-42- Nico Miedl (HC Landsberg)
-lb44	-44- Korbinian Benz (HC Landsberg)
-lb45	-45- Felix Merkle (HC Landsberg)
-lb46	-46- Lukas Popela (HC Landsberg)
-lb57	-57- Manuel Malzer (HC Landsberg)
-lb58	-58- Tobias Wedl (HC Landsberg)
-lb63	-63- Lucas Spindler (HC Landsberg)
-lb65	-65- Florian Stauder (HC Landsberg)
-lb71	-71- Sven Gäbelein (HC Landsberg)
-lb72	-72- Florian Reicheneder (HC Landsberg)
-lb87	-87- Jason Lavallée (HC Landsberg)
-lb89	-89- Manuel Müller (HC Landsberg)
-lb92	-92- Dennis Neal (HC Landsberg)
-lb94	-94- Christopher Mitchell (HC Landsberg)
-lb97	-97- Frantisek Wagner (HC Landsberg)
-lb100	Sven Curmann (Trainer HC Landsberg)
-lb101	Leon Lilik (Co-Trainer HC Landsberg)
+lb	-- Dennis Neal (HC Landsberg)
+lb	-- Florian Reicheneder (HC Landsberg)
+lb	-- Tobias Wedl (HC Landsberg)
+lb	-- Lars Grözinger (HC Landsberg)
+lb	-- Luis Hegner (HC Landsberg)
+lb	-- Manuel Müller (HC Landsberg)
+lb	-- Florian Stauder (HC Landsberg)
+lb	-- Frantisek Wagner (HC Landsberg)
+lb100	Martin Hoffmann (Trainer HC Landsberg)
 
 
 - EV Lindau -
@@ -406,6 +354,7 @@ ro	-- Kilian Steinmann (Rostocker EC)
 ro	-- Mathieu Tousignant (Rostocker EC)
 ro4	-4- Nolan Renke (Rostocker EC)
 ro7	-7- Raul Jakob (Rostocker EC)
+ro7	-7- Thomas Voronov (Rostocker EC)
 ro15	-15- Mark Shevyrin (Rostocker EC)
 ro21	-21- Keegan Dansereau (Rostocker EC)
 ro22	-22- Oskar Siradze (Rostocker EC)
@@ -438,6 +387,7 @@ sr	-- Stefan Reiter (Starbulls Rosenheim)
 sr	-- Sebastian Streu (Starbulls Rosenheim)
 sr	-- Manuel Strodel (Starbulls Rosenheim)
 sr	-- C.J. Stretch (Starbulls Rosenheim)
+sr57	-57- Marvin Feigl (Starbulls Rosenheim)
 
 
 - Tölzer Löwen -
