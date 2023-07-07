@@ -373,6 +373,8 @@ ro100	Lenny Soccio (Trainer Rostocker EC)
 
 - Starbulls Rosenheim -
 
+sr	-- Christopher Kolarz (Starbulls Rosenheim)
+sr	-- Tomas Pöpperle (Starbulls Rosenheim)
 sr	-- Shane Hanna (Starbulls Rosenheim)
 sr	-- Hagen Kaisler (Starbulls Rosenheim)
 sr	-- Dominik Kolb (Starbulls Rosenheim)

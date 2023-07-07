@@ -197,6 +197,7 @@ hn84	-84- Malte Krenzlin (Heilbronner Falken)
 - EC Kassel Huskies -
 
 ka	-- Markus Freis (EC Kassel Huskies)
+ka	-- Carson McMillan (EC Kassel Huskies)
 ka7	-7- Joel Keussen (EC Kassel Huskies)
 ka8	-8- Oleg Tschwanow (EC Kassel Huskies)
 ka17	-17- Joel Lowry (EC Kassel Huskies)
