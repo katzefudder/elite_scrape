@@ -42,6 +42,7 @@ dl	-- Alexander Seifert (EG Diez-Limburg)
 dl	-- Lorenzo Valenti (EG Diez-Limburg)
 dl	-- Hunter Fortin (EG Diez-Limburg)
 dl	-- Marcel Kurth (EG Diez-Limburg)
+dl	-- David Lademann (EG Diez-Limburg)
 dl	-- Niko Lehtonen (EG Diez-Limburg)
 dl	-- Brendan Nehmer (EG Diez-Limburg)
 dl	-- Horka Sekesi (EG Diez-Limburg)
@@ -83,6 +84,7 @@ du93	-93- Tim Schröder (EV Duisburg)
 
 ef	-- Calvin Fischer (EHC Erfurt)
 ef	-- Philipp Hertel (EHC Erfurt)
+ef	-- Matthias Pischoff (EHC Erfurt)
 ef1	-1- Konstantin Kessler (EHC Erfurt)
 ef4	-4- Carl Zimmermann (EHC Erfurt)
 ef8	-8- Tom Banach (EHC Erfurt)
@@ -162,6 +164,7 @@ ha100	Casey Fratkin (Trainer Lippe-Hockey-Hamm)
 
 - Herner EV 2007 -
 
+he	-- Oto Jeschke (Herner EV 2007)
 he4	-4- Benjamin Hüfner (Herner EV 2007)
 he8	-8- Matteo Stöhr (Herner EV 2007)
 he10	-10- Justus Meyl (Herner EV 2007)
@@ -358,6 +361,7 @@ ro	-- Mathieu Tousignant (Rostocker EC)
 ro4	-4- Nolan Renke (Rostocker EC)
 ro7	-7- Raul Jakob (Rostocker EC)
 ro7	-7- Thomas Voronov (Rostocker EC)
+ro12	-12- Emil Bejmo (Rostocker EC)
 ro15	-15- Mark Shevyrin (Rostocker EC)
 ro21	-21- Keegan Dansereau (Rostocker EC)
 ro22	-22- Oskar Siradze (Rostocker EC)
@@ -367,14 +371,13 @@ ro31	-31- Lucas Di Berardo (Rostocker EC)
 ro33	-33- Raik Rennert (Rostocker EC)
 ro34	-34- Christopher Strasen (Rostocker EC)
 ro58	-58- Jan Tramm (Rostocker EC)
+ro81	-81- Christian Paul-Mercier (Rostocker EC)
 ro90	-90- Marius Pöpel (Rostocker EC)
 ro100	Lenny Soccio (Trainer Rostocker EC)
 
 
 - Starbulls Rosenheim -
 
-sr	-- Christopher Kolarz (Starbulls Rosenheim)
-sr	-- Tomas Pöpperle (Starbulls Rosenheim)
 sr	-- Shane Hanna (Starbulls Rosenheim)
 sr	-- Hagen Kaisler (Starbulls Rosenheim)
 sr	-- Dominik Kolb (Starbulls Rosenheim)
@@ -392,7 +395,9 @@ sr	-- Stefan Reiter (Starbulls Rosenheim)
 sr	-- Sebastian Streu (Starbulls Rosenheim)
 sr	-- Manuel Strodel (Starbulls Rosenheim)
 sr	-- C.J. Stretch (Starbulls Rosenheim)
+sr24	-24- Tomas Pöpperle (Starbulls Rosenheim)
 sr57	-57- Marvin Feigl (Starbulls Rosenheim)
+sr67	-67- Christopher Kolarz (Starbulls Rosenheim)
 
 
 - Tölzer Löwen -
