@@ -298,6 +298,7 @@ kh	-- Jan Luca Sennhenn (Kölner Haie)
 kh	-- Maximilian Kammerer (Kölner Haie)
 kh	-- Carter Proft (Kölner Haie)
 kh	-- Andreas Thuresson (Kölner Haie)
+kh29	-29- Andrej Sustr (Kölner Haie)
 
 
 - Nürnberg Ice Tigers -

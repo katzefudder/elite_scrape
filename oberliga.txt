@@ -296,6 +296,7 @@ mm55	-55- Christopher Kasten (ECDC Memmingen)
 mm69	-69- Matej Pekr (ECDC Memmingen)
 mm71	-71- Edgars Homjakovs (ECDC Memmingen)
 mm72	-72- Linus Svedlund (ECDC Memmingen)
+mm77	-77- Jaroslav Hafenrichter (ECDC Memmingen)
 mm93	-93- Tobias Meier (ECDC Memmingen)
 
 
