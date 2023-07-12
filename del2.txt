@@ -65,6 +65,7 @@ by101	Michael Baindl (Co-Trainer Bayreuth Tigers)
 - Eispiraten Crimmitschau -
 
 cr	-- Henri Kanninen (Eispiraten Crimmitschau)
+cr	-- Willy Rudert (Eispiraten Crimmitschau)
 cr4	-4- Felix Thomas (Eispiraten Crimmitschau)
 cr8	-8- Dominik Walsh (Eispiraten Crimmitschau)
 cr12	-12- Alexander Schmidt (Eispiraten Crimmitschau)
@@ -248,6 +249,7 @@ kb	-- Tyler Spurgeon (ESV Kaufbeuren)
 - Krefeld Pinguine -
 
 kp	-- Felix Bick (Krefeld Pinguine)
+kp	-- Julius Schulte (Krefeld Pinguine)
 kp	-- Maximilian Adam (Krefeld Pinguine)
 kp	-- Christian Ehrhoff (Krefeld Pinguine)
 kp	-- Eric Gotz (Krefeld Pinguine)
@@ -298,6 +300,7 @@ lh	-- Edwin Schitz (EV Landshut)
 lh	-- Simon Seidl (EV Landshut)
 lh	-- David Stieler (EV Landshut)
 lh	-- Benjamin Zientek (EV Landshut)
+lh12	-12- Thomas Brandl (EV Landshut)
 lh18	-18- Samir Kharboutli (EV Landshut)
 
 

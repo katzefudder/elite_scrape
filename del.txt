@@ -203,6 +203,7 @@ fl	-- Yannick Wenzel (Löwen Frankfurt)
 fl	-- Kevin Bicker (Löwen Frankfurt)
 fl	-- Markus Schweiger (Löwen Frankfurt)
 fl78	-78- Dominik Bokk (Löwen Frankfurt)
+fl95	-95- Mike Schmitz (Löwen Frankfurt)
 fl100	Matti Tiilikainen (Trainer Löwen Frankfurt)
 fl101	Jan Barta (Co-Trainer Löwen Frankfurt)
 
