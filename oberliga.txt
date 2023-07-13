@@ -399,6 +399,7 @@ sr	-- C.J. Stretch (Starbulls Rosenheim)
 sr24	-24- Tomas Pöpperle (Starbulls Rosenheim)
 sr57	-57- Marvin Feigl (Starbulls Rosenheim)
 sr67	-67- Christopher Kolarz (Starbulls Rosenheim)
+sr71	-71- Bastian Eckl (Starbulls Rosenheim)
 
 
 - Tölzer Löwen -
