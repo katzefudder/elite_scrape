@@ -388,6 +388,7 @@ st	-- Tyler Sheehy (Straubing Tigers)
 st	-- Parker Tuomie (Straubing Tigers)
 st	-- Mark Zengerle (Straubing Tigers)
 st22	-22- Mike Connolly (Straubing Tigers)
+st49	-49- Marcel Müller (Straubing Tigers)
 st100	Tom Pokel (Trainer Straubing Tigers)
 st101	Robert Leask (Co-Trainer Straubing Tigers)
 

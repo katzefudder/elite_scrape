@@ -4,6 +4,7 @@
 
 - Deggendorfer SC -
 
+dg	-- Johannes Schmid (Deggendorfer SC)
 dg	-- Max Medrala (Deggendorfer SC)
 dg	-- Viktor Skorohodov (Deggendorfer SC)
 dg4	-4- Silvan Heiß (Deggendorfer SC)
@@ -168,6 +169,7 @@ he	-- Oto Jeschke (Herner EV 2007)
 he4	-4- Benjamin Hüfner (Herner EV 2007)
 he8	-8- Matteo Stöhr (Herner EV 2007)
 he10	-10- Justus Meyl (Herner EV 2007)
+he11	-11- Juuso Rajala (Herner EV 2007)
 he14	-14- Tim Lucca Krüger (Herner EV 2007)
 he16	-16- Stéphane Döring (Herner EV 2007)
 he21	-21- Erik Keresztury (Herner EV 2007)

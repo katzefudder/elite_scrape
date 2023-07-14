@@ -141,6 +141,7 @@ er	-- Christoph Schmidt (Eisbären Regensburg)
 er	-- Tomas Schwamberger (Eisbären Regensburg)
 er	-- Kevin Slezak (Eisbären Regensburg)
 er	-- Corey Trivino (Eisbären Regensburg)
+er	-- Andrew Yogan (Eisbären Regensburg)
 er	-- Niklas Zeilbeck (Eisbären Regensburg)
 er101	Jan Suran (Co-Trainer Eisbären Regensburg)
 
