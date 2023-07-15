@@ -144,7 +144,9 @@ fu100	Juhani Matikainen (Trainer EV Füssen)
 
 - Lippe-Hockey-Hamm -
 
+ha	-- Mike Ortwein (Lippe-Hockey-Hamm)
 ha	-- Moritz Israel (Lippe-Hockey-Hamm)
+ha	-- Chris Schutz (Lippe-Hockey-Hamm)
 ha	-- Tyler Soy (Lippe-Hockey-Hamm)
 ha3	-3- Gianluca Balla (Lippe-Hockey-Hamm)
 ha10	-10- Quirin Stocker (Lippe-Hockey-Hamm)
@@ -211,6 +213,7 @@ hf101	Gordon Nickel (Co-Trainer Herforder EV)
 - Höchstadter EC -
 
 hs	-- Lars Schiller (Höchstadter EC)
+hs	-- Tjalf Deichmann (Höchstadter EC)
 hs13	-13- Sergei Topol (Höchstadter EC)
 hs16	-16- Philipp Faulhaber (Höchstadter EC)
 hs22	-22- Martin Heinisch (Höchstadter EC)
@@ -227,6 +230,7 @@ hs92	-92- Nico Zimmermann (Höchstadter EC)
 
 - EHC Klostersee -
 
+ks	-- Kelvin Walz (EHC Klostersee)
 
 
 - HC Landsberg -
