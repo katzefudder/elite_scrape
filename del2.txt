@@ -28,6 +28,32 @@ bn	-- Pascal Steck (EC Bad Nauheim)
 bn	-- Daniel Weiß (EC Bad Nauheim)
 
 
+- Bietigheim Steelers -
+
+bs	-- Paul Mayer (Bietigheim Steelers)
+bs	-- Noel Saffran (Bietigheim Steelers)
+bs	-- Florian Mnich (Bietigheim Steelers)
+bs3	-3- Max Prommersberger (Bietigheim Steelers)
+bs8	-8- Guillaume Naud (Bietigheim Steelers)
+bs9	-9- Ryon Moser (Bietigheim Steelers)
+bs10	-10- Jackson Cressey (Bietigheim Steelers)
+bs16	-16- Pascal Zerressen (Bietigheim Steelers)
+bs20	-20- Niklas Heinzinger (Bietigheim Steelers)
+bs21	-21- Jack Doremus (Bietigheim Steelers)
+bs25	-25- Dennis Dietmann (Bietigheim Steelers)
+bs26	-26- Dominik Lascheit (Bietigheim Steelers)
+bs28	-28- Cole MacDonald (Bietigheim Steelers)
+bs29	-29- Alexander Preibisch (Bietigheim Steelers)
+bs35	-35- Olafr Schmidt (Bietigheim Steelers)
+bs41	-41- Anton Sproll (Bietigheim Steelers)
+bs42	-42- Fabjon Kuqi (Bietigheim Steelers)
+bs70	-70- Leon Doubrawa (Bietigheim Steelers)
+bs77	-77- Ryker Killins (Bietigheim Steelers)
+bs79	-79- Lewis Zerter-Gossage (Bietigheim Steelers)
+bs87	-87- Alex Samusev (Bietigheim Steelers)
+bs100	Dean Fedorchuk (Trainer Bietigheim Steelers)
+
+
 - Bayreuth Tigers -
 
 by	-- Joshua Appler (Bayreuth Tigers)
@@ -176,25 +202,6 @@ fr89	-89- Nick Master (EHC Freiburg)
 fr93	-93- Parker Bowles (EHC Freiburg)
 fr100	Timo Saarikoski (Trainer EHC Freiburg)
 fr101	Sami Lehtinen (Co-Trainer EHC Freiburg)
-
-
-- Heilbronner Falken -
-
-hn	-- Thomas Supis (Heilbronner Falken)
-hn	-- Niklas Jentsch (Heilbronner Falken)
-hn8	-8- Pontus Wernerson Libäck (Heilbronner Falken)
-hn9	-9- Linus Wernerson Libäck (Heilbronner Falken)
-hn11	-11- Tim Detig (Heilbronner Falken)
-hn17	-17- Robin Just (Heilbronner Falken)
-hn24	-24- Corey Mapes (Heilbronner Falken)
-hn27	-27- Oula Uski (Heilbronner Falken)
-hn31	-31- Patrick Berger (Heilbronner Falken)
-hn36	-36- Sam Verelst (Heilbronner Falken)
-hn37	-37- Frédérik Cabana (Heilbronner Falken)
-hn55	-55- Philip Hecht (Heilbronner Falken)
-hn72	-72- Nils Kapteinat (Heilbronner Falken)
-hn75	-75- Luke Volkmann (Heilbronner Falken)
-hn84	-84- Malte Krenzlin (Heilbronner Falken)
 
 
 - EC Kassel Huskies -

@@ -58,32 +58,6 @@ ap94	-94- Anrei Hakulinen (Augsburger Panther)
 ap100	Christof Kreutzer (Trainer Augsburger Panther)
 
 
-- Bietigheim Steelers -
-
-bs	-- Paul Mayer (Bietigheim Steelers)
-bs	-- Noel Saffran (Bietigheim Steelers)
-bs	-- Florian Mnich (Bietigheim Steelers)
-bs3	-3- Max Prommersberger (Bietigheim Steelers)
-bs8	-8- Guillaume Naud (Bietigheim Steelers)
-bs9	-9- Ryon Moser (Bietigheim Steelers)
-bs10	-10- Jackson Cressey (Bietigheim Steelers)
-bs16	-16- Pascal Zerressen (Bietigheim Steelers)
-bs20	-20- Niklas Heinzinger (Bietigheim Steelers)
-bs21	-21- Jack Doremus (Bietigheim Steelers)
-bs25	-25- Dennis Dietmann (Bietigheim Steelers)
-bs26	-26- Dominik Lascheit (Bietigheim Steelers)
-bs28	-28- Cole MacDonald (Bietigheim Steelers)
-bs29	-29- Alexander Preibisch (Bietigheim Steelers)
-bs35	-35- Olafr Schmidt (Bietigheim Steelers)
-bs41	-41- Anton Sproll (Bietigheim Steelers)
-bs42	-42- Fabjon Kuqi (Bietigheim Steelers)
-bs70	-70- Leon Doubrawa (Bietigheim Steelers)
-bs77	-77- Ryker Killins (Bietigheim Steelers)
-bs79	-79- Lewis Zerter-Gossage (Bietigheim Steelers)
-bs87	-87- Alex Samusev (Bietigheim Steelers)
-bs100	Dean Fedorchuk (Trainer Bietigheim Steelers)
-
-
 - Düsseldorfer EG -
 
 de	-- Hendrik Hane (Düsseldorfer EG)
