@@ -92,6 +92,7 @@ by101	Michael Baindl (Co-Trainer Bayreuth Tigers)
 
 cr	-- Henri Kanninen (Eispiraten Crimmitschau)
 cr	-- Willy Rudert (Eispiraten Crimmitschau)
+cr	-- Hayden Verbeek (Eispiraten Crimmitschau)
 cr4	-4- Felix Thomas (Eispiraten Crimmitschau)
 cr8	-8- Dominik Walsh (Eispiraten Crimmitschau)
 cr12	-12- Alexander Schmidt (Eispiraten Crimmitschau)
@@ -312,6 +313,9 @@ lh	-- David Stieler (EV Landshut)
 lh	-- Benjamin Zientek (EV Landshut)
 lh12	-12- Thomas Brandl (EV Landshut)
 lh18	-18- Samir Kharboutli (EV Landshut)
+lh29	-29- Philipp Dietl (EV Landshut)
+lh30	-30- Nico Pertuch (EV Landshut)
+lh52	-52- Sebastian Vogl (EV Landshut)
 
 
 - Ravensburg Towerstars -
