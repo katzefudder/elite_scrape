@@ -402,7 +402,7 @@ sw	-- Tylor Spink (Schwenninger Wild Wings)
 sw	-- Sebastian Uvira (Schwenninger Wild Wings)
 sw	-- Ken Andre Olimb (Schwenninger Wild Wings)
 sw100	Steve Walker (Trainer Schwenninger Wild Wings)
-sw101	Ryan Marsh (Co-Trainer Schwenninger Wild Wings)
+sw101	Tim Kehler (Co-Trainer Schwenninger Wild Wings)
 
 
 - Grizzlys Wolfsburg -
