@@ -316,6 +316,7 @@ lh18	-18- Samir Kharboutli (EV Landshut)
 lh29	-29- Philipp Dietl (EV Landshut)
 lh30	-30- Nico Pertuch (EV Landshut)
 lh52	-52- Sebastian Vogl (EV Landshut)
+lh100	Heiko Vogler (Trainer EV Landshut)
 
 
 - Ravensburg Towerstars -
