@@ -237,6 +237,7 @@ ka95	-95- Markus Freis (EC Kassel Huskies)
 
 - ESV Kaufbeuren -
 
+kb	-- Sami Blomqvist (ESV Kaufbeuren)
 kb	-- Rihards Babulis (ESV Kaufbeuren)
 kb	-- Daniel Fießinger (ESV Kaufbeuren)
 kb	-- Keanu Salmik (ESV Kaufbeuren)
