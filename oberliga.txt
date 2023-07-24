@@ -194,7 +194,6 @@ he101	Lars Gerike (Co-Trainer Herner EV 2007)
 
 - Herforder EV -
 
-hf	-- Petr Gulda (Herforder EV)
 hf6	-6- Jonas Gerstung (Herforder EV)
 hf7	-7- Rustams Begovs (Herforder EV)
 hf8	-8- André Kral (Herforder EV)
@@ -211,6 +210,7 @@ hf49	-49- Anton Seidel (Herforder EV)
 hf52	-52- Dennis König (Herforder EV)
 hf59	-59- Justin Schrörs (Herforder EV)
 hf66	-66- Maximilian Droick (Herforder EV)
+hf69	-69- Petr Gulda (Herforder EV)
 hf87	-87- Dominik Patocka (Herforder EV)
 hf88	-88- André Gerartz (Herforder EV)
 hf100	Milan Vanek (Trainer Herforder EV)

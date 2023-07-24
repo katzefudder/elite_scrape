@@ -54,40 +54,6 @@ bs87	-87- Alex Samusev (Bietigheim Steelers)
 bs100	Dean Fedorchuk (Trainer Bietigheim Steelers)
 
 
-- Bayreuth Tigers -
-
-by	-- Joshua Appler (Bayreuth Tigers)
-by	-- Jonas Langmann (Bayreuth Tigers)
-by	-- Spencer Berry (Bayreuth Tigers)
-by	-- Zack Dybowski (Bayreuth Tigers)
-by	-- Maximilian Leitner (Bayreuth Tigers)
-by	-- Moritz Raab (Bayreuth Tigers)
-by	-- Aaron Reinig (Bayreuth Tigers)
-by	-- Samuel Schindler (Bayreuth Tigers)
-by	-- Dominik Tiffels (Bayreuth Tigers)
-by	-- Steffen Tölzer (Bayreuth Tigers)
-by	-- Philippe Cornet (Bayreuth Tigers)
-by	-- Robin Drothen (Bayreuth Tigers)
-by	-- Marvin Drothen (Bayreuth Tigers)
-by	-- Travis Ewanyk (Bayreuth Tigers)
-by	-- Paul Fabian (Bayreuth Tigers)
-by	-- Christoph Kiefersauer (Bayreuth Tigers)
-by	-- Jesse Roach (Bayreuth Tigers)
-by	-- Brett Schaefer (Bayreuth Tigers)
-by	-- Nicolas Schindler (Bayreuth Tigers)
-by	-- Jayden Schubert (Bayreuth Tigers)
-by	-- Tom Schwarz (Bayreuth Tigers)
-by	-- Dieter Geidl (Bayreuth Tigers)
-by	-- Eric Bergen (Bayreuth Tigers)
-by	-- Robin Wucher (Bayreuth Tigers)
-by	-- Alexander Dosch (Bayreuth Tigers)
-by	-- Marc Hofmann (Bayreuth Tigers)
-by	-- Maximilian Miller (Bayreuth Tigers)
-by	-- Corvin Wucher (Bayreuth Tigers)
-by100	Rich Chernomaz (Trainer Bayreuth Tigers)
-by101	Michael Baindl (Co-Trainer Bayreuth Tigers)
-
-
 - Eispiraten Crimmitschau -
 
 cr	-- Henri Kanninen (Eispiraten Crimmitschau)
@@ -237,7 +203,6 @@ ka95	-95- Markus Freis (EC Kassel Huskies)
 
 - ESV Kaufbeuren -
 
-kb	-- Sami Blomqvist (ESV Kaufbeuren)
 kb	-- Rihards Babulis (ESV Kaufbeuren)
 kb	-- Daniel Fießinger (ESV Kaufbeuren)
 kb	-- Keanu Salmik (ESV Kaufbeuren)
@@ -256,6 +221,7 @@ kb	-- John Lammers (ESV Kaufbeuren)
 kb	-- Joey Lewis (ESV Kaufbeuren)
 kb	-- Max Oswald (ESV Kaufbeuren)
 kb	-- Tyler Spurgeon (ESV Kaufbeuren)
+kb71	-71- Sami Blomqvist (ESV Kaufbeuren)
 
 
 - Krefeld Pinguine -
@@ -294,6 +260,7 @@ lf	-- Lane Scheidl (Lausitzer Füchse)
 lf	-- Lukas Valasek (Lausitzer Füchse)
 lf	-- Eric Valentin (Lausitzer Füchse)
 lf	-- Daniel Visner (Lausitzer Füchse)
+lf15	-15- Samuel Dove-McFalls (Lausitzer Füchse)
 lf92	-92- Jake Coughler (Lausitzer Füchse)
 lf100	Petteri Väkiparta (Trainer Lausitzer Füchse)
 
