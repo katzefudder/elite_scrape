@@ -1,5 +1,6 @@
 - EC Bad Nauheim -
 
+bn	-- Janis Lachmann (EC Bad Nauheim)
 bn	-- Kevin Schmidt (EC Bad Nauheim)
 bn	-- Jerry Pollastrone (EC Bad Nauheim)
 bn	-- Taylor Vause (EC Bad Nauheim)
