@@ -4,6 +4,7 @@
 
 - Deggendorfer SC -
 
+dg	-- Thomas Greilinger (Deggendorfer SC)
 dg	-- Johannes Schmid (Deggendorfer SC)
 dg	-- Max Medrala (Deggendorfer SC)
 dg	-- Viktor Skorohodov (Deggendorfer SC)
@@ -420,6 +421,8 @@ sr81	-81- Sebastian Streu (Starbulls Rosenheim)
 sr89	-89- Stefan Reiter (Starbulls Rosenheim)
 sr94	-94- Tyler McNeely (Starbulls Rosenheim)
 sr98	-98- Maximilian Vollmayer (Starbulls Rosenheim)
+sr100	Jari Pasanen (Trainer Starbulls Rosenheim)
+sr101	Jamie Bartman (Co-Trainer Starbulls Rosenheim)
 
 
 - Tölzer Löwen -

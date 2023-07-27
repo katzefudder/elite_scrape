@@ -82,6 +82,7 @@ cr101	Esbjörn Hofverberg (Co-Trainer Eispiraten Crimmitschau)
 
 - Dresdner Eislöwen -
 
+dd	-- Nils Elten (Dresdner Eislöwen)
 dd14	-14- Jussi Petersen (Dresdner Eislöwen)
 dd15	-15- Garret Pruden (Dresdner Eislöwen)
 dd16	-16- Vincent Hessler (Dresdner Eislöwen)
