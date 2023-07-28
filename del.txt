@@ -249,6 +249,7 @@ ir	-- Cedric Schiemenz (Iserlohn Roosters)
 ir	-- Balázs Sebők (Iserlohn Roosters)
 ir	-- Sven Ziegler (Iserlohn Roosters)
 ir	-- Leonhard Korus (Iserlohn Roosters)
+ir91	-91- Michael Dal Colle (Iserlohn Roosters)
 ir100	Greg Poss (Trainer Iserlohn Roosters)
 ir101	Pierre Beaulieu (Co-Trainer Iserlohn Roosters)
 

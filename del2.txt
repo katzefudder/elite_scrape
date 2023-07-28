@@ -224,6 +224,7 @@ kb	-- Joey Lewis (ESV Kaufbeuren)
 kb	-- Max Oswald (ESV Kaufbeuren)
 kb	-- Tyler Spurgeon (ESV Kaufbeuren)
 kb71	-71- Sami Blomqvist (ESV Kaufbeuren)
+kb76	-76- Maximilian Hops (ESV Kaufbeuren)
 
 
 - Krefeld Pinguine -
