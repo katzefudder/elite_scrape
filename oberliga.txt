@@ -50,6 +50,7 @@ dl	-- David Lademann (EG Diez-Limburg)
 dl	-- Niko Lehtonen (EG Diez-Limburg)
 dl	-- Brendan Nehmer (EG Diez-Limburg)
 dl	-- Horka Sekesi (EG Diez-Limburg)
+dl	-- Nils Wegner (EG Diez-Limburg)
 dl	-- Janis Lachmann (EG Diez-Limburg)
 dl	-- Paul Jan König (EG Diez-Limburg)
 
@@ -87,6 +88,7 @@ du93	-93- Tim Schröder (EV Duisburg)
 
 - EHC Erfurt -
 
+ef	-- Dillon Eichstadt (EHC Erfurt)
 ef	-- Calvin Fischer (EHC Erfurt)
 ef	-- Philipp Hertel (EHC Erfurt)
 ef	-- Matthias Pischoff (EHC Erfurt)
@@ -287,7 +289,6 @@ li	-- Marvin Drothen (EV Lindau)
 li	-- Robin Drothen (EV Lindau)
 li	-- Paul Fabian (EV Lindau)
 li	-- Nicolas Schindler (EV Lindau)
-li	-- Tom Schwarz (EV Lindau)
 li4	-4- Raphael Grünholz (EV Lindau)
 li5	-5- Eric Bergen (EV Lindau)
 li8	-8- Marc Hofmann (EV Lindau)
