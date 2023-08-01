@@ -270,14 +270,22 @@ ks	-- Kelvin Walz (EHC Klostersee)
 
 - HC Landsberg -
 
+lb	-- Moritz Borst (HC Landsberg)
+lb	-- Michael Güßbacher (HC Landsberg)
+lb	-- Markus Jänichen (HC Landsberg)
+lb	-- Jonas Mosler (HC Landsberg)
 lb	-- Dennis Neal (HC Landsberg)
 lb	-- Florian Reicheneder (HC Landsberg)
 lb	-- Tobias Wedl (HC Landsberg)
+lb	-- David Amort (HC Landsberg)
+lb	-- Marius Dörner (HC Landsberg)
 lb	-- Lars Grözinger (HC Landsberg)
 lb	-- Luis Hegner (HC Landsberg)
 lb	-- Manuel Müller (HC Landsberg)
+lb	-- Jonas Schwarzfischer (HC Landsberg)
 lb	-- Florian Stauder (HC Landsberg)
 lb	-- Frantisek Wagner (HC Landsberg)
+lb	-- Edgar Protcenko (HC Landsberg)
 lb100	Martin Hoffmann (Trainer HC Landsberg)
 
 
@@ -339,6 +347,7 @@ mm71	-71- Edgars Homjakovs (ECDC Memmingen)
 mm72	-72- Linus Svedlund (ECDC Memmingen)
 mm77	-77- Jaroslav Hafenrichter (ECDC Memmingen)
 mm93	-93- Tobias Meier (ECDC Memmingen)
+mm100	Daniel Huhn (Trainer ECDC Memmingen)
 
 
 - EHF Passau Black Hawks -
@@ -488,6 +497,7 @@ tt43	-43- Björn Borgman (Tilburg Trappers)
 tt48	-48- Chay Schults (Tilburg Trappers)
 tt51	-51- Mikko Virtanen (Tilburg Trappers)
 tt57	-57- Noah Muller (Tilburg Trappers)
+tt58	-58- Branden Gracel (Tilburg Trappers)
 tt66	-66- Diego Hofland (Tilburg Trappers)
 tt71	-71- Tijn Jacobs (Tilburg Trappers)
 tt77	-77- Reno de Hondt (Tilburg Trappers)
