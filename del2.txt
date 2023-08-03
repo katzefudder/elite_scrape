@@ -108,8 +108,10 @@ dd73	-73- Pascal Seidel (Dresdner Eislöwen)
 dd75	-75- Bruno Riedl (Dresdner Eislöwen)
 dd77	-77- Arne Uplegger (Dresdner Eislöwen)
 dd84	-84- Lukas Koziol (Dresdner Eislöwen)
+dd88	-88- Johan Porsberger (Dresdner Eislöwen)
 dd92	-92- Tomas Andres (Dresdner Eislöwen)
 dd100	Corey Neilson (Trainer Dresdner Eislöwen)
+dd101	Petteri Kilpivaara (Co-Trainer Dresdner Eislöwen)
 
 
 - Eisbären Regensburg -
@@ -139,6 +141,7 @@ er	-- Kevin Slezak (Eisbären Regensburg)
 er	-- Corey Trivino (Eisbären Regensburg)
 er	-- Andrew Yogan (Eisbären Regensburg)
 er	-- Niklas Zeilbeck (Eisbären Regensburg)
+er100	Maximilian Kaltenhauser (Trainer Eisbären Regensburg)
 er101	Jan Suran (Co-Trainer Eisbären Regensburg)
 
 
@@ -203,6 +206,8 @@ ka74	-74- Tomas Sykora (EC Kassel Huskies)
 ka84	-84- Louis Brune (EC Kassel Huskies)
 ka89	-89- Hans Detsch (EC Kassel Huskies)
 ka95	-95- Markus Freis (EC Kassel Huskies)
+ka100	Bohuslav Subr (Trainer EC Kassel Huskies)
+ka101	Jan Melichar (Co-Trainer EC Kassel Huskies)
 
 
 - ESV Kaufbeuren -
@@ -229,6 +234,8 @@ kb	-- Max Oswald (ESV Kaufbeuren)
 kb	-- Tyler Spurgeon (ESV Kaufbeuren)
 kb71	-71- Sami Blomqvist (ESV Kaufbeuren)
 kb76	-76- Maximilian Hops (ESV Kaufbeuren)
+kb100	Marko Raita (Trainer ESV Kaufbeuren)
+kb101	Daniel Jun (Co-Trainer ESV Kaufbeuren)
 
 
 - Krefeld Pinguine -
@@ -283,6 +290,7 @@ lf15	-15- Samuel Dove-McFalls (Lausitzer Füchse)
 lf25	-25- Christoph Kiefersauer (Lausitzer Füchse)
 lf92	-92- Jake Coughler (Lausitzer Füchse)
 lf100	Petteri Väkiparta (Trainer Lausitzer Füchse)
+lf101	André Mücke (Co-Trainer Lausitzer Füchse)
 
 
 - EV Landshut -
@@ -322,6 +330,7 @@ rt	-- Lukas Bender (Ravensburg Towerstars)
 rt	-- Pawel Dronia (Ravensburg Towerstars)
 rt	-- Julian Eichinger (Ravensburg Towerstars)
 rt	-- Oliver Granz (Ravensburg Towerstars)
+rt	-- Denis Pfaffengut (Ravensburg Towerstars)
 rt	-- Tim Sezemsky (Ravensburg Towerstars)
 rt	-- Matt Alfaro (Ravensburg Towerstars)
 rt	-- Luigi Calce (Ravensburg Towerstars)
@@ -375,5 +384,7 @@ se61	-61- Peter Trska (VER Selb)
 se92	-92- Richard Gelke (VER Selb)
 se93	-93- Lukas Vantuch (VER Selb)
 se98	-98- Mark McNeill (VER Selb)
+se100	Sergej Waßmiller (Trainer VER Selb)
+se101	Lanny Gare (Co-Trainer VER Selb)
 
 

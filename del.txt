@@ -93,7 +93,6 @@ de101	Alexander Barta (Co-Trainer Düsseldorfer EG)
 
 - Eisbären Berlin -
 
-eb	-- Kevin Handschuh (Eisbären Berlin)
 eb1	-1- Jonas Stettmer (Eisbären Berlin)
 eb2	-2- Rayan Bettahar (Eisbären Berlin)
 eb4	-4- Morgan Ellis (Eisbären Berlin)
