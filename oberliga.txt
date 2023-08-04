@@ -88,6 +88,7 @@ du93	-93- Tim Schröder (EV Duisburg)
 
 ef	-- Dillon Eichstadt (EHC Erfurt)
 ef	-- Calvin Fischer (EHC Erfurt)
+ef	-- Leon Schuster (EHC Erfurt)
 ef	-- Philipp Hertel (EHC Erfurt)
 ef	-- Matthias Pischoff (EHC Erfurt)
 ef1	-1- Konstantin Kessler (EHC Erfurt)
