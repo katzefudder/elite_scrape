@@ -32,6 +32,7 @@ bn	-- Daniel Weiß (EC Bad Nauheim)
 - Bietigheim Steelers -
 
 bs	-- Paul Mayer (Bietigheim Steelers)
+bs	-- Ryan Gropp (Bietigheim Steelers)
 bs	-- Noel Saffran (Bietigheim Steelers)
 bs	-- Florian Mnich (Bietigheim Steelers)
 bs3	-3- Max Prommersberger (Bietigheim Steelers)
@@ -180,6 +181,7 @@ fr101	Sami Lehtinen (Co-Trainer EHC Freiburg)
 
 - EC Kassel Huskies -
 
+ka	-- Spencer Berry (EC Kassel Huskies)
 ka7	-7- Joel Keussen (EC Kassel Huskies)
 ka8	-8- Oleg Tschwanow (EC Kassel Huskies)
 ka11	-11- Jake Weidner (EC Kassel Huskies)
@@ -261,6 +263,7 @@ kp	-- Jon Matsumoto (Krefeld Pinguine)
 kp	-- Dennis Miller (Krefeld Pinguine)
 kp	-- Kevin Niedenz (Krefeld Pinguine)
 kp	-- Leon Niederberger (Krefeld Pinguine)
+kp	-- Alexander Ruuttu (Krefeld Pinguine)
 kp	-- Lukas Wagner (Krefeld Pinguine)
 kp	-- Alexander Weiß (Krefeld Pinguine)
 kp15	-15- Erik Buschmann (Krefeld Pinguine)
