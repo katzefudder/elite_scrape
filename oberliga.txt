@@ -37,6 +37,7 @@ dg97	-97- René Röthke (Deggendorfer SC)
 
 dl	-- Marian Kapicak (EG Diez-Limburg)
 dl	-- Tim Stenger (EG Diez-Limburg)
+dl	-- John McLean (EG Diez-Limburg)
 dl	-- Torben Reuner (EG Diez-Limburg)
 dl	-- Alexander Seifert (EG Diez-Limburg)
 dl	-- Lorenzo Valenti (EG Diez-Limburg)
