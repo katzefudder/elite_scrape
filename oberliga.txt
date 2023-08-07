@@ -113,6 +113,7 @@ ef100	Raphaël Joly (Trainer EHC Erfurt)
 - ESC Moskitos Essen -
 
 es	-- Leon Hümer (ESC Moskitos Essen)
+es	-- Niklas Hane (ESC Moskitos Essen)
 es1	-1- Justus Roth (ESC Moskitos Essen)
 es7	-7- Tim Junge (ESC Moskitos Essen)
 es9	-9- Sandis Zolmanis (ESC Moskitos Essen)
@@ -187,6 +188,7 @@ he101	Lars Gerike (Co-Trainer Herner EV 2007)
 
 - Herforder EV -
 
+hf	-- Logan DeNoble (Herforder EV)
 hf6	-6- Jonas Gerstung (Herforder EV)
 hf7	-7- Rustams Begovs (Herforder EV)
 hf8	-8- André Kral (Herforder EV)
@@ -377,22 +379,23 @@ pe100	Anton Saal (Trainer EC Peiting)
 
 - SC Riessersee -
 
-ri	-- Xaver Nagel (SC Riessersee)
-ri	-- Alec Zawatsky (SC Riessersee)
 ri5	-5- Thomas Schmid (SC Riessersee)
 ri8	-8- Jan Niklas Pietsch (SC Riessersee)
 ri9	-9- Daniel Pronin (SC Riessersee)
 ri10	-10- Tobias Kircher (SC Riessersee)
+ri14	-14- Alec Zawatsky (SC Riessersee)
 ri15	-15- Anselm Gerg (SC Riessersee)
 ri16	-16- Christopher Chyzowski (SC Riessersee)
 ri21	-21- Alexander Höller (SC Riessersee)
 ri22	-22- Robin Soudek (SC Riessersee)
 ri23	-23- Marlon Wolf (SC Riessersee)
+ri30	-30- Xaver Nagel (SC Riessersee)
 ri41	-41- Michael Boehm (SC Riessersee)
 ri49	-49- Felix Linden (SC Riessersee)
 ri50	-50- Andreas Mechel (SC Riessersee)
 ri57	-57- Lubor Dibelka (SC Riessersee)
 ri76	-76- Luca Allavena (SC Riessersee)
+ri77	-77- Curtis Roach (SC Riessersee)
 ri95	-95- Simon Mayr (SC Riessersee)
 ri100	Pat Cortina (Trainer SC Riessersee)
 ri101	Anton Raubal (Co-Trainer SC Riessersee)
