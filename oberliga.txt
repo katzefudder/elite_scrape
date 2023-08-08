@@ -156,6 +156,7 @@ fu100	Juhani Matikainen (Trainer EV Füssen)
 - Herner EV 2007 -
 
 he	-- Oto Jeschke (Herner EV 2007)
+he	-- Timothy Spezia (Herner EV 2007)
 he	-- Finn Becker (Herner EV 2007)
 he	-- Dean Döge (Herner EV 2007)
 he	-- Marian Bauer (Herner EV 2007)
@@ -188,7 +189,6 @@ he101	Lars Gerike (Co-Trainer Herner EV 2007)
 
 - Herforder EV -
 
-hf	-- Logan DeNoble (Herforder EV)
 hf6	-6- Jonas Gerstung (Herforder EV)
 hf7	-7- Rustams Begovs (Herforder EV)
 hf8	-8- André Kral (Herforder EV)
@@ -206,6 +206,7 @@ hf52	-52- Dennis König (Herforder EV)
 hf59	-59- Justin Schrörs (Herforder EV)
 hf66	-66- Maximilian Droick (Herforder EV)
 hf69	-69- Petr Gulda (Herforder EV)
+hf82	-82- Logan DeNoble (Herforder EV)
 hf87	-87- Dominik Patocka (Herforder EV)
 hf88	-88- André Gerartz (Herforder EV)
 hf100	Milan Vanek (Trainer Herforder EV)
@@ -244,6 +245,9 @@ hs100	Mikhail Nemirovsky (Trainer Höchstadter EC)
 
 - EHC Klostersee -
 
+ks	-- Marek Haloda (EHC Klostersee)
+ks	-- Marc Bosecker (EHC Klostersee)
+ks	-- Quirin Spies (EHC Klostersee)
 ks	-- Kelvin Walz (EHC Klostersee)
 
 
@@ -264,7 +268,9 @@ lb	-- Manuel Müller (HC Landsberg)
 lb	-- Jonas Schwarzfischer (HC Landsberg)
 lb	-- Florian Stauder (HC Landsberg)
 lb	-- Frantisek Wagner (HC Landsberg)
+lb	-- Nico Miedl (HC Landsberg)
 lb	-- Edgar Protcenko (HC Landsberg)
+lb	-- Stephan Sailer (HC Landsberg)
 lb100	Martin Hoffmann (Trainer HC Landsberg)
 
 
@@ -272,11 +278,6 @@ lb100	Martin Hoffmann (Trainer HC Landsberg)
 
 li	-- Mathieu Desautels (EV Lindau)
 li	-- Adriano Carciola (EV Lindau)
-li	-- Samuel Schindler (EV Lindau)
-li	-- Marvin Drothen (EV Lindau)
-li	-- Robin Drothen (EV Lindau)
-li	-- Paul Fabian (EV Lindau)
-li	-- Nicolas Schindler (EV Lindau)
 li4	-4- Raphael Grünholz (EV Lindau)
 li5	-5- Eric Bergen (EV Lindau)
 li8	-8- Marc Hofmann (EV Lindau)
@@ -302,6 +303,11 @@ li101	Marko Sakic (Co-Trainer EV Lindau)
 
 - ECDC Memmingen -
 
+mm	-- Lukas Bender (ECDC Memmingen)
+mm	-- Tim Sezemsky (ECDC Memmingen)
+mm	-- Luigi Calce (ECDC Memmingen)
+mm	-- Tim Gorgenländer (ECDC Memmingen)
+mm	-- Ralf Rollinger (ECDC Memmingen)
 mm6	-6- Marcus Marsall (ECDC Memmingen)
 mm8	-8- Felix Fleischer (ECDC Memmingen)
 mm9	-9- Fabio Sarto (ECDC Memmingen)
@@ -331,6 +337,7 @@ mm100	Daniel Huhn (Trainer ECDC Memmingen)
 
 - EHF Passau Black Hawks -
 
+pa	-- Christoph Schedlbauer (EHF Passau Black Hawks)
 pa	-- Tyrell Buckley (EHF Passau Black Hawks)
 pa	-- Tim Schlauderer (EHF Passau Black Hawks)
 pa	-- Liam Blackburn (EHF Passau Black Hawks)
@@ -356,7 +363,11 @@ pa96	-96- Santeri Ovaska (EHF Passau Black Hawks)
 - EC Peiting -
 
 pe	-- Andreas Magg (EC Peiting)
+pe	-- Andreas Feuerecker (EC Peiting)
+pe	-- Marco Habermann (EC Peiting)
+pe	-- Christian Hanke (EC Peiting)
 pe	-- Brett Ouderkirk (EC Peiting)
+pe	-- Simon Seewald (EC Peiting)
 pe	-- Alexander Biberger (EC Peiting)
 pe	-- Daniel Holzmann (EC Peiting)
 pe	-- Martin Maier (EC Peiting)
