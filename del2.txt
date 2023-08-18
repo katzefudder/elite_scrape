@@ -281,8 +281,15 @@ kp26	-26- David Cerny (Krefeld Pinguine)
 
 - Lausitzer Füchse -
 
+lf	-- Nikita Quapp (Lausitzer Füchse)
 lf	-- Jonas Stettmer (Lausitzer Füchse)
+lf	-- Rayan Bettahar (Lausitzer Füchse)
+lf	-- Korbinian Geibel (Lausitzer Füchse)
+lf	-- Rio Kaiser (Lausitzer Füchse)
 lf	-- Sam Ruopp (Lausitzer Füchse)
+lf	-- Michael Bartuli (Lausitzer Füchse)
+lf	-- Maximilian Heim (Lausitzer Füchse)
+lf	-- Eric Hördler (Lausitzer Füchse)
 lf	-- Justin van der Ven (Lausitzer Füchse)
 lf	-- Tommi Steffen (Lausitzer Füchse)
 lf	-- Kristian Blumenschein (Lausitzer Füchse)
