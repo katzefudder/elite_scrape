@@ -37,6 +37,7 @@ dg97	-97- René Röthke (Deggendorfer SC)
 
 dl	-- Marian Kapicak (EG Diez-Limburg)
 dl	-- Tim Stenger (EG Diez-Limburg)
+dl	-- Janis Wagner (EG Diez-Limburg)
 dl	-- John McLean (EG Diez-Limburg)
 dl	-- Torben Reuner (EG Diez-Limburg)
 dl	-- Alexander Seifert (EG Diez-Limburg)
@@ -192,6 +193,7 @@ he101	Lars Gerike (Co-Trainer Herner EV 2007)
 
 - Herforder EV -
 
+hf	-- Killian Hutt (Herforder EV)
 hf6	-6- Jonas Gerstung (Herforder EV)
 hf7	-7- Rustams Begovs (Herforder EV)
 hf8	-8- André Kral (Herforder EV)
@@ -394,6 +396,7 @@ pe100	Anton Saal (Trainer EC Peiting)
 
 - SC Riessersee -
 
+ri	-- Philip Ziesche (SC Riessersee)
 ri5	-5- Thomas Schmid (SC Riessersee)
 ri8	-8- Jan Niklas Pietsch (SC Riessersee)
 ri9	-9- Daniel Pronin (SC Riessersee)
