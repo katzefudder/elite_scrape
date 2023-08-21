@@ -117,6 +117,7 @@ ef100	Raphaël Joly (Trainer EHC Erfurt)
 
 es	-- Leon Hümer (ESC Moskitos Essen)
 es	-- Niklas Hane (ESC Moskitos Essen)
+es	-- Johannes Oswald (ESC Moskitos Essen)
 es1	-1- Justus Roth (ESC Moskitos Essen)
 es9	-9- Sandis Zolmanis (ESC Moskitos Essen)
 es10	-10- Maksim Anton (ESC Moskitos Essen)
@@ -396,6 +397,7 @@ pe100	Anton Saal (Trainer EC Peiting)
 
 - SC Riessersee -
 
+ri	-- Robin Veber (SC Riessersee)
 ri	-- Philip Ziesche (SC Riessersee)
 ri5	-5- Thomas Schmid (SC Riessersee)
 ri8	-8- Jan Niklas Pietsch (SC Riessersee)
