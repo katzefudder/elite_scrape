@@ -123,7 +123,7 @@ eb92	-92- Marcel Noebels (Eisbären Berlin)
 eb93	-93- Leo Pföderl (Eisbären Berlin)
 eb95	-95- Frederik Tiffels (Eisbären Berlin)
 eb100	Serge Aubin (Trainer Eisbären Berlin)
-eb101	Craig Streu (Co-Trainer Eisbären Berlin)
+eb101	André Rankel (Co-Trainer Eisbären Berlin)
 
 
 - ERC Ingolstadt -
