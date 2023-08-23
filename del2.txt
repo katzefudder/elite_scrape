@@ -348,6 +348,36 @@ lh52	-52- Sebastian Vogl (EV Landshut)
 lh100	Heiko Vogler (Trainer EV Landshut)
 
 
+- Starbulls Rosenheim -
+
+rh8	-8- Lukas Laub (Starbulls Rosenheim)
+rh10	-10- Norman Hauner (Starbulls Rosenheim)
+rh12	-12- C.J. Stretch (Starbulls Rosenheim)
+rh15	-15- Denis Shevyrin (Starbulls Rosenheim)
+rh16	-16- Reid Duke (Starbulls Rosenheim)
+rh17	-17- Dominik Daxlberger (Starbulls Rosenheim)
+rh20	-20- Manuel Strodel (Starbulls Rosenheim)
+rh24	-24- Tomas Pöpperle (Starbulls Rosenheim)
+rh28	-28- Dominik Kolb (Starbulls Rosenheim)
+rh33	-33- Hagen Kaisler (Starbulls Rosenheim)
+rh34	-34- Kevin Handschuh (Starbulls Rosenheim)
+rh57	-57- Marvin Feigl (Starbulls Rosenheim)
+rh60	-60- Shane Hanna (Starbulls Rosenheim)
+rh61	-61- Sebastian Cimmerman (Starbulls Rosenheim)
+rh65	-65- Patrik Mühlberger (Starbulls Rosenheim)
+rh67	-67- Christopher Kolarz (Starbulls Rosenheim)
+rh71	-71- Bastian Eckl (Starbulls Rosenheim)
+rh76	-76- Kilian Kühnhauser (Starbulls Rosenheim)
+rh77	-77- Marius Möchel (Starbulls Rosenheim)
+rh78	-78- Christian Obu (Starbulls Rosenheim)
+rh81	-81- Sebastian Streu (Starbulls Rosenheim)
+rh89	-89- Stefan Reiter (Starbulls Rosenheim)
+rh94	-94- Tyler McNeely (Starbulls Rosenheim)
+rh98	-98- Maximilian Vollmayer (Starbulls Rosenheim)
+rh100	Jari Pasanen (Trainer Starbulls Rosenheim)
+rh101	Jamie Bartman (Co-Trainer Starbulls Rosenheim)
+
+
 - Ravensburg Towerstars -
 
 rt	-- Ilya Sharipov (Ravensburg Towerstars)
