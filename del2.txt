@@ -32,6 +32,7 @@ bn	-- Daniel Weiß (EC Bad Nauheim)
 - Bietigheim Steelers -
 
 bs	-- Ryan Gropp (Bietigheim Steelers)
+bs	-- Brett Welychka (Bietigheim Steelers)
 bs	-- Florian Mnich (Bietigheim Steelers)
 bs	-- Paul Mayer (Bietigheim Steelers)
 bs	-- Joshua Rust (Bietigheim Steelers)
