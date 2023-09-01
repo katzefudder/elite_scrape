@@ -226,6 +226,31 @@ hf100	Milan Vanek (Trainer Herforder EV)
 hf101	Gordon Nickel (Co-Trainer Herforder EV)
 
 
+- Heilbronner Falken -
+
+hn	-- Philip Kuschel (Heilbronner Falken)
+hn2	-2- Benedikt Jiranek (Heilbronner Falken)
+hn6	-6- Michael Brunner (Heilbronner Falken)
+hn7	-7- Jan Pavlu (Heilbronner Falken)
+hn8	-8- Pontus Wernerson Libäck (Heilbronner Falken)
+hn9	-9- Linus Wernerson Libäck (Heilbronner Falken)
+hn11	-11- Tim Detig (Heilbronner Falken)
+hn12	-12- Vincent Jiranek (Heilbronner Falken)
+hn14	-14- Niklas Jentsch (Heilbronner Falken)
+hn16	-16- Thomas Supis (Heilbronner Falken)
+hn17	-17- Robin Just (Heilbronner Falken)
+hn18	-18- Alex Dell (Heilbronner Falken)
+hn24	-24- Corey Mapes (Heilbronner Falken)
+hn27	-27- Oula Uski (Heilbronner Falken)
+hn31	-31- Patrick Berger (Heilbronner Falken)
+hn36	-36- Sam Verelst (Heilbronner Falken)
+hn37	-37- Frédérik Cabana (Heilbronner Falken)
+hn55	-55- Philip Hecht (Heilbronner Falken)
+hn72	-72- Nils Kapteinat (Heilbronner Falken)
+hn75	-75- Luke Volkmann (Heilbronner Falken)
+hn84	-84- Malte Krenzlin (Heilbronner Falken)
+
+
 - Höchstadter EC -
 
 hs	-- Lars Schiller (Höchstadter EC)
@@ -426,36 +451,6 @@ ri77	-77- Curtis Roach (SC Riessersee)
 ri95	-95- Simon Mayr (SC Riessersee)
 ri100	Pat Cortina (Trainer SC Riessersee)
 ri101	Anton Raubal (Co-Trainer SC Riessersee)
-
-
-- Starbulls Rosenheim -
-
-sr8	-8- Lukas Laub (Starbulls Rosenheim)
-sr10	-10- Norman Hauner (Starbulls Rosenheim)
-sr12	-12- C.J. Stretch (Starbulls Rosenheim)
-sr15	-15- Denis Shevyrin (Starbulls Rosenheim)
-sr16	-16- Reid Duke (Starbulls Rosenheim)
-sr17	-17- Dominik Daxlberger (Starbulls Rosenheim)
-sr20	-20- Manuel Strodel (Starbulls Rosenheim)
-sr24	-24- Tomas Pöpperle (Starbulls Rosenheim)
-sr28	-28- Dominik Kolb (Starbulls Rosenheim)
-sr33	-33- Hagen Kaisler (Starbulls Rosenheim)
-sr34	-34- Kevin Handschuh (Starbulls Rosenheim)
-sr57	-57- Marvin Feigl (Starbulls Rosenheim)
-sr60	-60- Shane Hanna (Starbulls Rosenheim)
-sr61	-61- Sebastian Cimmerman (Starbulls Rosenheim)
-sr65	-65- Patrik Mühlberger (Starbulls Rosenheim)
-sr67	-67- Christopher Kolarz (Starbulls Rosenheim)
-sr71	-71- Bastian Eckl (Starbulls Rosenheim)
-sr76	-76- Kilian Kühnhauser (Starbulls Rosenheim)
-sr77	-77- Marius Möchel (Starbulls Rosenheim)
-sr78	-78- Christian Obu (Starbulls Rosenheim)
-sr81	-81- Sebastian Streu (Starbulls Rosenheim)
-sr89	-89- Stefan Reiter (Starbulls Rosenheim)
-sr94	-94- Tyler McNeely (Starbulls Rosenheim)
-sr98	-98- Maximilian Vollmayer (Starbulls Rosenheim)
-sr100	Jari Pasanen (Trainer Starbulls Rosenheim)
-sr101	Jamie Bartman (Co-Trainer Starbulls Rosenheim)
 
 
 - Tölzer Löwen -
