@@ -1,5 +1,27 @@
-- Crocodiles Hamburg -
+- Bayreuth Tigers -
 
+by	-- Tomas Schmidt (Bayreuth Tigers)
+by	-- Lars Bergbauer (Bayreuth Tigers)
+by	-- Eetu Elo (Bayreuth Tigers)
+by	-- Thomas Nuss (Bayreuth Tigers)
+by	-- Tom Schwarz (Bayreuth Tigers)
+by	-- Kai Kristian (Bayreuth Tigers)
+by	-- Robin Drothen (Bayreuth Tigers)
+by	-- Andreé Hult (Bayreuth Tigers)
+by	-- Victor Knaub (Bayreuth Tigers)
+by	-- Jayden Schubert (Bayreuth Tigers)
+by4	-4- Aaron Reinig (Bayreuth Tigers)
+by6	-6- Paul Fabian (Bayreuth Tigers)
+by7	-7- Samuel Schindler (Bayreuth Tigers)
+by11	-11- Nicolas Schindler (Bayreuth Tigers)
+by13	-13- Steffen Tölzer (Bayreuth Tigers)
+by14	-14- Dominik Tiffels (Bayreuth Tigers)
+by25	-25- David Stach (Bayreuth Tigers)
+by27	-27- Brett Schaefer (Bayreuth Tigers)
+by33	-33- Joshua Appler (Bayreuth Tigers)
+by71	-71- Marvin Drothen (Bayreuth Tigers)
+by100	Rich Chernomaz (Trainer Bayreuth Tigers)
+by101	Michael Baindl (Co-Trainer Bayreuth Tigers)
 
 
 - Deggendorfer SC -
@@ -31,32 +53,6 @@ dg51	-51- Timo Pielmeier (Deggendorfer SC)
 dg79	-79- Petr Stloukal (Deggendorfer SC)
 dg88	-88- Marcel Pfänder (Deggendorfer SC)
 dg97	-97- René Röthke (Deggendorfer SC)
-
-
-- EG Diez-Limburg -
-
-dl	-- Marian Kapicak (EG Diez-Limburg)
-dl	-- Tim Stenger (EG Diez-Limburg)
-dl	-- Janis Wagner (EG Diez-Limburg)
-dl	-- Philipp Grams (EG Diez-Limburg)
-dl	-- Dominik Gutjahr (EG Diez-Limburg)
-dl	-- Michael Kristic (EG Diez-Limburg)
-dl	-- John McLean (EG Diez-Limburg)
-dl	-- Torben Reuner (EG Diez-Limburg)
-dl	-- Alexander Seifert (EG Diez-Limburg)
-dl	-- Lorenzo Valenti (EG Diez-Limburg)
-dl	-- Konstantin Firsanov (EG Diez-Limburg)
-dl	-- Hunter Fortin (EG Diez-Limburg)
-dl	-- Artur Karpenko (EG Diez-Limburg)
-dl	-- Marek Krocker (EG Diez-Limburg)
-dl	-- Marcel Kurth (EG Diez-Limburg)
-dl	-- David Lademann (EG Diez-Limburg)
-dl	-- Niko Lehtonen (EG Diez-Limburg)
-dl	-- Brendan Nehmer (EG Diez-Limburg)
-dl	-- Nils Wegner (EG Diez-Limburg)
-dl	-- Janis Lachmann (EG Diez-Limburg)
-dl	-- Julian Grund (EG Diez-Limburg)
-dl	-- Paul Jan König (EG Diez-Limburg)
 
 
 - EV Duisburg -
@@ -251,67 +247,28 @@ hn75	-75- Luke Volkmann (Heilbronner Falken)
 hn84	-84- Malte Krenzlin (Heilbronner Falken)
 
 
-- Höchstadter EC -
+- Hannover Scorpions -
 
-hs	-- Lars Schiller (Höchstadter EC)
-hs	-- Tjalf Deichmann (Höchstadter EC)
-hs6	-6- Tom Horschel (Höchstadter EC)
-hs13	-13- Sergei Topol (Höchstadter EC)
-hs16	-16- Philipp Faulhaber (Höchstadter EC)
-hs22	-22- Martin Heinisch (Höchstadter EC)
-hs23	-23- Jari Neugebauer (Höchstadter EC)
-hs30	-30- Benjamin Dirksen (Höchstadter EC)
-hs42	-42- Tim Zimmermann (Höchstadter EC)
-hs44	-44- Klavs Planics (Höchstadter EC)
-hs47	-47- Philipp Stobbe (Höchstadter EC)
-hs50	-50- Martin Kokes (Höchstadter EC)
-hs52	-52- Pavel Avdeyev (Höchstadter EC)
-hs55	-55- Jake Fardoe (Höchstadter EC)
-hs69	-69- Martin Vojcak (Höchstadter EC)
-hs70	-70- Patrik Rypar (Höchstadter EC)
-hs77	-77- Michail Guft-Sokolov (Höchstadter EC)
-hs82	-82- Justin Spiewok (Höchstadter EC)
-hs91	-91- Dmitrij Litesov (Höchstadter EC)
-hs92	-92- Nico Zimmermann (Höchstadter EC)
-hs96	-96- Anton Zeivald (Höchstadter EC)
-hs100	Mikhail Nemirovsky (Trainer Höchstadter EC)
-
-
-- Krefelder EV 1981 II -
-
-
-
-- EHC Klostersee -
-
-ks	-- Marek Haloda (EHC Klostersee)
-ks	-- Marc Bosecker (EHC Klostersee)
-ks	-- Quirin Spies (EHC Klostersee)
-ks	-- Kelvin Walz (EHC Klostersee)
-
-
-- HC Landsberg -
-
-lb	-- Moritz Borst (HC Landsberg)
-lb	-- Michael Güßbacher (HC Landsberg)
-lb	-- Markus Jänichen (HC Landsberg)
-lb	-- Jonas Mosler (HC Landsberg)
-lb	-- Dennis Neal (HC Landsberg)
-lb	-- Florian Reicheneder (HC Landsberg)
-lb	-- Tobias Wedl (HC Landsberg)
-lb	-- David Amort (HC Landsberg)
-lb	-- Marius Dörner (HC Landsberg)
-lb	-- Lars Grözinger (HC Landsberg)
-lb	-- Luis Hegner (HC Landsberg)
-lb	-- Manuel Müller (HC Landsberg)
-lb	-- Jonas Schwarzfischer (HC Landsberg)
-lb	-- Florian Stauder (HC Landsberg)
-lb	-- Luka Ulamec (HC Landsberg)
-lb	-- Frantisek Wagner (HC Landsberg)
-lb	-- Nico Miedl (HC Landsberg)
-lb	-- Edgar Protcenko (HC Landsberg)
-lb	-- Stephan Sailer (HC Landsberg)
-lb69	-69- Lukas Heß (HC Landsberg)
-lb100	Martin Hoffmann (Trainer HC Landsberg)
+hs	-- Zack Dybowski (Hannover Scorpions)
+hs9	-9- Allan McPherson (Hannover Scorpions)
+hs11	-11- Christoph Kabitzky (Hannover Scorpions)
+hs15	-15- Robin Thomson (Hannover Scorpions)
+hs21	-21- Justin Kirsch (Hannover Scorpions)
+hs22	-22- Dylan Wruck (Hannover Scorpions)
+hs26	-26- Pascal Aquin (Hannover Scorpions)
+hs28	-28- Patrick Pohl (Hannover Scorpions)
+hs35	-35- Jerry Kuhn (Hannover Scorpions)
+hs39	-39- Ennio Albrecht (Hannover Scorpions)
+hs41	-41- Steven Raabe (Hannover Scorpions)
+hs44	-44- Marcus Götz (Hannover Scorpions)
+hs66	-66- Ralf Rinke (Hannover Scorpions)
+hs67	-67- Julian Airich (Hannover Scorpions)
+hs78	-78- Alexander Heinrich (Hannover Scorpions)
+hs91	-91- Brad Snetsinger (Hannover Scorpions)
+hs94	-94- Patrick Klöpper (Hannover Scorpions)
+hs96	-96- Andy Reiss (Hannover Scorpions)
+hs98	-98- Louis Trattner (Hannover Scorpions)
+hs100	Kevin Gaudet (Trainer Hannover Scorpions)
 
 
 - EV Lindau -
@@ -451,6 +408,29 @@ ri77	-77- Curtis Roach (SC Riessersee)
 ri95	-95- Simon Mayr (SC Riessersee)
 ri100	Pat Cortina (Trainer SC Riessersee)
 ri101	Anton Raubal (Co-Trainer SC Riessersee)
+
+
+- Stuttgart Rebels -
+
+st	-- Mitja Fiedrich (Stuttgart Rebels)
+st	-- Patrick Golombek (Stuttgart Rebels)
+st	-- Jonas Gähr (Stuttgart Rebels)
+st	-- Lukas Steinhauer (Stuttgart Rebels)
+st	-- Dominik Dech (Stuttgart Rebels)
+st	-- Michael Fink (Stuttgart Rebels)
+st	-- David Kirchhoff (Stuttgart Rebels)
+st	-- Cedric Riedl (Stuttgart Rebels)
+st	-- Michael Rudolph (Stuttgart Rebels)
+st	-- Eric Strieska (Stuttgart Rebels)
+st	-- Jannik Herm (Stuttgart Rebels)
+st	-- Simon Klatte (Stuttgart Rebels)
+st	-- Devon Pepin (Stuttgart Rebels)
+st	-- Matthew Pistilli (Stuttgart Rebels)
+st	-- Lukas Traub (Stuttgart Rebels)
+st	-- Mathias Vostarek (Stuttgart Rebels)
+st	-- Loris Walter (Stuttgart Rebels)
+st	-- Petr Wiencek (Stuttgart Rebels)
+st100	Ravil Khaidarov (Trainer Stuttgart Rebels)
 
 
 - Tölzer Löwen -
