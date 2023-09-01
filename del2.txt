@@ -71,6 +71,7 @@ cr21	-21- Sören Sturm (Eispiraten Crimmitschau)
 cr22	-22- Jannis Kälble (Eispiraten Crimmitschau)
 cr23	-23- Willy Rudert (Eispiraten Crimmitschau)
 cr27	-27- Thomas Reichel (Eispiraten Crimmitschau)
+cr29	-29- Lucas Carlsson (Eispiraten Crimmitschau)
 cr41	-41- Colin Smith (Eispiraten Crimmitschau)
 cr58	-58- Max Balinson (Eispiraten Crimmitschau)
 cr71	-71- Scott Feser (Eispiraten Crimmitschau)
@@ -86,6 +87,7 @@ cr101	Esbjörn Hofverberg (Co-Trainer Eispiraten Crimmitschau)
 
 - Dresdner Eislöwen -
 
+dd	-- Marco Baßler (Dresdner Eislöwen)
 dd	-- Nils Elten (Dresdner Eislöwen)
 dd14	-14- Jussi Petersen (Dresdner Eislöwen)
 dd15	-15- Garret Pruden (Dresdner Eislöwen)
@@ -279,6 +281,8 @@ kp	-- Lukas Wagner (Krefeld Pinguine)
 kp	-- Alexander Weiß (Krefeld Pinguine)
 kp15	-15- Erik Buschmann (Krefeld Pinguine)
 kp26	-26- David Cerny (Krefeld Pinguine)
+kp100	Boris Blank (Trainer Krefeld Pinguine)
+kp101	Herbert Hohenberger (Co-Trainer Krefeld Pinguine)
 
 
 - Lausitzer Füchse -

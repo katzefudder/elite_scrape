@@ -61,6 +61,7 @@ dl	-- Paul Jan König (EG Diez-Limburg)
 
 - EV Duisburg -
 
+du	-- Eric Stephan (EV Duisburg)
 du3	-3- Lennart Schmitz (EV Duisburg)
 du5	-5- Peter Zirnov (EV Duisburg)
 du8	-8- Mason Mitchell (EV Duisburg)
