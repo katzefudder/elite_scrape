@@ -320,7 +320,6 @@ nb	-- Jake Ustorf (Nürnberg Ice Tigers)
 
 - EHC München -
 
-rb	-- Andrew MacWilliam (EHC München)
 rb	-- Daniel Allavena (EHC München)
 rb	-- Christopher Kolarz (EHC München)
 rb	-- Mathias Niederberger (EHC München)
@@ -328,6 +327,7 @@ rb	-- Konrad Abeltshauser (EHC München)
 rb	-- Dominik Bittner (EHC München)
 rb	-- Jonathon Blum (EHC München)
 rb	-- Maximilian Daubner (EHC München)
+rb	-- Andrew MacWilliam (EHC München)
 rb	-- Ryan McKiernan (EHC München)
 rb	-- Quirin Bader (EHC München)
 rb	-- Chris DeSousa (EHC München)
