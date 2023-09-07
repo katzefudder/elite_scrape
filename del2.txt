@@ -27,6 +27,8 @@ bn	-- Markus Lillich (EC Bad Nauheim)
 bn	-- Kevin Orendorz (EC Bad Nauheim)
 bn	-- Pascal Steck (EC Bad Nauheim)
 bn	-- Daniel Weiß (EC Bad Nauheim)
+bn100	Harry Lange (Trainer EC Bad Nauheim)
+bn101	Adam Mitchell (Co-Trainer EC Bad Nauheim)
 
 
 - Bietigheim Steelers -
@@ -419,6 +421,7 @@ rt	-- Jan Nijenhuis (Ravensburg Towerstars)
 rt16	-16- Florin Ketterer (Ravensburg Towerstars)
 rt27	-27- Tim Gorgenländer (Ravensburg Towerstars)
 rt100	Gergely Majoross (Trainer Ravensburg Towerstars)
+rt101	Jan Benda (Co-Trainer Ravensburg Towerstars)
 
 
 - VER Selb -
