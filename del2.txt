@@ -58,10 +58,12 @@ bs77	-77- Ryker Killins (Bietigheim Steelers)
 bs79	-79- Lewis Zerter-Gossage (Bietigheim Steelers)
 bs87	-87- Alex Samusev (Bietigheim Steelers)
 bs100	Dean Fedorchuk (Trainer Bietigheim Steelers)
+bs101	Fabian Dahlem (Co-Trainer Bietigheim Steelers)
 
 
 - Eispiraten Crimmitschau -
 
+cr	-- Ladislav Zikmund (Eispiraten Crimmitschau)
 cr4	-4- Felix Thomas (Eispiraten Crimmitschau)
 cr7	-7- Tobias Lindberg (Eispiraten Crimmitschau)
 cr8	-8- Dominik Walsh (Eispiraten Crimmitschau)
