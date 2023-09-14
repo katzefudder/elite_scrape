@@ -33,6 +33,7 @@ bn101	Adam Mitchell (Co-Trainer EC Bad Nauheim)
 
 - Bietigheim Steelers -
 
+bs	-- Spencer Berry (Bietigheim Steelers)
 bs	-- Ryan Gropp (Bietigheim Steelers)
 bs	-- Brett Welychka (Bietigheim Steelers)
 bs	-- Florian Mnich (Bietigheim Steelers)
@@ -194,7 +195,6 @@ fr101	Sami Lehtinen (Co-Trainer EHC Freiburg)
 
 - EC Kassel Huskies -
 
-ka4	-4- Spencer Berry (EC Kassel Huskies)
 ka7	-7- Joel Keussen (EC Kassel Huskies)
 ka8	-8- Oleg Tschwanow (EC Kassel Huskies)
 ka11	-11- Jake Weidner (EC Kassel Huskies)
@@ -227,6 +227,7 @@ ka101	Jan Melichar (Co-Trainer EC Kassel Huskies)
 
 - ESV Kaufbeuren -
 
+kb	-- Sten Fischer (ESV Kaufbeuren)
 kb	-- Rihards Babulis (ESV Kaufbeuren)
 kb	-- Daniel Fießinger (ESV Kaufbeuren)
 kb	-- Philipp Bidoul (ESV Kaufbeuren)
@@ -363,7 +364,6 @@ lh	-- Tobias Schwarz (EV Landshut)
 lh12	-12- Thomas Brandl (EV Landshut)
 lh18	-18- Samir Kharboutli (EV Landshut)
 lh29	-29- Philipp Dietl (EV Landshut)
-lh30	-30- Nico Pertuch (EV Landshut)
 lh52	-52- Sebastian Vogl (EV Landshut)
 lh100	Heiko Vogler (Trainer EV Landshut)
 
@@ -418,6 +418,7 @@ rt	-- Louis Latta (Ravensburg Towerstars)
 rt	-- Lukas Mühlbauer (Ravensburg Towerstars)
 rt	-- Ralf Rollinger (Ravensburg Towerstars)
 rt	-- Charlie Sarault (Ravensburg Towerstars)
+rt	-- Nico Pertuch (Ravensburg Towerstars)
 rt	-- Lukas Schulte (Ravensburg Towerstars)
 rt	-- Nico Wiens (Ravensburg Towerstars)
 rt	-- Niklas Hübner (Ravensburg Towerstars)
