@@ -67,6 +67,7 @@ ap100	Christof Kreutzer (Trainer Augsburger Panther)
 - Düsseldorfer EG -
 
 de	-- Hendrik Hane (Düsseldorfer EG)
+de	-- Leon Hümer (Düsseldorfer EG)
 de	-- Sinan Akdag (Düsseldorfer EG)
 de	-- Torsten Ankert (Düsseldorfer EG)
 de	-- Oliver Mebus (Düsseldorfer EG)
@@ -228,10 +229,7 @@ ft101	Alexander Sulzer (Co-Trainer Fischtown Pinguins)
 
 - Iserlohn Roosters -
 
-ir	-- Finn Becker (Iserlohn Roosters)
-ir	-- Andreas Jenike (Iserlohn Roosters)
 ir	-- Jonas Neffin (Iserlohn Roosters)
-ir	-- Kevin Reich (Iserlohn Roosters)
 ir	-- Tim Bender (Iserlohn Roosters)
 ir	-- Mitch Eliot (Iserlohn Roosters)
 ir	-- Nils Elten (Iserlohn Roosters)
@@ -256,7 +254,10 @@ ir	-- Balázs Sebők (Iserlohn Roosters)
 ir	-- Sven Ziegler (Iserlohn Roosters)
 ir	-- Leonhard Korus (Iserlohn Roosters)
 ir	-- Jegors Fleisers (Iserlohn Roosters)
+ir32	-32- Finn Becker (Iserlohn Roosters)
+ir35	-35- Kevin Reich (Iserlohn Roosters)
 ir91	-91- Michael Dal Colle (Iserlohn Roosters)
+ir92	-92- Andreas Jenike (Iserlohn Roosters)
 ir100	Greg Poss (Trainer Iserlohn Roosters)
 ir101	Pierre Beaulieu (Co-Trainer Iserlohn Roosters)
 
@@ -294,8 +295,6 @@ kh92	-92- Håkon Hänelt (Kölner Haie)
 
 - Nürnberg Ice Tigers -
 
-nb	-- Leon Hungerecker (Nürnberg Ice Tigers)
-nb	-- Niklas Treutle (Nürnberg Ice Tigers)
 nb	-- Constantin Braun (Nürnberg Ice Tigers)
 nb	-- Ludwig Byström (Nürnberg Ice Tigers)
 nb	-- Justus Böttner (Nürnberg Ice Tigers)
@@ -318,10 +317,14 @@ nb	-- Lukas Ribarik (Nürnberg Ice Tigers)
 nb	-- Daniel Schmölz (Nürnberg Ice Tigers)
 nb	-- Ryan Stoa (Nürnberg Ice Tigers)
 nb	-- Jake Ustorf (Nürnberg Ice Tigers)
+nb31	-31- Niklas Treutle (Nürnberg Ice Tigers)
+nb72	-72- Leon Hungerecker (Nürnberg Ice Tigers)
+nb79	-79- Michael Kunstmann (Nürnberg Ice Tigers)
 
 
 - EHC München -
 
+rb	-- Jakob Weber (EHC München)
 rb	-- Daniel Allavena (EHC München)
 rb	-- Christopher Kolarz (EHC München)
 rb	-- Mathias Niederberger (EHC München)
@@ -356,9 +359,6 @@ rb101	Pekka Kangasalusta (Co-Trainer EHC München)
 
 - Straubing Tigers -
 
-st	-- Florian Bugl (Straubing Tigers)
-st	-- Philipp Dietl (Straubing Tigers)
-st	-- Hunter Miska (Straubing Tigers)
 st	-- Marcel Brandt (Straubing Tigers)
 st	-- Justin Braun (Straubing Tigers)
 st	-- Stephan Daschner (Straubing Tigers)
@@ -373,13 +373,16 @@ st	-- Linus Brandl (Straubing Tigers)
 st	-- Tim Brunnhuber (Straubing Tigers)
 st	-- Michael Clarke (Straubing Tigers)
 st	-- JC Lipon (Straubing Tigers)
-st	-- Josh Samanski (Straubing Tigers)
 st	-- Sandro Schönberger (Straubing Tigers)
 st	-- Tyler Sheehy (Straubing Tigers)
 st	-- Parker Tuomie (Straubing Tigers)
 st	-- Mark Zengerle (Straubing Tigers)
+st1	-1- Florian Bugl (Straubing Tigers)
+st8	-8- Josh Samanski (Straubing Tigers)
 st20	-20- Justin Scott (Straubing Tigers)
 st22	-22- Mike Connolly (Straubing Tigers)
+st29	-29- Philipp Dietl (Straubing Tigers)
+st35	-35- Hunter Miska (Straubing Tigers)
 st42	-42- Cole Fonstad (Straubing Tigers)
 st49	-49- Marcel Müller (Straubing Tigers)
 st100	Tom Pokel (Trainer Straubing Tigers)
