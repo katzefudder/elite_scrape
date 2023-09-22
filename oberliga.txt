@@ -275,6 +275,7 @@ hn84	-84- Malte Krenzlin (Heilbronner Falken)
 
 - Hannover Scorpions -
 
+hs	-- Timo Ruckdäschel (Hannover Scorpions)
 hs9	-9- Allan McPherson (Hannover Scorpions)
 hs11	-11- Christoph Kabitzky (Hannover Scorpions)
 hs14	-14- Zack Dybowski (Hannover Scorpions)
@@ -514,6 +515,7 @@ to100	Ryan Foster (Trainer Tölzer Löwen)
 
 - Tilburg Trappers -
 
+tt1	-1- Mendo van Dijk (Tilburg Trappers)
 tt4	-4- Ties van Soest (Tilburg Trappers)
 tt5	-5- Giovanni Vogelaar (Tilburg Trappers)
 tt7	-7- Alexei Loginov (Tilburg Trappers)
