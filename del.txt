@@ -69,6 +69,7 @@ ap100	Christof Kreutzer (Trainer Augsburger Panther)
 
 de	-- Hendrik Hane (Düsseldorfer EG)
 de	-- Leon Hümer (Düsseldorfer EG)
+de	-- Kenny Agostino (Düsseldorfer EG)
 de	-- Kyle Cumiskey (Düsseldorfer EG)
 de	-- Stephen MacAulay (Düsseldorfer EG)
 de	-- Brendan O'Donnell (Düsseldorfer EG)
