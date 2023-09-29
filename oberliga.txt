@@ -96,6 +96,7 @@ du90	-90- Geoff Kitt (EV Duisburg)
 du91	-91- Valentin Pfeifer (EV Duisburg)
 du92	-92- Dominik Piskor (EV Duisburg)
 du93	-93- Tim Schröder (EV Duisburg)
+du100	Christoph Schubert (Trainer EV Duisburg)
 
 
 - EHC Erfurt -
