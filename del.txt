@@ -226,6 +226,7 @@ ft72	-72- Phillip Bruggisser (Fischtown Pinguins)
 ft76	-76- Justin Büsing (Fischtown Pinguins)
 ft91	-91- Miha Verlic (Fischtown Pinguins)
 ft92	-92- Philipp Preto (Fischtown Pinguins)
+ft97	-97- Ilya Andryukhov (Fischtown Pinguins)
 ft100	Thomas Popiesch (Trainer Fischtown Pinguins)
 ft101	Alexander Sulzer (Co-Trainer Fischtown Pinguins)
 
