@@ -235,6 +235,7 @@ ft101	Alexander Sulzer (Co-Trainer Fischtown Pinguins)
 
 ir	-- Jonas Neffin (Iserlohn Roosters)
 ir	-- Nils Elten (Iserlohn Roosters)
+ir	-- Brandon Gormley (Iserlohn Roosters)
 ir	-- Lukas Jung (Iserlohn Roosters)
 ir	-- Lennard Nieleck (Iserlohn Roosters)
 ir	-- Jegors Fleisers (Iserlohn Roosters)
