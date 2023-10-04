@@ -67,8 +67,6 @@ ap100	Christof Kreutzer (Trainer Augsburger Panther)
 
 - Düsseldorfer EG -
 
-de	-- Hendrik Hane (Düsseldorfer EG)
-de	-- Leon Hümer (Düsseldorfer EG)
 de	-- Kyle Cumiskey (Düsseldorfer EG)
 de	-- Stephen MacAulay (Düsseldorfer EG)
 de	-- Brendan O'Donnell (Düsseldorfer EG)
@@ -81,6 +79,8 @@ de22	-22- Oliver Mebus (Düsseldorfer EG)
 de24	-24- Alexander Blank (Düsseldorfer EG)
 de26	-26- Phil Varone (Düsseldorfer EG)
 de28	-28- Alexander Ehl (Düsseldorfer EG)
+de32	-32- Hendrik Hane (Düsseldorfer EG)
+de35	-35- Leon Hümer (Düsseldorfer EG)
 de39	-39- Victor Svensson (Düsseldorfer EG)
 de40	-40- Henrik Haukeland (Düsseldorfer EG)
 de42	-42- Luis Üffing (Düsseldorfer EG)
@@ -331,7 +331,6 @@ nb95	-95- Charlie Gerard (Nürnberg Ice Tigers)
 
 - EHC München -
 
-rb	-- Christopher Kolarz (EHC München)
 rb	-- Quirin Bader (EHC München)
 rb	-- Thomas Heigl (EHC München)
 rb2	-2- Andrew MacWilliam (EHC München)
@@ -354,6 +353,7 @@ rb42	-42- Yasin Ehliz (EHC München)
 rb47	-47- Sten Fischer (EHC München)
 rb52	-52- Patrick Hager (EHC München)
 rb58	-58- Ryan McKiernan (EHC München)
+rb67	-67- Christopher Kolarz (EHC München)
 rb70	-70- Maximilian Daubner (EHC München)
 rb72	-72- Daniel Allavena (EHC München)
 rb82	-82- Chris DeSousa (EHC München)
