@@ -95,7 +95,6 @@ du88	-88- Martin Schymainski (EV Duisburg)
 du90	-90- Geoff Kitt (EV Duisburg)
 du91	-91- Valentin Pfeifer (EV Duisburg)
 du92	-92- Dominik Piskor (EV Duisburg)
-du93	-93- Tim Schröder (EV Duisburg)
 du100	Christoph Schubert (Trainer EV Duisburg)
 
 
@@ -452,6 +451,7 @@ pe100	Anton Saal (Trainer EC Peiting)
 
 - SC Riessersee -
 
+ri	-- Connor Graham (SC Riessersee)
 ri5	-5- Thomas Schmid (SC Riessersee)
 ri7	-7- Uli Maurer (SC Riessersee)
 ri8	-8- Jan Niklas Pietsch (SC Riessersee)
