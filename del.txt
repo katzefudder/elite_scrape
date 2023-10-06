@@ -67,6 +67,7 @@ ap100	Christof Kreutzer (Trainer Augsburger Panther)
 
 - Düsseldorfer EG -
 
+de	-- Luke Green (Düsseldorfer EG)
 de	-- Kyle Cumiskey (Düsseldorfer EG)
 de	-- Stephen MacAulay (Düsseldorfer EG)
 de	-- Brendan O'Donnell (Düsseldorfer EG)
