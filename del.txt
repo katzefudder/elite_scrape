@@ -67,7 +67,6 @@ ap100	Christof Kreutzer (Trainer Augsburger Panther)
 
 - Düsseldorfer EG -
 
-de	-- Luke Green (Düsseldorfer EG)
 de	-- Kyle Cumiskey (Düsseldorfer EG)
 de	-- Stephen MacAulay (Düsseldorfer EG)
 de	-- Brendan O'Donnell (Düsseldorfer EG)
@@ -86,6 +85,7 @@ de39	-39- Victor Svensson (Düsseldorfer EG)
 de40	-40- Henrik Haukeland (Düsseldorfer EG)
 de42	-42- Luis Üffing (Düsseldorfer EG)
 de44	-44- Josef Eham (Düsseldorfer EG)
+de51	-51- Luke Green (Düsseldorfer EG)
 de55	-55- Moritz Wirth (Düsseldorfer EG)
 de67	-67- Bernhard Ebner (Düsseldorfer EG)
 de71	-71- Kohen Olischefski (Düsseldorfer EG)
@@ -328,6 +328,8 @@ nb82	-82- Hayden Shaw (Nürnberg Ice Tigers)
 nb90	-90- Constantin Braun (Nürnberg Ice Tigers)
 nb91	-91- Elis Hede (Nürnberg Ice Tigers)
 nb95	-95- Charlie Gerard (Nürnberg Ice Tigers)
+nb100	Tom Rowe (Trainer Nürnberg Ice Tigers)
+nb101	Manuel Kofler (Co-Trainer Nürnberg Ice Tigers)
 
 
 - EHC München -
