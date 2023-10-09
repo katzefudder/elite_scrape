@@ -452,7 +452,6 @@ pe100	Anton Saal (Trainer EC Peiting)
 
 - SC Riessersee -
 
-ri	-- Connor Graham (SC Riessersee)
 ri5	-5- Thomas Schmid (SC Riessersee)
 ri7	-7- Uli Maurer (SC Riessersee)
 ri8	-8- Jan Niklas Pietsch (SC Riessersee)
@@ -472,6 +471,7 @@ ri44	-44- Robin Veber (SC Riessersee)
 ri49	-49- Felix Linden (SC Riessersee)
 ri50	-50- Andreas Mechel (SC Riessersee)
 ri57	-57- Lubor Dibelka (SC Riessersee)
+ri62	-62- Connor Graham (SC Riessersee)
 ri76	-76- Luca Allavena (SC Riessersee)
 ri77	-77- Curtis Roach (SC Riessersee)
 ri88	-88- Philip Ziesche (SC Riessersee)
