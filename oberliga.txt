@@ -416,6 +416,7 @@ pa84	-84- Dennis Henter (EHF Passau Black Hawks)
 pa86	-86- Kevin Schinko (EHF Passau Black Hawks)
 pa87	-87- Sandro Mayr (EHF Passau Black Hawks)
 pa88	-88- David Seidl (EHF Passau Black Hawks)
+pa89	-89- Johannes Kurrer (EHF Passau Black Hawks)
 pa96	-96- Santeri Ovaska (EHF Passau Black Hawks)
 
 
