@@ -60,8 +60,8 @@ bs79	-79- Lewis Zerter-Gossage (Bietigheim Steelers)
 bs87	-87- Alex Samusev (Bietigheim Steelers)
 bs91	-91- Noel Saffran (Bietigheim Steelers)
 bs94	-94- Brett Welychka (Bietigheim Steelers)
-bs100	Dean Fedorchuk (Trainer Bietigheim Steelers)
-bs101	Fabian Dahlem (Co-Trainer Bietigheim Steelers)
+bs100	Daniel Naud (Trainer Bietigheim Steelers)
+bs101	Alexander Dück (Co-Trainer Bietigheim Steelers)
 
 
 - Eispiraten Crimmitschau -
@@ -205,6 +205,7 @@ ka8	-8- Oleg Tschwanow (EC Kassel Huskies)
 ka11	-11- Jake Weidner (EC Kassel Huskies)
 ka17	-17- Joel Lowry (EC Kassel Huskies)
 ka18	-18- Lois Spitzner (EC Kassel Huskies)
+ka21	-21- Sebastian Wieber (EC Kassel Huskies)
 ka22	-22- Marco Müller (EC Kassel Huskies)
 ka24	-24- Alec Ahlroth (EC Kassel Huskies)
 ka26	-26- Yannik Valenti (EC Kassel Huskies)
