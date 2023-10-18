@@ -170,6 +170,7 @@ es101	Johan Merbah (Co-Trainer ESC Moskitos Essen)
 
 - EV Füssen -
 
+fu	-- Edgar Simon (EV Füssen)
 fu3	-3- Jonas Mommensohn (EV Füssen)
 fu4	-4- Jonas Fischer (EV Füssen)
 fu6	-6- Maximilian Decker (EV Füssen)
