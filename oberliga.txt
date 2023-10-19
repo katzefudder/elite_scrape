@@ -68,6 +68,7 @@ dg97	-97- René Röthke (Deggendorfer SC)
 
 - EV Duisburg -
 
+du	-- Raymond Brice (EV Duisburg)
 du3	-3- Lennart Schmitz (EV Duisburg)
 du5	-5- Peter Zirnov (EV Duisburg)
 du10	-10- Maurice Becker (EV Duisburg)
