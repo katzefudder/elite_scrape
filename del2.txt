@@ -1,8 +1,10 @@
 - EC Bad Nauheim -
 
 bn	-- Lukas Stuhrmann (EC Bad Nauheim)
+bn	-- Nick Aichinger (EC Bad Nauheim)
 bn	-- Vincent Grunewald (EC Bad Nauheim)
 bn	-- Rik Gaidel (EC Bad Nauheim)
+bn	-- Håkon Hänelt (EC Bad Nauheim)
 bn	-- Raphael Jakovlev (EC Bad Nauheim)
 bn2	-2- Paul Reiner (EC Bad Nauheim)
 bn4	-4- Kevin Schmidt (EC Bad Nauheim)
