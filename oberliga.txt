@@ -429,6 +429,7 @@ pa96	-96- Santeri Ovaska (EHF Passau Black Hawks)
 
 - EC Peiting -
 
+pe	-- Leon van der Linde (EC Peiting)
 pe7	-7- Martin Maier (EC Peiting)
 pe8	-8- Félix Brassard (EC Peiting)
 pe9	-9- Brett Ouderkirk (EC Peiting)
