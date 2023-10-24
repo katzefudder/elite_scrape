@@ -70,7 +70,6 @@ dg97	-97- René Röthke (Deggendorfer SC)
 
 - EV Duisburg -
 
-du	-- Raymond Brice (EV Duisburg)
 du3	-3- Lennart Schmitz (EV Duisburg)
 du5	-5- Peter Zirnov (EV Duisburg)
 du10	-10- Maurice Becker (EV Duisburg)
@@ -93,6 +92,7 @@ du40	-40- Fabian Hegmann (EV Duisburg)
 du51	-51- Zack Phillips (EV Duisburg)
 du68	-68- Michael Fomin (EV Duisburg)
 du71	-71- Cornelius Krämer (EV Duisburg)
+du74	-74- Raymond Brice (EV Duisburg)
 du77	-77- Thomas Ziolkowski (EV Duisburg)
 du82	-82- Adam Zoweil (EV Duisburg)
 du88	-88- Martin Schymainski (EV Duisburg)
@@ -429,7 +429,6 @@ pa96	-96- Santeri Ovaska (EHF Passau Black Hawks)
 
 - EC Peiting -
 
-pe	-- Leon van der Linde (EC Peiting)
 pe7	-7- Martin Maier (EC Peiting)
 pe8	-8- Félix Brassard (EC Peiting)
 pe9	-9- Brett Ouderkirk (EC Peiting)
@@ -451,6 +450,7 @@ pe36	-36- Sebastian Zwickl (EC Peiting)
 pe38	-38- Kilian Böhm (EC Peiting)
 pe40	-40- Andreas Schneider (EC Peiting)
 pe41	-41- Johannes Achatz (EC Peiting)
+pe55	-55- Leon van der Linde (EC Peiting)
 pe58	-58- Sean Morgan (EC Peiting)
 pe65	-65- Alexander Biberger (EC Peiting)
 pe74	-74- Simon Seewald (EC Peiting)

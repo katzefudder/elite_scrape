@@ -306,7 +306,6 @@ kh101	Clément Jodoin (Co-Trainer Kölner Haie)
 
 - Nürnberg Ice Tigers -
 
-nb	-- Lukas Ribarik (Nürnberg Ice Tigers)
 nb5	-5- Jack Dougherty (Nürnberg Ice Tigers)
 nb6	-6- Julius Karrer (Nürnberg Ice Tigers)
 nb9	-9- Justus Böttner (Nürnberg Ice Tigers)
@@ -316,6 +315,7 @@ nb14	-14- Cole Maier (Nürnberg Ice Tigers)
 nb18	-18- Maximilian Merkl (Nürnberg Ice Tigers)
 nb19	-19- Tim Fleischer (Nürnberg Ice Tigers)
 nb21	-21- Max Kislinger (Nürnberg Ice Tigers)
+nb23	-23- Lukas Ribarik (Nürnberg Ice Tigers)
 nb24	-24- Marcus Weber (Nürnberg Ice Tigers)
 nb25	-25- Daniel Schmölz (Nürnberg Ice Tigers)
 nb26	-26- Dennis Lobach (Nürnberg Ice Tigers)
@@ -371,7 +371,6 @@ rb101	Pekka Kangasalusta (Co-Trainer EHC München)
 
 - Straubing Tigers -
 
-st	-- Linus Brandl (Straubing Tigers)
 st	-- JC Lipon (Straubing Tigers)
 st1	-1- Florian Bugl (Straubing Tigers)
 st6	-6- Parker Tuomie (Straubing Tigers)
@@ -394,6 +393,7 @@ st49	-49- Marcel Müller (Straubing Tigers)
 st52	-52- Nicolas Mattinen (Straubing Tigers)
 st61	-61- Justin Braun (Straubing Tigers)
 st71	-71- Tyler Sheehy (Straubing Tigers)
+st73	-73- Linus Brandl (Straubing Tigers)
 st77	-77- Matt Bradley (Straubing Tigers)
 st89	-89- Mark Zengerle (Straubing Tigers)
 st92	-92- Marcel Brandt (Straubing Tigers)

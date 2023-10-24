@@ -305,8 +305,7 @@ kp82	-82- Alexander Ruuttu (Krefeld Pinguine)
 kp89	-89- Josh MacDonald (Krefeld Pinguine)
 kp91	-91- Mike Fischer (Krefeld Pinguine)
 kp97	-97- Edmund Junemann (Krefeld Pinguine)
-kp100	Boris Blank (Trainer Krefeld Pinguine)
-kp101	Herbert Hohenberger (Co-Trainer Krefeld Pinguine)
+kp100	Herbert Hohenberger (Trainer Krefeld Pinguine)
 
 
 - Lausitzer Füchse -
