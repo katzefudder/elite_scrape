@@ -266,8 +266,7 @@ ir88	-88- Hunter Shinkaruk (Iserlohn Roosters)
 ir90	-90- Taro Jentzsch (Iserlohn Roosters)
 ir91	-91- Michael Dal Colle (Iserlohn Roosters)
 ir92	-92- Andreas Jenike (Iserlohn Roosters)
-ir100	Greg Poss (Trainer Iserlohn Roosters)
-ir101	Pierre Beaulieu (Co-Trainer Iserlohn Roosters)
+ir100	Pierre Beaulieu (Trainer Iserlohn Roosters)
 
 
 - Kölner Haie -

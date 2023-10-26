@@ -1,5 +1,6 @@
 - Bayreuth Tigers -
 
+by	-- Kai Zernikel (Bayreuth Tigers)
 by4	-4- Aaron Reinig (Bayreuth Tigers)
 by6	-6- Paul Fabian (Bayreuth Tigers)
 by7	-7- Samuel Schindler (Bayreuth Tigers)
@@ -54,9 +55,6 @@ dg27	-27- Johannes Schmid (Deggendorfer SC)
 dg29	-29- Benedikt Schopper (Deggendorfer SC)
 dg30	-30- Justin Köpf (Deggendorfer SC)
 dg31	-31- Louis Eisenhut (Deggendorfer SC)
-dg33	-33- Dennis Balzer (Deggendorfer SC)
-dg35	-35- Alexander Wunderlich (Deggendorfer SC)
-dg37	-37- Valentin Lehner (Deggendorfer SC)
 dg39	-39- Thomas Greilinger (Deggendorfer SC)
 dg42	-42- Carter Popoff (Deggendorfer SC)
 dg43	-43- Antonin Dusek (Deggendorfer SC)
@@ -70,6 +68,7 @@ dg97	-97- René Röthke (Deggendorfer SC)
 
 - EV Duisburg -
 
+du	-- Yannis Walch (EV Duisburg)
 du3	-3- Lennart Schmitz (EV Duisburg)
 du5	-5- Peter Zirnov (EV Duisburg)
 du10	-10- Maurice Becker (EV Duisburg)
@@ -268,7 +267,6 @@ hf69	-69- Petr Gulda (Herforder EV)
 hf82	-82- Logan DeNoble (Herforder EV)
 hf87	-87- Dominik Patocka (Herforder EV)
 hf88	-88- André Gerartz (Herforder EV)
-hf96	-96- Killian Hutt (Herforder EV)
 hf100	Milan Vanek (Trainer Herforder EV)
 hf101	Gordon Nickel (Co-Trainer Herforder EV)
 
