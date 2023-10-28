@@ -103,6 +103,7 @@ du100	Christoph Schubert (Trainer EV Duisburg)
 
 - EHC Erfurt -
 
+ef	-- Moritz Serikow (EHC Erfurt)
 ef1	-1- Konstantin Kessler (EHC Erfurt)
 ef3	-3- Leon Schuster (EHC Erfurt)
 ef4	-4- Dillon Eichstadt (EHC Erfurt)
@@ -427,6 +428,7 @@ pa96	-96- Santeri Ovaska (EHF Passau Black Hawks)
 
 - EC Peiting -
 
+pe	-- Jannick Stein (EC Peiting)
 pe7	-7- Martin Maier (EC Peiting)
 pe8	-8- Félix Brassard (EC Peiting)
 pe9	-9- Brett Ouderkirk (EC Peiting)
@@ -546,7 +548,6 @@ to24	-24- Ismailcan Sahanoglu (Tölzer Löwen)
 to29	-29- Enrico Salvarani (Tölzer Löwen)
 to30	-30- Joshua Baron (Tölzer Löwen)
 to37	-37- Marc Schmidpeter (Tölzer Löwen)
-to54	-54- Zac Herrmann (Tölzer Löwen)
 to55	-55- Florian Krumpe (Tölzer Löwen)
 to62	-62- Philipp Schlager (Tölzer Löwen)
 to71	-71- Mateu Späth (Tölzer Löwen)
