@@ -531,7 +531,7 @@ st100	Ravil Khaidarov (Trainer Stuttgart Rebels)
 
 - Tölzer Löwen -
 
-to1	-1- Lennart Critzmann (Tölzer Löwen)
+to	-- Klemen Pretnar (Tölzer Löwen)
 to5	-5- Anton Engel (Tölzer Löwen)
 to6	-6- Manuel Edfelder (Tölzer Löwen)
 to7	-7- Reto Schüpping (Tölzer Löwen)
