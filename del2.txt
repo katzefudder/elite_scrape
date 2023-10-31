@@ -1,5 +1,6 @@
 - EC Bad Nauheim -
 
+bn	-- Brent Raedeke (EC Bad Nauheim)
 bn	-- Lukas Stuhrmann (EC Bad Nauheim)
 bn	-- Vincent Grunewald (EC Bad Nauheim)
 bn	-- Rik Gaidel (EC Bad Nauheim)

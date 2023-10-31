@@ -1,6 +1,5 @@
 - Bayreuth Tigers -
 
-by	-- Kai Zernikel (Bayreuth Tigers)
 by4	-4- Aaron Reinig (Bayreuth Tigers)
 by6	-6- Paul Fabian (Bayreuth Tigers)
 by7	-7- Samuel Schindler (Bayreuth Tigers)
@@ -19,6 +18,7 @@ by44	-44- Tom Schwarz (Bayreuth Tigers)
 by71	-71- Marvin Drothen (Bayreuth Tigers)
 by77	-77- Thomas Nuss (Bayreuth Tigers)
 by84	-84- Joel Hofmann (Bayreuth Tigers)
+by85	-85- Kai Zernikel (Bayreuth Tigers)
 by86	-86- Eetu Elo (Bayreuth Tigers)
 by88	-88- Victor Knaub (Bayreuth Tigers)
 by90	-90- Mathias Binder (Bayreuth Tigers)
@@ -531,7 +531,6 @@ st100	Ravil Khaidarov (Trainer Stuttgart Rebels)
 
 - Tölzer Löwen -
 
-to	-- Klemen Pretnar (Tölzer Löwen)
 to5	-5- Anton Engel (Tölzer Löwen)
 to6	-6- Manuel Edfelder (Tölzer Löwen)
 to7	-7- Reto Schüpping (Tölzer Löwen)
@@ -551,6 +550,7 @@ to55	-55- Florian Krumpe (Tölzer Löwen)
 to62	-62- Philipp Schlager (Tölzer Löwen)
 to71	-71- Mateu Späth (Tölzer Löwen)
 to72	-72- Justi Späth (Tölzer Löwen)
+to77	-77- Klemen Pretnar (Tölzer Löwen)
 to78	-78- Maximilian Spöttel (Tölzer Löwen)
 to89	-89- Yannic Bauer (Tölzer Löwen)
 to91	-91- Steven Deeg (Tölzer Löwen)
