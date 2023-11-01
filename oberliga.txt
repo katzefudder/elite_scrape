@@ -464,6 +464,7 @@ pe100	Anton Saal (Trainer EC Peiting)
 
 - SC Riessersee -
 
+ri	-- Moritz Köttstorfer (SC Riessersee)
 ri5	-5- Thomas Schmid (SC Riessersee)
 ri7	-7- Uli Maurer (SC Riessersee)
 ri8	-8- Jan Niklas Pietsch (SC Riessersee)
