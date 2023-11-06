@@ -40,10 +40,7 @@ class EliteSpider(scrapy.Spider):
 
     current_team_key = ""
 
-    # for players in response.css('table.roster tbody tr'):
-    # for players in response.xpath('//table[contains(@class, "SortTable_table__")]/tbody/tr/td/div[contains(@class, "Roster_player__")]'):
     for players in response.xpath('//div[contains(@class, "Roster_player__")]'):
-      
       current_team_key = team_keys[response.url]
       number = str(players.xpath('ancestor::tr/td[2]/text()').get()).strip()
       number = number.replace('#', '')
