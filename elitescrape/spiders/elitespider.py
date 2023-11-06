@@ -28,22 +28,27 @@ class EliteSpider(scrapy.Spider):
     team_keys = dict(zip(self.teams.values(), self.teams.keys()))
 
     # get the team's name
-    team = str(response.css('#name-and-logo h1.semi-logo::text').get()).strip()
+    team = str(response.xpath('//h1/text()').get()).strip()
 
     # select coach
     headCoach = response.xpath("//text()[contains(., 'Head Coach')]/following::a[1]/text()").extract()
     # select assistant coach
-    assistantCoach = response.xpath("//text()[contains(., 'Asst. Coach')]/following::a[1]/text()").extract()
+    assistantCoach = response.xpath("//text()[contains(., 'Assistant Coach')]/following::a[1]/text()").extract()
 
     # set a title
     content = "- " + str(team) + " -\n\n"
 
-    for players in response.css('table.roster tbody tr'):
-      current_team_key = team_keys[response.url]
-      number = str(players.css('td.jersey::text').get()).strip()
+    current_team_key = ""
 
+    # for players in response.css('table.roster tbody tr'):
+    # for players in response.xpath('//table[contains(@class, "SortTable_table__")]/tbody/tr/td/div[contains(@class, "Roster_player__")]'):
+    for players in response.xpath('//div[contains(@class, "Roster_player__")]'):
+      
+      current_team_key = team_keys[response.url]
+      number = str(players.xpath('ancestor::tr/td[2]/text()').get()).strip()
       number = number.replace('#', '')
-      name = str(players.css('td a::text').get()).strip()
+
+      name = str(players.xpath('a/text()').get()).strip()
       # remove any hints on the player's name
       name = str(re.sub('\(.*\)', '', name)).strip()
       if number != 'None' and name != 'None':
