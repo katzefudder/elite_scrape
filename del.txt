@@ -64,6 +64,7 @@ ap77	-77- Luca Tosto (Augsburger Panther)
 ap24	-24- T.J. Trevelyan (Augsburger Panther)
 ap9	-9- Justin Volek (Augsburger Panther)
 ap100	Christof Kreutzer (Trainer Augsburger Panther)
+ap101	Juha Nokelainen (Co-Trainer Augsburger Panther)
 
 
 - Düsseldorfer EG -
