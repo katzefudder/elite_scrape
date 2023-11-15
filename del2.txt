@@ -127,7 +127,7 @@ dd19	-19- Niklas Postel (Dresdner Eislöwen)
 dd63	-63- David Rundqvist (Dresdner Eislöwen)
 dd28	-28- Georgiy Saakyan (Dresdner Eislöwen)
 dd18	-18- Timo Walther (Dresdner Eislöwen)
-dd100	Corey Neilson (Trainer Dresdner Eislöwen)
+dd100	Petteri Kilpivaara (Trainer Dresdner Eislöwen)
 dd101	Petteri Kilpivaara (Co-Trainer Dresdner Eislöwen)
 
 
