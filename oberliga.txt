@@ -286,7 +286,6 @@ hn12	-12- Vincent Jiranek (Heilbronner Falken)
 hn17	-17- Robin Just (Heilbronner Falken)
 hn27	-27- Oula Uski (Heilbronner Falken)
 hn36	-36- Sam Verelst (Heilbronner Falken)
-hn75	-75- Luke Volkmann (Heilbronner Falken)
 hn9	-9- Linus Wernerson Libäck (Heilbronner Falken)
 hn8	-8- Pontus Wernerson Libäck (Heilbronner Falken)
 

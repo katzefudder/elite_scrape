@@ -338,6 +338,7 @@ lf101	André Mücke (Co-Trainer Lausitzer Füchse)
 
 lh31	-31- Florian Bugl (EV Landshut)
 lh29	-29- Philipp Dietl (EV Landshut)
+lh30	-30- Johannes Kurrer (EV Landshut)
 lh34	-34- Jonas Langmann (EV Landshut)
 lh52	-52- Sebastian Vogl (EV Landshut)
 lh48	-48- Wade Bergman (EV Landshut)
