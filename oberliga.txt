@@ -209,7 +209,6 @@ fu100	Juhani Matikainen (Trainer EV Füssen)
 - Herner EV 2007 -
 
 he35	-35- Finn Becker (Herner EV 2007)
-he31	-31- Dean Döge (Herner EV 2007)
 he3	-3- Oto Jeschke (Herner EV 2007)
 he91	-91- Michél Ackers (Herner EV 2007)
 he4	-4- Benjamin Hüfner (Herner EV 2007)
