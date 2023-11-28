@@ -28,7 +28,7 @@ am14	-14- Jordan Szwarz (Adler Mannheim)
 am96	-96- Simon Thiel (Adler Mannheim)
 am19	-19- Linden Vey (Adler Mannheim)
 am89	-89- David Wolf (Adler Mannheim)
-am100	Johan Lundskog (Trainer Adler Mannheim)
+am100	Dallas Eakins (Trainer Adler Mannheim)
 am101	Curt Fraser (Co-Trainer Adler Mannheim)
 
 
