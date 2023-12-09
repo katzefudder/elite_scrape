@@ -390,6 +390,7 @@ lh100	Heiko Vogler (Trainer EV Landshut)
 
 - Starbulls Rosenheim -
 
+rh4	-4- Jannick Stein (Starbulls Rosenheim)
 rh8	-8- Lukas Laub (Starbulls Rosenheim)
 rh10	-10- Norman Hauner (Starbulls Rosenheim)
 rh12	-12- C.J. Stretch (Starbulls Rosenheim)
