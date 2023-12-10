@@ -457,7 +457,6 @@ rt101	Jan Benda (Co-Trainer Ravensburg Towerstars)
 
 - VER Selb -
 
-se	-- Rasmus Heljanko (VER Selb)
 se1	-1- Michael Bitzer (VER Selb)
 se4	-4- Steve Hanusch (VER Selb)
 se7	-7- Frank Hördler (VER Selb)
@@ -465,6 +464,7 @@ se9	-9- Jordan Knackstedt (VER Selb)
 se10	-10- Fedor Kolupaylo (VER Selb)
 se11	-11- Luis Marusch (VER Selb)
 se14	-14- Leon Dalldush (VER Selb)
+se16	-16- Rasmus Heljanko (VER Selb)
 se19	-19- Nikita Naumann (VER Selb)
 se27	-27- Michel Weidekamp (VER Selb)
 se28	-28- Lasse Roelofsen (VER Selb)
