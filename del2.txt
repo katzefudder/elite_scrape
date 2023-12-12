@@ -457,6 +457,7 @@ rt101	Jan Benda (Co-Trainer Ravensburg Towerstars)
 
 - VER Selb -
 
+se	-- Chad Bassen (VER Selb)
 se1	-1- Michael Bitzer (VER Selb)
 se4	-4- Steve Hanusch (VER Selb)
 se7	-7- Frank Hördler (VER Selb)

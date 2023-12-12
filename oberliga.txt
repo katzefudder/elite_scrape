@@ -294,7 +294,9 @@ hn37	-37- Frédérik Cabana (Heilbronner Falken)
 hn55	-55- Philip Hecht (Heilbronner Falken)
 hn72	-72- Nils Kapteinat (Heilbronner Falken)
 hn73	-73- Leon Willerscheid (Heilbronner Falken)
+hn80	-80- Maurice Müller (Heilbronner Falken)
 hn84	-84- Malte Krenzlin (Heilbronner Falken)
+hn91	-91- Nikita Tschwanow (Heilbronner Falken)
 
 
 - Hannover Scorpions -
