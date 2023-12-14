@@ -373,6 +373,7 @@ rb101	Pekka Kangasalusta (Co-Trainer EHC München)
 
 - Straubing Tigers -
 
+st	-- Valentin Lehner (Straubing Tigers)
 st1	-1- Florian Bugl (Straubing Tigers)
 st6	-6- Parker Tuomie (Straubing Tigers)
 st8	-8- Josh Samanski (Straubing Tigers)
