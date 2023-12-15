@@ -34,6 +34,7 @@ am101	Curt Fraser (Co-Trainer Adler Mannheim)
 
 - Augsburger Panther -
 
+ap	-- Kevin Handschuh (Augsburger Panther)
 ap4	-4- Jordon Southorn (Augsburger Panther)
 ap9	-9- Justin Volek (Augsburger Panther)
 ap10	-10- Chris Collins (Augsburger Panther)
