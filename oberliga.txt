@@ -70,6 +70,8 @@ dg97	-97- René Röthke (Deggendorfer SC)
 
 - EV Duisburg -
 
+du	-- Kevin Grasmik (EV Duisburg)
+du	-- Rik Gaidel (EV Duisburg)
 du3	-3- Lennart Schmitz (EV Duisburg)
 du5	-5- Peter Zirnov (EV Duisburg)
 du10	-10- Maurice Becker (EV Duisburg)
@@ -290,6 +292,7 @@ hn31	-31- Patrick Berger (Heilbronner Falken)
 hn36	-36- Sam Verelst (Heilbronner Falken)
 hn37	-37- Frédérik Cabana (Heilbronner Falken)
 hn55	-55- Philip Hecht (Heilbronner Falken)
+hn70	-70- Yanik Haas (Heilbronner Falken)
 hn72	-72- Nils Kapteinat (Heilbronner Falken)
 hn73	-73- Leon Willerscheid (Heilbronner Falken)
 hn80	-80- Maurice Müller (Heilbronner Falken)
@@ -574,6 +577,7 @@ to100	Axel Kammerer (Trainer Tölzer Löwen)
 
 - Tilburg Trappers -
 
+tt	-- Kaid Oliver (Tilburg Trappers)
 tt1	-1- Mendo van Dijk (Tilburg Trappers)
 tt4	-4- Ties van Soest (Tilburg Trappers)
 tt5	-5- Giovanni Vogelaar (Tilburg Trappers)
