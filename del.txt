@@ -34,7 +34,6 @@ am101	Curt Fraser (Co-Trainer Adler Mannheim)
 
 - Augsburger Panther -
 
-ap	-- Kevin Handschuh (Augsburger Panther)
 ap4	-4- Jordon Southorn (Augsburger Panther)
 ap9	-9- Justin Volek (Augsburger Panther)
 ap10	-10- Chris Collins (Augsburger Panther)
@@ -59,6 +58,7 @@ ap65	-65- Niklas Länger (Augsburger Panther)
 ap71	-71- Niklas Andersen (Augsburger Panther)
 ap73	-73- Matt Puempel (Augsburger Panther)
 ap77	-77- Luca Tosto (Augsburger Panther)
+ap82	-82- Kevin Handschuh (Augsburger Panther)
 ap91	-91- Luke Esposito (Augsburger Panther)
 ap93	-93- Simon Sezemsky (Augsburger Panther)
 ap94	-94- Anrei Hakulinen (Augsburger Panther)
@@ -374,7 +374,6 @@ rb101	Pekka Kangasalusta (Co-Trainer EHC München)
 
 - Straubing Tigers -
 
-st	-- Valentin Lehner (Straubing Tigers)
 st1	-1- Florian Bugl (Straubing Tigers)
 st6	-6- Parker Tuomie (Straubing Tigers)
 st8	-8- Josh Samanski (Straubing Tigers)
@@ -389,6 +388,7 @@ st27	-27- Sandro Schönberger (Straubing Tigers)
 st32	-32- Cody Lampl (Straubing Tigers)
 st34	-34- Benedikt Kohl (Straubing Tigers)
 st35	-35- Hunter Miska (Straubing Tigers)
+st36	-36- Valentin Lehner (Straubing Tigers)
 st42	-42- Cole Fonstad (Straubing Tigers)
 st43	-43- Philip Samuelsson (Straubing Tigers)
 st49	-49- Marcel Müller (Straubing Tigers)
@@ -406,6 +406,7 @@ st101	Robert Leask (Co-Trainer Straubing Tigers)
 
 - Schwenninger Wild Wings -
 
+sw	-- Chris Brown (Schwenninger Wild Wings)
 sw6	-6- Daryl Boyle (Schwenninger Wild Wings)
 sw7	-7- Kai Zernikel (Schwenninger Wild Wings)
 sw9	-9- Philip Feist (Schwenninger Wild Wings)

@@ -102,7 +102,7 @@ cr101	Esbjörn Hofverberg (Co-Trainer Eispiraten Crimmitschau)
 
 - Dresdner Eislöwen -
 
-dd	-- Mitch Wahl (Dresdner Eislöwen)
+dd3	-3- Mitch Wahl (Dresdner Eislöwen)
 dd5	-5- Nils Elten (Dresdner Eislöwen)
 dd14	-14- Jussi Petersen (Dresdner Eislöwen)
 dd15	-15- Garret Pruden (Dresdner Eislöwen)
@@ -204,7 +204,6 @@ fr101	Sami Lehtinen (Co-Trainer EHC Freiburg)
 
 - EC Kassel Huskies -
 
-ka	-- Ryan Olsen (EC Kassel Huskies)
 ka7	-7- Joel Keussen (EC Kassel Huskies)
 ka8	-8- Oleg Tschwanow (EC Kassel Huskies)
 ka11	-11- Jake Weidner (EC Kassel Huskies)
@@ -229,6 +228,7 @@ ka67	-67- Lars Reuß (EC Kassel Huskies)
 ka71	-71- Tristan Keck (EC Kassel Huskies)
 ka73	-73- Tom Geischeimer (EC Kassel Huskies)
 ka74	-74- Tomas Sykora (EC Kassel Huskies)
+ka81	-81- Ryan Olsen (EC Kassel Huskies)
 ka84	-84- Louis Brune (EC Kassel Huskies)
 ka89	-89- Hans Detsch (EC Kassel Huskies)
 ka95	-95- Markus Freis (EC Kassel Huskies)
@@ -275,7 +275,6 @@ kb100	Daniel Jun (Trainer ESV Kaufbeuren)
 
 - Krefeld Pinguine -
 
-kp	-- Matt Marcinew (Krefeld Pinguine)
 kp	-- Hendrik Hane (Krefeld Pinguine)
 kp	-- Leon Hümer (Krefeld Pinguine)
 kp	-- Jakub Borzecki (Krefeld Pinguine)
@@ -285,6 +284,7 @@ kp	-- Luis Üffing (Krefeld Pinguine)
 kp6	-6- Eric Gotz (Krefeld Pinguine)
 kp10	-10- Christian Ehrhoff (Krefeld Pinguine)
 kp11	-11- Jon Matsumoto (Krefeld Pinguine)
+kp12	-12- Matt Marcinew (Krefeld Pinguine)
 kp14	-14- Kevin Niedenz (Krefeld Pinguine)
 kp15	-15- Erik Buschmann (Krefeld Pinguine)
 kp17	-17- Leon Niederberger (Krefeld Pinguine)
@@ -455,7 +455,6 @@ rt101	Jan Benda (Co-Trainer Ravensburg Towerstars)
 
 - VER Selb -
 
-se	-- Chad Bassen (VER Selb)
 se1	-1- Michael Bitzer (VER Selb)
 se4	-4- Steve Hanusch (VER Selb)
 se7	-7- Frank Hördler (VER Selb)
@@ -474,6 +473,7 @@ se47	-47- Nick Miglio (VER Selb)
 se55	-55- Jeroen Plauschin (VER Selb)
 se59	-59- Maximilian Gläßl (VER Selb)
 se61	-61- Peter Trska (VER Selb)
+se63	-63- Chad Bassen (VER Selb)
 se67	-67- Konstantin Melnikow (VER Selb)
 se74	-74- Moritz Raab (VER Selb)
 se77	-77- Donát Péter (VER Selb)

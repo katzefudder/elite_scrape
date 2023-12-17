@@ -36,7 +36,6 @@ by101	Michael Baindl (Co-Trainer Bayreuth Tigers)
 
 - Deggendorfer SC -
 
-dg	-- Marco Baßler (Deggendorfer SC)
 dg3	-3- Viktor Skorohodov (Deggendorfer SC)
 dg4	-4- Silvan Heiß (Deggendorfer SC)
 dg5	-5- Tomas Gulda (Deggendorfer SC)
@@ -60,6 +59,7 @@ dg37	-37- Valentin Lehner (Deggendorfer SC)
 dg39	-39- Thomas Greilinger (Deggendorfer SC)
 dg42	-42- Carter Popoff (Deggendorfer SC)
 dg43	-43- Antonin Dusek (Deggendorfer SC)
+dg44	-44- Marco Baßler (Deggendorfer SC)
 dg51	-51- Timo Pielmeier (Deggendorfer SC)
 dg55	-55- Max Medrala (Deggendorfer SC)
 dg79	-79- Petr Stloukal (Deggendorfer SC)
@@ -71,7 +71,6 @@ dg97	-97- René Röthke (Deggendorfer SC)
 - EV Duisburg -
 
 du	-- Kevin Grasmik (EV Duisburg)
-du	-- Rik Gaidel (EV Duisburg)
 du3	-3- Lennart Schmitz (EV Duisburg)
 du5	-5- Peter Zirnov (EV Duisburg)
 du10	-10- Maurice Becker (EV Duisburg)
@@ -93,6 +92,7 @@ du39	-39- Julius Bauermeister (EV Duisburg)
 du40	-40- Fabian Hegmann (EV Duisburg)
 du44	-44- Alexander Vladelchtchikov (EV Duisburg)
 du51	-51- Zack Phillips (EV Duisburg)
+du66	-66- Rik Gaidel (EV Duisburg)
 du68	-68- Michael Fomin (EV Duisburg)
 du71	-71- Cornelius Krämer (EV Duisburg)
 du72	-72- Yannis Walch (EV Duisburg)
@@ -361,10 +361,10 @@ li101	Marko Sakic (Co-Trainer EV Lindau)
 
 - ECDC Memmingen -
 
-mm	-- Nikonor Dobryskin (ECDC Memmingen)
 mm	-- Luca Ganz (ECDC Memmingen)
 mm	-- Tim Sezemsky (ECDC Memmingen)
 mm	-- Ralf Rollinger (ECDC Memmingen)
+mm2	-2- Nikonor Dobryskin (ECDC Memmingen)
 mm4	-4- Lukas Bender (ECDC Memmingen)
 mm5	-5- Luigi Calce (ECDC Memmingen)
 mm6	-6- Marcus Marsall (ECDC Memmingen)
