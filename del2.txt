@@ -113,7 +113,6 @@ dd20	-20- Matthias Pischoff (Dresdner Eislöwen)
 dd21	-21- Matej Mrazek (Dresdner Eislöwen)
 dd24	-24- Simon Karlsson (Dresdner Eislöwen)
 dd25	-25- Lukas Mannes (Dresdner Eislöwen)
-dd28	-28- Georgiy Saakyan (Dresdner Eislöwen)
 dd29	-29- Nick Jordan Vieregge (Dresdner Eislöwen)
 dd32	-32- Ricardo Hendreschke (Dresdner Eislöwen)
 dd33	-33- David Suvanto (Dresdner Eislöwen)
@@ -316,7 +315,6 @@ kp101	Herbert Hohenberger (Co-Trainer Krefeld Pinguine)
 
 - Lausitzer Füchse -
 
-lf	-- Marek Slovák (Lausitzer Füchse)
 lf1	-1- Tommi Steffen (Lausitzer Füchse)
 lf2	-2- Sebastian Zauner (Lausitzer Füchse)
 lf6	-6- Marlon Braun (Lausitzer Füchse)
