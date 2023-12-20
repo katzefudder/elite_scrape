@@ -481,7 +481,7 @@ se88	-88- Daniel Schwamberger (VER Selb)
 se92	-92- Richard Gelke (VER Selb)
 se93	-93- Lukas Vantuch (VER Selb)
 se98	-98- Mark McNeill (VER Selb)
-se100	Sergej Waßmiller (Trainer VER Selb)
+se100	Ryan Foster (Trainer VER Selb)
 se101	Lanny Gare (Co-Trainer VER Selb)
 
 
