@@ -419,6 +419,8 @@ rh101	Jamie Bartman (Co-Trainer Starbulls Rosenheim)
 
 - Ravensburg Towerstars -
 
+rt	-- Arthur Kreider (Ravensburg Towerstars)
+rt	-- Alexander Rudkovski (Ravensburg Towerstars)
 rt4	-4- Lukas Bender (Ravensburg Towerstars)
 rt8	-8- Daniel Schwaiger (Ravensburg Towerstars)
 rt12	-12- Pawel Dronia (Ravensburg Towerstars)
