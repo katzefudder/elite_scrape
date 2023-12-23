@@ -406,7 +406,6 @@ st101	Robert Leask (Co-Trainer Straubing Tigers)
 
 - Schwenninger Wild Wings -
 
-sw	-- Chris Brown (Schwenninger Wild Wings)
 sw6	-6- Daryl Boyle (Schwenninger Wild Wings)
 sw7	-7- Kai Zernikel (Schwenninger Wild Wings)
 sw9	-9- Philip Feist (Schwenninger Wild Wings)
@@ -414,6 +413,7 @@ sw11	-11- Viktor Buchner (Schwenninger Wild Wings)
 sw15	-15- Filip Reisnecker (Schwenninger Wild Wings)
 sw16	-16- Arkadiusz Dziambor (Schwenninger Wild Wings)
 sw18	-18- Daniel Neumann (Schwenninger Wild Wings)
+sw19	-19- Chris Brown (Schwenninger Wild Wings)
 sw23	-23- Max Görtz (Schwenninger Wild Wings)
 sw37	-37- Thomas Larkin (Schwenninger Wild Wings)
 sw40	-40- Ken Andre Olimb (Schwenninger Wild Wings)
