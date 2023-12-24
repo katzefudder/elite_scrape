@@ -548,7 +548,6 @@ st94	-94- Mathias Vostarek (Stuttgart Rebels)
 st47	-47- Loris Walter (Stuttgart Rebels)
 st23	-23- Petr Wiencek (Stuttgart Rebels)
 st7	-7- Carlo Wittor (Stuttgart Rebels)
-st100	Ravil Khaidarov (Trainer Stuttgart Rebels)
 
 
 - Tölzer Löwen -
