@@ -109,6 +109,7 @@ du100	Christoph Schubert (Trainer EV Duisburg)
 
 - EHC Erfurt -
 
+ef	-- Jannik Dornberger (EHC Erfurt)
 ef1	-1- Konstantin Kessler (EHC Erfurt)
 ef3	-3- Leon Schuster (EHC Erfurt)
 ef4	-4- Dillon Eichstadt (EHC Erfurt)
@@ -269,7 +270,6 @@ hf66	-66- Maximilian Droick (Herforder EV)
 hf69	-69- Petr Gulda (Herforder EV)
 hf82	-82- Logan DeNoble (Herforder EV)
 hf87	-87- Dominik Patocka (Herforder EV)
-hf88	-88- André Gerartz (Herforder EV)
 hf100	Milan Vanek (Trainer Herforder EV)
 hf101	Gordon Nickel (Co-Trainer Herforder EV)
 
@@ -330,6 +330,7 @@ hs100	Kevin Gaudet (Trainer Hannover Scorpions)
 
 - EV Lindau -
 
+li	-- Emre Yamak (EV Lindau)
 li4	-4- Raphael Grünholz (EV Lindau)
 li5	-5- Eric Bergen (EV Lindau)
 li7	-7- Mathieu Desautels (EV Lindau)
