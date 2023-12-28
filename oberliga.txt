@@ -109,6 +109,7 @@ du100	Christoph Schubert (Trainer EV Duisburg)
 
 - EHC Erfurt -
 
+ef	-- Santeri Haarala (EHC Erfurt)
 ef	-- Jannik Dornberger (EHC Erfurt)
 ef1	-1- Konstantin Kessler (EHC Erfurt)
 ef3	-3- Leon Schuster (EHC Erfurt)
@@ -236,7 +237,7 @@ he55	-55- Timothy Spezia (Herner EV 2007)
 he70	-70- Lion Stange (Herner EV 2007)
 he71	-71- Marlon Polter (Herner EV 2007)
 he73	-73- Jan Dalecký (Herner EV 2007)
-he77	-77- Jegors Fleisers (Herner EV 2007)
+he77	-77- Jegors Kalnins (Herner EV 2007)
 he83	-83- Leon Kotke (Herner EV 2007)
 he91	-91- Michél Ackers (Herner EV 2007)
 he97	-97- Dennis Swinnen (Herner EV 2007)
@@ -330,7 +331,6 @@ hs100	Kevin Gaudet (Trainer Hannover Scorpions)
 
 - EV Lindau -
 
-li	-- Emre Yamak (EV Lindau)
 li4	-4- Raphael Grünholz (EV Lindau)
 li5	-5- Eric Bergen (EV Lindau)
 li7	-7- Mathieu Desautels (EV Lindau)
@@ -352,6 +352,7 @@ li50	-50- Matous Liemann (EV Lindau)
 li52	-52- Konstantin Bongers (EV Lindau)
 li53	-53- Marcus Gretz (EV Lindau)
 li60	-60- Kevin Adam (EV Lindau)
+li61	-61- Emre Yamak (EV Lindau)
 li62	-62- Colin Schlenker (EV Lindau)
 li63	-63- Louis Majher (EV Lindau)
 li68	-68- Andreas Farny (EV Lindau)
