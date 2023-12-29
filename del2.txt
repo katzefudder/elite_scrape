@@ -274,7 +274,6 @@ kb100	Daniel Jun (Trainer ESV Kaufbeuren)
 
 - Krefeld Pinguine -
 
-kp	-- Hendrik Hane (Krefeld Pinguine)
 kp	-- Leon Hümer (Krefeld Pinguine)
 kp	-- Jakub Borzecki (Krefeld Pinguine)
 kp	-- Josef Eham (Krefeld Pinguine)
@@ -294,6 +293,7 @@ kp27	-27- David Trinkberger (Krefeld Pinguine)
 kp29	-29- David Cerny (Krefeld Pinguine)
 kp30	-30- Julius Schulte (Krefeld Pinguine)
 kp31	-31- Felix Bick (Krefeld Pinguine)
+kp32	-32- Hendrik Hane (Krefeld Pinguine)
 kp35	-35- Matthias Bittner (Krefeld Pinguine)
 kp38	-38- Lucas Lessio (Krefeld Pinguine)
 kp43	-43- Alexander Weiß (Krefeld Pinguine)
