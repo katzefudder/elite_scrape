@@ -132,6 +132,7 @@ dd101	Petteri Kilpivaara (Co-Trainer Dresdner Eislöwen)
 - Eisbären Regensburg -
 
 er5	-5- Christoph Schmidt (Eisbären Regensburg)
+er7	-7- David Booth (Eisbären Regensburg)
 er9	-9- Richard Divis (Eisbären Regensburg)
 er10	-10- Tomas Schwamberger (Eisbären Regensburg)
 er12	-12- Andrew Yogan (Eisbären Regensburg)
