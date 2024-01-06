@@ -72,7 +72,6 @@ dg97	-97- René Röthke (Deggendorfer SC)
 
 du3	-3- Lennart Schmitz (EV Duisburg)
 du5	-5- Peter Zirnov (EV Duisburg)
-du10	-10- Maurice Becker (EV Duisburg)
 du11	-11- Finn Walkowiak (EV Duisburg)
 du13	-13- Jeremiah Addison (EV Duisburg)
 du14	-14- Tobias Fischer (EV Duisburg)
@@ -240,6 +239,7 @@ he101	Lars Gerike (Co-Trainer Herner EV 2007)
 
 - Herforder EV -
 
+hf	-- Émil Lessard-Adyn (Herforder EV)
 hf4	-4- Marcnel Bathe (Herforder EV)
 hf6	-6- Jonas Gerstung (Herforder EV)
 hf7	-7- Rustams Begovs (Herforder EV)
@@ -323,6 +323,7 @@ hs100	Kevin Gaudet (Trainer Hannover Scorpions)
 
 - EV Lindau -
 
+li	-- Maurice Becker (EV Lindau)
 li4	-4- Raphael Grünholz (EV Lindau)
 li5	-5- Eric Bergen (EV Lindau)
 li7	-7- Mathieu Desautels (EV Lindau)
@@ -341,11 +342,9 @@ li34	-34- Alexander Dosch (EV Lindau)
 li40	-40- Timo Polzer (EV Lindau)
 li46	-46- Patrick Raaf-Effertz (EV Lindau)
 li50	-50- Matous Liemann (EV Lindau)
-li52	-52- Konstantin Bongers (EV Lindau)
 li53	-53- Marcus Gretz (EV Lindau)
 li60	-60- Kevin Adam (EV Lindau)
 li61	-61- Emre Yamak (EV Lindau)
-li62	-62- Colin Schlenker (EV Lindau)
 li63	-63- Louis Majher (EV Lindau)
 li68	-68- Andreas Farny (EV Lindau)
 li71	-71- Marvin Wucher (EV Lindau)

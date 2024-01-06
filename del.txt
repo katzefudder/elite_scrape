@@ -173,11 +173,9 @@ ei101	Brad Tapper (Co-Trainer ERC Ingolstadt)
 
 - Löwen Frankfurt -
 
-fl1	-1- Jonas Gähr (Löwen Frankfurt)
 fl4	-4- Reid McNeill (Löwen Frankfurt)
 fl8	-8- Nathan Burns (Löwen Frankfurt)
 fl10	-10- Simon Gnyp (Löwen Frankfurt)
-fl13	-13- Rylan Schwartz (Löwen Frankfurt)
 fl14	-14- Yannick Wenzel (Löwen Frankfurt)
 fl16	-16- Chad Nehring (Löwen Frankfurt)
 fl17	-17- Carter Rowney (Löwen Frankfurt)
