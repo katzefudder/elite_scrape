@@ -143,7 +143,6 @@ ef100	Raphaël Joly (Trainer EHC Erfurt)
 
 - ESC Moskitos Essen -
 
-es	-- Ryan Del Monte (ESC Moskitos Essen)
 es1	-1- Justus Roth (ESC Moskitos Essen)
 es9	-9- Sandis Zolmanis (ESC Moskitos Essen)
 es10	-10- Maksim Anton (ESC Moskitos Essen)
@@ -155,6 +154,7 @@ es23	-23- Tim Lutz (ESC Moskitos Essen)
 es24	-24- Nicolas Cornett (ESC Moskitos Essen)
 es29	-29- Philipp Seidel (ESC Moskitos Essen)
 es33	-33- Niklas Hane (ESC Moskitos Essen)
+es34	-34- Ryan Del Monte (ESC Moskitos Essen)
 es35	-35- Leon Hümer (ESC Moskitos Essen)
 es39	-39- Dennis Reimer (ESC Moskitos Essen)
 es41	-41- Johannes Oswald (ESC Moskitos Essen)
@@ -239,7 +239,6 @@ he101	Lars Gerike (Co-Trainer Herner EV 2007)
 
 - Herforder EV -
 
-hf	-- Émil Lessard-Adyn (Herforder EV)
 hf4	-4- Marcnel Bathe (Herforder EV)
 hf6	-6- Jonas Gerstung (Herforder EV)
 hf7	-7- Rustams Begovs (Herforder EV)
@@ -260,6 +259,7 @@ hf52	-52- Dennis König (Herforder EV)
 hf59	-59- Justin Schrörs (Herforder EV)
 hf66	-66- Maximilian Droick (Herforder EV)
 hf69	-69- Petr Gulda (Herforder EV)
+hf77	-77- Émil Lessard-Adyn (Herforder EV)
 hf82	-82- Logan DeNoble (Herforder EV)
 hf87	-87- Dominik Patocka (Herforder EV)
 hf100	Risto Kurkinen (Trainer Herforder EV)
@@ -296,7 +296,6 @@ hn91	-91- Nikita Tschwanow (Heilbronner Falken)
 
 - Hannover Scorpions -
 
-hs	-- Michael Knaub (Hannover Scorpions)
 hs1	-1- Felix Noack (Hannover Scorpions)
 hs9	-9- Allan McPherson (Hannover Scorpions)
 hs11	-11- Christoph Kabitzky (Hannover Scorpions)
@@ -314,6 +313,7 @@ hs41	-41- Steven Raabe (Hannover Scorpions)
 hs44	-44- Marcus Götz (Hannover Scorpions)
 hs66	-66- Ralf Rinke (Hannover Scorpions)
 hs67	-67- Julian Airich (Hannover Scorpions)
+hs77	-77- Michael Knaub (Hannover Scorpions)
 hs78	-78- Alexander Heinrich (Hannover Scorpions)
 hs94	-94- Patrick Klöpper (Hannover Scorpions)
 hs96	-96- Andy Reiss (Hannover Scorpions)
@@ -323,7 +323,7 @@ hs100	Kevin Gaudet (Trainer Hannover Scorpions)
 
 - EV Lindau -
 
-li	-- Maurice Becker (EV Lindau)
+li3	-3- Maurice Becker (EV Lindau)
 li4	-4- Raphael Grünholz (EV Lindau)
 li5	-5- Eric Bergen (EV Lindau)
 li7	-7- Mathieu Desautels (EV Lindau)
@@ -579,7 +579,6 @@ to100	Axel Kammerer (Trainer Tölzer Löwen)
 
 - Tilburg Trappers -
 
-tt	-- Kaid Oliver (Tilburg Trappers)
 tt1	-1- Mendo van Dijk (Tilburg Trappers)
 tt4	-4- Ties van Soest (Tilburg Trappers)
 tt5	-5- Giovanni Vogelaar (Tilburg Trappers)
@@ -605,6 +604,7 @@ tt67	-67- Cedrick Andree (Tilburg Trappers)
 tt74	-74- Ninho Hessels (Tilburg Trappers)
 tt77	-77- Reno de Hondt (Tilburg Trappers)
 tt81	-81- Max Hermens (Tilburg Trappers)
+tt86	-86- Kaid Oliver (Tilburg Trappers)
 tt95	-95- Danny Stempher (Tilburg Trappers)
 tt100	Doug Mason (Trainer Tilburg Trappers)
 

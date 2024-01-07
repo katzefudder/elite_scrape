@@ -68,12 +68,12 @@ ap101	Juha Nokelainen (Co-Trainer Augsburger Panther)
 
 - Düsseldorfer EG -
 
-de	-- Kyle Cumiskey (Düsseldorfer EG)
 de	-- Stephen MacAulay (Düsseldorfer EG)
 de3	-3- Alec McCrea (Düsseldorfer EG)
 de5	-5- Nicolas Geitner (Düsseldorfer EG)
 de7	-7- Sinan Akdag (Düsseldorfer EG)
 de11	-11- Kevin Clark (Düsseldorfer EG)
+de16	-16- Kyle Cumiskey (Düsseldorfer EG)
 de18	-18- Kenny Agostino (Düsseldorfer EG)
 de21	-21- Brendan O'Donnell (Düsseldorfer EG)
 de22	-22- Oliver Mebus (Düsseldorfer EG)
@@ -437,7 +437,6 @@ sw101	Tim Kehler (Co-Trainer Schwenninger Wild Wings)
 
 - Grizzlys Wolfsburg -
 
-wb	-- Peter Mueller (Grizzlys Wolfsburg)
 wb1	-1- Dustin Strahlmeier (Grizzlys Wolfsburg)
 wb2	-2- John Ramage (Grizzlys Wolfsburg)
 wb5	-5- Björn Krupp (Grizzlys Wolfsburg)
@@ -460,6 +459,7 @@ wb63	-63- Luis Schinko (Grizzlys Wolfsburg)
 wb67	-67- Hannibal Weitzmann (Grizzlys Wolfsburg)
 wb71	-71- Justin Feser (Grizzlys Wolfsburg)
 wb84	-84- Chris Wilkie (Grizzlys Wolfsburg)
+wb88	-88- Peter Mueller (Grizzlys Wolfsburg)
 wb91	-91- Timo Ruckdäschel (Grizzlys Wolfsburg)
 wb93	-93- Spencer Machacek (Grizzlys Wolfsburg)
 wb95	-95- Fabio Pfohl (Grizzlys Wolfsburg)
