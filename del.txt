@@ -173,6 +173,7 @@ ei101	Brad Tapper (Co-Trainer ERC Ingolstadt)
 
 - Löwen Frankfurt -
 
+fl	-- Julius Hudacek (Löwen Frankfurt)
 fl4	-4- Reid McNeill (Löwen Frankfurt)
 fl8	-8- Nathan Burns (Löwen Frankfurt)
 fl10	-10- Simon Gnyp (Löwen Frankfurt)
@@ -338,7 +339,6 @@ nb101	Manuel Kofler (Co-Trainer Nürnberg Ice Tigers)
 - EHC München -
 
 rb	-- Quirin Bader (EHC München)
-rb	-- Thomas Heigl (EHC München)
 rb2	-2- Andrew MacWilliam (EHC München)
 rb3	-3- Dominik Bittner (EHC München)
 rb5	-5- Adam Almquist (EHC München)
@@ -357,6 +357,7 @@ rb31	-31- Lennart Critzmann (EHC München)
 rb35	-35- Mathias Niederberger (EHC München)
 rb42	-42- Yasin Ehliz (EHC München)
 rb47	-47- Sten Fischer (EHC München)
+rb49	-49- Thomas Heigl (EHC München)
 rb52	-52- Patrick Hager (EHC München)
 rb58	-58- Ryan McKiernan (EHC München)
 rb67	-67- Christopher Kolarz (EHC München)
