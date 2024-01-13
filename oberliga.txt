@@ -21,7 +21,6 @@ by77	-77- Thomas Nuss (Bayreuth Tigers)
 by84	-84- Joel Hofmann (Bayreuth Tigers)
 by85	-85- Kai Zernikel (Bayreuth Tigers)
 by86	-86- Eetu Elo (Bayreuth Tigers)
-by90	-90- Mathias Binder (Bayreuth Tigers)
 by91	-91- Mark Ledlin (Bayreuth Tigers)
 by92	-92- Sebastian Laßmann (Bayreuth Tigers)
 by93	-93- Lukas Ullmann (Bayreuth Tigers)
@@ -103,7 +102,6 @@ du74	-74- Raymond Brice (EV Duisburg)
 du77	-77- Thomas Ziolkowski (EV Duisburg)
 du82	-82- Adam Zoweil (EV Duisburg)
 du88	-88- Martin Schymainski (EV Duisburg)
-du90	-90- Geoff Kitt (EV Duisburg)
 du91	-91- Valentin Pfeifer (EV Duisburg)
 du92	-92- Dominik Piskor (EV Duisburg)
 du100	Christoph Schubert (Trainer EV Duisburg)
@@ -177,6 +175,7 @@ es101	Johan Merbah (Co-Trainer ESC Moskitos Essen)
 
 - EV Füssen -
 
+fu	-- Michael Karg (EV Füssen)
 fu3	-3- Jonas Mommensohn (EV Füssen)
 fu4	-4- Jonas Fischer (EV Füssen)
 fu6	-6- Maximilian Decker (EV Füssen)
@@ -401,6 +400,7 @@ mm100	Daniel Huhn (Trainer ECDC Memmingen)
 
 - EHF Passau Black Hawks -
 
+pa	-- Jan Hammerbauer (EHF Passau Black Hawks)
 pa6	-6- Michael Reich (EHF Passau Black Hawks)
 pa7	-7- Tyrell Buckley (EHF Passau Black Hawks)
 pa8	-8- Benedikt Böhm (EHF Passau Black Hawks)
