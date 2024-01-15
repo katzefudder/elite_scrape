@@ -197,6 +197,7 @@ fr101	Sami Lehtinen (Co-Trainer EHC Freiburg)
 
 - EC Kassel Huskies -
 
+ka	-- Rayan Bettahar (EC Kassel Huskies)
 ka7	-7- Joel Keussen (EC Kassel Huskies)
 ka8	-8- Oleg Tschwanow (EC Kassel Huskies)
 ka11	-11- Jake Weidner (EC Kassel Huskies)
@@ -341,7 +342,6 @@ lf86	-86- Dominik Bohac (Lausitzer Füchse)
 lf89	-89- Philip Ziesche (Lausitzer Füchse)
 lf91	-91- Roope Mäkitalo (Lausitzer Füchse)
 lf92	-92- Jake Coughler (Lausitzer Füchse)
-lf95	-95- Rayan Bettahar (Lausitzer Füchse)
 lf100	Petteri Väkiparta (Trainer Lausitzer Füchse)
 lf101	André Mücke (Co-Trainer Lausitzer Füchse)
 

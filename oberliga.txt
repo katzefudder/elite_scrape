@@ -34,6 +34,7 @@ by101	Michael Baindl (Co-Trainer Bayreuth Tigers)
 
 - Deggendorfer SC -
 
+dg	-- Martin Heinisch (Deggendorfer SC)
 dg3	-3- Viktor Skorohodov (Deggendorfer SC)
 dg4	-4- Silvan Heiß (Deggendorfer SC)
 dg5	-5- Tomas Gulda (Deggendorfer SC)
@@ -489,6 +490,7 @@ ri22	-22- Robin Soudek (SC Riessersee)
 ri23	-23- Marlon Wolf (SC Riessersee)
 ri26	-26- Moritz Köttstorfer (SC Riessersee)
 ri29	-29- Daniel Schröpfer (SC Riessersee)
+ri32	-32- Moritz Borst (SC Riessersee)
 ri41	-41- Michael Boehm (SC Riessersee)
 ri44	-44- Robin Veber (SC Riessersee)
 ri49	-49- Felix Linden (SC Riessersee)
