@@ -7,7 +7,6 @@ by9	-9- Robin Drothen (Bayreuth Tigers)
 by11	-11- Nicolas Schindler (Bayreuth Tigers)
 by12	-12- Andreé Hult (Bayreuth Tigers)
 by13	-13- Steffen Tölzer (Bayreuth Tigers)
-by14	-14- Dominik Tiffels (Bayreuth Tigers)
 by18	-18- Lars Bergbauer (Bayreuth Tigers)
 by22	-22- Tomas Schmidt (Bayreuth Tigers)
 by25	-25- David Stach (Bayreuth Tigers)
@@ -401,6 +400,7 @@ mm100	Daniel Huhn (Trainer ECDC Memmingen)
 
 - EHF Passau Black Hawks -
 
+pa	-- Tomas Kulhanek (EHF Passau Black Hawks)
 pa6	-6- Michael Reich (EHF Passau Black Hawks)
 pa7	-7- Tyrell Buckley (EHF Passau Black Hawks)
 pa8	-8- Benedikt Böhm (EHF Passau Black Hawks)

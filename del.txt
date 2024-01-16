@@ -169,7 +169,6 @@ ei101	Brad Tapper (Co-Trainer ERC Ingolstadt)
 
 - Löwen Frankfurt -
 
-fl	-- Julius Hudacek (Löwen Frankfurt)
 fl4	-4- Reid McNeill (Löwen Frankfurt)
 fl8	-8- Nathan Burns (Löwen Frankfurt)
 fl10	-10- Simon Gnyp (Löwen Frankfurt)
@@ -183,6 +182,7 @@ fl21	-21- Eugen Alanov (Löwen Frankfurt)
 fl24	-24- Ben Blood (Löwen Frankfurt)
 fl26	-26- Constantin Vogt (Löwen Frankfurt)
 fl29	-29- Brett Breitkreuz (Löwen Frankfurt)
+fl33	-33- Julius Hudacek (Löwen Frankfurt)
 fl35	-35- Joe Cannata (Löwen Frankfurt)
 fl39	-39- Marvin Cüpper (Löwen Frankfurt)
 fl47	-47- Ville Lajunen (Löwen Frankfurt)
@@ -235,6 +235,7 @@ ft101	Alexander Sulzer (Co-Trainer Fischtown Pinguins)
 
 - Iserlohn Roosters -
 
+ir	-- Lennard Nieleck (Iserlohn Roosters)
 ir3	-3- Leonhard Korus (Iserlohn Roosters)
 ir7	-7- Florian Elias (Iserlohn Roosters)
 ir8	-8- Cedric Schiemenz (Iserlohn Roosters)
