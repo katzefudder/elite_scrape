@@ -198,11 +198,11 @@ fr101	Sami Lehtinen (Co-Trainer EHC Freiburg)
 
 - EC Kassel Huskies -
 
-ka	-- Rayan Bettahar (EC Kassel Huskies)
 ka7	-7- Joel Keussen (EC Kassel Huskies)
 ka8	-8- Oleg Tschwanow (EC Kassel Huskies)
 ka11	-11- Jake Weidner (EC Kassel Huskies)
 ka13	-13- Rylan Schwartz (EC Kassel Huskies)
+ka15	-15- Rayan Bettahar (EC Kassel Huskies)
 ka17	-17- Joel Lowry (EC Kassel Huskies)
 ka18	-18- Lois Spitzner (EC Kassel Huskies)
 ka21	-21- Sebastian Wieber (EC Kassel Huskies)
