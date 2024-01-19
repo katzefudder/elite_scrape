@@ -16,7 +16,6 @@ bn29	-29- Leo Hafenrichter (EC Bad Nauheim)
 bn30	-30- Maximilian Meier (EC Bad Nauheim)
 bn34	-34- Pascal Steck (EC Bad Nauheim)
 bn36	-36- Jerry Pollastrone (EC Bad Nauheim)
-bn57	-57- Daniel Weiß (EC Bad Nauheim)
 bn58	-58- Christopher Fischer (EC Bad Nauheim)
 bn61	-61- Jordan Hickmott (EC Bad Nauheim)
 bn68	-68- Edwin Tropmann (EC Bad Nauheim)
@@ -451,6 +450,7 @@ rt101	Jan Benda (Co-Trainer Ravensburg Towerstars)
 
 - VER Selb -
 
+se	-- Ilya Andryukhov (VER Selb)
 se1	-1- Michael Bitzer (VER Selb)
 se4	-4- Steve Hanusch (VER Selb)
 se7	-7- Frank Hördler (VER Selb)
