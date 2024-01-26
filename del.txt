@@ -159,6 +159,7 @@ ei33	-33- Charles Bertrand (ERC Ingolstadt)
 ei34	-34- Michael Garteig (ERC Ingolstadt)
 ei52	-52- Enrico Henriquez-Morales (ERC Ingolstadt)
 ei67	-67- Marko Friedrich (ERC Ingolstadt)
+ei73	-73- David Farrance (ERC Ingolstadt)
 ei74	-74- Travis St. Denis (ERC Ingolstadt)
 ei86	-86- Daniel Pietta (ERC Ingolstadt)
 ei90	-90- Jan Nijenhuis (ERC Ingolstadt)
@@ -358,7 +359,7 @@ rb84	-84- Trevor Parkes (EHC München)
 rb91	-91- Filip Varejcka (EHC München)
 rb93	-93- Maximilian Kastner (EHC München)
 rb100	Toni Söderholm (Trainer EHC München)
-rb101	Pekka Kangasalusta (Co-Trainer EHC München)
+rb101	Pierre Allard (Co-Trainer EHC München)
 
 
 - Straubing Tigers -
