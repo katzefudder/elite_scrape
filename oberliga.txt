@@ -176,6 +176,7 @@ es101	Johan Merbah (Co-Trainer ESC Moskitos Essen)
 
 - EV Füssen -
 
+fu	-- Tim Lubitz (EV Füssen)
 fu1	-1- Michael Karg (EV Füssen)
 fu3	-3- Jonas Mommensohn (EV Füssen)
 fu4	-4- Jonas Fischer (EV Füssen)
@@ -271,6 +272,7 @@ hf101	Gordon Nickel (Co-Trainer Herforder EV)
 
 - Heilbronner Falken -
 
+hn	-- Marco Haas (Heilbronner Falken)
 hn2	-2- Benedikt Jiranek (Heilbronner Falken)
 hn6	-6- Michael Brunner (Heilbronner Falken)
 hn7	-7- Jan Pavlu (Heilbronner Falken)
@@ -509,6 +511,7 @@ ri101	Anton Raubal (Co-Trainer SC Riessersee)
 
 - Stuttgart Rebels -
 
+st	-- Luis Benzing (Stuttgart Rebels)
 st31	-31- Mitja Fiedrich (Stuttgart Rebels)
 st11	-11- Patrick Golombek (Stuttgart Rebels)
 st1	-1- Jonas Gähr (Stuttgart Rebels)

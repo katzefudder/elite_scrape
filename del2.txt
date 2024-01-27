@@ -96,6 +96,7 @@ cr101	Esbjörn Hofverberg (Co-Trainer Eispiraten Crimmitschau)
 
 - Dresdner Eislöwen -
 
+dd	-- Tomas Sykora (Dresdner Eislöwen)
 dd3	-3- Mitch Wahl (Dresdner Eislöwen)
 dd5	-5- Nils Elten (Dresdner Eislöwen)
 dd12	-12- Justin Florek (Dresdner Eislöwen)
@@ -197,7 +198,6 @@ fr101	Sami Lehtinen (Co-Trainer EHC Freiburg)
 
 - EC Kassel Huskies -
 
-ka	-- Daniel Weiß (EC Kassel Huskies)
 ka7	-7- Joel Keussen (EC Kassel Huskies)
 ka8	-8- Oleg Tschwanow (EC Kassel Huskies)
 ka11	-11- Jake Weidner (EC Kassel Huskies)
@@ -218,12 +218,12 @@ ka47	-47- Andrew Bodnarchuk (EC Kassel Huskies)
 ka49	-49- Steven Seigo (EC Kassel Huskies)
 ka53	-53- Connor Korte (EC Kassel Huskies)
 ka55	-55- Samuel Dotter (EC Kassel Huskies)
+ka57	-57- Daniel Weiß (EC Kassel Huskies)
 ka63	-63- Maximilian Faber (EC Kassel Huskies)
 ka66	-66- Darren Mieszkowski (EC Kassel Huskies)
 ka67	-67- Lars Reuß (EC Kassel Huskies)
 ka71	-71- Tristan Keck (EC Kassel Huskies)
 ka73	-73- Tom Geischeimer (EC Kassel Huskies)
-ka74	-74- Tomas Sykora (EC Kassel Huskies)
 ka81	-81- Ryan Olsen (EC Kassel Huskies)
 ka84	-84- Louis Brune (EC Kassel Huskies)
 ka89	-89- Hans Detsch (EC Kassel Huskies)
