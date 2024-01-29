@@ -1,6 +1,5 @@
 - EC Bad Nauheim -
 
-bn	-- Eric Stephan (EC Bad Nauheim)
 bn2	-2- Paul Reiner (EC Bad Nauheim)
 bn3	-3- Nick Aichinger (EC Bad Nauheim)
 bn4	-4- Kevin Schmidt (EC Bad Nauheim)
@@ -10,6 +9,7 @@ bn9	-9- Brent Raedeke (EC Bad Nauheim)
 bn16	-16- Christoph Körner (EC Bad Nauheim)
 bn19	-19- Taylor Vause (EC Bad Nauheim)
 bn20	-20- Patrick Seifert (EC Bad Nauheim)
+bn21	-21- Eric Stephan (EC Bad Nauheim)
 bn23	-23- Marius Erk (EC Bad Nauheim)
 bn25	-25- Fabian Herrmann (EC Bad Nauheim)
 bn27	-27- Alexander Dersch (EC Bad Nauheim)

@@ -394,7 +394,6 @@ st101	Robert Leask (Co-Trainer Straubing Tigers)
 - Schwenninger Wild Wings -
 
 sw6	-6- Daryl Boyle (Schwenninger Wild Wings)
-sw7	-7- Kai Zernikel (Schwenninger Wild Wings)
 sw9	-9- Philip Feist (Schwenninger Wild Wings)
 sw11	-11- Viktor Buchner (Schwenninger Wild Wings)
 sw15	-15- Filip Reisnecker (Schwenninger Wild Wings)
