@@ -1,5 +1,6 @@
 - Adler Mannheim -
 
+am	-- Keaton Thompson (Adler Mannheim)
 am4	-4- Korbinian Holzer (Adler Mannheim)
 am7	-7- John Gilmour (Adler Mannheim)
 am8	-8- Jordan Murray (Adler Mannheim)
@@ -331,6 +332,7 @@ nb101	Manuel Kofler (Co-Trainer Nürnberg Ice Tigers)
 
 - EHC München -
 
+rb	-- Les Lancaster (EHC München)
 rb2	-2- Andrew MacWilliam (EHC München)
 rb3	-3- Dominik Bittner (EHC München)
 rb5	-5- Adam Almquist (EHC München)
