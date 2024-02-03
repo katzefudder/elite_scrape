@@ -98,7 +98,6 @@ cr101	Esbjörn Hofverberg (Co-Trainer Eispiraten Crimmitschau)
 
 - Dresdner Eislöwen -
 
-dd	-- Tomas Sykora (Dresdner Eislöwen)
 dd3	-3- Mitch Wahl (Dresdner Eislöwen)
 dd5	-5- Nils Elten (Dresdner Eislöwen)
 dd12	-12- Justin Florek (Dresdner Eislöwen)
@@ -121,6 +120,7 @@ dd67	-67- Tom Knobloch (Dresdner Eislöwen)
 dd71	-71- Adam Kiedewicz (Dresdner Eislöwen)
 dd72	-72- Nicklas Mannes (Dresdner Eislöwen)
 dd73	-73- Pascal Seidel (Dresdner Eislöwen)
+dd74	-74- Tomas Sykora (Dresdner Eislöwen)
 dd75	-75- Bruno Riedl (Dresdner Eislöwen)
 dd77	-77- Arne Uplegger (Dresdner Eislöwen)
 dd84	-84- Lukas Koziol (Dresdner Eislöwen)
@@ -380,10 +380,10 @@ lh100	Heiko Vogler (Trainer EV Landshut)
 
 - Starbulls Rosenheim -
 
-rh	-- Steffen Tölzer (Starbulls Rosenheim)
 rh8	-8- Lukas Laub (Starbulls Rosenheim)
 rh10	-10- Norman Hauner (Starbulls Rosenheim)
 rh12	-12- C.J. Stretch (Starbulls Rosenheim)
+rh13	-13- Steffen Tölzer (Starbulls Rosenheim)
 rh14	-14- Dominik Tiffels (Starbulls Rosenheim)
 rh15	-15- Denis Shevyrin (Starbulls Rosenheim)
 rh16	-16- Reid Duke (Starbulls Rosenheim)
