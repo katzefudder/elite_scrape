@@ -399,6 +399,7 @@ mm100	Daniel Huhn (Trainer ECDC Memmingen)
 
 - EHF Passau Black Hawks -
 
+pa	-- Marc Sauer (EHF Passau Black Hawks)
 pa6	-6- Michael Reich (EHF Passau Black Hawks)
 pa7	-7- Tyrell Buckley (EHF Passau Black Hawks)
 pa8	-8- Benedikt Böhm (EHF Passau Black Hawks)
