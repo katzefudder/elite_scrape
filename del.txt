@@ -236,7 +236,6 @@ ft101	Alexander Sulzer (Co-Trainer Fischtown Pinguins)
 
 - Iserlohn Roosters -
 
-ir	-- Nick Ritchie (Iserlohn Roosters)
 ir	-- Lennard Nieleck (Iserlohn Roosters)
 ir3	-3- Leonhard Korus (Iserlohn Roosters)
 ir7	-7- Florian Elias (Iserlohn Roosters)
@@ -254,6 +253,7 @@ ir24	-24- Mitch Eliot (Iserlohn Roosters)
 ir27	-27- Ben Thomas (Iserlohn Roosters)
 ir35	-35- Kevin Reich (Iserlohn Roosters)
 ir36	-36- Brandon Gormley (Iserlohn Roosters)
+ir37	-37- Nick Ritchie (Iserlohn Roosters)
 ir52	-52- Sven Ziegler (Iserlohn Roosters)
 ir53	-53- Maxim Rausch (Iserlohn Roosters)
 ir77	-77- Tim Bender (Iserlohn Roosters)
@@ -332,7 +332,6 @@ nb101	Manuel Kofler (Co-Trainer Nürnberg Ice Tigers)
 
 - EHC München -
 
-rb	-- Les Lancaster (EHC München)
 rb2	-2- Andrew MacWilliam (EHC München)
 rb3	-3- Dominik Bittner (EHC München)
 rb5	-5- Adam Almquist (EHC München)
@@ -355,6 +354,7 @@ rb57	-57- Emil Johansson (EHC München)
 rb58	-58- Ryan McKiernan (EHC München)
 rb70	-70- Maximilian Daubner (EHC München)
 rb72	-72- Daniel Allavena (EHC München)
+rb74	-74- Les Lancaster (EHC München)
 rb82	-82- Chris DeSousa (EHC München)
 rb84	-84- Trevor Parkes (EHC München)
 rb86	-86- Quirin Bader (EHC München)
