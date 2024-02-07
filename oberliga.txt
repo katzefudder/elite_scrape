@@ -296,6 +296,7 @@ hn91	-91- Nikita Tschwanow (Heilbronner Falken)
 
 - Hannover Scorpions -
 
+hs	-- Patrick Glatzel (Hannover Scorpions)
 hs1	-1- Felix Noack (Hannover Scorpions)
 hs4	-4- Aaron Reinig (Hannover Scorpions)
 hs9	-9- Allan McPherson (Hannover Scorpions)
