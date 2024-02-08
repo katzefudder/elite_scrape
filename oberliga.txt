@@ -613,33 +613,3 @@ tt95	-95- Danny Stempher (Tilburg Trappers)
 tt100	Doug Mason (Trainer Tilburg Trappers)
 
 
-- 1. EV Weiden -
-
-we7	-7- Luca Gläser (1. EV Weiden)
-we8	-8- Neal Samanski (1. EV Weiden)
-we10	-10- Nardo Nagtzaam (1. EV Weiden)
-we13	-13- Davin Maus (1. EV Weiden)
-we15	-15- Fabian Voit (1. EV Weiden)
-we17	-17- Markus Eberhardt (1. EV Weiden)
-we18	-18- Vincent Schlenker (1. EV Weiden)
-we19	-19- Alessandro Schmidbauer (1. EV Weiden)
-we20	-20- Adam Schusser (1. EV Weiden)
-we22	-22- Dominik Müller (1. EV Weiden)
-we23	-23- Daniel Bruch (1. EV Weiden)
-we24	-24- Jaroslav Hübl (1. EV Weiden)
-we28	-28- Maximilian Kolb (1. EV Weiden)
-we30	-30- Janik Engler (1. EV Weiden)
-we43	-43- Fabian Ribnitzky (1. EV Weiden)
-we44	-44- Kurt Davis (1. EV Weiden)
-we47	-47- Vladislav Filin (1. EV Weiden)
-we61	-61- David Elsner (1. EV Weiden)
-we67	-67- Marius Schmidt (1. EV Weiden)
-we69	-69- Robert Hechtl (1. EV Weiden)
-we73	-73- Tomas Rubes (1. EV Weiden)
-we79	-79- James Bettauer (1. EV Weiden)
-we83	-83- Martin Hlozek (1. EV Weiden)
-we89	-89- Tyler Ward (1. EV Weiden)
-we91	-91- Dennis Thielsch (1. EV Weiden)
-we94	-94- Marco Wölfl (1. EV Weiden)
-
-
