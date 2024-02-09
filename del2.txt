@@ -59,8 +59,8 @@ bs79	-79- Lewis Zerter-Gossage (Bietigheim Steelers)
 bs87	-87- Alex Samusev (Bietigheim Steelers)
 bs91	-91- Noel Saffran (Bietigheim Steelers)
 bs94	-94- Brett Welychka (Bietigheim Steelers)
-bs100	Daniel Naud (Trainer Bietigheim Steelers)
-bs101	Alexander Dück (Co-Trainer Bietigheim Steelers)
+bs100	Alexander Dück (Trainer Bietigheim Steelers)
+bs101	Boris Blank (Co-Trainer Bietigheim Steelers)
 
 
 - Eispiraten Crimmitschau -
