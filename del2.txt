@@ -1,12 +1,12 @@
 - EC Bad Nauheim -
 
-bn	-- Cody Sylvester (EC Bad Nauheim)
 bn2	-2- Paul Reiner (EC Bad Nauheim)
 bn3	-3- Nick Aichinger (EC Bad Nauheim)
 bn4	-4- Kevin Schmidt (EC Bad Nauheim)
 bn6	-6- Tim Coffman (EC Bad Nauheim)
 bn7	-7- Max Gerlach (EC Bad Nauheim)
 bn9	-9- Brent Raedeke (EC Bad Nauheim)
+bn12	-12- Cody Sylvester (EC Bad Nauheim)
 bn16	-16- Christoph Körner (EC Bad Nauheim)
 bn19	-19- Taylor Vause (EC Bad Nauheim)
 bn20	-20- Patrick Seifert (EC Bad Nauheim)
