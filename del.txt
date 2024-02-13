@@ -137,7 +137,6 @@ eb101	André Rankel (Co-Trainer Eisbären Berlin)
 
 ei	-- Tim Sezemsky (ERC Ingolstadt)
 ei	-- Luigi Calce (ERC Ingolstadt)
-ei	-- Ralf Rollinger (ERC Ingolstadt)
 ei5	-5- Fabio Wagner (ERC Ingolstadt)
 ei6	-6- Kevin Maginot (ERC Ingolstadt)
 ei7	-7- Colton Jobke (ERC Ingolstadt)
