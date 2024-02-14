@@ -32,6 +32,7 @@ bn101	Adam Mitchell (Co-Trainer EC Bad Nauheim)
 
 - Bietigheim Steelers -
 
+bs	-- Tom-Eric Bappert (Bietigheim Steelers)
 bs3	-3- Max Prommersberger (Bietigheim Steelers)
 bs4	-4- Joshua Rust (Bietigheim Steelers)
 bs7	-7- Spencer Berry (Bietigheim Steelers)
