@@ -70,7 +70,6 @@ ap101	Juha Nokelainen (Co-Trainer Augsburger Panther)
 
 - Düsseldorfer EG -
 
-de	-- Stephen MacAulay (Düsseldorfer EG)
 de1	-1- Matthias Bittner (Düsseldorfer EG)
 de3	-3- Alec McCrea (Düsseldorfer EG)
 de5	-5- Nicolas Geitner (Düsseldorfer EG)
