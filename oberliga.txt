@@ -176,6 +176,7 @@ es101	Johan Merbah (Co-Trainer ESC Moskitos Essen)
 
 - EV Füssen -
 
+fu	-- Lennart Britsch (EV Füssen)
 fu1	-1- Michael Karg (EV Füssen)
 fu3	-3- Jonas Mommensohn (EV Füssen)
 fu4	-4- Jonas Fischer (EV Füssen)
@@ -334,6 +335,7 @@ hs100	Kevin Gaudet (Trainer Hannover Scorpions)
 
 - EV Lindau -
 
+li	-- Tim Gorgenländer (EV Lindau)
 li3	-3- Maurice Becker (EV Lindau)
 li4	-4- Raphael Grünholz (EV Lindau)
 li5	-5- Eric Bergen (EV Lindau)
@@ -387,7 +389,6 @@ mm22	-22- Dominik Meisinger (ECDC Memmingen)
 mm23	-23- Pascal Dopatka (ECDC Memmingen)
 mm24	-24- Lubor Pokovic (ECDC Memmingen)
 mm26	-26- Robert Peleikis (ECDC Memmingen)
-mm27	-27- Tim Gorgenländer (ECDC Memmingen)
 mm28	-28- Sofiene Bräuner (ECDC Memmingen)
 mm29	-29- Jochen Vollmer (ECDC Memmingen)
 mm31	-31- Marco Eisenhut (ECDC Memmingen)
