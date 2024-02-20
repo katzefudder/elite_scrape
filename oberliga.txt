@@ -335,7 +335,6 @@ hs100	Kevin Gaudet (Trainer Hannover Scorpions)
 
 - EV Lindau -
 
-li	-- Tim Gorgenländer (EV Lindau)
 li3	-3- Maurice Becker (EV Lindau)
 li4	-4- Raphael Grünholz (EV Lindau)
 li5	-5- Eric Bergen (EV Lindau)
@@ -349,6 +348,7 @@ li20	-20- Damian Schneider (EV Lindau)
 li23	-23- Zach Kaiser (EV Lindau)
 li24	-24- Fabian Birner (EV Lindau)
 li25	-25- Philipp Faulhaber (EV Lindau)
+li27	-27- Tim Gorgenländer (EV Lindau)
 li29	-29- Dieter Geidl (EV Lindau)
 li34	-34- Alexander Dosch (EV Lindau)
 li40	-40- Timo Polzer (EV Lindau)
