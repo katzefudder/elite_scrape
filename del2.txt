@@ -206,7 +206,6 @@ fr101	Sami Lehtinen (Co-Trainer EHC Freiburg)
 
 - EC Kassel Huskies -
 
-ka	-- Stephen MacAulay (EC Kassel Huskies)
 ka7	-7- Joel Keussen (EC Kassel Huskies)
 ka8	-8- Oleg Tschwanow (EC Kassel Huskies)
 ka11	-11- Jake Weidner (EC Kassel Huskies)
@@ -236,6 +235,7 @@ ka71	-71- Tristan Keck (EC Kassel Huskies)
 ka81	-81- Ryan Olsen (EC Kassel Huskies)
 ka84	-84- Louis Brune (EC Kassel Huskies)
 ka89	-89- Hans Detsch (EC Kassel Huskies)
+ka92	-92- Stephen MacAulay (EC Kassel Huskies)
 ka95	-95- Markus Freis (EC Kassel Huskies)
 ka100	Bohuslav Subr (Trainer EC Kassel Huskies)
 ka101	Jan Melichar (Co-Trainer EC Kassel Huskies)
