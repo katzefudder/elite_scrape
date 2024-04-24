@@ -6,6 +6,7 @@ class EliteSpider(scrapy.Spider):
   name = ""
   league_key = ''
   teams_file = ""
+  team_keys = ""
 
   teams = {}
   results = {}
@@ -15,6 +16,7 @@ class EliteSpider(scrapy.Spider):
       try:
           teams = yaml.load(yaml_in, Loader=yaml.FullLoader)
           self.teams = teams[self.league_key]
+          self.team_keys = dict(zip(self.teams.values(), self.teams.keys()))
       except yaml.YAMLError as yamlException:
         raise yamlException
 
@@ -25,10 +27,9 @@ class EliteSpider(scrapy.Spider):
 
   def parse(self, response):
     # invert the dict
-    team_keys = dict(zip(self.teams.values(), self.teams.keys()))
 
     # get the team's name
-    team = str(response.css('#name-and-logo h1.semi-logo::text').get()).strip()
+    team = str(response.xpath('//h1/text()').get()).strip()
 
     # select coach
     headCoach = response.xpath("//text()[contains(., 'Head Coach')]/following::a[1]/text()").extract()
@@ -38,12 +39,17 @@ class EliteSpider(scrapy.Spider):
     # set a title
     content = "- " + str(team) + " -\n\n"
 
-    for players in response.css('table.roster tbody tr'):
-      current_team_key = team_keys[response.url]
-      number = str(players.css('td.jersey::text').get()).strip()
+    current_team_key = ""
 
+    # for players in response.css('table.roster tbody tr'):
+    # for players in response.xpath('//table[contains(@class, "SortTable_table__")]/tbody/tr/td/div[contains(@class, "Roster_player__")]'):
+    for players in response.xpath('//div[contains(@class, "Roster_player__")]'):
+      
+      current_team_key = self.team_keys[response.url]
+      number = str(players.xpath('ancestor::tr/td[2]/text()').get()).strip()
       number = number.replace('#', '')
-      name = str(players.css('td a::text').get()).strip()
+
+      name = str(players.xpath('a/text()').get()).strip()
       # remove any hints on the player's name
       name = str(re.sub('\(.*\)', '', name)).strip()
       if number != 'None' and name != 'None':
@@ -55,7 +61,7 @@ class EliteSpider(scrapy.Spider):
       content += "%s101\t%s (Co-Trainer %s)\n" % (current_team_key, assistantCoach[0].strip(), team)
 
     content += "\n\n"
-    self.results[team_keys[response.url]] = content
+    self.results[self.team_keys[response.url]] = content
 
   def __del__(self):
     content = ""
