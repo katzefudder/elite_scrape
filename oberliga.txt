@@ -277,7 +277,6 @@ hn8	-8- Pontus Wernerson Libäck (Heilbronner Falken)
 - Hannover Scorpions -
 
 hs39	-39- Ennio Albrecht (Hannover Scorpions)
-hs31	-31- Fabian Gensicke (Hannover Scorpions)
 hs37	-37- Patrick Glatzel (Hannover Scorpions)
 hs35	-35- Jerry Kuhn (Hannover Scorpions)
 hs1	-1- Felix Noack (Hannover Scorpions)

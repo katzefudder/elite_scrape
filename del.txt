@@ -102,9 +102,7 @@ de101	Alexander Barta (Co-Trainer Düsseldorfer EG)
 - Eisbären Berlin -
 
 eb30	-30- Jake Hildebrand (Eisbären Berlin)
-eb33	-33- Nikita Quapp (Eisbären Berlin)
 eb1	-1- Jonas Stettmer (Eisbären Berlin)
-eb35	-35- Linus Vieillard (Eisbären Berlin)
 eb4	-4- Morgan Ellis (Eisbären Berlin)
 eb40	-40- Korbinian Geibel (Eisbären Berlin)
 eb44	-44- Julian Melchiori (Eisbären Berlin)
