@@ -29,40 +29,6 @@ bn100	Harry Lange (Trainer EC Bad Nauheim)
 bn101	Adam Mitchell (Co-Trainer EC Bad Nauheim)
 
 
-- Bietigheim Steelers -
-
-bs70	-70- Leon Doubrawa (Bietigheim Steelers)
-bs35	-35- Olafr Schmidt (Bietigheim Steelers)
-bs92	-92- Tom-Eric Bappert (Bietigheim Steelers)
-bs7	-7- Spencer Berry (Bietigheim Steelers)
-bs25	-25- Dennis Dietmann (Bietigheim Steelers)
-bs73	-73- Tom Geischeimer (Bietigheim Steelers)
-bs20	-20- Niklas Heinzinger (Bietigheim Steelers)
-bs77	-77- Ryker Killins (Bietigheim Steelers)
-bs28	-28- Cole MacDonald (Bietigheim Steelers)
-bs59	-59- Paul Mayer (Bietigheim Steelers)
-bs3	-3- Max Prommersberger (Bietigheim Steelers)
-bs41	-41- Anton Sproll (Bietigheim Steelers)
-bs16	-16- Pascal Zerressen (Bietigheim Steelers)
-bs32	-32- Morgan Adams-Moisan (Bietigheim Steelers)
-bs10	-10- Jackson Cressey (Bietigheim Steelers)
-bs21	-21- Jack Doremus (Bietigheim Steelers)
-bs13	-13- Nicolas Hinz (Bietigheim Steelers)
-bs42	-42- Fabjon Kuqi (Bietigheim Steelers)
-bs26	-26- Dominik Lascheit (Bietigheim Steelers)
-bs9	-9- Ryon Moser (Bietigheim Steelers)
-bs29	-29- Alexander Preibisch (Bietigheim Steelers)
-bs17	-17- Marek Racuk (Bietigheim Steelers)
-bs4	-4- Joshua Rust (Bietigheim Steelers)
-bs91	-91- Noel Saffran (Bietigheim Steelers)
-bs87	-87- Alex Samusev (Bietigheim Steelers)
-bs71	-71- Brett Schaefer (Bietigheim Steelers)
-bs94	-94- Brett Welychka (Bietigheim Steelers)
-bs79	-79- Lewis Zerter-Gossage (Bietigheim Steelers)
-bs100	Alexander Dück (Trainer Bietigheim Steelers)
-bs101	Boris Blank (Co-Trainer Bietigheim Steelers)
-
-
 - Eispiraten Crimmitschau -
 
 cr20	-20- Christian Schneider (Eispiraten Crimmitschau)
