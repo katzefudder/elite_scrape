@@ -98,7 +98,6 @@ du100	Christoph Schubert (Trainer EV Duisburg)
 - EHC Erfurt -
 
 ef1	-1- Konstantin Kessler (EHC Erfurt)
-ef39	-39- Nick Neufeld (EHC Erfurt)
 ef29	-29- Nick Jordan Vieregge (EHC Erfurt)
 ef54	-54- Fabian Belendir (EHC Erfurt)
 ef4	-4- Dillon Eichstadt (EHC Erfurt)
@@ -435,7 +434,6 @@ pe100	Anton Saal (Trainer EC Peiting)
 - SC Riessersee -
 
 ri41	-41- Michael Boehm (SC Riessersee)
-ri32	-32- Moritz Borst (SC Riessersee)
 ri50	-50- Andreas Mechel (SC Riessersee)
 ri76	-76- Luca Allavena (SC Riessersee)
 ri26	-26- Moritz Köttstorfer (SC Riessersee)
