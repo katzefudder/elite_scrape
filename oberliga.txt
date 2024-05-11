@@ -271,6 +271,7 @@ hn27	-27- Oula Uski (Heilbronner Falken)
 hn36	-36- Sam Verelst (Heilbronner Falken)
 hn9	-9- Linus Wernerson Libäck (Heilbronner Falken)
 hn8	-8- Pontus Wernerson Libäck (Heilbronner Falken)
+hn100	Frank Petrozza (Trainer Heilbronner Falken)
 
 
 - Hannover Scorpions -
