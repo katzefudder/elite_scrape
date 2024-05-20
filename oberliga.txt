@@ -43,6 +43,7 @@ du8	-8- Pontus Wernerson Libäck (EV Duisburg)
 
 - EHC Erfurt -
 
+ef29	-29- Nick Jordan Vieregge (EHC Erfurt)
 ef4	-4- Dillon Eichstadt (EHC Erfurt)
 ef63	-63- Eric Wunderlich (EHC Erfurt)
 ef8	-8- Tom Banach (EHC Erfurt)
@@ -88,6 +89,7 @@ he101	Lars Gerike (Co-Trainer Herner EV 2007)
 
 hf16	-16- Marius Garten (Herforder EV)
 hf9	-9- Niklas Hildebrand (Herforder EV)
+hf18	-18- Philip Woltmann (Herforder EV)
 hf100	Henry Thom (Trainer Herforder EV)
 
 
