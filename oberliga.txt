@@ -54,6 +54,7 @@ ef67	-67- Luis Müller (EHC Erfurt)
 - ESC Moskitos Essen -
 
 es10	-10- Leon Fern (ESC Moskitos Essen)
+es13	-13- Fabio Frick (ESC Moskitos Essen)
 es24	-24- Nicolas Cornett (ESC Moskitos Essen)
 
 
