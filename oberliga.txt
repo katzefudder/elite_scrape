@@ -63,19 +63,6 @@ es24	-24- Nicolas Cornett (ESC Moskitos Essen)
 fu100	Juhani Matikainen (Trainer EV Füssen)
 
 
-- Lippe-Hockey-Hamm -
-
-ha73	-73- Tom Geischeimer (Lippe-Hockey-Hamm)
-ha49	-49- Joshua Geuß (Lippe-Hockey-Hamm)
-ha27	-27- Philip Kuschel (Lippe-Hockey-Hamm)
-ha3	-3- Gianluca Balla (Lippe-Hockey-Hamm)
-ha17	-17- Marius Demmler (Lippe-Hockey-Hamm)
-ha26	-26- Dominik Lascheit (Lippe-Hockey-Hamm)
-ha16	-16- Joey Luknowsky (Lippe-Hockey-Hamm)
-ha24	-24- Daniel Reichert (Lippe-Hockey-Hamm)
-ha87	-87- Thomas Zuravlev (Lippe-Hockey-Hamm)
-
-
 - Herner EV 2007 -
 
 he91	-91- Michél Ackers (Herner EV 2007)
