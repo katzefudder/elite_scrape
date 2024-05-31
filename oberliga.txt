@@ -66,6 +66,7 @@ fu100	Juhani Matikainen (Trainer EV Füssen)
 
 - Herner EV 2007 -
 
+he67	-67- David Miserotti-Böttcher (Herner EV 2007)
 he91	-91- Michél Ackers (Herner EV 2007)
 he24	-24- Hugo Enock (Herner EV 2007)
 he27	-27- Niko Ahoniemi (Herner EV 2007)
@@ -116,6 +117,7 @@ hn100	Frank Petrozza (Trainer Heilbronner Falken)
 
 - Hannover Scorpions -
 
+hs26	-26- Pascal Aquin (Hannover Scorpions)
 hs21	-21- Justin Kirsch (Hannover Scorpions)
 hs22	-22- Dylan Wruck (Hannover Scorpions)
 
@@ -136,6 +138,7 @@ le89	-89- Konstantin Bongers (IceFighters Leipzig)
 le17	-17- Michael Burns (IceFighters Leipzig)
 le93	-93- Florian Eichelkraut (IceFighters Leipzig)
 le24	-24- Ian Farrell (IceFighters Leipzig)
+le68	-68- Tom Pauker (IceFighters Leipzig)
 le39	-39- Dennis Reimer (IceFighters Leipzig)
 le13	-13- André Schietzold (IceFighters Leipzig)
 le91	-91- Jan-Luca Schumacher (IceFighters Leipzig)
