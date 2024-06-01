@@ -91,6 +91,7 @@ hl32	-32- Kai Kristian (MEC Halle 04)
 hl58	-58- Dennis Schütt (MEC Halle 04)
 hl51	-51- Vojtech Suchomer (MEC Halle 04)
 hl26	-26- Timo Gams (MEC Halle 04)
+hl69	-69- Robert Hechtl (MEC Halle 04)
 hl39	-39- Eppu Karuvaara (MEC Halle 04)
 hl21	-21- Patrick Schmid (MEC Halle 04)
 hl72	-72- Sergei Stas (MEC Halle 04)
@@ -119,6 +120,7 @@ hn100	Frank Petrozza (Trainer Heilbronner Falken)
 
 hs26	-26- Pascal Aquin (Hannover Scorpions)
 hs21	-21- Justin Kirsch (Hannover Scorpions)
+hs9	-9- Allan McPherson (Hannover Scorpions)
 hs22	-22- Dylan Wruck (Hannover Scorpions)
 
 
