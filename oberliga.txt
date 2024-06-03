@@ -34,6 +34,7 @@ dg101	Robert Suchomski (Co-Trainer Deggendorfer SC)
 - EV Duisburg -
 
 du32	-32- Linus Schwarte (EV Duisburg)
+du19	-19- Pascal Grosse (EV Duisburg)
 du72	-72- Nicklas Mannes (EV Duisburg)
 du33	-33- Manuel Neumann (EV Duisburg)
 du68	-68- Michael Fomin (EV Duisburg)
@@ -79,6 +80,7 @@ he101	Lars Gerike (Co-Trainer Herner EV 2007)
 
 - Herforder EV -
 
+hf30	-30- Kieren Vogel (Herforder EV)
 hf16	-16- Marius Garten (Herforder EV)
 hf9	-9- Niklas Hildebrand (Herforder EV)
 hf18	-18- Philip Woltmann (Herforder EV)
