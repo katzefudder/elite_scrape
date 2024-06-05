@@ -120,6 +120,7 @@ hn100	Frank Petrozza (Trainer Heilbronner Falken)
 
 - Hannover Scorpions -
 
+hs96	-96- Andy Reiss (Hannover Scorpions)
 hs26	-26- Pascal Aquin (Hannover Scorpions)
 hs21	-21- Justin Kirsch (Hannover Scorpions)
 hs9	-9- Allan McPherson (Hannover Scorpions)
@@ -226,6 +227,7 @@ tt43	-43- Björn Borgman (Tilburg Trappers)
 tt16	-16- Kilian van Gorp (Tilburg Trappers)
 tt7	-7- Alexei Loginov (Tilburg Trappers)
 tt13	-13- Jordy Verkiel (Tilburg Trappers)
+tt81	-81- Max Hermens (Tilburg Trappers)
 tt100	Todd Warriner (Trainer Tilburg Trappers)
 
 
