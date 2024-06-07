@@ -49,6 +49,7 @@ ir100	Doug Shedden (Trainer Iserlohn Roosters)
 
 - Kölner Haie -
 
+kh57	-57- Brady Austin (Kölner Haie)
 kh15	-15- Louis-Marc Aubry (Kölner Haie)
 kh100	Kari Jalonen (Trainer Kölner Haie)
 kh101	Manuel Kofler (Co-Trainer Kölner Haie)
@@ -61,7 +62,6 @@ nb100	Mitch O'Keefe (Trainer Nürnberg Ice Tigers)
 
 - EHC München -
 
-rb16	-16- Konrad Abeltshauser (EHC München)
 
 
 - Straubing Tigers -
