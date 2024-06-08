@@ -97,6 +97,7 @@ hl69	-69- Robert Hechtl (MEC Halle 04)
 hl39	-39- Eppu Karuvaara (MEC Halle 04)
 hl21	-21- Patrick Schmid (MEC Halle 04)
 hl72	-72- Sergei Stas (MEC Halle 04)
+hl63	-63- Tomi Wilenius (MEC Halle 04)
 hl100	Marko Raita (Trainer MEC Halle 04)
 
 
@@ -125,6 +126,7 @@ hs70	-70- Stephan Tramm (Hannover Scorpions)
 hs26	-26- Pascal Aquin (Hannover Scorpions)
 hs21	-21- Justin Kirsch (Hannover Scorpions)
 hs9	-9- Allan McPherson (Hannover Scorpions)
+hs98	-98- Louis Trattner (Hannover Scorpions)
 hs22	-22- Dylan Wruck (Hannover Scorpions)
 
 
@@ -230,6 +232,7 @@ tt16	-16- Kilian van Gorp (Tilburg Trappers)
 tt7	-7- Alexei Loginov (Tilburg Trappers)
 tt13	-13- Jordy Verkiel (Tilburg Trappers)
 tt81	-81- Max Hermens (Tilburg Trappers)
+tt28	-28- Delaney Hessels (Tilburg Trappers)
 tt100	Todd Warriner (Trainer Tilburg Trappers)
 
 
