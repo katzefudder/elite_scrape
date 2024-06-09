@@ -12,6 +12,7 @@ ap100	Ted Dent (Trainer Augsburger Panther)
 
 - Düsseldorfer EG -
 
+de100	Steven Reinprecht (Trainer Düsseldorfer EG)
 
 
 - Eisbären Berlin -
@@ -58,6 +59,7 @@ kh101	Manuel Kofler (Co-Trainer Kölner Haie)
 
 - Nürnberg Ice Tigers -
 
+nb10	-10- Evan Barratt (Nürnberg Ice Tigers)
 nb100	Mitch O'Keefe (Trainer Nürnberg Ice Tigers)
 
 
