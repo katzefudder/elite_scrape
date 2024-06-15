@@ -8,7 +8,28 @@ am101	Curt Fraser (Co-Trainer Adler Mannheim)
 
 - Augsburger Panther -
 
+ap34	-34- Konrad Fiedler (Augsburger Panther)
+ap35	-35- Markus Keller (Augsburger Panther)
+ap38	-38- Strauss Mann (Augsburger Panther)
+ap8	-8- Kristian Blumenschein (Augsburger Panther)
+ap11	-11- Mick Köhler (Augsburger Panther)
+ap43	-43- Leon van der Linde (Augsburger Panther)
+ap72	-72- Riley McCourt (Augsburger Panther)
+ap58	-58- Maximilian Renner (Augsburger Panther)
+ap29	-29- Denis Reul (Augsburger Panther)
+ap10	-10- Chris Collins (Augsburger Panther)
+ap46	-46- Moritz Elias (Augsburger Panther)
+ap94	-94- Anrei Hakulinen (Augsburger Panther)
+ap25	-25- Christian Hanke (Augsburger Panther)
+ap20	-20- Cody Kunyk (Augsburger Panther)
+ap28	-28- Marco Niewollik (Augsburger Panther)
+ap50	-50- Alexander Oblinger (Augsburger Panther)
+ap77	-77- Luca Tosto (Augsburger Panther)
+ap24	-24- T.J. Trevelyan (Augsburger Panther)
+ap9	-9- Justin Volek (Augsburger Panther)
+ap89	-89- Mark Zengerle (Augsburger Panther)
 ap100	Ted Dent (Trainer Augsburger Panther)
+ap101	Thomas Dolak (Co-Trainer Augsburger Panther)
 
 
 - Düsseldorfer EG -
@@ -66,6 +87,7 @@ nb100	Mitch O'Keefe (Trainer Nürnberg Ice Tigers)
 
 - EHC München -
 
+rb101	Maximilian Kaltenhauser (Co-Trainer EHC München)
 
 
 - Straubing Tigers -
