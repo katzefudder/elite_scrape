@@ -49,8 +49,11 @@ ef4	-4- Dillon Eichstadt (EHC Erfurt)
 ef32	-32- Tobias Schmitz (EHC Erfurt)
 ef63	-63- Eric Wunderlich (EHC Erfurt)
 ef8	-8- Tom Banach (EHC Erfurt)
+ef96	-96- Fritz Denner (EHC Erfurt)
 ef22	-22- Enzo Herrschaft (EHC Erfurt)
+ef12	-12- Maurice Keil (EHC Erfurt)
 ef67	-67- Luis Müller (EHC Erfurt)
+ef83	-83- Harrison Reed (EHC Erfurt)
 
 
 - ESC Moskitos Essen -
@@ -250,10 +253,12 @@ tt7	-7- Alexei Loginov (Tilburg Trappers)
 tt20	-20- Noah Muller (Tilburg Trappers)
 tt13	-13- Jordy Verkiel (Tilburg Trappers)
 tt5	-5- Giovanni Vogelaar (Tilburg Trappers)
+tt26	-26- Jonne de Bonth (Tilburg Trappers)
 tt81	-81- Max Hermens (Tilburg Trappers)
 tt28	-28- Delaney Hessels (Tilburg Trappers)
 tt77	-77- Reno de Hondt (Tilburg Trappers)
 tt29	-29- D'Artagnan Joly (Tilburg Trappers)
+tt36	-36- Marvin Timmer (Tilburg Trappers)
 tt100	Todd Warriner (Trainer Tilburg Trappers)
 
 
