@@ -36,6 +36,7 @@ ap101	Thomas Dolak (Co-Trainer Augsburger Panther)
 - Düsseldorfer EG -
 
 de100	Steven Reinprecht (Trainer Düsseldorfer EG)
+de101	Saku Martikainen (Co-Trainer Düsseldorfer EG)
 
 
 - Eisbären Berlin -
