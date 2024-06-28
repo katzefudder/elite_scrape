@@ -42,6 +42,7 @@ de101	Saku Martikainen (Co-Trainer Düsseldorfer EG)
 
 - Eisbären Berlin -
 
+eb10	-10- Lean Bergmann (Eisbären Berlin)
 eb100	Serge Aubin (Trainer Eisbären Berlin)
 eb101	Rob Collins (Co-Trainer Eisbären Berlin)
 
