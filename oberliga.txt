@@ -10,6 +10,7 @@ dg92	-92- Timo Pielmeier (Deggendorfer SC)
 dg91	-91- Alex Großrubatscher (Deggendorfer SC)
 dg5	-5- Tomas Gulda (Deggendorfer SC)
 dg4	-4- Silvan Heiß (Deggendorfer SC)
+dg9	-9- Kevin Lengle (Deggendorfer SC)
 dg88	-88- Marcel Pfänder (Deggendorfer SC)
 dg25	-25- Ondrej Pozivil (Deggendorfer SC)
 dg29	-29- Benedikt Schopper (Deggendorfer SC)
@@ -94,22 +95,6 @@ hf16	-16- Marius Garten (Herforder EV)
 hf9	-9- Niklas Hildebrand (Herforder EV)
 hf18	-18- Philip Woltmann (Herforder EV)
 hf100	Henry Thom (Trainer Herforder EV)
-
-
-- MEC Halle 04 -
-
-hl32	-32- Kai Kristian (MEC Halle 04)
-hl60	-60- Moritz Schug (MEC Halle 04)
-hl58	-58- Dennis Schütt (MEC Halle 04)
-hl51	-51- Vojtech Suchomer (MEC Halle 04)
-hl12	-12- Alex Berger (MEC Halle 04)
-hl26	-26- Timo Gams (MEC Halle 04)
-hl69	-69- Robert Hechtl (MEC Halle 04)
-hl39	-39- Eppu Karuvaara (MEC Halle 04)
-hl21	-21- Patrick Schmid (MEC Halle 04)
-hl72	-72- Sergei Stas (MEC Halle 04)
-hl63	-63- Tomi Wilenius (MEC Halle 04)
-hl100	Marko Raita (Trainer MEC Halle 04)
 
 
 - Heilbronner Falken -
