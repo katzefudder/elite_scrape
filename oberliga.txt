@@ -55,6 +55,7 @@ ef22	-22- Enzo Herrschaft (EHC Erfurt)
 ef12	-12- Maurice Keil (EHC Erfurt)
 ef67	-67- Luis Müller (EHC Erfurt)
 ef83	-83- Harrison Reed (EHC Erfurt)
+ef100	Robert Hoffmann (Trainer EHC Erfurt)
 
 
 - ESC Moskitos Essen -
@@ -242,6 +243,7 @@ to100	Axel Kammerer (Trainer Tölzer Löwen)
 tt67	-67- Cedrick Andree (Tilburg Trappers)
 tt33	-33- Ruud Leeuwesteijn (Tilburg Trappers)
 tt43	-43- Björn Borgman (Tilburg Trappers)
+tt89	-89- Mike Dalhuisen (Tilburg Trappers)
 tt16	-16- Kilian van Gorp (Tilburg Trappers)
 tt7	-7- Alexei Loginov (Tilburg Trappers)
 tt20	-20- Noah Muller (Tilburg Trappers)
@@ -253,7 +255,10 @@ tt28	-28- Delaney Hessels (Tilburg Trappers)
 tt77	-77- Reno de Hondt (Tilburg Trappers)
 tt41	-41- Jay Huisman (Tilburg Trappers)
 tt29	-29- D'Artagnan Joly (Tilburg Trappers)
+tt86	-86- Phil Marinaccio (Tilburg Trappers)
+tt11	-11- Kobe Roth (Tilburg Trappers)
 tt36	-36- Marvin Timmer (Tilburg Trappers)
+tt82	-82- Justin van der Ven (Tilburg Trappers)
 tt100	Todd Warriner (Trainer Tilburg Trappers)
 
 
