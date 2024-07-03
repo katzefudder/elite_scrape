@@ -56,6 +56,7 @@ ei101	Brad Tapper (Co-Trainer ERC Ingolstadt)
 
 - Löwen Frankfurt -
 
+fl83	-83- Kevin Bicker (Löwen Frankfurt)
 fl100	Tom Rowe (Trainer Löwen Frankfurt)
 
 

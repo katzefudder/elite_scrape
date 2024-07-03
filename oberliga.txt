@@ -6,6 +6,7 @@ by100	Larry Suarez (Trainer Bayreuth Tigers)
 - Deggendorfer SC -
 
 dg51	-51- Raphael Fössinger (Deggendorfer SC)
+dg37	-37- Valentin Lehner (Deggendorfer SC)
 dg92	-92- Timo Pielmeier (Deggendorfer SC)
 dg91	-91- Alex Großrubatscher (Deggendorfer SC)
 dg5	-5- Tomas Gulda (Deggendorfer SC)
@@ -34,28 +35,43 @@ dg101	Robert Suchomski (Co-Trainer Deggendorfer SC)
 
 - EV Duisburg -
 
+du40	-40- Fabian Hegmann (EV Duisburg)
 du32	-32- Linus Schwarte (EV Duisburg)
+du14	-14- Tobias Fischer (EV Duisburg)
 du19	-19- Pascal Grosse (EV Duisburg)
 du72	-72- Nicklas Mannes (EV Duisburg)
 du33	-33- Manuel Neumann (EV Duisburg)
+du28	-28- Brooklyn Beckers (EV Duisburg)
+du5	-5- Jona Dannöhl (EV Duisburg)
+du12	-12- Mees De Wit (EV Duisburg)
 du68	-68- Michael Fomin (EV Duisburg)
+du16	-16- Wladislav Kronhardt (EV Duisburg)
+du22	-22- Jannis Kälble (EV Duisburg)
+du24	-24- Dennis Mensch (EV Duisburg)
+du88	-88- Martin Schymainski (EV Duisburg)
 du9	-9- Linus Wernerson Libäck (EV Duisburg)
 du8	-8- Pontus Wernerson Libäck (EV Duisburg)
+du82	-82- Adam Zoweil (EV Duisburg)
+du100	Risto Kurkinen (Trainer EV Duisburg)
 
 
 - EHC Erfurt -
 
+ef33	-33- Patrick Glatzel (EHC Erfurt)
 ef29	-29- Nick Jordan Vieregge (EHC Erfurt)
 ef4	-4- Dillon Eichstadt (EHC Erfurt)
+ef36	-36- René Kramer (EHC Erfurt)
 ef32	-32- Tobias Schmitz (EHC Erfurt)
 ef63	-63- Eric Wunderlich (EHC Erfurt)
 ef8	-8- Tom Banach (EHC Erfurt)
 ef96	-96- Fritz Denner (EHC Erfurt)
+ef21	-21- Santeri Haarala (EHC Erfurt)
 ef22	-22- Enzo Herrschaft (EHC Erfurt)
 ef12	-12- Maurice Keil (EHC Erfurt)
 ef67	-67- Luis Müller (EHC Erfurt)
 ef83	-83- Harrison Reed (EHC Erfurt)
 ef100	Robert Hoffmann (Trainer EHC Erfurt)
+ef101	Robert Schmidt (Co-Trainer EHC Erfurt)
 
 
 - ESC Moskitos Essen -
@@ -64,6 +80,7 @@ es77	-77- Edmunds Augstkalns (ESC Moskitos Essen)
 es10	-10- Leon Fern (ESC Moskitos Essen)
 es13	-13- Fabio Frick (ESC Moskitos Essen)
 es24	-24- Nicolas Cornett (ESC Moskitos Essen)
+es101	Johan Merbah (Co-Trainer ESC Moskitos Essen)
 
 
 - EV Füssen -
@@ -91,9 +108,25 @@ he101	Lars Gerike (Co-Trainer Herner EV 2007)
 
 - Herforder EV -
 
+hf55	-55- Jakub Urbisch (Herforder EV)
 hf30	-30- Kieren Vogel (Herforder EV)
+hf6	-6- Brett Humberstone (Herforder EV)
+hf43	-43- Mika Hupach (Herforder EV)
+hf52	-52- Dennis König (Herforder EV)
+hf56	-56- Michael Schaaf (Herforder EV)
+hf72	-72- Yannis Walch (Herforder EV)
+hf44	-44- Nick Walters (Herforder EV)
+hf22	-22- Gleb Berezovskyy (Herforder EV)
 hf16	-16- Marius Garten (Herforder EV)
 hf9	-9- Niklas Hildebrand (Herforder EV)
+hf10	-10- Jegors Kalnins (Herforder EV)
+hf14	-14- Leon Köhler (Herforder EV)
+hf77	-77- Émil Lessard-Adyn (Herforder EV)
+hf39	-39- Brandon Schultz (Herforder EV)
+hf49	-49- Anton Seidel (Herforder EV)
+hf7	-7- Dennis Sticha (Herforder EV)
+hf17	-17- Timo Sticha (Herforder EV)
+hf13	-13- Nils Wegner (Herforder EV)
 hf18	-18- Philip Woltmann (Herforder EV)
 hf100	Henry Thom (Trainer Herforder EV)
 
@@ -108,6 +141,7 @@ hn24	-24- Corey Mapes (Heilbronner Falken)
 hn7	-7- Jan Pavlu (Heilbronner Falken)
 hn28	-28- Lars Schiller (Heilbronner Falken)
 hn16	-16- Thomas Supis (Heilbronner Falken)
+hn29	-29- Calder Anderson (Heilbronner Falken)
 hn37	-37- Frédérik Cabana (Heilbronner Falken)
 hn21	-21- Sebastian Hon (Heilbronner Falken)
 hn14	-14- Niklas Jentsch (Heilbronner Falken)
@@ -115,6 +149,7 @@ hn12	-12- Vincent Jiranek (Heilbronner Falken)
 hn17	-17- Robin Just (Heilbronner Falken)
 hn57	-57- Luis Ludin (Heilbronner Falken)
 hn27	-27- Manuel Nix (Heilbronner Falken)
+hn10	-10- Nolan Ritchie (Heilbronner Falken)
 hn22	-22- Thore Weyrauch (Heilbronner Falken)
 hn100	Frank Petrozza (Trainer Heilbronner Falken)
 
@@ -172,11 +207,48 @@ le101	Aki-Petteri Pöyry (Co-Trainer IceFighters Leipzig)
 
 - EV Lindau -
 
+li29	-29- Dieter Geidl (EV Lindau)
+li1	-1- Tommi Steffen (EV Lindau)
+li5	-5- Eric Bergen (EV Lindau)
+li75	-75- Luka Nyman (EV Lindau)
+li78	-78- Christian Obu (EV Lindau)
+li46	-46- Patrick Raaf-Effertz (EV Lindau)
+li85	-85- Steffen Tölzer (EV Lindau)
+li18	-18- Robin Wucher (EV Lindau)
+li98	-98- Valentin Busch (EV Lindau)
+li19	-19- Adriano Carciola (EV Lindau)
+li68	-68- Andreas Farny (EV Lindau)
+li91	-91- Zan Jezovsek (EV Lindau)
+li42	-42- Marcus Marsall (EV Lindau)
+li13	-13- Vincenz Mayer (EV Lindau)
+li20	-20- Damian Schneider (EV Lindau)
+li11	-11- Nicolas Strodel (EV Lindau)
+li23	-23- Marlon Wolf (EV Lindau)
+li16	-16- Corvin Wucher (EV Lindau)
+li71	-71- Marvin Wucher (EV Lindau)
 li100	Michael Baindl (Trainer EV Lindau)
 
 
 - ECDC Memmingen -
 
+mm31	-31- Louis Eisenhut (ECDC Memmingen)
+mm53	-53- Bastian Flott-Kucis (ECDC Memmingen)
+mm15	-15- Bernhard Ettwein (ECDC Memmingen)
+mm96	-96- Patrick Kurz (ECDC Memmingen)
+mm22	-22- Dominik Meisinger (ECDC Memmingen)
+mm9	-9- Alessandro Schmidbauer (ECDC Memmingen)
+mm72	-72- Linus Svedlund (ECDC Memmingen)
+mm24	-24- Sebastian Christmann (ECDC Memmingen)
+mm23	-23- Pascal Dopatka (ECDC Memmingen)
+mm47	-47- Denis Fominych (ECDC Memmingen)
+mm71	-71- Edgars Homjakovs (ECDC Memmingen)
+mm28	-28- Markus Lillich (ECDC Memmingen)
+mm93	-93- Tobias Meier (ECDC Memmingen)
+mm69	-69- Matej Pekr (ECDC Memmingen)
+mm19	-19- Milan Pfalzer (ECDC Memmingen)
+mm27	-27- Brett Schaefer (ECDC Memmingen)
+mm97	-97- Jayden Schubert (ECDC Memmingen)
+mm91	-91- Tyler Spurgeon (ECDC Memmingen)
 mm100	Daniel Huhn (Trainer ECDC Memmingen)
 
 
@@ -186,24 +258,63 @@ mm100	Daniel Huhn (Trainer ECDC Memmingen)
 
 - EC Peiting -
 
+pe30	-30- Konrad Fiedler (EC Peiting)
+pe32	-32- Andreas Magg (EC Peiting)
+pe10	-10- Daniel Holzmann (EC Peiting)
+pe97	-97- Marc Besl (EC Peiting)
+pe8	-8- Félix Brassard (EC Peiting)
+pe80	-80- Markus Czogallik (EC Peiting)
+pe23	-23- David Diebolder (EC Peiting)
+pe22	-22- Lukas Gohlke (EC Peiting)
+pe75	-75- Niklas Greil (EC Peiting)
+pe19	-19- Marco Habermann (EC Peiting)
+pe24	-24- Thomas Heger (EC Peiting)
+pe82	-82- Dennis Krutsch (EC Peiting)
+pe17	-17- Samuel Payeur (EC Peiting)
 pe100	John Sicinski (Trainer EC Peiting)
 
 
 - SC Riessersee -
 
+ri41	-41- Michael Boehm (SC Riessersee)
+ri50	-50- Andreas Mechel (SC Riessersee)
+ri76	-76- Luca Allavena (SC Riessersee)
+ri98	-98- Christoph Frankenberg (SC Riessersee)
+ri87	-87- Michael Gottwald (SC Riessersee)
+ri8	-8- Jan Niklas Pietsch (SC Riessersee)
+ri5	-5- Thomas Schmid (SC Riessersee)
+ri57	-57- Lubor Dibelka (SC Riessersee)
+ri15	-15- Anselm Gerg (SC Riessersee)
+ri21	-21- Alexander Höller (SC Riessersee)
+ri10	-10- Tobias Kircher (SC Riessersee)
+ri16	-16- Christoph Körner (SC Riessersee)
+ri22	-22- Robin Soudek (SC Riessersee)
+ri18	-18- Marc Zajic (SC Riessersee)
 ri100	Hunor Marton (Trainer SC Riessersee)
 
 
 - Rostocker EC -
 
 ro30	-30- Sebastian Albrecht (Rostocker EC)
+ro31	-31- Timon Bätge (Rostocker EC)
+ro34	-34- Christopher Strasen (Rostocker EC)
 ro23	-23- Christian Guran (Rostocker EC)
+ro18	-18- Connor Hannon (Rostocker EC)
+ro53	-53- Leon Häring (Rostocker EC)
 ro90	-90- Marius Pöpel (Rostocker EC)
 ro13	-13- Raik Rennert (Rostocker EC)
+ro58	-58- Jan Tramm (Rostocker EC)
+ro12	-12- Emil Bejmo (Rostocker EC)
+ro73	-73- Ilja Fleischmann (Rostocker EC)
+ro83	-83- Kevin Kunz (Rostocker EC)
 ro48	-48- Mike Mieszkowski (Rostocker EC)
+ro81	-81- Christian Paul-Mercier (Rostocker EC)
 ro5	-5- Maximilian Schaludek (Rostocker EC)
 ro72	-72- Kilian Steinmann (Rostocker EC)
 ro28	-28- Filip Stopinski (Rostocker EC)
+ro7	-7- Thomas Voronov (Rostocker EC)
+ro39	-39- McKenzie Welke (Rostocker EC)
+ro100	Lenny Soccio (Trainer Rostocker EC)
 
 
 - Tölzer Löwen -
