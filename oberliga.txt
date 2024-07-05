@@ -90,6 +90,7 @@ fu100	Juhani Matikainen (Trainer EV Füssen)
 
 - Herner EV 2007 -
 
+he35	-35- Finn Becker (Herner EV 2007)
 he67	-67- David Miserotti-Böttcher (Herner EV 2007)
 he91	-91- Michél Ackers (Herner EV 2007)
 he90	-90- Marvin Cohut (Herner EV 2007)
