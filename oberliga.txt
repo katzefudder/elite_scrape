@@ -1,6 +1,7 @@
 - Bayreuth Tigers -
 
 by100	Larry Suarez (Trainer Bayreuth Tigers)
+by101	Morgan Persson (Co-Trainer Bayreuth Tigers)
 
 
 - Deggendorfer SC -
@@ -235,12 +236,15 @@ li100	Michael Baindl (Trainer EV Lindau)
 mm31	-31- Louis Eisenhut (ECDC Memmingen)
 mm53	-53- Bastian Flott-Kucis (ECDC Memmingen)
 mm15	-15- Bernhard Ettwein (ECDC Memmingen)
+mm12	-12- Henry Homann (ECDC Memmingen)
 mm96	-96- Patrick Kurz (ECDC Memmingen)
 mm22	-22- Dominik Meisinger (ECDC Memmingen)
+mm26	-26- Robert Peleikis (ECDC Memmingen)
 mm9	-9- Alessandro Schmidbauer (ECDC Memmingen)
 mm72	-72- Linus Svedlund (ECDC Memmingen)
 mm24	-24- Sebastian Christmann (ECDC Memmingen)
 mm23	-23- Pascal Dopatka (ECDC Memmingen)
+mm66	-66- Paul Fabian (ECDC Memmingen)
 mm47	-47- Denis Fominych (ECDC Memmingen)
 mm71	-71- Edgars Homjakovs (ECDC Memmingen)
 mm28	-28- Markus Lillich (ECDC Memmingen)
@@ -262,6 +266,7 @@ mm100	Daniel Huhn (Trainer ECDC Memmingen)
 pe30	-30- Konrad Fiedler (EC Peiting)
 pe32	-32- Andreas Magg (EC Peiting)
 pe10	-10- Daniel Holzmann (EC Peiting)
+pe28	-28- Fabian Weyrich (EC Peiting)
 pe97	-97- Marc Besl (EC Peiting)
 pe8	-8- Félix Brassard (EC Peiting)
 pe80	-80- Markus Czogallik (EC Peiting)
