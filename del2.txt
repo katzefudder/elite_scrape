@@ -49,6 +49,7 @@ bs29	-29- Alexander Preibisch (Bietigheim Steelers)
 bs17	-17- Marek Racuk (Bietigheim Steelers)
 bs4	-4- Joshua Rust (Bietigheim Steelers)
 bs100	Alexander Dück (Trainer Bietigheim Steelers)
+bs101	Boris Blank (Co-Trainer Bietigheim Steelers)
 
 
 - Eispiraten Crimmitschau -
