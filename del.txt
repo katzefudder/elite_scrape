@@ -185,6 +185,7 @@ nb100	Mitch O'Keefe (Trainer Nürnberg Ice Tigers)
 - EHC München -
 
 rb16	-16- Konrad Abeltshauser (EHC München)
+rb57	-57- Emil Johansson (EHC München)
 rb101	Maximilian Kaltenhauser (Co-Trainer EHC München)
 
 
