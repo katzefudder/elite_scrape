@@ -34,28 +34,6 @@ dg100	Jiri Ehrenberger (Trainer Deggendorfer SC)
 dg101	Robert Suchomski (Co-Trainer Deggendorfer SC)
 
 
-- EV Duisburg -
-
-du40	-40- Fabian Hegmann (EV Duisburg)
-du32	-32- Linus Schwarte (EV Duisburg)
-du14	-14- Tobias Fischer (EV Duisburg)
-du19	-19- Pascal Grosse (EV Duisburg)
-du72	-72- Nicklas Mannes (EV Duisburg)
-du33	-33- Manuel Neumann (EV Duisburg)
-du28	-28- Brooklyn Beckers (EV Duisburg)
-du5	-5- Jona Dannöhl (EV Duisburg)
-du12	-12- Mees De Wit (EV Duisburg)
-du68	-68- Michael Fomin (EV Duisburg)
-du16	-16- Wladislav Kronhardt (EV Duisburg)
-du22	-22- Jannis Kälble (EV Duisburg)
-du24	-24- Dennis Mensch (EV Duisburg)
-du88	-88- Martin Schymainski (EV Duisburg)
-du9	-9- Linus Wernerson Libäck (EV Duisburg)
-du8	-8- Pontus Wernerson Libäck (EV Duisburg)
-du82	-82- Adam Zoweil (EV Duisburg)
-du100	Risto Kurkinen (Trainer EV Duisburg)
-
-
 - EHC Erfurt -
 
 ef33	-33- Patrick Glatzel (EHC Erfurt)
@@ -330,6 +308,21 @@ ro28	-28- Filip Stopinski (Rostocker EC)
 ro7	-7- Thomas Voronov (Rostocker EC)
 ro39	-39- McKenzie Welke (Rostocker EC)
 ro100	Lenny Soccio (Trainer Rostocker EC)
+
+
+- Stuttgart Rebels -
+
+st1	-1- Jonas Gähr (Stuttgart Rebels)
+st74	-74- Keanu Salmik (Stuttgart Rebels)
+st6	-6- Michael Brunner (Stuttgart Rebels)
+st4	-4- Michael Fink (Stuttgart Rebels)
+st28	-28- David Kirchhoff (Stuttgart Rebels)
+st20	-20- Adam Schusser (Stuttgart Rebels)
+st41	-41- Jannik Herm (Stuttgart Rebels)
+st36	-36- Matthew Pistilli (Stuttgart Rebels)
+st9	-9- Lukas Traub (Stuttgart Rebels)
+st94	-94- Mathias Vostarek (Stuttgart Rebels)
+st100	Jan Melichar (Trainer Stuttgart Rebels)
 
 
 - Tölzer Löwen -
