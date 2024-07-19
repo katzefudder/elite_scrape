@@ -190,7 +190,6 @@ ft101	Marian Bazany (Co-Trainer Fischtown Pinguins)
 
 - Iserlohn Roosters -
 
-ir71	-71- Branden Troock (Iserlohn Roosters)
 ir100	Doug Shedden (Trainer Iserlohn Roosters)
 
 
