@@ -73,6 +73,7 @@ ef12	-12- Maurice Keil (EHC Erfurt)
 ef77	-77- Tim May (EHC Erfurt)
 ef67	-67- Luis Müller (EHC Erfurt)
 ef83	-83- Harrison Reed (EHC Erfurt)
+ef44	-44- Carl Zimmermann (EHC Erfurt)
 ef100	Robert Hoffmann (Trainer EHC Erfurt)
 ef101	Robert Schmidt (Co-Trainer EHC Erfurt)
 
