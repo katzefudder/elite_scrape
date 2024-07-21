@@ -316,7 +316,6 @@ ri101	Markus Jocher (Co-Trainer SC Riessersee)
 
 ro30	-30- Sebastian Albrecht (Rostocker EC)
 ro31	-31- Timon Bätge (Rostocker EC)
-ro34	-34- Christopher Strasen (Rostocker EC)
 ro23	-23- Christian Guran (Rostocker EC)
 ro18	-18- Connor Hannon (Rostocker EC)
 ro53	-53- Leon Häring (Rostocker EC)
