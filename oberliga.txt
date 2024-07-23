@@ -184,6 +184,7 @@ hs88	-88- Victor Knaub (Hannover Scorpions)
 hs9	-9- Allan McPherson (Hannover Scorpions)
 hs98	-98- Louis Trattner (Hannover Scorpions)
 hs22	-22- Dylan Wruck (Hannover Scorpions)
+hs100	Tobias Stolikowski (Trainer Hannover Scorpions)
 
 
 - IceFighters Leipzig -
@@ -343,6 +344,7 @@ st6	-6- Michael Brunner (Stuttgart Rebels)
 st4	-4- Michael Fink (Stuttgart Rebels)
 st28	-28- David Kirchhoff (Stuttgart Rebels)
 st20	-20- Adam Schusser (Stuttgart Rebels)
+st82	-82- Sofiene Bräuner (Stuttgart Rebels)
 st41	-41- Jannik Herm (Stuttgart Rebels)
 st36	-36- Matthew Pistilli (Stuttgart Rebels)
 st9	-9- Lukas Traub (Stuttgart Rebels)
