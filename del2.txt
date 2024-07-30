@@ -92,6 +92,7 @@ er100	Ville Hämäläinen (Trainer Eisbären Regensburg)
 - EHC Freiburg -
 
 fr64	-64- Patrik Cerveny (EHC Freiburg)
+fr40	-40- Fabian Hegmann (EHC Freiburg)
 fr86	-86- Alexander De Los Rios (EHC Freiburg)
 fr92	-92- Leo Hafenrichter (EHC Freiburg)
 fr77	-77- Petr Heider (EHC Freiburg)
