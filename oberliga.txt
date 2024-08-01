@@ -87,6 +87,7 @@ es48	-48- Lukas Mannes (ESC Moskitos Essen)
 es43	-43- Philipp Seidel (ESC Moskitos Essen)
 es14	-14- Maximilian Braun (ESC Moskitos Essen)
 es24	-24- Nicolas Cornett (ESC Moskitos Essen)
+es42	-42- Alexei Dmitriev (ESC Moskitos Essen)
 es16	-16- Alexander Komov (ESC Moskitos Essen)
 es23	-23- Tim Lutz (ESC Moskitos Essen)
 es11	-11- Lars Stelzmann (ESC Moskitos Essen)
@@ -145,6 +146,30 @@ hf17	-17- Timo Sticha (Herforder EV)
 hf13	-13- Nils Wegner (Herforder EV)
 hf18	-18- Philip Woltmann (Herforder EV)
 hf100	Henry Thom (Trainer Herforder EV)
+
+
+- Hannover Indians -
+
+hi35	-35- Timo Herden (Hannover Indians)
+hi30	-30- Brett Jaeger (Hannover Indians)
+hi54	-54- Fabian Belendir (Hannover Indians)
+hi44	-44- Ryker Killins (Hannover Indians)
+hi40	-40- Phillip Messing (Hannover Indians)
+hi7	-7- Tobias Möller (Hannover Indians)
+hi71	-71- Maximilian Pohl (Hannover Indians)
+hi23	-23- Luca Trinkberger (Hannover Indians)
+hi22	-22- Nicolas Turnwald (Hannover Indians)
+hi10	-10- Igor Bacek (Hannover Indians)
+hi37	-37- Tyler Gron (Hannover Indians)
+hi14	-14- Lucca Krüger (Hannover Indians)
+hi27	-27- Dennis Palka (Hannover Indians)
+hi20	-20- Robin Palka (Hannover Indians)
+hi24	-24- Jussi Petersen (Hannover Indians)
+hi34	-34- Justin Salamin (Hannover Indians)
+hi16	-16- Tom Stumpe (Hannover Indians)
+hi76	-76- Matias Varttinen (Hannover Indians)
+hi77	-77- Jonas Wolter (Hannover Indians)
+hi100	Raphaël Joly (Trainer Hannover Indians)
 
 
 - Heilbronner Falken -
