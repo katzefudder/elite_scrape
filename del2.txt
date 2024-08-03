@@ -188,7 +188,6 @@ kp100	Thomas Popiesch (Trainer Krefeld Pinguine)
 - Lausitzer Füchse -
 
 lf96	-96- Daniel Filimonow (Lausitzer Füchse)
-lf35	-35- Matthew Galajda (Lausitzer Füchse)
 lf50	-50- Leon Jessler (Lausitzer Füchse)
 lf58	-58- Jérémy Beaudry (Lausitzer Füchse)
 lf6	-6- Marlon Braun (Lausitzer Füchse)
