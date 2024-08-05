@@ -215,6 +215,7 @@ lf101	André Mücke (Co-Trainer Lausitzer Füchse)
 - EV Landshut -
 
 lh100	Heiko Vogler (Trainer EV Landshut)
+lh101	Christoph Schubert (Co-Trainer EV Landshut)
 
 
 - Starbulls Rosenheim -
