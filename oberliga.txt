@@ -356,29 +356,6 @@ ri100	Hunor Marton (Trainer SC Riessersee)
 ri101	Markus Jocher (Co-Trainer SC Riessersee)
 
 
-- Rostocker EC -
-
-ro30	-30- Sebastian Albrecht (Rostocker EC)
-ro31	-31- Timon Bätge (Rostocker EC)
-ro23	-23- Christian Guran (Rostocker EC)
-ro18	-18- Connor Hannon (Rostocker EC)
-ro53	-53- Leon Häring (Rostocker EC)
-ro90	-90- Marius Pöpel (Rostocker EC)
-ro13	-13- Raik Rennert (Rostocker EC)
-ro58	-58- Jan Tramm (Rostocker EC)
-ro12	-12- Emil Bejmo (Rostocker EC)
-ro73	-73- Ilja Fleischmann (Rostocker EC)
-ro83	-83- Kevin Kunz (Rostocker EC)
-ro48	-48- Mike Mieszkowski (Rostocker EC)
-ro81	-81- Christian Paul-Mercier (Rostocker EC)
-ro5	-5- Maximilian Schaludek (Rostocker EC)
-ro72	-72- Kilian Steinmann (Rostocker EC)
-ro28	-28- Filip Stopinski (Rostocker EC)
-ro7	-7- Thomas Voronov (Rostocker EC)
-ro39	-39- McKenzie Welke (Rostocker EC)
-ro100	Lenny Soccio (Trainer Rostocker EC)
-
-
 - Stuttgart Rebels -
 
 st1	-1- Jonas Gähr (Stuttgart Rebels)
