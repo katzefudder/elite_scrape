@@ -82,6 +82,7 @@ ef101	Robert Schmidt (Co-Trainer EHC Erfurt)
 - ESC Moskitos Essen -
 
 es39	-39- Ennio Albrecht (ESC Moskitos Essen)
+es25	-25- Marko Brlic (ESC Moskitos Essen)
 es35	-35- Leon Hümer (ESC Moskitos Essen)
 es1	-1- Justus Roth (ESC Moskitos Essen)
 es77	-77- Edmunds Augstkalns (ESC Moskitos Essen)

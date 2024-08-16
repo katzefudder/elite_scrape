@@ -6,6 +6,7 @@
 
 bs35	-35- Olafr Schmidt (Bietigheim Steelers)
 bs72	-72- David Zabolotny (Bietigheim Steelers)
+bs25	-25- Dennis Dietmann (Bietigheim Steelers)
 bs12	-12- Pawel Dronia (Bietigheim Steelers)
 bs55	-55- Mick Hochreither (Bietigheim Steelers)
 bs74	-74- Jesse Roach (Bietigheim Steelers)
