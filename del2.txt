@@ -105,7 +105,9 @@ er55	-55- Jakob Weber (Eisbären Regensburg)
 er21	-21- Aleandro Angaran (Eisbären Regensburg)
 er9	-9- Richard Divis (Eisbären Regensburg)
 er69	-69- Nikola Gajovský (Eisbären Regensburg)
+er14	-14- Matej Giesl (Eisbären Regensburg)
 er22	-22- Yuma Grimm (Eisbären Regensburg)
+er44	-44- Olle Liss (Eisbären Regensburg)
 er93	-93- David Morley (Eisbären Regensburg)
 er91	-91- Ryon Moser (Eisbären Regensburg)
 er19	-19- Constantin Ontl (Eisbären Regensburg)
@@ -115,6 +117,7 @@ er81	-81- Kevin Slezak (Eisbären Regensburg)
 er86	-86- Corey Trivino (Eisbären Regensburg)
 er17	-17- Niklas Zeilbeck (Eisbären Regensburg)
 er100	Ville Hämäläinen (Trainer Eisbären Regensburg)
+er101	Jan Suran (Co-Trainer Eisbären Regensburg)
 
 
 - EHC Freiburg -
