@@ -112,6 +112,8 @@ es101	Johan Merbah (Co-Trainer ESC Moskitos Essen)
 
 - EV Füssen -
 
+fu29	-29- Benedikt Hötzinger (EV Füssen)
+fu32	-32- Clemens Wiedemann (EV Füssen)
 fu100	Juhani Matikainen (Trainer EV Füssen)
 
 
@@ -324,6 +326,25 @@ mm100	Daniel Huhn (Trainer ECDC Memmingen)
 
 - EHF Passau Black Hawks -
 
+pa31	-31- Marco Eisenhut (EHF Passau Black Hawks)
+pa30	-30- Janik Engler (EHF Passau Black Hawks)
+pa7	-7- Marlon D'Acunto (EHF Passau Black Hawks)
+pa66	-66- Patrick Geiger (EHF Passau Black Hawks)
+pa17	-17- Daniel Maul (EHF Passau Black Hawks)
+pa77	-77- Thomas Nuss (EHF Passau Black Hawks)
+pa10	-10- Maximilian Otte (EHF Passau Black Hawks)
+pa53	-53- Marc Sauer (EHF Passau Black Hawks)
+pa8	-8- Benedikt Böhm (EHF Passau Black Hawks)
+pa69	-69- Jakub Cizek (EHF Passau Black Hawks)
+pa14	-14- Sascha Maul (EHF Passau Black Hawks)
+pa55	-55- Elias Rott (EHF Passau Black Hawks)
+pa97	-97- René Röthke (EHF Passau Black Hawks)
+pa13	-13- Nicolas Sauer (EHF Passau Black Hawks)
+pa74	-74- Andrew Schembri (EHF Passau Black Hawks)
+pa88	-88- David Seidl (EHF Passau Black Hawks)
+pa24	-24- Moritz Serikow (EHF Passau Black Hawks)
+pa27	-27- Arturs Sevcenko (EHF Passau Black Hawks)
+pa20	-20- Jonas Stern (EHF Passau Black Hawks)
 
 
 - EC Peiting -
