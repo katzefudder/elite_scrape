@@ -260,7 +260,6 @@ lh101	Christoph Schubert (Co-Trainer EV Landshut)
 
 rh35	-35- Oskar Autio (Starbulls Rosenheim)
 rh65	-65- Patrik Mühlberger (Starbulls Rosenheim)
-rh31	-31- Sebastian Scherer (Starbulls Rosenheim)
 rh50	-50- Tobias Beck (Starbulls Rosenheim)
 rh44	-44- Zack Dybowski (Starbulls Rosenheim)
 rh9	-9- Simon Gnyp (Starbulls Rosenheim)
