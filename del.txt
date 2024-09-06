@@ -259,6 +259,7 @@ nb100	Mitch O'Keefe (Trainer Nürnberg Ice Tigers)
 
 rb16	-16- Konrad Abeltshauser (EHC München)
 rb57	-57- Emil Johansson (EHC München)
+rb86	-86- Quirin Bader (EHC München)
 rb77	-77- Adam Brooks (EHC München)
 rb101	Maximilian Kaltenhauser (Co-Trainer EHC München)
 
