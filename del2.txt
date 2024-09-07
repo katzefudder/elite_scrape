@@ -26,36 +26,6 @@ bn22	-22- Pascal Steck (EC Bad Nauheim)
 bn23	-23- Taylor Vause (EC Bad Nauheim)
 
 
-- Bietigheim Steelers -
-
-bs35	-35- Olafr Schmidt (Bietigheim Steelers)
-bs72	-72- David Zabolotny (Bietigheim Steelers)
-bs25	-25- Dennis Dietmann (Bietigheim Steelers)
-bs12	-12- Pawel Dronia (Bietigheim Steelers)
-bs4	-4- Joshua Rust (Bietigheim Steelers)
-bs55	-55- Mick Hochreither (Bietigheim Steelers)
-bs74	-74- Jesse Roach (Bietigheim Steelers)
-bs7	-7- Justin Scheck (Bietigheim Steelers)
-bs6	-6- Leon Schulz (Bietigheim Steelers)
-bs40	-40- Tim Schüle (Bietigheim Steelers)
-bs8	-8- Fedor Kolupaylo (Bietigheim Steelers)
-bs21	-21- Sören Sturm (Bietigheim Steelers)
-bs81	-81- Alexander Dell (Bietigheim Steelers)
-bs10	-10- Tamás Kánya (Bietigheim Steelers)
-bs16	-16- Marvin Drothen (Bietigheim Steelers)
-bs71	-71- Bastian Eckl (Bietigheim Steelers)
-bs14	-14- Erik Němec (Bietigheim Steelers)
-bs13	-13- Christoph Kiefersauer (Bietigheim Steelers)
-bs94	-94- Tyler McNeely (Bietigheim Steelers)
-bs17	-17- Marek Racuk (Bietigheim Steelers)
-bs17	-17- Vasilii Panov (Bietigheim Steelers)
-bs29	-29- Alexander Preibisch (Bietigheim Steelers)
-bs22	-22- Christian Sprez (Bietigheim Steelers)
-bs41	-41- Anton Sproll (Bietigheim Steelers)
-bs100	Alexander Dück (Trainer Bietigheim Steelers)
-bs101	Boris Blank (Co-Trainer Bietigheim Steelers)
-
-
 - Eispiraten Crimmitschau -
 
 cr20	-20- Christian Schneider (Eispiraten Crimmitschau)
