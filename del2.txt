@@ -393,3 +393,32 @@ sw100	Craig Streu (Trainer Selber Wölfe)
 sw101	Lanny Gare (Co-Trainer Selber Wölfe)
 
 
+- Blue Devils Weiden -
+
+we0	-0- Daniel Allavena (Blue Devils Weiden)
+we1	-1- Felix Noack (Blue Devils Weiden)
+we2	-2- Marco Wölfl (Blue Devils Weiden)
+we3	-3- Dominik Bohac (Blue Devils Weiden)
+we4	-4- Maximilian Kolb (Blue Devils Weiden)
+we5	-5- Mads Larsen (Blue Devils Weiden)
+we6	-6- Niklas Länger (Blue Devils Weiden)
+we7	-7- Tommy Muck (Blue Devils Weiden)
+we8	-8- Dominik Müller (Blue Devils Weiden)
+we9	-9- Fabian Ribnitzky (Blue Devils Weiden)
+we10	-10- Finn Serikow (Blue Devils Weiden)
+we11	-11- Daniel Bruch (Blue Devils Weiden)
+we12	-12- David Elsner (Blue Devils Weiden)
+we13	-13- Vladislav Filin (Blue Devils Weiden)
+we14	-14- Luca Gläser (Blue Devils Weiden)
+we15	-15- Jan Heßler (Blue Devils Weiden)
+we16	-16- Elias Pul (Blue Devils Weiden)
+we17	-17- Tomas Rubes (Blue Devils Weiden)
+we18	-18- Neal Samanski (Blue Devils Weiden)
+we19	-19- Vincent Schlenker (Blue Devils Weiden)
+we20	-20- Tom Schwarz (Blue Devils Weiden)
+we21	-21- Lukas Vantuch (Blue Devils Weiden)
+we22	-22- Constantin Vogt (Blue Devils Weiden)
+we23	-23- Fabian Voit (Blue Devils Weiden)
+we24	-24- Tyler Ward (Blue Devils Weiden)
+
+
