@@ -437,6 +437,7 @@ pe75	-75- Niklas Greil (EC Peiting)
 pe19	-19- Marco Habermann (EC Peiting)
 pe17	-17- Samuel Payeur (EC Peiting)
 pe24	-24- Thomas Heger (EC Peiting)
+pe18	-18- Martin Hlozek (EC Peiting)
 pe82	-82- Dennis Krutsch (EC Peiting)
 pe100	John Sicinski (Trainer EC Peiting)
 
