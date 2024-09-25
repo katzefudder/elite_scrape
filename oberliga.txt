@@ -377,6 +377,7 @@ li20	-20- Damian Schneider (EV Lindau)
 li23	-23- Marlon Wolf (EV Lindau)
 li71	-71- Marvin Wucher (EV Lindau)
 li100	Michael Baindl (Trainer EV Lindau)
+li101	Marko Sakic (Co-Trainer EV Lindau)
 
 
 - ECDC Memmingen -
