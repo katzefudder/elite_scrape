@@ -23,13 +23,14 @@ bn91	-91- Marc El-Sayed (EC Bad Nauheim)
 bn22	-22- Rik Gaidel (EC Bad Nauheim)
 bn61	-61- Jordan Hickmott (EC Bad Nauheim)
 bn73	-73- Zach Kaiser (EC Bad Nauheim)
+bn23	-23- Henri Kanninen (EC Bad Nauheim)
 bn93	-93- Julian Lautenschlager (EC Bad Nauheim)
 bn46	-46- Kevin Niedenz (EC Bad Nauheim)
 bn78	-78- Kevin Orendorz (EC Bad Nauheim)
-bn26	-26- Mateu Späth (EC Bad Nauheim)
+bn27	-27- Mateu Späth (EC Bad Nauheim)
 bn34	-34- Pascal Steck (EC Bad Nauheim)
 bn68	-68- Hannu Tripcke (EC Bad Nauheim)
-bn29	-29- Taylor Vause (EC Bad Nauheim)
+bn30	-30- Taylor Vause (EC Bad Nauheim)
 
 
 - Eispiraten Crimmitschau -
