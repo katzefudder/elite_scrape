@@ -1,7 +1,7 @@
 - DEL2 Team Stripes -
 
 str3	-3- Andreas Gawlik (Hauptschiedsrichter DEL2 Team Stripes)
-str5	-5- Pálkövi Zsombor (Hauptschiedsrichter DEL2 Team Stripes)
+str5	-5- Zsombor Pálkövi (Hauptschiedsrichter DEL2 Team Stripes)
 str6	-6- Tony Engelmann (Hauptschiedsrichter DEL2 Team Stripes)
 str7	-7- David Cespiva (Hauptschiedsrichter DEL2 Team Stripes)
 str8	-8- Vladislav Gossmann (Hauptschiedsrichter DEL2 Team Stripes)
