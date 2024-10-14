@@ -35,7 +35,7 @@ bn30	-30- Taylor Vause (EC Bad Nauheim)
 
 - Eispiraten Crimmitschau -
 
-cr0	-0- Florian Mnich (Eispiraten Crimmitschau)
+cr72	-72- Florian Mnich (Eispiraten Crimmitschau)
 cr20	-20- Christian Schneider (Eispiraten Crimmitschau)
 cr90	-90- Oleg Shilin (Eispiraten Crimmitschau)
 cr25	-25- Tim-Etienne Werner (Eispiraten Crimmitschau)
