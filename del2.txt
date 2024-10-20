@@ -66,7 +66,7 @@ cr41	-41- Colin Smith (Eispiraten Crimmitschau)
 cr97	-97- Lois Spitzner (Eispiraten Crimmitschau)
 cr26	-26- Lukas Wagner (Eispiraten Crimmitschau)
 cr100	Jussi Tuores (Trainer Eispiraten Crimmitschau)
-cr101	Esbjörn Hofverberg (Co-Trainer Eispiraten Crimmitschau)
+cr101	Sebastian Becker (Co-Trainer Eispiraten Crimmitschau)
 
 
 - Dresdner Eislöwen -
