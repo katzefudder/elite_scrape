@@ -19,6 +19,7 @@ bn90	-90- Parker Bowles (EC Bad Nauheim)
 bn95	-95- Luigi Calce (EC Bad Nauheim)
 bn17	-17- Raphael Jakovlev (EC Bad Nauheim)
 bn66	-66- Sebastian Cimmerman (EC Bad Nauheim)
+bn19	-19- Taylor Vause (EC Bad Nauheim)
 bn91	-91- Marc El-Sayed (EC Bad Nauheim)
 bn22	-22- Rik Gaidel (EC Bad Nauheim)
 bn61	-61- Jordan Hickmott (EC Bad Nauheim)
@@ -30,7 +31,6 @@ bn78	-78- Kevin Orendorz (EC Bad Nauheim)
 bn27	-27- Mateu Späth (EC Bad Nauheim)
 bn34	-34- Pascal Steck (EC Bad Nauheim)
 bn68	-68- Hannu Tripcke (EC Bad Nauheim)
-bn30	-30- Taylor Vause (EC Bad Nauheim)
 
 
 - Eispiraten Crimmitschau -
