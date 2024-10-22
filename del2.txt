@@ -166,7 +166,7 @@ fr52	-52- Dennis Miller (EHC Freiburg)
 fr71	-71- Shawn O'Donnell (EHC Freiburg)
 fr91	-91- Tomas Schwamberger (EHC Freiburg)
 fr26	-26- Sebastian Streu (EHC Freiburg)
-fr100	Timo Saarikoski (Trainer EHC Freiburg)
+fr100	Mikhail Nemirovsky (Trainer EHC Freiburg)
 fr101	Sami Lehtinen (Co-Trainer EHC Freiburg)
 
 
@@ -466,5 +466,7 @@ we73	-73- Tomas Rubes (Blue Devils Weiden)
 we86	-86- Tom Schwarz (Blue Devils Weiden)
 we93	-93- Lukas Vantuch (Blue Devils Weiden)
 we89	-89- Tyler Ward (Blue Devils Weiden)
+we100	Sebastian Buchwieser (Trainer Blue Devils Weiden)
+we101	Martin Mazanec (Co-Trainer Blue Devils Weiden)
 
 
