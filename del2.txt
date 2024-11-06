@@ -267,6 +267,7 @@ kp26	-26- Konstantin Redinger (Krefeld Pinguine)
 kp38	-38- Tim Schütz (Krefeld Pinguine)
 kp43	-43- Alexander Weiß (Krefeld Pinguine)
 kp100	Thomas Popiesch (Trainer Krefeld Pinguine)
+kp101	Herbert Hohenberger (Co-Trainer Krefeld Pinguine)
 
 
 - Lausitzer Füchse -
