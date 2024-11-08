@@ -193,6 +193,7 @@ fl26	-26- Dennis Lobach (Löwen Frankfurt)
 fl75	-75- Julian Napravnik (Löwen Frankfurt)
 fl77	-77- Daniel Pfaffengut (Löwen Frankfurt)
 fl64	-64- Markus Schweiger (Löwen Frankfurt)
+fl27	-27- Chris Wilkie (Löwen Frankfurt)
 fl100	Tom Rowe (Trainer Löwen Frankfurt)
 fl101	Jan Barta (Co-Trainer Löwen Frankfurt)
 
