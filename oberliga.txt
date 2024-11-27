@@ -334,7 +334,7 @@ hs88	-88- Victor Knaub (Hannover Scorpions)
 hs98	-98- Louis Trattner (Hannover Scorpions)
 hs33	-33- Robin Veber (Hannover Scorpions)
 hs22	-22- Dylan Wruck (Hannover Scorpions)
-hs100	Tobias Stolikowski (Trainer Hannover Scorpions)
+hs100	Tom Barrasso (Trainer Hannover Scorpions)
 
 
 - IceFighters Leipzig -
