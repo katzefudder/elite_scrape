@@ -371,6 +371,7 @@ le68	-68- Tom Pauker (IceFighters Leipzig)
 le39	-39- Dennis Reimer (IceFighters Leipzig)
 le91	-91- Jan-Luca Schumacher (IceFighters Leipzig)
 le75	-75- Luke Volkmann (IceFighters Leipzig)
+le29	-29- Roman Zap (IceFighters Leipzig)
 le100	Patric Wener (Trainer IceFighters Leipzig)
 le101	Aki-Petteri Pöyry (Co-Trainer IceFighters Leipzig)
 
