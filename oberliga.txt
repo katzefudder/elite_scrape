@@ -186,7 +186,7 @@ fu23	-23- Leon Sivic (EV Füssen)
 fu82	-82- Andrej Teplouchow (EV Füssen)
 fu72	-72- Georg Thal (EV Füssen)
 fu50	-50- Edgars Veilands (EV Füssen)
-fu100	Juhani Matikainen (Trainer EV Füssen)
+fu100	Georg Holzmann (Trainer EV Füssen)
 
 
 - Herner EV 2007 -
@@ -332,6 +332,7 @@ hs94	-94- Patrick Klöpper (Hannover Scorpions)
 hs19	-19- Jordan Knackstedt (Hannover Scorpions)
 hs77	-77- Michael Knaub (Hannover Scorpions)
 hs88	-88- Victor Knaub (Hannover Scorpions)
+hs17	-17- Arturs Kruminsch (Hannover Scorpions)
 hs98	-98- Louis Trattner (Hannover Scorpions)
 hs33	-33- Robin Veber (Hannover Scorpions)
 hs22	-22- Dylan Wruck (Hannover Scorpions)
