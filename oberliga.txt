@@ -480,7 +480,7 @@ pa24	-24- Moritz Serikow (EHF Passau Black Hawks)
 pa88	-88- David Seidl (EHF Passau Black Hawks)
 pa27	-27- Arturs Sevcenko (EHF Passau Black Hawks)
 pa71	-71- Niklas Zeilbeck (EHF Passau Black Hawks)
-pa100	Thomas Vogl (Trainer EHF Passau Black Hawks)
+pa100	Petr Bares (Trainer EHF Passau Black Hawks)
 
 
 - EC Peiting -
