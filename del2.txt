@@ -28,6 +28,7 @@ bn78	-78- Kevin Orendorz (EC Bad Nauheim)
 bn34	-34- Pascal Steck (EC Bad Nauheim)
 bn68	-68- Hannu Tripcke (EC Bad Nauheim)
 bn100	Mike Pellegrims (Trainer EC Bad Nauheim)
+bn101	Marc Vorderbrüggen (Co-Trainer EC Bad Nauheim)
 
 
 - Eispiraten Crimmitschau -
@@ -160,7 +161,7 @@ fr71	-71- Shawn O'Donnell (EHC Freiburg)
 fr91	-91- Tomas Schwamberger (EHC Freiburg)
 fr26	-26- Sebastian Streu (EHC Freiburg)
 fr100	Mikhail Nemirovsky (Trainer EHC Freiburg)
-fr101	Sami Lehtinen (Co-Trainer EHC Freiburg)
+fr101	Peter Salmik (Co-Trainer EHC Freiburg)
 
 
 - EC Kassel Huskies -
@@ -231,7 +232,8 @@ kb83	-83- Jacob Lagacé (ESV Kaufbeuren)
 kb29	-29- Colby McAuley (ESV Kaufbeuren)
 kb57	-57- Přemysl Svoboda (ESV Kaufbeuren)
 kb92	-92- Nolan Yaremko (ESV Kaufbeuren)
-kb100	Andreas Becherer (Trainer ESV Kaufbeuren)
+kb100	Leif Carlsson (Trainer ESV Kaufbeuren)
+kb101	Andreas Becherer (Co-Trainer ESV Kaufbeuren)
 
 
 - Krefeld Pinguine -
@@ -366,24 +368,25 @@ rh101	Jamie Bartman (Co-Trainer Starbulls Rosenheim)
 
 - Ravensburg Towerstars -
 
-rt3	-3- Dieter Geidl (Ravensburg Towerstars)
+rt0	-0- Erik Eder (Ravensburg Towerstars)
 rt1	-1- Nico Pertuch (Ravensburg Towerstars)
+rt3	-3- Dieter Geidl (Ravensburg Towerstars)
 rt43	-43- Ilya Sharipov (Ravensburg Towerstars)
 rt91	-91- Julian Eichinger (Ravensburg Towerstars)
 rt72	-72- Niklas Hübner (Ravensburg Towerstars)
 rt41	-41- Lukas Jung (Ravensburg Towerstars)
 rt16	-16- Florin Ketterer (Ravensburg Towerstars)
 rt56	-56- Leonhard Korus (Ravensburg Towerstars)
-rt25	-25- Philipp Mass (Ravensburg Towerstars)
 rt9	-9- Fabio Sarto (Ravensburg Towerstars)
+rt25	-25- Philipp Mass (Ravensburg Towerstars)
 rt64	-64- Jonas Müller (Ravensburg Towerstars)
 rt76	-76- Denis Pfaffengut (Ravensburg Towerstars)
 rt93	-93- Simon Sezemsky (Ravensburg Towerstars)
 rt77	-77- Robbie Czarnik (Ravensburg Towerstars)
-rt87	-87- Fabian Dietz (Ravensburg Towerstars)
 rt14	-14- Nick Latta (Ravensburg Towerstars)
-rt27	-27- Tim Gorgenländer (Ravensburg Towerstars)
+rt87	-87- Fabian Dietz (Ravensburg Towerstars)
 rt15	-15- Johannes Krauß (Ravensburg Towerstars)
+rt27	-27- Tim Gorgenländer (Ravensburg Towerstars)
 rt70	-70- Maximilian Hadraschek (Ravensburg Towerstars)
 rt85	-85- Luca Hauf (Ravensburg Towerstars)
 rt19	-19- Erik Jinesjö Karlsson (Ravensburg Towerstars)
