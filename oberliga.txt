@@ -189,6 +189,7 @@ fu27	-27- Leon Sivic (EV Füssen)
 fu82	-82- Andrej Teplouchow (EV Füssen)
 fu72	-72- Georg Thal (EV Füssen)
 fu50	-50- Edgars Veilands (EV Füssen)
+fu32	-32- Vincent Wiedemann (EV Füssen)
 fu100	Georg Holzmann (Trainer EV Füssen)
 
 
