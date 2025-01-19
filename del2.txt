@@ -8,7 +8,7 @@ bn4	-4- Bode Wilde (EC Bad Nauheim)
 bn23	-23- Marius Erk (EC Bad Nauheim)
 bn6	-6- Tim Coffman (EC Bad Nauheim)
 bn58	-58- Christopher Fischer (EC Bad Nauheim)
-bn6	-6- Hagen Kaisler (EC Bad Nauheim)
+bn33	-33- Hagen Kaisler (EC Bad Nauheim)
 bn16	-16- Tjark Kölsch (EC Bad Nauheim)
 bn15	-15- Garret Pruden (EC Bad Nauheim)
 bn20	-20- Patrick Seifert (EC Bad Nauheim)
@@ -368,7 +368,7 @@ rh101	Jamie Bartman (Co-Trainer Starbulls Rosenheim)
 
 - Ravensburg Towerstars -
 
-rt0	-0- Erik Eder (Ravensburg Towerstars)
+rt31	-31- Erik Eder (Ravensburg Towerstars)
 rt1	-1- Nico Pertuch (Ravensburg Towerstars)
 rt3	-3- Dieter Geidl (Ravensburg Towerstars)
 rt43	-43- Ilya Sharipov (Ravensburg Towerstars)
@@ -441,7 +441,7 @@ sw101	Lanny Gare (Co-Trainer Selber Wölfe)
 - Blue Devils Weiden -
 
 we60	-60- Felix Noack (Blue Devils Weiden)
-we1	-1- Jakub Tichý (Blue Devils Weiden)
+we17	-17- Jakub Tichý (Blue Devils Weiden)
 we94	-94- Marco Wölfl (Blue Devils Weiden)
 we3	-3- Tommy Muck (Blue Devils Weiden)
 we27	-27- Dominik Bohac (Blue Devils Weiden)
