@@ -360,7 +360,7 @@ rb27	-27- Veit Oswald (EHC München)
 rb84	-84- Trevor Parkes (EHC München)
 rb91	-91- Filip Varejcka (EHC München)
 rb53	-53- Paul Vinzens (EHC München)
-rb100	Maximilian Kaltenhauser (Trainer EHC München)
+rb100	Don Jackson (Trainer EHC München)
 rb101	Pierre Allard (Co-Trainer EHC München)
 
 
