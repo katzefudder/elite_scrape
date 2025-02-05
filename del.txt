@@ -389,7 +389,6 @@ st88	-88- JC Lipon (Straubing Tigers)
 st86	-86- Skyler McKenzie (Straubing Tigers)
 st37	-37- Josh Melnick (Straubing Tigers)
 st74	-74- Travis St. Denis (Straubing Tigers)
-st100	Tom Pokel (Trainer Straubing Tigers)
 st101	Robert Leask (Co-Trainer Straubing Tigers)
 
 
