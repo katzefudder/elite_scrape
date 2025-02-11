@@ -257,7 +257,7 @@ ir24	-24- Lennard Nieleck (Iserlohn Roosters)
 ir27	-27- Christian Thomas (Iserlohn Roosters)
 ir71	-71- Branden Troock (Iserlohn Roosters)
 ir52	-52- Sven Ziegler (Iserlohn Roosters)
-ir100	Doug Shedden (Trainer Iserlohn Roosters)
+ir100	Franz-David Fritzmeier (Trainer Iserlohn Roosters)
 
 
 - Kölner Haie -
@@ -319,6 +319,7 @@ nb77	-77- Will Graber (Nürnberg Ice Tigers)
 nb49	-49- Thomas Heigl (Nürnberg Ice Tigers)
 nb73	-73- Roman Kechter (Nürnberg Ice Tigers)
 nb91	-91- Jeremy McKenna (Nürnberg Ice Tigers)
+nb22	-22- Mark Rassell (Nürnberg Ice Tigers)
 nb23	-23- Lukas Ribarik (Nürnberg Ice Tigers)
 nb48	-48- Jake Ustorf (Nürnberg Ice Tigers)
 nb100	Mitch O'Keefe (Trainer Nürnberg Ice Tigers)
