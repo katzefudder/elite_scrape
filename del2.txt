@@ -173,7 +173,7 @@ fr100	Peter Salmik (Trainer EHC Freiburg)
 
 - EC Kassel Huskies -
 
-ka0	-0- Christopher Gibson (EC Kassel Huskies)
+ka37	-37- Christopher Gibson (EC Kassel Huskies)
 ka33	-33- Philipp Maurer (EC Kassel Huskies)
 ka31	-31- Brandon Maxwell (EC Kassel Huskies)
 ka30	-30- Alexander Pankraz (EC Kassel Huskies)
