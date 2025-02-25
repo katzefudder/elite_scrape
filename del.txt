@@ -460,5 +460,6 @@ wb63	-63- Luis Schinko (Grizzlys Wolfsburg)
 wb26	-26- Phil Varone (Grizzlys Wolfsburg)
 wb97	-97- Matt White (Grizzlys Wolfsburg)
 wb100	Michael Stewart (Trainer Grizzlys Wolfsburg)
+wb101	Todd Miller (Co-Trainer Grizzlys Wolfsburg)
 
 
