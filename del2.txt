@@ -167,6 +167,7 @@ fr71	-71- Shawn O'Donnell (EHC Freiburg)
 fr91	-91- Tomas Schwamberger (EHC Freiburg)
 fr26	-26- Sebastian Streu (EHC Freiburg)
 fr100	Peter Salmik (Trainer EHC Freiburg)
+fr101	Martin Sekera (Co-Trainer EHC Freiburg)
 
 
 - EC Kassel Huskies -
