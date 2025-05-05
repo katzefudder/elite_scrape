@@ -51,6 +51,7 @@ fu100	Daniel Jun (Trainer EV Füssen)
 - Herforder EV -
 
 hf55	-55- Jakub Urbisch (Herforder EV)
+hf59	-59- Sebastian Moberg (Herforder EV)
 hf72	-72- Yannis Walch (Herforder EV)
 hf44	-44- Nick Walters (Herforder EV)
 hf8	-8- Jannis Kälble (Herforder EV)
@@ -91,7 +92,9 @@ hn22	-22- Thore Weyrauch (Heilbronner Falken)
 
 - Hannover Scorpions -
 
-100	Kevin Gaudet (Trainer Hannover Scorpions)
+hs96	-96- Andy Reiss (Hannover Scorpions)
+hs77	-77- Michael Knaub (Hannover Scorpions)
+hs100	Kevin Gaudet (Trainer Hannover Scorpions)
 
 
 - EV Lindau -
