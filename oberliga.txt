@@ -166,6 +166,7 @@ ri100	Hunor Marton (Trainer SC Riessersee)
 st0	-0- David Kirchhoff (Stuttgart Rebels)
 st1	-1- Dane Montgomery (Stuttgart Rebels)
 st2	-2- Matthew Pistilli (Stuttgart Rebels)
+st17	-17- Daniel Pronin (Stuttgart Rebels)
 st100	Jan Melichar (Trainer Stuttgart Rebels)
 
 
