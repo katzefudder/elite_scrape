@@ -33,6 +33,7 @@ dg100	Casey Fratkin (Trainer Deggendorfer SC)
 - ESC Moskitos Essen -
 
 es77	-77- Edmunds Augstkalns (ESC Moskitos Essen)
+es13	-13- Fabio Frick (ESC Moskitos Essen)
 es91	-91- Elvijs Biezais (ESC Moskitos Essen)
 es66	-66- Ralf Rinke (ESC Moskitos Essen)
 es19	-19- Enrico Saccomani (ESC Moskitos Essen)
@@ -70,11 +71,12 @@ hi4	-4- Ryker Killins (Hannover Indians)
 hi40	-40- Phillip Messing (Hannover Indians)
 hi6	-6- Tobias Möller (Hannover Indians)
 hi9	-9- Julian Wäser (Hannover Indians)
+hi8	-8- Ryan Gropp (Hannover Indians)
 hi14	-14- Lucca Krüger (Hannover Indians)
-hi9	-9- Émil Lessard-Adyn (Hannover Indians)
-hi10	-10- Ryon Moser (Hannover Indians)
-hi11	-11- Jari Neugebauer (Hannover Indians)
-hi12	-12- Jussi Petersen (Hannover Indians)
+hi10	-10- Émil Lessard-Adyn (Hannover Indians)
+hi11	-11- Ryon Moser (Hannover Indians)
+hi12	-12- Jari Neugebauer (Hannover Indians)
+hi13	-13- Jussi Petersen (Hannover Indians)
 
 
 - Heilbronner Falken -
@@ -120,7 +122,8 @@ mm0	-0- Bastian Flott-Kucis (ECDC Memmingen)
 mm1	-1- Michael Paterson-Jones (ECDC Memmingen)
 mm2	-2- Connor Blake (ECDC Memmingen)
 mm3	-3- Linus Svedlund (ECDC Memmingen)
-mm4	-4- Edgars Homjakovs (ECDC Memmingen)
+mm8	-8- Félix Brassard (ECDC Memmingen)
+mm5	-5- Edgars Homjakovs (ECDC Memmingen)
 mm19	-19- Milan Pfalzer (ECDC Memmingen)
 
 
@@ -156,6 +159,7 @@ ri3	-3- Luis Jäckle (SC Riessersee)
 ri5	-5- Thomas Schmid (SC Riessersee)
 ri5	-5- Alex Benkert (SC Riessersee)
 ri6	-6- Lubor Dibelka (SC Riessersee)
+ri21	-21- Alexander Höller (SC Riessersee)
 ri10	-10- Tobias Kircher (SC Riessersee)
 ri22	-22- Robin Soudek (SC Riessersee)
 ri100	Hunor Marton (Trainer SC Riessersee)
@@ -163,9 +167,10 @@ ri100	Hunor Marton (Trainer SC Riessersee)
 
 - Stuttgart Rebels -
 
-st0	-0- David Kirchhoff (Stuttgart Rebels)
-st1	-1- Dane Montgomery (Stuttgart Rebels)
-st2	-2- Matthew Pistilli (Stuttgart Rebels)
+st0	-0- Nick Jordan Vieregge (Stuttgart Rebels)
+st1	-1- David Kirchhoff (Stuttgart Rebels)
+st2	-2- Dane Montgomery (Stuttgart Rebels)
+st3	-3- Matthew Pistilli (Stuttgart Rebels)
 st17	-17- Daniel Pronin (Stuttgart Rebels)
 st100	Jan Melichar (Trainer Stuttgart Rebels)
 
