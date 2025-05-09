@@ -72,11 +72,12 @@ hi40	-40- Phillip Messing (Hannover Indians)
 hi6	-6- Tobias Möller (Hannover Indians)
 hi9	-9- Julian Wäser (Hannover Indians)
 hi8	-8- Ryan Gropp (Hannover Indians)
+hi26	-26- Billy Jerry (Hannover Indians)
 hi14	-14- Lucca Krüger (Hannover Indians)
-hi10	-10- Émil Lessard-Adyn (Hannover Indians)
-hi11	-11- Ryon Moser (Hannover Indians)
-hi12	-12- Jari Neugebauer (Hannover Indians)
-hi13	-13- Jussi Petersen (Hannover Indians)
+hi11	-11- Émil Lessard-Adyn (Hannover Indians)
+hi12	-12- Ryon Moser (Hannover Indians)
+hi13	-13- Jari Neugebauer (Hannover Indians)
+hi14	-14- Jussi Petersen (Hannover Indians)
 
 
 - Heilbronner Falken -
@@ -212,5 +213,6 @@ tt5	-5- Giovanni Vogelaar (Tilburg Trappers)
 tt77	-77- Reno de Hondt (Tilburg Trappers)
 tt86	-86- Phil Marinaccio (Tilburg Trappers)
 tt11	-11- Kobe Roth (Tilburg Trappers)
+tt100	Danny Albrecht (Trainer Tilburg Trappers)
 
 
