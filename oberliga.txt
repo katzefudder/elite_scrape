@@ -124,9 +124,10 @@ li100	Michael Baindl (Trainer EV Lindau)
 mm0	-0- Bastian Flott-Kucis (ECDC Memmingen)
 mm1	-1- Michael Paterson-Jones (ECDC Memmingen)
 mm2	-2- Connor Blake (ECDC Memmingen)
-mm3	-3- Linus Svedlund (ECDC Memmingen)
+mm3	-3- Maximilian Menner (ECDC Memmingen)
+mm4	-4- Linus Svedlund (ECDC Memmingen)
 mm8	-8- Félix Brassard (ECDC Memmingen)
-mm5	-5- Edgars Homjakovs (ECDC Memmingen)
+mm6	-6- Edgars Homjakovs (ECDC Memmingen)
 mm19	-19- Milan Pfalzer (ECDC Memmingen)
 
 
@@ -147,11 +148,12 @@ pe2	-2- Fabian Hickl (EC Peiting)
 pe3	-3- Tim Mühlegger (EC Peiting)
 pe4	-4- Christian Obu (EC Peiting)
 pe5	-5- Fabian Weyrich (EC Peiting)
-pe6	-6- Markus Czogallik (EC Peiting)
-pe7	-7- Niklas Greil (EC Peiting)
-pe8	-8- Dennis Krutsch (EC Peiting)
-pe9	-9- Carson MacKinnon (EC Peiting)
-pe10	-10- Philipp Markgraf (EC Peiting)
+pe6	-6- Carson Brière (EC Peiting)
+pe7	-7- Markus Czogallik (EC Peiting)
+pe8	-8- Niklas Greil (EC Peiting)
+pe9	-9- Dennis Krutsch (EC Peiting)
+pe10	-10- Carson MacKinnon (EC Peiting)
+pe11	-11- Philipp Markgraf (EC Peiting)
 
 
 - SC Riessersee -
@@ -177,6 +179,7 @@ st2	-2- Dane Montgomery (Stuttgart Rebels)
 st3	-3- Matthew Pistilli (Stuttgart Rebels)
 st4	-4- Reagan Poncelet (Stuttgart Rebels)
 st17	-17- Daniel Pronin (Stuttgart Rebels)
+st18	-18- Fabian Renner (Stuttgart Rebels)
 st100	Jan Melichar (Trainer Stuttgart Rebels)
 
 
