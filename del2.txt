@@ -74,18 +74,18 @@ dd62	-62- Janick Schwendener (Dresdner Eislöwen)
 dd2	-2- Jacob Friend (Dresdner Eislöwen)
 dd3	-3- Mitch Wahl (Dresdner Eislöwen)
 dd55	-55- Paul Stocker (Dresdner Eislöwen)
+dd53	-53- Yannick Drews (Dresdner Eislöwen)
 dd23	-23- Oliver Granz (Dresdner Eislöwen)
 dd25	-25- Tariq Hammond (Dresdner Eislöwen)
 dd24	-24- Simon Karlsson (Dresdner Eislöwen)
 dd56	-56- Felix Krüger (Dresdner Eislöwen)
-dd75	-75- Bruno Riedl (Dresdner Eislöwen)
 dd9	-9- Drew LeBlanc (Dresdner Eislöwen)
-dd71	-71- Samuel Schindler (Dresdner Eislöwen)
+dd75	-75- Bruno Riedl (Dresdner Eislöwen)
 dd12	-12- Andrew Yogan (Dresdner Eislöwen)
+dd71	-71- Samuel Schindler (Dresdner Eislöwen)
 dd33	-33- David Suvanto (Dresdner Eislöwen)
 dd77	-77- Arne Uplegger (Dresdner Eislöwen)
 dd92	-92- Tomas Andres (Dresdner Eislöwen)
-dd53	-53- Yannick Drews (Dresdner Eislöwen)
 dd27	-27- Dane Fox (Dresdner Eislöwen)
 dd47	-47- Sebastian Gorcik (Dresdner Eislöwen)
 dd16	-16- Vincent Hessler (Dresdner Eislöwen)
@@ -413,6 +413,7 @@ rt101	Eeli Parviainen (Co-Trainer Ravensburg Towerstars)
 
 - Selber Wölfe -
 
+100	Felix Schütz (Trainer Selber Wölfe)
 
 
 - Blue Devils Weiden -
