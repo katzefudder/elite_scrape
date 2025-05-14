@@ -92,7 +92,7 @@ hn21	-21- Sebastian Hon (Heilbronner Falken)
 hn14	-14- Niklas Jentsch (Heilbronner Falken)
 hn17	-17- Robin Just (Heilbronner Falken)
 hn57	-57- Luis Ludin (Heilbronner Falken)
-hn8	-8- Gunars Skvorcovs (Heilbronner Falken)
+hn13	-13- Gunars Skvorcovs (Heilbronner Falken)
 hn22	-22- Thore Weyrauch (Heilbronner Falken)
 
 
