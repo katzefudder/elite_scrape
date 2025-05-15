@@ -1,12 +1,13 @@
 - Bietigheim Steelers -
 
 bs0	-0- Olafr Schmidt (Bietigheim Steelers)
-bs1	-1- Sören Sturm (Bietigheim Steelers)
-bs2	-2- Bastian Eckl (Bietigheim Steelers)
-bs3	-3- Tyler McNeely (Bietigheim Steelers)
-bs4	-4- Alexander Preibisch (Bietigheim Steelers)
-bs5	-5- Marek Racuk (Bietigheim Steelers)
-bs6	-6- Joshua Rust (Bietigheim Steelers)
+bs1	-1- Pawel Dronia (Bietigheim Steelers)
+bs2	-2- Sören Sturm (Bietigheim Steelers)
+bs3	-3- Bastian Eckl (Bietigheim Steelers)
+bs4	-4- Tyler McNeely (Bietigheim Steelers)
+bs5	-5- Alexander Preibisch (Bietigheim Steelers)
+bs6	-6- Marek Racuk (Bietigheim Steelers)
+bs7	-7- Joshua Rust (Bietigheim Steelers)
 bs100	Alexander Dück (Trainer Bietigheim Steelers)
 bs101	Boris Blank (Co-Trainer Bietigheim Steelers)
 
