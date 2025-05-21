@@ -406,7 +406,8 @@ rt101	Eeli Parviainen (Co-Trainer Ravensburg Towerstars)
 
 - Selber Wölfe -
 
-100	Felix Schütz (Trainer Selber Wölfe)
+sw27	-27- Michel Weidekamp (Selber Wölfe)
+sw100	Felix Schütz (Trainer Selber Wölfe)
 
 
 - Blue Devils Weiden -
