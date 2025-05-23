@@ -407,6 +407,7 @@ rt101	Eeli Parviainen (Co-Trainer Ravensburg Towerstars)
 - Selber Wölfe -
 
 sw27	-27- Michel Weidekamp (Selber Wölfe)
+sw1	-1- Philip Rubin (Selber Wölfe)
 sw100	Felix Schütz (Trainer Selber Wölfe)
 
 
