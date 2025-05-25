@@ -70,7 +70,7 @@ cr101	Sebastian Becker (Co-Trainer Eispiraten Crimmitschau)
 - Dresdner Eislöwen -
 
 dd51	-51- Marvin Berbner (Dresdner Eislöwen)
-dd1	-1- Julius Hudacek (Dresdner Eislöwen)
+dd35	-35- Julius Hudacek (Dresdner Eislöwen)
 dd62	-62- Janick Schwendener (Dresdner Eislöwen)
 dd29	-29- Clemens Stocker (Dresdner Eislöwen)
 dd55	-55- Paul Stocker (Dresdner Eislöwen)
