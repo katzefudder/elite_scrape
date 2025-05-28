@@ -58,9 +58,10 @@ ap101	Thomas Dolak (Co-Trainer Augsburger Panther)
 
 de35	-35- Leon Hümer (Düsseldorfer EG)
 de1	-1- Max Balinson (Düsseldorfer EG)
-de2	-2- Kevin Maginot (Düsseldorfer EG)
-de3	-3- Ryan Olsen (Düsseldorfer EG)
-de4	-4- Kevin Orendorz (Düsseldorfer EG)
+de63	-63- Maximilian Faber (Düsseldorfer EG)
+de3	-3- Kevin Maginot (Düsseldorfer EG)
+de4	-4- Ryan Olsen (Düsseldorfer EG)
+de5	-5- Kevin Orendorz (Düsseldorfer EG)
 de100	Rich Chernomaz (Trainer Düsseldorfer EG)
 
 
