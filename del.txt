@@ -60,8 +60,9 @@ de35	-35- Leon Hümer (Düsseldorfer EG)
 de1	-1- Max Balinson (Düsseldorfer EG)
 de63	-63- Maximilian Faber (Düsseldorfer EG)
 de3	-3- Kevin Maginot (Düsseldorfer EG)
-de4	-4- Ryan Olsen (Düsseldorfer EG)
-de5	-5- Kevin Orendorz (Düsseldorfer EG)
+de4	-4- Lucas Lessio (Düsseldorfer EG)
+de5	-5- Ryan Olsen (Düsseldorfer EG)
+de6	-6- Kevin Orendorz (Düsseldorfer EG)
 de100	Rich Chernomaz (Trainer Düsseldorfer EG)
 
 
@@ -327,7 +328,6 @@ rb84	-84- Trevor Parkes (EHC München)
 rb91	-91- Filip Varejcka (EHC München)
 rb53	-53- Paul Vinzens (EHC München)
 rb100	Don Jackson (Trainer EHC München)
-rb101	Pierre Allard (Co-Trainer EHC München)
 
 
 - Straubing Tigers -
