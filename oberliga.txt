@@ -91,16 +91,17 @@ hi3	-3- Fabian Belendir (Hannover Indians)
 hi4	-4- Ryker Killins (Hannover Indians)
 hi40	-40- Phillip Messing (Hannover Indians)
 hi6	-6- Tobias Möller (Hannover Indians)
-hi9	-9- Julian Wäser (Hannover Indians)
+hi23	-23- Luca Trinkberger (Hannover Indians)
 hi8	-8- Ryan Gropp (Hannover Indians)
+hi9	-9- Julian Wäser (Hannover Indians)
 hi13	-13- Brent Aubin (Hannover Indians)
 hi26	-26- Billy Jerry (Hannover Indians)
 hi17	-17- Fedor Kolupaylo (Hannover Indians)
 hi14	-14- Lucca Krüger (Hannover Indians)
-hi13	-13- Émil Lessard-Adyn (Hannover Indians)
-hi14	-14- Ryon Moser (Hannover Indians)
-hi15	-15- Jari Neugebauer (Hannover Indians)
-hi16	-16- Jussi Petersen (Hannover Indians)
+hi14	-14- Émil Lessard-Adyn (Hannover Indians)
+hi15	-15- Ryon Moser (Hannover Indians)
+hi16	-16- Jari Neugebauer (Hannover Indians)
+hi17	-17- Jussi Petersen (Hannover Indians)
 
 
 - Heilbronner Falken -
@@ -263,6 +264,7 @@ to42	-42- Quirin Schlager (Tölzer Löwen)
 to22	-22- Maximilian Strauß (Tölzer Löwen)
 to21	-21- Xaver Schuler (Tölzer Löwen)
 to27	-27- Sandro Schönberger (Tölzer Löwen)
+to101	Josef Frank (Co-Trainer Tölzer Löwen)
 
 
 - Tilburg Trappers -
