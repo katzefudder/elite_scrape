@@ -46,6 +46,7 @@ dg100	Casey Fratkin (Trainer Deggendorfer SC)
 
 es77	-77- Edmunds Augstkalns (ESC Moskitos Essen)
 es13	-13- Fabio Frick (ESC Moskitos Essen)
+es48	-48- Lukas Mannes (ESC Moskitos Essen)
 es91	-91- Elvijs Biezais (ESC Moskitos Essen)
 es66	-66- Ralf Rinke (ESC Moskitos Essen)
 es19	-19- Enrico Saccomani (ESC Moskitos Essen)
@@ -122,7 +123,9 @@ hn100	Niko Eronen (Trainer Heilbronner Falken)
 - Hannover Scorpions -
 
 hs96	-96- Andy Reiss (Hannover Scorpions)
+hs19	-19- Jordan Knackstedt (Hannover Scorpions)
 hs77	-77- Michael Knaub (Hannover Scorpions)
+hs3	-3- Allan McPherson (Hannover Scorpions)
 hs100	Kevin Gaudet (Trainer Hannover Scorpions)
 
 
@@ -273,14 +276,15 @@ tt67	-67- Cedrick Andree (Tilburg Trappers)
 tt1	-1- Danylo Douma (Tilburg Trappers)
 tt43	-43- Björn Borgman (Tilburg Trappers)
 tt89	-89- Mike Dalhuisen (Tilburg Trappers)
-tt7	-7- Alexei Loginov (Tilburg Trappers)
+tt16	-16- Kilian van Gorp (Tilburg Trappers)
 tt5	-5- Giovanni Vogelaar (Tilburg Trappers)
+tt7	-7- Alexei Loginov (Tilburg Trappers)
 tt20	-20- Noah Muller (Tilburg Trappers)
 tt13	-13- Jordy Verkiel (Tilburg Trappers)
-tt8	-8- Dani Bindels (Tilburg Trappers)
+tt9	-9- Dani Bindels (Tilburg Trappers)
 tt77	-77- Reno de Hondt (Tilburg Trappers)
-tt86	-86- Phil Marinaccio (Tilburg Trappers)
 tt11	-11- Kobe Roth (Tilburg Trappers)
+tt86	-86- Phil Marinaccio (Tilburg Trappers)
 tt100	Danny Albrecht (Trainer Tilburg Trappers)
 
 

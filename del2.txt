@@ -405,7 +405,8 @@ sw27	-27- Michel Weidekamp (Selber Wölfe)
 sw1	-1- Thomas Gauch (Selber Wölfe)
 sw2	-2- Dominik Müller (Selber Wölfe)
 sw3	-3- Philip Rubin (Selber Wölfe)
-sw4	-4- Lois Spitzner (Selber Wölfe)
+sw4	-4- Chris Schutz (Selber Wölfe)
+sw5	-5- Lois Spitzner (Selber Wölfe)
 sw100	Felix Schütz (Trainer Selber Wölfe)
 
 
