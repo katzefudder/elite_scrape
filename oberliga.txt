@@ -180,6 +180,7 @@ pa6	-6- Tom Horschel (EHF Passau Black Hawks)
 pa77	-77- Thomas Nuss (EHF Passau Black Hawks)
 pa97	-97- René Röthke (EHF Passau Black Hawks)
 pa74	-74- Andrew Schembri (EHF Passau Black Hawks)
+pa7	-7- Christoph Schmidt (EHF Passau Black Hawks)
 
 
 - EC Peiting -
