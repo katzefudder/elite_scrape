@@ -61,9 +61,10 @@ de1	-1- Max Balinson (Düsseldorfer EG)
 de63	-63- Maximilian Faber (Düsseldorfer EG)
 de3	-3- Moritz Kukuk (Düsseldorfer EG)
 de4	-4- Kevin Maginot (Düsseldorfer EG)
-de5	-5- Lucas Lessio (Düsseldorfer EG)
-de6	-6- Ryan Olsen (Düsseldorfer EG)
-de7	-7- Kevin Orendorz (Düsseldorfer EG)
+de18	-18- Michael Clarke (Düsseldorfer EG)
+de6	-6- Lucas Lessio (Düsseldorfer EG)
+de7	-7- Ryan Olsen (Düsseldorfer EG)
+de8	-8- Kevin Orendorz (Düsseldorfer EG)
 de100	Rich Chernomaz (Trainer Düsseldorfer EG)
 
 
