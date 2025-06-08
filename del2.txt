@@ -408,11 +408,13 @@ rt101	Eeli Parviainen (Co-Trainer Ravensburg Towerstars)
 
 sw27	-27- Michel Weidekamp (Selber Wölfe)
 sw1	-1- Thomas Gauch (Selber Wölfe)
-sw2	-2- Dominik Müller (Selber Wölfe)
-sw3	-3- Niko Lahtinen (Selber Wölfe)
-sw4	-4- Philip Rubin (Selber Wölfe)
-sw5	-5- Chris Schutz (Selber Wölfe)
-sw6	-6- Lois Spitzner (Selber Wölfe)
+sw2	-2- Kende Kassay-Kézi (Selber Wölfe)
+sw3	-3- Dominik Müller (Selber Wölfe)
+sw4	-4- Daniel Ulrich (Selber Wölfe)
+sw5	-5- Niko Lahtinen (Selber Wölfe)
+sw6	-6- Philip Rubin (Selber Wölfe)
+sw7	-7- Chris Schutz (Selber Wölfe)
+sw8	-8- Lois Spitzner (Selber Wölfe)
 sw100	Felix Schütz (Trainer Selber Wölfe)
 
 
