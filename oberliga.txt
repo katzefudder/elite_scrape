@@ -116,6 +116,7 @@ hn31	-31- Patrick Berger (Heilbronner Falken)
 hn1	-1- Spencer Berry (Heilbronner Falken)
 hn84	-84- Malte Krenzlin (Heilbronner Falken)
 hn24	-24- Corey Mapes (Heilbronner Falken)
+hn4	-4- Jeroen Plauschin (Heilbronner Falken)
 hn37	-37- Frédérik Cabana (Heilbronner Falken)
 hn21	-21- Sebastian Hon (Heilbronner Falken)
 hn14	-14- Niklas Jentsch (Heilbronner Falken)
@@ -129,10 +130,11 @@ hn100	Niko Eronen (Trainer Heilbronner Falken)
 - Hannover Scorpions -
 
 hs96	-96- Andy Reiss (Hannover Scorpions)
+hs11	-11- Christoph Kabitzky (Hannover Scorpions)
 hs21	-21- Justin Kirsch (Hannover Scorpions)
 hs19	-19- Jordan Knackstedt (Hannover Scorpions)
 hs77	-77- Michael Knaub (Hannover Scorpions)
-hs4	-4- Allan McPherson (Hannover Scorpions)
+hs5	-5- Allan McPherson (Hannover Scorpions)
 hs100	Kevin Gaudet (Trainer Hannover Scorpions)
 
 
