@@ -50,6 +50,7 @@ ap19	-19- Luca Tosto (Augsburger Panther)
 ap20	-20- T.J. Trevelyan (Augsburger Panther)
 ap33	-33- Tim Wohlgemuth (Augsburger Panther)
 ap100	Bill Peters (Trainer Augsburger Panther)
+ap101	Thomas Dolak (Co-Trainer Augsburger Panther)
 
 
 - Düsseldorfer EG -
@@ -57,14 +58,15 @@ ap100	Bill Peters (Trainer Augsburger Panther)
 de35	-35- Leon Hümer (Düsseldorfer EG)
 de1	-1- Max Balinson (Düsseldorfer EG)
 de63	-63- Maximilian Faber (Düsseldorfer EG)
-de3	-3- Moritz Kukuk (Düsseldorfer EG)
-de4	-4- Kevin Maginot (Düsseldorfer EG)
+de3	-3- Nicolas Geitner (Düsseldorfer EG)
+de4	-4- Moritz Kukuk (Düsseldorfer EG)
+de5	-5- Kevin Maginot (Düsseldorfer EG)
 de37	-37- Lenny Boos (Düsseldorfer EG)
 de18	-18- Michael Clarke (Düsseldorfer EG)
-de7	-7- Lucas Lessio (Düsseldorfer EG)
+de8	-8- Lucas Lessio (Düsseldorfer EG)
 de17	-17- Leon Niederberger (Düsseldorfer EG)
-de9	-9- Ryan Olsen (Düsseldorfer EG)
-de10	-10- Kevin Orendorz (Düsseldorfer EG)
+de10	-10- Ryan Olsen (Düsseldorfer EG)
+de11	-11- Kevin Orendorz (Düsseldorfer EG)
 de100	Rich Chernomaz (Trainer Düsseldorfer EG)
 
 

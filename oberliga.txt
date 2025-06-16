@@ -85,6 +85,7 @@ hf8	-8- Jannis Kälble (Herforder EV)
 hf14	-14- Leon Köhler (Herforder EV)
 hf74	-74- Ryley Lindgren (Herforder EV)
 hf13	-13- Nils Wegner (Herforder EV)
+hf12	-12- Philip Woltmann (Herforder EV)
 
 
 - Hannover Indians -
