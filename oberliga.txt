@@ -31,11 +31,12 @@ dg3	-3- Viktor Skorohodov (Deggendorfer SC)
 dg3	-3- Brett Humberstone (Deggendorfer SC)
 dg88	-88- Marcel Pfänder (Deggendorfer SC)
 dg25	-25- Ondrej Pozivil (Deggendorfer SC)
+dg7	-7- Philipp Wachter (Deggendorfer SC)
 dg44	-44- Marco Baßler (Deggendorfer SC)
-dg8	-8- Viktor Buchner (Deggendorfer SC)
+dg9	-9- Viktor Buchner (Deggendorfer SC)
 dg17	-17- Julian Elsberger (Deggendorfer SC)
-dg77	-77- Jaroslav Hafenrichter (Deggendorfer SC)
 dg11	-11- Curtis Leinweber (Deggendorfer SC)
+dg77	-77- Jaroslav Hafenrichter (Deggendorfer SC)
 dg91	-91- Dante Hahn (Deggendorfer SC)
 dg15	-15- Dylan Jackson (Deggendorfer SC)
 dg14	-14- Ty Jackson (Deggendorfer SC)
@@ -142,13 +143,14 @@ hs21	-21- Justin Kirsch (Hannover Scorpions)
 hs19	-19- Jordan Knackstedt (Hannover Scorpions)
 hs77	-77- Michael Knaub (Hannover Scorpions)
 hs7	-7- Allan McPherson (Hannover Scorpions)
+hs8	-8- Nick Miglio (Hannover Scorpions)
 hs100	Kevin Gaudet (Trainer Hannover Scorpions)
 
 
 - EV Lindau -
 
 li96	-96- Daniel Filimonow (EV Lindau)
-li1	-1- Julian Hübner (EV Lindau)
+li55	-55- Julian Hübner (EV Lindau)
 li74	-74- Keanu Salmik (EV Lindau)
 li28	-28- Fabian Baßler (EV Lindau)
 li4	-4- Lukas Bender (EV Lindau)
@@ -167,6 +169,7 @@ li16	-16- Corvin Wucher (EV Lindau)
 li20	-20- Damian Schneider (EV Lindau)
 li71	-71- Marvin Wucher (EV Lindau)
 li100	Michael Baindl (Trainer EV Lindau)
+li101	Marko Sakic (Co-Trainer EV Lindau)
 
 
 - ECDC Memmingen -
