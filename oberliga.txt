@@ -135,15 +135,17 @@ hn100	Niko Eronen (Trainer Heilbronner Falken)
 
 - Hannover Scorpions -
 
+hs0	-0- Marco Wölfl (Hannover Scorpions)
 hs78	-78- Alexander Heinrich (Hannover Scorpions)
+hs2	-2- Jan Pavlu (Hannover Scorpions)
 hs96	-96- Andy Reiss (Hannover Scorpions)
-hs2	-2- Thomas Supis (Hannover Scorpions)
+hs4	-4- Thomas Supis (Hannover Scorpions)
 hs11	-11- Christoph Kabitzky (Hannover Scorpions)
 hs21	-21- Justin Kirsch (Hannover Scorpions)
 hs19	-19- Jordan Knackstedt (Hannover Scorpions)
 hs77	-77- Michael Knaub (Hannover Scorpions)
-hs7	-7- Allan McPherson (Hannover Scorpions)
-hs8	-8- Nick Miglio (Hannover Scorpions)
+hs9	-9- Allan McPherson (Hannover Scorpions)
+hs10	-10- Nick Miglio (Hannover Scorpions)
 hs100	Kevin Gaudet (Trainer Hannover Scorpions)
 
 
