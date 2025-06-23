@@ -87,8 +87,9 @@ hf10	-10- Jegors Kalnins (Herforder EV)
 hf8	-8- Jannis Kälble (Herforder EV)
 hf14	-14- Leon Köhler (Herforder EV)
 hf74	-74- Ryley Lindgren (Herforder EV)
+hf11	-11- Jackson Pierson (Herforder EV)
 hf13	-13- Nils Wegner (Herforder EV)
-hf12	-12- Philip Woltmann (Herforder EV)
+hf13	-13- Philip Woltmann (Herforder EV)
 
 
 - Hannover Indians -
@@ -138,16 +139,17 @@ hn100	Niko Eronen (Trainer Heilbronner Falken)
 - Hannover Scorpions -
 
 hs0	-0- Marco Wölfl (Hannover Scorpions)
+hs53	-53- Yannick Drews (Hannover Scorpions)
 hs78	-78- Alexander Heinrich (Hannover Scorpions)
-hs2	-2- Jan Pavlu (Hannover Scorpions)
+hs3	-3- Jan Pavlu (Hannover Scorpions)
 hs96	-96- Andy Reiss (Hannover Scorpions)
-hs4	-4- Thomas Supis (Hannover Scorpions)
+hs5	-5- Thomas Supis (Hannover Scorpions)
 hs11	-11- Christoph Kabitzky (Hannover Scorpions)
 hs21	-21- Justin Kirsch (Hannover Scorpions)
 hs19	-19- Jordan Knackstedt (Hannover Scorpions)
 hs77	-77- Michael Knaub (Hannover Scorpions)
-hs9	-9- Allan McPherson (Hannover Scorpions)
-hs10	-10- Nick Miglio (Hannover Scorpions)
+hs10	-10- Allan McPherson (Hannover Scorpions)
+hs11	-11- Nick Miglio (Hannover Scorpions)
 hs100	Kevin Gaudet (Trainer Hannover Scorpions)
 
 
