@@ -52,6 +52,7 @@ ap19	-19- Anthony Louis (Augsburger Panther)
 ap20	-20- Luca Tosto (Augsburger Panther)
 ap21	-21- T.J. Trevelyan (Augsburger Panther)
 ap33	-33- Tim Wohlgemuth (Augsburger Panther)
+ap83	-83- Sebastian Zwickl (Augsburger Panther)
 ap100	Bill Peters (Trainer Augsburger Panther)
 ap101	Thomas Dolak (Co-Trainer Augsburger Panther)
 
