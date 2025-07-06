@@ -80,20 +80,23 @@ fu100	Daniel Jun (Trainer EV Füssen)
 - Herforder EV -
 
 hf55	-55- Jakub Urbisch (Herforder EV)
+hf30	-30- Kieren Vogel (Herforder EV)
 hf43	-43- Mika Hupach (Herforder EV)
 hf59	-59- Sebastian Moberg (Herforder EV)
 hf56	-56- Michael Schaaf (Herforder EV)
 hf72	-72- Yannis Walch (Herforder EV)
 hf44	-44- Nick Walters (Herforder EV)
+hf7	-7- Dennis Sticha (Herforder EV)
 hf22	-22- Gleb Berezovskyy (Herforder EV)
-hf10	-10- Jegors Kalnins (Herforder EV)
 hf8	-8- Jannis Kälble (Herforder EV)
+hf10	-10- Jegors Kalnins (Herforder EV)
 hf14	-14- Leon Köhler (Herforder EV)
 hf74	-74- Ryley Lindgren (Herforder EV)
-hf12	-12- Davyd Makutsky (Herforder EV)
-hf12	-12- Jackson Pierson (Herforder EV)
 hf13	-13- Nils Wegner (Herforder EV)
-hf14	-14- Philip Woltmann (Herforder EV)
+hf12	-12- Davyd Makutsky (Herforder EV)
+hf13	-13- Jackson Pierson (Herforder EV)
+hf17	-17- Timo Sticha (Herforder EV)
+hf17	-17- Philip Woltmann (Herforder EV)
 
 
 - Hannover Indians -
