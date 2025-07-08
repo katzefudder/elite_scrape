@@ -257,6 +257,7 @@ kh17	-17- Kevin Niedenz (Kölner Haie)
 kh63	-63- Patrick Russell (Kölner Haie)
 kh19	-19- Frederik Storm (Kölner Haie)
 kh20	-20- Parker Tuomie (Kölner Haie)
+kh21	-21- Juhani Tyrväinen (Kölner Haie)
 
 
 - Nürnberg Ice Tigers -
