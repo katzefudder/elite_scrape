@@ -9,15 +9,16 @@ bs4	-4- Benedikt Jiranek (Bietigheim Steelers)
 bs40	-40- Tim Schüle (Bietigheim Steelers)
 bs21	-21- Sören Sturm (Bietigheim Steelers)
 bs7	-7- Arne Uplegger (Bietigheim Steelers)
-bs8	-8- Jack Dugan (Bietigheim Steelers)
-bs9	-9- Bastian Eckl (Bietigheim Steelers)
+bs8	-8- Alex Dostie (Bietigheim Steelers)
+bs9	-9- Jack Dugan (Bietigheim Steelers)
 bs10	-10- Tamás Kánya (Bietigheim Steelers)
-bs10	-10- Mike Fischer (Bietigheim Steelers)
-bs12	-12- Brett Kemp (Bietigheim Steelers)
-bs13	-13- Tyler McNeely (Bietigheim Steelers)
-bs14	-14- Alexander Preibisch (Bietigheim Steelers)
-bs15	-15- Marek Racuk (Bietigheim Steelers)
-bs17	-17- Benjamin Zientek (Bietigheim Steelers)
+bs10	-10- Bastian Eckl (Bietigheim Steelers)
+bs11	-11- Mike Fischer (Bietigheim Steelers)
+bs13	-13- Brett Kemp (Bietigheim Steelers)
+bs14	-14- Tyler McNeely (Bietigheim Steelers)
+bs15	-15- Alexander Preibisch (Bietigheim Steelers)
+bs16	-16- Marek Racuk (Bietigheim Steelers)
+bs18	-18- Benjamin Zientek (Bietigheim Steelers)
 bs100	Alexander Dück (Trainer Bietigheim Steelers)
 bs101	Boris Blank (Co-Trainer Bietigheim Steelers)
 
@@ -45,24 +46,6 @@ dg79	-79- Petr Stloukal (Deggendorfer SC)
 dg100	Casey Fratkin (Trainer Deggendorfer SC)
 
 
-- ESC Moskitos Essen -
-
-es0	-0- Justus Roth (ESC Moskitos Essen)
-es1	-1- Maurice Becker (ESC Moskitos Essen)
-es13	-13- Fabio Frick (ESC Moskitos Essen)
-es48	-48- Lukas Mannes (ESC Moskitos Essen)
-es4	-4- Jesper Åkerman (ESC Moskitos Essen)
-es91	-91- Elvijs Biezais (ESC Moskitos Essen)
-es6	-6- Ugnius Cizas (ESC Moskitos Essen)
-es7	-7- Alexander Komov (ESC Moskitos Essen)
-es8	-8- Lennart Otten (ESC Moskitos Essen)
-es66	-66- Ralf Rinke (ESC Moskitos Essen)
-es19	-19- Enrico Saccomani (ESC Moskitos Essen)
-es74	-74- Lukas Valasek (ESC Moskitos Essen)
-es57	-57- Daniel Weiß (ESC Moskitos Essen)
-es100	Mikhail Nemirovsky (Trainer ESC Moskitos Essen)
-
-
 - EV Füssen -
 
 fu29	-29- Benedikt Hötzinger (EV Füssen)
@@ -76,30 +59,6 @@ fu78	-78- Nikita Naumann (EV Füssen)
 fu17	-17- Pius Seitz (EV Füssen)
 fu8	-8- Matyas Stransky (EV Füssen)
 fu100	Daniel Jun (Trainer EV Füssen)
-
-
-- Herforder EV -
-
-hf55	-55- Jakub Urbisch (Herforder EV)
-hf30	-30- Kieren Vogel (Herforder EV)
-hf43	-43- Mika Hupach (Herforder EV)
-hf52	-52- Dennis König (Herforder EV)
-hf59	-59- Sebastian Moberg (Herforder EV)
-hf56	-56- Michael Schaaf (Herforder EV)
-hf72	-72- Yannis Walch (Herforder EV)
-hf7	-7- Dennis Sticha (Herforder EV)
-hf44	-44- Nick Walters (Herforder EV)
-hf8	-8- Jannis Kälble (Herforder EV)
-hf22	-22- Gleb Berezovskyy (Herforder EV)
-hf16	-16- Marius Garten (Herforder EV)
-hf10	-10- Jegors Kalnins (Herforder EV)
-hf13	-13- Nils Wegner (Herforder EV)
-hf12	-12- Davyd Makutsky (Herforder EV)
-hf14	-14- Leon Köhler (Herforder EV)
-hf74	-74- Ryley Lindgren (Herforder EV)
-hf15	-15- Jackson Pierson (Herforder EV)
-hf17	-17- Timo Sticha (Herforder EV)
-hf19	-19- Philip Woltmann (Herforder EV)
 
 
 - Hannover Indians -
@@ -171,56 +130,6 @@ hs15	-15- Allan McPherson (Hannover Scorpions)
 hs16	-16- Nick Miglio (Hannover Scorpions)
 hs88	-88- Marc-Olivier Vallerand (Hannover Scorpions)
 hs100	Kevin Gaudet (Trainer Hannover Scorpions)
-
-
-- EV Lindau -
-
-li96	-96- Daniel Filimonow (EV Lindau)
-li55	-55- Julian Hübner (EV Lindau)
-li74	-74- Keanu Salmik (EV Lindau)
-li28	-28- Fabian Baßler (EV Lindau)
-li4	-4- Lukas Bender (EV Lindau)
-li73	-73- Kazuki Lawlor (EV Lindau)
-li46	-46- Patrick Raaf-Effertz (EV Lindau)
-li85	-85- Steffen Tölzer (EV Lindau)
-li18	-18- Robin Wucher (EV Lindau)
-li98	-98- Valentin Busch (EV Lindau)
-li76	-76- Eetu Elo (EV Lindau)
-li11	-11- Nicolas Strodel (EV Lindau)
-li68	-68- Andreas Farny (EV Lindau)
-li57	-57- Marvin Feigl (EV Lindau)
-li26	-26- Dominik Grafenthin (EV Lindau)
-li91	-91- Zan Jezovsek (EV Lindau)
-li16	-16- Corvin Wucher (EV Lindau)
-li42	-42- Marcus Marsall (EV Lindau)
-li20	-20- Damian Schneider (EV Lindau)
-li95	-95- Leon Sivic (EV Lindau)
-li71	-71- Marvin Wucher (EV Lindau)
-li100	Michael Baindl (Trainer EV Lindau)
-li101	Marko Sakic (Co-Trainer EV Lindau)
-
-
-- ECDC Memmingen -
-
-mm0	-0- Bastian Flott-Kucis (ECDC Memmingen)
-mm1	-1- Michael Paterson-Jones (ECDC Memmingen)
-mm2	-2- Connor Blake (ECDC Memmingen)
-mm15	-15- Bernhard Ettwein (ECDC Memmingen)
-mm4	-4- Patrick Kurz (ECDC Memmingen)
-mm22	-22- Dominik Meisinger (ECDC Memmingen)
-mm6	-6- Maximilian Menner (ECDC Memmingen)
-mm7	-7- Linus Svedlund (ECDC Memmingen)
-mm8	-8- Félix Brassard (ECDC Memmingen)
-mm47	-47- Denis Fominych (ECDC Memmingen)
-mm10	-10- Timo Gams (ECDC Memmingen)
-mm11	-11- Tim Gorgenländer (ECDC Memmingen)
-mm12	-12- Edgars Homjakovs (ECDC Memmingen)
-mm13	-13- Nikita Krymskiy (ECDC Memmingen)
-mm28	-28- Markus Lillich (ECDC Memmingen)
-mm93	-93- Tobias Meier (ECDC Memmingen)
-mm16	-16- Brett Ouderkirk (ECDC Memmingen)
-mm19	-19- Milan Pfalzer (ECDC Memmingen)
-mm97	-97- Jayden Schubert (ECDC Memmingen)
 
 
 - EHF Passau Black Hawks -
