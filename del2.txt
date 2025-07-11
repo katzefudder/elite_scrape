@@ -313,13 +313,14 @@ rt76	-76- Denis Pfaffengut (Ravensburg Towerstars)
 rt6	-6- Simon Sezemsky (Ravensburg Towerstars)
 rt7	-7- Robbie Czarnik (Ravensburg Towerstars)
 rt8	-8- Anselm Gerg (Ravensburg Towerstars)
+rt9	-9- Fabio Sarto (Ravensburg Towerstars)
 rt9	-9- Erik Jinesjö Karlsson (Ravensburg Towerstars)
 rt10	-10- Nikita Kessler (Ravensburg Towerstars)
 rt14	-14- Nick Latta (Ravensburg Towerstars)
 rt12	-12- Matej Mrazek (Ravensburg Towerstars)
 rt13	-13- Thomas Reichel (Ravensburg Towerstars)
-rt14	-14- Marvin Schmid (Ravensburg Towerstars)
-rt15	-15- Alex-Olivier Voyer (Ravensburg Towerstars)
+rt15	-15- Marvin Schmid (Ravensburg Towerstars)
+rt16	-16- Alex-Olivier Voyer (Ravensburg Towerstars)
 
 
 - Selber Wölfe -
