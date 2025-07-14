@@ -320,11 +320,12 @@ rt8	-8- Anselm Gerg (Ravensburg Towerstars)
 rt9	-9- Fabio Sarto (Ravensburg Towerstars)
 rt9	-9- Erik Jinesjö Karlsson (Ravensburg Towerstars)
 rt10	-10- Nikita Kessler (Ravensburg Towerstars)
+rt74	-74- Louis Latta (Ravensburg Towerstars)
 rt14	-14- Nick Latta (Ravensburg Towerstars)
-rt12	-12- Matej Mrazek (Ravensburg Towerstars)
-rt13	-13- Thomas Reichel (Ravensburg Towerstars)
-rt15	-15- Marvin Schmid (Ravensburg Towerstars)
-rt16	-16- Alex-Olivier Voyer (Ravensburg Towerstars)
+rt13	-13- Matej Mrazek (Ravensburg Towerstars)
+rt14	-14- Thomas Reichel (Ravensburg Towerstars)
+rt16	-16- Marvin Schmid (Ravensburg Towerstars)
+rt17	-17- Alex-Olivier Voyer (Ravensburg Towerstars)
 
 
 - Selber Wölfe -
