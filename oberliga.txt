@@ -60,7 +60,6 @@ es6	-6- Alexander Komov (ESC Moskitos Essen)
 es7	-7- Lennart Otten (ESC Moskitos Essen)
 es66	-66- Ralf Rinke (ESC Moskitos Essen)
 es19	-19- Enrico Saccomani (ESC Moskitos Essen)
-es74	-74- Lukas Valasek (ESC Moskitos Essen)
 es57	-57- Daniel Weiß (ESC Moskitos Essen)
 es100	Mikhail Nemirovsky (Trainer ESC Moskitos Essen)
 
