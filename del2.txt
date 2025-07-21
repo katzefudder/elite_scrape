@@ -328,9 +328,10 @@ rt11	-11- Nikita Kessler (Ravensburg Towerstars)
 rt74	-74- Louis Latta (Ravensburg Towerstars)
 rt14	-14- Nick Latta (Ravensburg Towerstars)
 rt14	-14- Matej Mrazek (Ravensburg Towerstars)
-rt15	-15- Thomas Reichel (Ravensburg Towerstars)
-rt17	-17- Marvin Schmid (Ravensburg Towerstars)
-rt18	-18- Alex-Olivier Voyer (Ravensburg Towerstars)
+rt15	-15- Mark Rassell (Ravensburg Towerstars)
+rt16	-16- Thomas Reichel (Ravensburg Towerstars)
+rt18	-18- Marvin Schmid (Ravensburg Towerstars)
+rt19	-19- Alex-Olivier Voyer (Ravensburg Towerstars)
 
 
 - Selber Wölfe -

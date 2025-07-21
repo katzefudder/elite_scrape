@@ -50,14 +50,13 @@ dg100	Casey Fratkin (Trainer Deggendorfer SC)
 
 - ESC Moskitos Essen -
 
-es0	-0- Justus Roth (ESC Moskitos Essen)
-es1	-1- Maurice Becker (ESC Moskitos Essen)
+es0	-0- Maurice Becker (ESC Moskitos Essen)
 es48	-48- Lukas Mannes (ESC Moskitos Essen)
-es3	-3- Jesper Åkerman (ESC Moskitos Essen)
+es2	-2- Jesper Åkerman (ESC Moskitos Essen)
 es91	-91- Elvijs Biezais (ESC Moskitos Essen)
-es5	-5- Ugnius Cizas (ESC Moskitos Essen)
-es6	-6- Alexander Komov (ESC Moskitos Essen)
-es7	-7- Lennart Otten (ESC Moskitos Essen)
+es4	-4- Ugnius Cizas (ESC Moskitos Essen)
+es5	-5- Alexander Komov (ESC Moskitos Essen)
+es6	-6- Lennart Otten (ESC Moskitos Essen)
 es66	-66- Ralf Rinke (ESC Moskitos Essen)
 es19	-19- Enrico Saccomani (ESC Moskitos Essen)
 es57	-57- Daniel Weiß (ESC Moskitos Essen)
@@ -79,6 +78,7 @@ fu78	-78- Nikita Naumann (EV Füssen)
 fu17	-17- Pius Seitz (EV Füssen)
 fu10	-10- Marek Slavík (EV Füssen)
 fu11	-11- Matyas Stransky (EV Füssen)
+fu12	-12- Julian Straub (EV Füssen)
 fu100	Daniel Jun (Trainer EV Füssen)
 
 
@@ -170,6 +170,7 @@ pa97	-97- René Röthke (EHF Passau Black Hawks)
 pa74	-74- Andrew Schembri (EHF Passau Black Hawks)
 pa12	-12- Christoph Schmidt (EHF Passau Black Hawks)
 pa20	-20- Jonas Stern (EHF Passau Black Hawks)
+pa100	Petr Bares (Trainer EHF Passau Black Hawks)
 
 
 - EC Peiting -
@@ -195,6 +196,7 @@ pe17	-17- Sebastian Laßmann (EC Peiting)
 pe18	-18- Carson MacKinnon (EC Peiting)
 pe19	-19- Philipp Markgraf (EC Peiting)
 pe20	-20- Justin Maylan (EC Peiting)
+pe100	John Sicinski (Trainer EC Peiting)
 
 
 - SC Riessersee -
@@ -273,6 +275,7 @@ to22	-22- Maximilian Strauß (Tölzer Löwen)
 to42	-42- Quirin Schlager (Tölzer Löwen)
 to23	-23- Xaver Schuler (Tölzer Löwen)
 to27	-27- Sandro Schönberger (Tölzer Löwen)
+to100	Axel Kammerer (Trainer Tölzer Löwen)
 to101	Josef Frank (Co-Trainer Tölzer Löwen)
 
 
@@ -301,5 +304,6 @@ tt95	-95- Danny Stempher (Tilburg Trappers)
 tt36	-36- Marvin Timmer (Tilburg Trappers)
 tt82	-82- Justin van der Ven (Tilburg Trappers)
 tt100	Danny Albrecht (Trainer Tilburg Trappers)
+tt101	Dennis ten Bokkel (Co-Trainer Tilburg Trappers)
 
 
