@@ -281,6 +281,7 @@ lh19	-19- David Stieler (EV Landshut)
 lh20	-20- Marcel Tabert (EV Landshut)
 lh21	-21- Yannick Wenzel (EV Landshut)
 lh100	Uwe Krupp (Trainer EV Landshut)
+lh101	Ales Jirik (Co-Trainer EV Landshut)
 
 
 - Starbulls Rosenheim -
