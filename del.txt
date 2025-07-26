@@ -183,6 +183,7 @@ fl26	-26- Hannu Tripcke (Löwen Frankfurt)
 fl27	-27- Matthew Wedman (Löwen Frankfurt)
 fl28	-28- Chris Wilkie (Löwen Frankfurt)
 fl100	Tom Rowe (Trainer Löwen Frankfurt)
+fl101	Emil Rasmussen (Co-Trainer Löwen Frankfurt)
 
 
 - Fischtown Pinguins -
@@ -386,10 +387,11 @@ sw12	-12- Håkon Hänelt (Schwenninger Wild Wings)
 sw13	-13- Mirko Höfflin (Schwenninger Wild Wings)
 sw14	-14- Alexander Karachun (Schwenninger Wild Wings)
 sw88	-88- Kyle Platzer (Schwenninger Wild Wings)
-sw16	-16- Tylor Spink (Schwenninger Wild Wings)
-sw17	-17- Tyson Spink (Schwenninger Wild Wings)
-sw18	-18- Jordan Szwarz (Schwenninger Wild Wings)
-sw19	-19- Sebastian Uvira (Schwenninger Wild Wings)
+sw89	-89- Zach Senyshyn (Schwenninger Wild Wings)
+sw17	-17- Tylor Spink (Schwenninger Wild Wings)
+sw18	-18- Tyson Spink (Schwenninger Wild Wings)
+sw19	-19- Jordan Szwarz (Schwenninger Wild Wings)
+sw20	-20- Sebastian Uvira (Schwenninger Wild Wings)
 
 
 - Grizzlys Wolfsburg -
