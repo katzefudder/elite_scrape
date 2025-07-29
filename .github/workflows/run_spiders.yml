@@ -18,17 +18,36 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-    - name: Scrape Eliteprospects
+    - name: Scrape DEL
       run: |
         scrapy runspider elitescrape/spiders/spider_del.py
-        scrapy runspider elitescrape/spiders/spider_del2.py
-        scrapy runspider elitescrape/spiders/spider_oberliga.py
-        scrapy runspider elitescrape/spiders/spider_stripes.py
-        git config --global user.name 'Bot'
-        git config --global user.email 'bot@katzefudder.de'
         git add del.txt
-        git add del2.txt
-        git add oberliga.txt
-        git add team_stripes.txt
-        git commit -m "automated scraping of DEL, DEL 2 and Team Stripes rosters" || true
+        git commit -m "automated scraping of DEL rosters" || true
         git push || true
+    - name: Scrape DEL 2
+      run: |
+        scrapy runspider elitescrape/spiders/spider_del2.py
+        git add del2.txt
+        git commit -m "automated scraping of DEL 2 rosters" || true
+        git push || true
+    - name: Scrape Oberliga
+      run: |
+        scrapy runspider elitescrape/spiders/spider_oberliga.py
+        git add oberliga.txt
+        git commit -m "automated scraping of Oberliga rosters" || true
+        git push || true
+    - name: Scrape Team Stripes
+      run: |
+        scrapy runspider elitescrape/spiders/spider_stripes.py
+        git add team_stripes.txt
+        git commit -m "automated scraping of Team Stripes rosters" || true
+        git push || true
+    - name: Create Release
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD | grep -E 'del\.txt|del2\.txt|oberliga\.txt|team_stripes\.txt' || true)
+        if [ -n "$CHANGED_FILES" ]; then
+          TAG="auto-$(date +'%Y%m%d-%H%M%S')"
+          gh release create "$TAG" $CHANGED_FILES --title "Automated roster update $TAG" --notes "Automated release of updated roster files."
+        fi
