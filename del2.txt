@@ -358,6 +358,7 @@ sw14	-14- Chris Schutz (Selber Wölfe)
 sw15	-15- Lois Spitzner (Selber Wölfe)
 sw16	-16- Philip Ziesche (Selber Wölfe)
 sw100	Felix Schütz (Trainer Selber Wölfe)
+sw101	Josef Huber (Co-Trainer Selber Wölfe)
 
 
 - Blue Devils Weiden -
