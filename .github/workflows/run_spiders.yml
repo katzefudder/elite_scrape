@@ -46,7 +46,11 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD | grep -E 'del\.txt|del2\.txt|oberliga\.txt|team_stripes\.txt' || true)
+        if git rev-parse HEAD~1 >/dev/null 2>&1; then
+          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD | grep -E 'del\.txt|del2\.txt|oberliga\.txt|team_stripes\.txt' || true)
+        else
+          CHANGED_FILES=$(git ls-tree --name-only HEAD | grep -E 'del\.txt|del2\.txt|oberliga\.txt|team_stripes\.txt' || true)
+        fi
         if [ -n "$CHANGED_FILES" ]; then
           TAG="auto-$(date +'%Y%m%d-%H%M%S')"
           gh release create "$TAG" $CHANGED_FILES --title "Automated roster update $TAG" --notes "Automated release of updated roster files."
