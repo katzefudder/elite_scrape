@@ -86,7 +86,7 @@ cr22	-22- Dylan Wruck (Eispiraten Crimmitschau)
 
 - Düsseldorfer EG -
 
-de0	-0- Ryan Bednard (Düsseldorfer EG)
+de50	-50- Ryan Bednard (Düsseldorfer EG)
 de27	-27- Niklas Lunemann (Düsseldorfer EG)
 de58	-58- Max Balinson (Düsseldorfer EG)
 de8	-8- Kristian Blumenschein (Düsseldorfer EG)
