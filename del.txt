@@ -349,6 +349,7 @@ rb22	-22- Jeremy McKenna (EHC München)
 rb27	-27- Veit Oswald (EHC München)
 rb25	-25- Luis Schinko (EHC München)
 rb100	Oliver David (Trainer EHC München)
+rb101	Maximilian Kaltenhauser (Co-Trainer EHC München)
 
 
 - Straubing Tigers -
