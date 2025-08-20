@@ -410,6 +410,8 @@ sw20	-20- Tylor Spink (Schwenninger Wild Wings)
 sw21	-21- Tyson Spink (Schwenninger Wild Wings)
 sw22	-22- Jordan Szwarz (Schwenninger Wild Wings)
 sw23	-23- Sebastian Uvira (Schwenninger Wild Wings)
+sw100	Steve Walker (Trainer Schwenninger Wild Wings)
+sw101	Tim Kehler (Co-Trainer Schwenninger Wild Wings)
 
 
 - Grizzlys Wolfsburg -
