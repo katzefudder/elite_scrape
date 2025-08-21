@@ -357,6 +357,7 @@ rh57	-57- Charlie Sarault (Starbulls Rosenheim)
 rh63	-63- Jordan Taupert (Starbulls Rosenheim)
 rh37	-37- Lewis Zerter-Gossage (Starbulls Rosenheim)
 rh100	Jari Pasanen (Trainer Starbulls Rosenheim)
+rh101	Jamie Bartman (Co-Trainer Starbulls Rosenheim)
 
 
 - Ravensburg Towerstars -
