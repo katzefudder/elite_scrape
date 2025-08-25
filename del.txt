@@ -138,7 +138,7 @@ eb100	Serge Aubin (Trainer Eisbären Berlin)
 
 ei0	-0- Brett Brochu (ERC Ingolstadt)
 ei1	-1- Nico Pertuch (ERC Ingolstadt)
-ei2	-2- Devin Williams (ERC Ingolstadt)
+ei31	-31- Devin Williams (ERC Ingolstadt)
 ei3	-3- Alex Breton (ERC Ingolstadt)
 ei4	-4- Morgan Ellis (ERC Ingolstadt)
 ei5	-5- Leon Hüttl (ERC Ingolstadt)
