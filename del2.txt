@@ -92,15 +92,16 @@ cr22	-22- Dylan Wruck (Eispiraten Crimmitschau)
 - Düsseldorfer EG -
 
 de50	-50- Ryan Bednard (Düsseldorfer EG)
+de35	-35- Leon Hümer (Düsseldorfer EG)
 de27	-27- Niklas Lunemann (Düsseldorfer EG)
 de58	-58- Max Balinson (Düsseldorfer EG)
 de8	-8- Kristian Blumenschein (Düsseldorfer EG)
-de63	-63- Maximilian Faber (Düsseldorfer EG)
 de5	-5- Nicolas Geitner (Düsseldorfer EG)
 de6	-6- Kevin Maginot (Düsseldorfer EG)
+de63	-63- Maximilian Faber (Düsseldorfer EG)
 de26	-26- Moritz Kukuk (Düsseldorfer EG)
-de21	-21- Emil Quaas (Düsseldorfer EG)
 de9	-9- Lucas Lessio (Düsseldorfer EG)
+de21	-21- Emil Quaas (Düsseldorfer EG)
 de37	-37- Lenny Boos (Düsseldorfer EG)
 de22	-22- Erik Bradford (Düsseldorfer EG)
 de18	-18- Michael Clarke (Düsseldorfer EG)
@@ -264,6 +265,7 @@ kp38	-38- Tim Schütz (Krefeld Pinguine)
 kp43	-43- Alexander Weiß (Krefeld Pinguine)
 kp24	-24- Mark Zengerle (Krefeld Pinguine)
 kp100	Thomas Popiesch (Trainer Krefeld Pinguine)
+kp101	Steffen Ziesche (Co-Trainer Krefeld Pinguine)
 
 
 - Lausitzer Füchse -
