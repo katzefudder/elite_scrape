@@ -89,6 +89,8 @@ cr32	-32- Ralf Rollinger (Eispiraten Crimmitschau)
 cr74	-74- Vinny Saponari (Eispiraten Crimmitschau)
 cr27	-27- Johannes Schmid (Eispiraten Crimmitschau)
 cr88	-88- Dylan Wruck (Eispiraten Crimmitschau)
+cr100	Jussi Tuores (Trainer Eispiraten Crimmitschau)
+cr101	Esbjörn Hofverberg (Co-Trainer Eispiraten Crimmitschau)
 
 
 - Düsseldorfer EG -
