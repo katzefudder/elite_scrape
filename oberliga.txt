@@ -184,6 +184,7 @@ hi16	-16- Ryon Moser (Hannover Indians)
 hi17	-17- Jari Neugebauer (Hannover Indians)
 hi18	-18- Jussi Petersen (Hannover Indians)
 hi100	Raphaël Joly (Trainer Hannover Indians)
+hi101	Greg Thomson (Co-Trainer Hannover Indians)
 
 
 - Heilbronner Falken -
