@@ -404,7 +404,7 @@ ro89	-89- Jesper Öhrvall (Rostock Piranhas)
 
 - Saale Bulls Halle -
 
-sb30	-30- Daniel Allavena (Saale Bulls Halle)
+sb1	-1- Daniel Allavena (Saale Bulls Halle)
 sb31	-31- Nils Kapteinat (Saale Bulls Halle)
 sb32	-32- Kai Kristian (Saale Bulls Halle)
 sb41	-41- Erik Gollenbeck (Saale Bulls Halle)
