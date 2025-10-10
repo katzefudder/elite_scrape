@@ -4,6 +4,9 @@ from scrapy.http.request import Request
 
 class EliteSpider(scrapy.Spider):
   name = ""
+  custom_settings = {
+    'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36',
+  }
   league_key = ''
   teams_file = ""
   team_keys = ""
