@@ -63,7 +63,8 @@ ed77	-77- Philipp Michl (Erding Gladiators)
 ed21	-21- Erik Modlmayr (Erding Gladiators)
 ed47	-47- Marco Pfleger (Erding Gladiators)
 ed33	-33- Marc Schmidpeter (Erding Gladiators)
-ed25	-25- Marcel Tabert (Erding Gladiators)
+ed73	-73- Pascal Steck (Erding Gladiators)
+ed26	-26- Marcel Tabert (Erding Gladiators)
 ed100	Dominik Quinlan (Trainer Erding Gladiators)
 
 
