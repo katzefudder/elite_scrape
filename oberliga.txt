@@ -467,6 +467,7 @@ st83	-83- Leon Kreps (Stuttgart Rebels)
 st36	-36- Matthew Pistilli (Stuttgart Rebels)
 st21	-21- Reagan Poncelet (Stuttgart Rebels)
 st85	-85- Denis Root (Stuttgart Rebels)
+st26	-26- Wyatt Schingoethe (Stuttgart Rebels)
 st100	Jan Melichar (Trainer Stuttgart Rebels)
 
 
