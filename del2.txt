@@ -262,7 +262,6 @@ kb39	-39- Jere Laaksonen (ESV Kaufbeuren)
 kb91	-91- Tyson McLellan (ESV Kaufbeuren)
 kb83	-83- Florian Reinwald (ESV Kaufbeuren)
 kb94	-94- Alec Zawatsky (ESV Kaufbeuren)
-kb100	Todd Warriner (Trainer ESV Kaufbeuren)
 kb101	Andrew Donaldson (Co-Trainer ESV Kaufbeuren)
 
 
