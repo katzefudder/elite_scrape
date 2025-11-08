@@ -195,7 +195,6 @@ fr89	-89- Lukas Mühlbauer (EHC Freiburg)
 fr71	-71- Shawn O'Donnell (EHC Freiburg)
 fr91	-91- Tomas Schwamberger (EHC Freiburg)
 fr26	-26- Sebastian Streu (EHC Freiburg)
-fr100	Martin Stloukal (Trainer EHC Freiburg)
 fr101	Martin Sekera (Co-Trainer EHC Freiburg)
 
 
