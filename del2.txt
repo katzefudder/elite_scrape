@@ -130,6 +130,7 @@ de71	-71- Ture Linden (Düsseldorfer EG)
 de65	-65- Marco Münzenberger (Düsseldorfer EG)
 de78	-78- Kevin Orendorz (Düsseldorfer EG)
 de96	-96- Simon Thiel (Düsseldorfer EG)
+de27	-27- Luca Tosto (Düsseldorfer EG)
 de100	Rich Chernomaz (Trainer Düsseldorfer EG)
 de101	Rob Armstrong (Co-Trainer Düsseldorfer EG)
 
