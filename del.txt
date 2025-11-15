@@ -210,7 +210,7 @@ fl101	Emil Rasmussen (Co-Trainer Löwen Frankfurt)
 - Fischtown Pinguins -
 
 ft30	-30- Kristers Gudlevskis (Fischtown Pinguins)
-ft1	-1- Julius Hudacek (Fischtown Pinguins)
+ft33	-33- Julius Hudacek (Fischtown Pinguins)
 ft2	-2- Akito Hirose (Fischtown Pinguins)
 ft27	-27- Leon Hungerecker (Fischtown Pinguins)
 ft35	-35- Mathis Löwe (Fischtown Pinguins)
