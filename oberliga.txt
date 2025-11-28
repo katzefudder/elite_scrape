@@ -94,7 +94,6 @@ fu89	-89- Martin Kaaz (EV Füssen)
 fu78	-78- Nikita Naumann (EV Füssen)
 fu84	-84- Pavels Nikitins (EV Füssen)
 fu26	-26- Ivan Petrov (EV Füssen)
-fu25	-25- Jan Svoboda (EV Füssen)
 fu83	-83- Florian Reinwald (EV Füssen)
 fu41	-41- Marek Slavík (EV Füssen)
 fu88	-88- Matyas Stransky (EV Füssen)
@@ -435,6 +434,7 @@ ro72	-72- Kilian Steinmann (Rostock Piranhas)
 ro28	-28- Filip Stopinski (Rostock Piranhas)
 ro77	-77- Jonas Wolter (Rostock Piranhas)
 ro89	-89- Jesper Öhrvall (Rostock Piranhas)
+ro100	Lenny Soccio (Trainer Rostock Piranhas)
 
 
 - Saale Bulls Halle -
