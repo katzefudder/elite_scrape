@@ -100,7 +100,7 @@ dd84	-84- Trevor Parkes (Dresdner Eislöwen)
 dd63	-63- David Rundqvist (Dresdner Eislöwen)
 dd74	-74- Tomas Sykora (Dresdner Eislöwen)
 dd91	-91- Travis Turnbull (Dresdner Eislöwen)
-dd100	Niklas Sundblad (Trainer Dresdner Eislöwen)
+dd100	Gerry Fleming (Trainer Dresdner Eislöwen)
 dd101	Petteri Kilpivaara (Co-Trainer Dresdner Eislöwen)
 
 
