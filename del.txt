@@ -340,7 +340,6 @@ nb43	-43- Greg Meireles (Nürnberg Ice Tigers)
 nb81	-81- Brett Murray (Nürnberg Ice Tigers)
 nb37	-37- Tyler Spezia (Nürnberg Ice Tigers)
 nb48	-48- Jake Ustorf (Nürnberg Ice Tigers)
-nb42	-42- Luis Üffing (Nürnberg Ice Tigers)
 nb100	Mitch O'Keefe (Trainer Nürnberg Ice Tigers)
 nb101	Jochen Hecht (Co-Trainer Nürnberg Ice Tigers)
 
