@@ -61,8 +61,14 @@ class EliteSpider(scrapy.Spider):
         peopleStr = "%s%s\t-%s- %s (%s)\n" % (current_team_key, index, index, name, team)
         people.insert(index, peopleStr)
 
-    # sorting players by index/number
-    # people.sort()
+    # Extract the number suffix from each team key and sort by it
+    def get_player_number(person_string):
+      key_part = person_string.split('\t')[0]
+      number_str = key_part.replace(current_team_key, '')
+      match = re.search(r'\d+', number_str)
+      return int(match.group())
+    
+    people.sort(key=get_player_number)
 
     if headCoach:
       peopleStr = "%s100\t%s (Trainer %s)\n" % (current_team_key, headCoach[0].strip(), team)
