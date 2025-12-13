@@ -376,13 +376,14 @@ pe51	-51- Andreas Grin (EC Peiting)
 pe52	-52- John Sauter (EC Peiting)
 pe53	-53- Lasse Dietzschold (EC Peiting)
 pe54	-54- Pascal Seidel (EC Peiting)
+pe55	-55- Bartholomäus Oswald (EC Peiting)
 pe75	-75- Niklas Greil (EC Peiting)
 pe78	-78- Christian Obu (EC Peiting)
 pe80	-80- Markus Czogallik (EC Peiting)
 pe82	-82- Dennis Krutsch (EC Peiting)
 pe84	-84- Tim Mühlegger (EC Peiting)
 pe92	-92- Sebastian Laßmann (EC Peiting)
-pe100	Anton Saal (Trainer EC Peiting)
+pe100	Ty Morris (Trainer EC Peiting)
 
 
 - SC Riessersee -
@@ -418,7 +419,7 @@ ri81	-81- Andreas Schneider (SC Riessersee)
 ri86	-86- Leon Neiger (SC Riessersee)
 ri91	-91- Leon Seelmann (SC Riessersee)
 ri92	-92- Sebastian Holzapfel (SC Riessersee)
-ri100	Hunor Marton (Trainer SC Riessersee)
+ri100	Markus Jocher (Trainer SC Riessersee)
 
 
 - Rostock Piranhas -
