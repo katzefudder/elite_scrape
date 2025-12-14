@@ -316,6 +316,7 @@ kh101	Manuel Kofler (Co-Trainer Kölner Haie)
 
 - Nürnberg Ice Tigers -
 
+nb3	-3- Sinan Akdag (Nürnberg Ice Tigers)
 nb6	-6- Julius Karrer (Nürnberg Ice Tigers)
 nb9	-9- Justus Böttner (Nürnberg Ice Tigers)
 nb10	-10- Evan Barratt (Nürnberg Ice Tigers)
