@@ -51,16 +51,18 @@ class EliteSpider(scrapy.Spider):
       number = number.replace('#', '')
 
       name = str(htmlContent.xpath('a/text()').get()).strip()
-      # remove any hints on the player's name
+      # remove any suffixes in parentheses from the name
       name = str(re.sub('\(.*\)', '', name)).strip()
       # number might not be certain, so we set at least 'something'
       if number != 'None' and name != 'None':
-        peopleStr = "%s%s\t-%s- %s (%s)\n" % (current_team_key, number, number, name, team)
-        people.insert(int(number), peopleStr)
+        indexed_number = number
+      # some players don't have a number assigned, so we just use the index  
       if number == 'None' and name != 'None':
-        peopleStr = "%s%s\t-%s- %s (%s)\n" % (current_team_key, index, index, name, team)
-        people.insert(index, peopleStr)
+        indexed_number = index
 
+      peopleStr = "%s%s\t-%s- %s (%s)\n" % (current_team_key, indexed_number, indexed_number, name, team)
+      people.insert(int(indexed_number), peopleStr)
+        
     # Extract the number suffix from each team key and sort by it
     def get_player_number(person_string):
       key_part = person_string.split('\t')[0]
