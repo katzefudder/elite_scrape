@@ -1,6 +1,7 @@
 - Deggendorfer SC -
 
 dg0	-0- Cole Danielsmeier (Deggendorfer SC)
+dg3	-3- Pheleas Schmidt (Deggendorfer SC)
 dg4	-4- Silvan Heiß (Deggendorfer SC)
 dg5	-5- Jan Bednar (Deggendorfer SC)
 dg8	-8- Philipp Wachter (Deggendorfer SC)
@@ -472,6 +473,7 @@ sb21	-21- Patrick Schmid (Saale Bulls Halle)
 sb23	-23- Marvin Neher (Saale Bulls Halle)
 sb24	-24- Sebastian Christmann (Saale Bulls Halle)
 sb27	-27- Brett Schaefer (Saale Bulls Halle)
+sb30	-30- Jonas Zyla (Saale Bulls Halle)
 sb31	-31- Nils Kapteinat (Saale Bulls Halle)
 sb32	-32- Kai Kristian (Saale Bulls Halle)
 sb41	-41- Erik Gollenbeck (Saale Bulls Halle)
@@ -488,6 +490,7 @@ sb101	Aki-Petteri Pöyry (Co-Trainer Saale Bulls Halle)
 
 - Stuttgart Rebels -
 
+st2	-2- Mika Hennig (Stuttgart Rebels)
 st4	-4- Nolan Renke (Stuttgart Rebels)
 st5	-5- Matteas Derraugh (Stuttgart Rebels)
 st8	-8- Florian Renner (Stuttgart Rebels)
@@ -497,8 +500,8 @@ st11	-11- Alex Blais (Stuttgart Rebels)
 st12	-12- Colin Schlenker (Stuttgart Rebels)
 st14	-14- Jayden Lammel (Stuttgart Rebels)
 st17	-17- Toni Ritter (Stuttgart Rebels)
-st17	-17- Massimo Engel (Stuttgart Rebels)
 st18	-18- Fabian Renner (Stuttgart Rebels)
+st18	-18- Massimo Engel (Stuttgart Rebels)
 st21	-21- Nico Geidl (Stuttgart Rebels)
 st22	-22- Wyatt Schingoethe (Stuttgart Rebels)
 st28	-28- David Kirchhoff (Stuttgart Rebels)
