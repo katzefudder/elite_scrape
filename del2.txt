@@ -311,6 +311,7 @@ kp101	Steffen Ziesche (Co-Trainer Krefeld Pinguine)
 
 - Lausitzer Füchse -
 
+lf1	-1- Fabian Ebeling (Lausitzer Füchse)
 lf5	-5- Nils Elten (Lausitzer Füchse)
 lf6	-6- Marlon Braun (Lausitzer Füchse)
 lf7	-7- Kyle Havlena (Lausitzer Füchse)
@@ -323,8 +324,8 @@ lf14	-14- Louis Anders (Lausitzer Füchse)
 lf17	-17- Alexis D'Aoust (Lausitzer Füchse)
 lf18	-18- Moritz Kretzschmar (Lausitzer Füchse)
 lf19	-19- Tim Sezemsky (Lausitzer Füchse)
-lf20	-20- Eric Hördler (Lausitzer Füchse)
 lf21	-21- Norwin Panocha (Lausitzer Füchse)
+lf21	-21- Eric Hördler (Lausitzer Füchse)
 lf22	-22- Eric Valentin (Lausitzer Füchse)
 lf23	-23- Lane Scheidl (Lausitzer Füchse)
 lf24	-24- John Broda (Lausitzer Füchse)
