@@ -279,6 +279,7 @@ kb101	Andrew Donaldson (Co-Trainer ESV Kaufbeuren)
 
 - Krefeld Pinguine -
 
+kp0	-0- Danny aus den Birken (Krefeld Pinguine)
 kp9	-9- Marcel Müller (Krefeld Pinguine)
 kp11	-11- Jon Matsumoto (Krefeld Pinguine)
 kp15	-15- Erik Buschmann (Krefeld Pinguine)
