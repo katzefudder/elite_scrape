@@ -274,7 +274,8 @@ kb83	-83- Florian Reinwald (ESV Kaufbeuren)
 kb89	-89- Henri Kanninen (ESV Kaufbeuren)
 kb91	-91- Tyson McLellan (ESV Kaufbeuren)
 kb94	-94- Alec Zawatsky (ESV Kaufbeuren)
-kb101	Andrew Donaldson (Co-Trainer ESV Kaufbeuren)
+kb100	Andrew Donaldson (Trainer ESV Kaufbeuren)
+kb101	Sebastian Osterloh (Co-Trainer ESV Kaufbeuren)
 
 
 - Krefeld Pinguine -
