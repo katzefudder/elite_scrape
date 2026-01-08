@@ -144,7 +144,7 @@ hae100	Tobias Stolikowski (Trainer Hammer Eisbären)
 
 - Höchstadt Alligators -
 
-hal4	-4- Fabiano Benz (Höchstadt Alligators)
+hal5	-5- Fabiano Benz (Höchstadt Alligators)
 hal7	-7- Tyler Gron (Höchstadt Alligators)
 hal11	-11- Maxim Mastic (Höchstadt Alligators)
 hal12	-12- Vincent Jiranek (Höchstadt Alligators)
@@ -170,6 +170,7 @@ hal77	-77- Michail Guft-Sokolov (Höchstadt Alligators)
 hal91	-91- Dmitrij Litesov (Höchstadt Alligators)
 hal92	-92- Nico Zimmermann (Höchstadt Alligators)
 hal96	-96- Anton Seewald (Höchstadt Alligators)
+hal98	-98- Julian Schmitt (Höchstadt Alligators)
 hal100	Morgan Persson (Trainer Höchstadt Alligators)
 
 
@@ -177,7 +178,7 @@ hal100	Morgan Persson (Trainer Höchstadt Alligators)
 
 hf7	-7- Dennis Sticha (Ice Dragons Herford)
 hf8	-8- Jannis Kälble (Ice Dragons Herford)
-hf8	-8- Pavel Avdeev (Ice Dragons Herford)
+hf9	-9- Pavel Avdeev (Ice Dragons Herford)
 hf11	-11- Jackson Pierson (Ice Dragons Herford)
 hf12	-12- Davyd Makutsky (Ice Dragons Herford)
 hf13	-13- Nils Wegner (Ice Dragons Herford)
@@ -188,6 +189,7 @@ hf18	-18- Philip Woltmann (Ice Dragons Herford)
 hf22	-22- Gleb Berezovskyy (Ice Dragons Herford)
 hf26	-26- Jegors Kalnins (Ice Dragons Herford)
 hf30	-30- Kieren Vogel (Ice Dragons Herford)
+hf31	-31- Ole Wompner (Ice Dragons Herford)
 hf43	-43- Mika Hupach (Ice Dragons Herford)
 hf44	-44- Nick Walters (Ice Dragons Herford)
 hf52	-52- Dennis König (Ice Dragons Herford)
