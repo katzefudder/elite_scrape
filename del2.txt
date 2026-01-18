@@ -224,6 +224,7 @@ ka26	-26- Yannik Valenti (EC Kassel Huskies)
 ka27	-27- Michael Bartuli (EC Kassel Huskies)
 ka28	-28- Ben Stadler (EC Kassel Huskies)
 ka29	-29- Nick Neufeld (EC Kassel Huskies)
+ka30	-30- Alexander Pankraz (EC Kassel Huskies)
 ka31	-31- Brandon Maxwell (EC Kassel Huskies)
 ka33	-33- Philipp Maurer (EC Kassel Huskies)
 ka34	-34- Clemens Sager (EC Kassel Huskies)
@@ -275,8 +276,8 @@ kb83	-83- Florian Reinwald (ESV Kaufbeuren)
 kb89	-89- Henri Kanninen (ESV Kaufbeuren)
 kb91	-91- Tyson McLellan (ESV Kaufbeuren)
 kb94	-94- Alec Zawatsky (ESV Kaufbeuren)
-kb100	Andrew Donaldson (Trainer ESV Kaufbeuren)
-kb101	Sebastian Osterloh (Co-Trainer ESV Kaufbeuren)
+kb100	Leif Carlsson (Trainer ESV Kaufbeuren)
+kb101	Andrew Donaldson (Co-Trainer ESV Kaufbeuren)
 
 
 - Krefeld Pinguine -
