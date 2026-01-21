@@ -283,7 +283,6 @@ kb101	Andrew Donaldson (Co-Trainer ESV Kaufbeuren)
 
 - Krefeld Pinguine -
 
-kp0	-0- Danny aus den Birken (Krefeld Pinguine)
 kp9	-9- Marcel Müller (Krefeld Pinguine)
 kp11	-11- Jon Matsumoto (Krefeld Pinguine)
 kp15	-15- Erik Buschmann (Krefeld Pinguine)
@@ -292,6 +291,7 @@ kp26	-26- Daniel Bruch (Krefeld Pinguine)
 kp29	-29- David Cerny (Krefeld Pinguine)
 kp30	-30- Julius Schulte (Krefeld Pinguine)
 kp31	-31- Felix Bick (Krefeld Pinguine)
+kp33	-33- Danny aus den Birken (Krefeld Pinguine)
 kp37	-37- Max Newton (Krefeld Pinguine)
 kp38	-38- Tim Schütz (Krefeld Pinguine)
 kp41	-41- Steven Raabe (Krefeld Pinguine)
