@@ -35,9 +35,10 @@ am101	Curt Fraser (Co-Trainer Adler Mannheim)
 
 - Augsburger Panther -
 
+ap4	-4- David Farrance (Augsburger Panther)
 ap9	-9- Moritz Wirth (Augsburger Panther)
-ap13	-13- Jason Bast (Augsburger Panther)
 ap14	-14- D.J. Busdeker (Augsburger Panther)
+ap14	-14- Jason Bast (Augsburger Panther)
 ap18	-18- Anthony Louis (Augsburger Panther)
 ap19	-19- Riley Damiani (Augsburger Panther)
 ap20	-20- Cody Kunyk (Augsburger Panther)
