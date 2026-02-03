@@ -183,7 +183,6 @@ hal100	Morgan Persson (Trainer Höchstadt Alligators)
 
 hf7	-7- Dennis Sticha (Ice Dragons Herford)
 hf8	-8- Jannis Kälble (Ice Dragons Herford)
-hf9	-9- Pavel Avdeev (Ice Dragons Herford)
 hf11	-11- Jackson Pierson (Ice Dragons Herford)
 hf12	-12- Davyd Makutsky (Ice Dragons Herford)
 hf13	-13- Nils Wegner (Ice Dragons Herford)
@@ -204,6 +203,7 @@ hf59	-59- Sebastian Moberg (Ice Dragons Herford)
 hf71	-71- Matyas Kovács (Ice Dragons Herford)
 hf72	-72- Yannis Walch (Ice Dragons Herford)
 hf74	-74- Ryley Lindgren (Ice Dragons Herford)
+hf77	-77- Pavel Avdeev (Ice Dragons Herford)
 hf100	Henry Thom (Trainer Ice Dragons Herford)
 
 
