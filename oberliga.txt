@@ -400,7 +400,7 @@ pe80	-80- Markus Czogallik (EC Peiting)
 pe82	-82- Dennis Krutsch (EC Peiting)
 pe84	-84- Tim Mühlegger (EC Peiting)
 pe92	-92- Sebastian Laßmann (EC Peiting)
-pe100	Ty Morris (Trainer EC Peiting)
+pe100	Lanny Gare (Trainer EC Peiting)
 
 
 - SC Riessersee -
