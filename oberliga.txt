@@ -467,7 +467,7 @@ ro73	-73- Ilja Fleischmann (Rostock Piranhas)
 ro77	-77- Jonas Wolter (Rostock Piranhas)
 ro83	-83- Kevin Kunz (Rostock Piranhas)
 ro89	-89- Jesper Öhrvall (Rostock Piranhas)
-ro100	Lenny Soccio (Trainer Rostock Piranhas)
+ro100	Marius Pöpel (Trainer Rostock Piranhas)
 
 
 - Saale Bulls Halle -
