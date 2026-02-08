@@ -178,34 +178,6 @@ hal98	-98- Julian Schmitt (Höchstadt Alligators)
 hal100	Morgan Persson (Trainer Höchstadt Alligators)
 
 
-- Ice Dragons Herford -
-
-hf7	-7- Dennis Sticha (Ice Dragons Herford)
-hf8	-8- Jannis Kälble (Ice Dragons Herford)
-hf11	-11- Jackson Pierson (Ice Dragons Herford)
-hf12	-12- Davyd Makutsky (Ice Dragons Herford)
-hf13	-13- Nils Wegner (Ice Dragons Herford)
-hf14	-14- Leon Köhler (Ice Dragons Herford)
-hf16	-16- Marius Garten (Ice Dragons Herford)
-hf17	-17- Timo Sticha (Ice Dragons Herford)
-hf18	-18- Philip Woltmann (Ice Dragons Herford)
-hf22	-22- Gleb Berezovskyy (Ice Dragons Herford)
-hf26	-26- Jegors Kalnins (Ice Dragons Herford)
-hf30	-30- Kieren Vogel (Ice Dragons Herford)
-hf31	-31- Ole Wompner (Ice Dragons Herford)
-hf43	-43- Mika Hupach (Ice Dragons Herford)
-hf44	-44- Nick Walters (Ice Dragons Herford)
-hf52	-52- Dennis König (Ice Dragons Herford)
-hf55	-55- Jakub Urbisch (Ice Dragons Herford)
-hf56	-56- Michael Schaaf (Ice Dragons Herford)
-hf59	-59- Sebastian Moberg (Ice Dragons Herford)
-hf71	-71- Matyas Kovács (Ice Dragons Herford)
-hf72	-72- Yannis Walch (Ice Dragons Herford)
-hf74	-74- Ryley Lindgren (Ice Dragons Herford)
-hf77	-77- Pavel Avdeev (Ice Dragons Herford)
-hf100	Henry Thom (Trainer Ice Dragons Herford)
-
-
 - Hannover Indians -
 
 hi1	-1- Sebastian Graf (Hannover Indians)
@@ -266,6 +238,7 @@ hn71	-71- Paul Fabian (Heilbronner Falken)
 hn75	-75- Franz Jokinen (Heilbronner Falken)
 hn77	-77- Yanik Haas (Heilbronner Falken)
 hn84	-84- Malte Krenzlin (Heilbronner Falken)
+hn89	-89- Pascal Widmann (Heilbronner Falken)
 hn100	Niko Eronen (Trainer Heilbronner Falken)
 
 
@@ -273,6 +246,7 @@ hn100	Niko Eronen (Trainer Heilbronner Falken)
 
 hs6	-6- Karl Gärtner (Hannover Scorpions)
 hs7	-7- Jan Pavlu (Hannover Scorpions)
+hs8	-8- Moritz Kukuk (Hannover Scorpions)
 hs9	-9- Allan McPherson (Hannover Scorpions)
 hs11	-11- Christoph Kabitzky (Hannover Scorpions)
 hs13	-13- Christoph Kiefersauer (Hannover Scorpions)
@@ -313,6 +287,7 @@ li28	-28- Fabian Baßler (Lindau Islanders)
 li40	-40- Ryan Odude (Lindau Islanders)
 li42	-42- Marcus Marsall (Lindau Islanders)
 li46	-46- Patrick Raaf-Effertz (Lindau Islanders)
+li47	-47- Tony-Luka Pavlovic (Lindau Islanders)
 li48	-48- Justin Pfaffengut (Lindau Islanders)
 li55	-55- Julian Hübner (Lindau Islanders)
 li57	-57- Marvin Feigl (Lindau Islanders)
