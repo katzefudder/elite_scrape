@@ -418,7 +418,6 @@ ri72	-72- Alex Benkert (SC Riessersee)
 ri74	-74- Jesse Roach (SC Riessersee)
 ri76	-76- Luca Allavena (SC Riessersee)
 ri81	-81- Andreas Schneider (SC Riessersee)
-ri86	-86- Leon Neiger (SC Riessersee)
 ri91	-91- Leon Seelmann (SC Riessersee)
 ri92	-92- Sebastian Holzapfel (SC Riessersee)
 ri100	Markus Jocher (Trainer SC Riessersee)
@@ -483,7 +482,7 @@ sb72	-72- Sergei Stas (Saale Bulls Halle)
 sb77	-77- Thomas Merl (Saale Bulls Halle)
 sb92	-92- Robin Palka (Saale Bulls Halle)
 sb100	Marko Raita (Trainer Saale Bulls Halle)
-sb101	Aki-Petteri Pöyry (Co-Trainer Saale Bulls Halle)
+sb101	Christian Hommel (Co-Trainer Saale Bulls Halle)
 
 
 - Stuttgart Rebels -
@@ -560,8 +559,8 @@ sw89	-89- Philip Ziesche (Selber Wölfe)
 sw92	-92- Richard Gelke (Selber Wölfe)
 sw94	-94- Patrick Klöpper (Selber Wölfe)
 sw96	-96- Lukas Valasek (Selber Wölfe)
-sw100	Felix Schütz (Trainer Selber Wölfe)
-sw101	Josef Huber (Co-Trainer Selber Wölfe)
+sw100	Josef Huber (Trainer Selber Wölfe)
+sw101	Markus Schatz-Weinzierl (Co-Trainer Selber Wölfe)
 
 
 - Tölzer Löwen -
