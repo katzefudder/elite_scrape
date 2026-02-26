@@ -37,9 +37,10 @@ am101	Curt Fraser (Co-Trainer Adler Mannheim)
 - Augsburger Panther -
 
 ap4	-4- David Farrance (Augsburger Panther)
+ap4	-4- Markus Keller (Augsburger Panther)
 ap9	-9- Moritz Wirth (Augsburger Panther)
 ap14	-14- D.J. Busdeker (Augsburger Panther)
-ap14	-14- Jason Bast (Augsburger Panther)
+ap15	-15- Jason Bast (Augsburger Panther)
 ap18	-18- Anthony Louis (Augsburger Panther)
 ap19	-19- Riley Damiani (Augsburger Panther)
 ap20	-20- Cody Kunyk (Augsburger Panther)
@@ -177,7 +178,6 @@ ei101	Éric Dubois (Co-Trainer ERC Ingolstadt)
 - Löwen Frankfurt -
 
 fl2	-2- Rodion Shumakher (Löwen Frankfurt)
-fl4	-4- Reid McNeill (Löwen Frankfurt)
 fl7	-7- Ty Glover (Löwen Frankfurt)
 fl8	-8- Nathan Burns (Löwen Frankfurt)
 fl12	-12- Noah Dunham (Löwen Frankfurt)
