@@ -185,7 +185,6 @@ er101	Hugo Boisvert (Co-Trainer Eisbären Regensburg)
 
 - EHC Freiburg -
 
-fr3	-3- Marco Wölfl (EHC Freiburg)
 fr7	-7- Sameli Ventelä (EHC Freiburg)
 fr8	-8- Colin Schlenker (EHC Freiburg)
 fr9	-9- Nikolas Linsenmaier (EHC Freiburg)
@@ -213,6 +212,7 @@ fr84	-84- Eero Elo (EHC Freiburg)
 fr86	-86- Alexander De Los Rios (EHC Freiburg)
 fr89	-89- Lukas Mühlbauer (EHC Freiburg)
 fr91	-91- Tomas Schwamberger (EHC Freiburg)
+fr94	-94- Marco Wölfl (EHC Freiburg)
 fr95	-95- Kilian Kühnhauser (EHC Freiburg)
 fr98	-98- Christoph Kiefersauer (EHC Freiburg)
 fr100	Juraj Faith (Trainer EHC Freiburg)
