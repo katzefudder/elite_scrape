@@ -1,6 +1,5 @@
 - Deggendorfer SC -
 
-dg0	-0- Cole Danielsmeier (Deggendorfer SC)
 dg3	-3- Pheleas Schmidt (Deggendorfer SC)
 dg4	-4- Silvan Heiß (Deggendorfer SC)
 dg5	-5- Jan Bednar (Deggendorfer SC)
@@ -325,7 +324,6 @@ pa6	-6- Tom Horschel (EHF Passau Black Hawks)
 pa7	-7- Marlon D'Acunto (EHF Passau Black Hawks)
 pa8	-8- Benedikt Böhm (EHF Passau Black Hawks)
 pa12	-12- Zack Nazzarett (EHF Passau Black Hawks)
-pa12	-12- Maximilian Otte (EHF Passau Black Hawks)
 pa13	-13- Christian Neuert (EHF Passau Black Hawks)
 pa16	-16- Philipp Faulhaber (EHF Passau Black Hawks)
 pa17	-17- Daniel Maul (EHF Passau Black Hawks)
