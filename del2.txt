@@ -69,8 +69,8 @@ bn90	-90- Parker Bowles (EC Bad Nauheim)
 bn91	-91- Marc El-Sayed (EC Bad Nauheim)
 bn93	-93- Julian Lautenschlager (EC Bad Nauheim)
 bn94	-94- Ryan Olsen (EC Bad Nauheim)
-bn100	Antti Karhula (Trainer EC Bad Nauheim)
-bn101	Mate Arany (Co-Trainer EC Bad Nauheim)
+bn100	Kevin Gaudet (Trainer EC Bad Nauheim)
+bn101	Marc Vorderbrüggen (Co-Trainer EC Bad Nauheim)
 
 
 - Eispiraten Crimmitschau -
