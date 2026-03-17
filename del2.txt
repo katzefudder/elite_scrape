@@ -491,7 +491,6 @@ rt101	Eeli Parviainen (Co-Trainer Ravensburg Towerstars)
 
 - Blue Devils Weiden -
 
-we2	-2- Patrik Mühlberger (Blue Devils Weiden)
 we3	-3- Tommy Muck (Blue Devils Weiden)
 we6	-6- Manuel Edfelder (Blue Devils Weiden)
 we7	-7- Luca Gläser (Blue Devils Weiden)
@@ -520,6 +519,7 @@ we43	-43- Fabian Ribnitzky (Blue Devils Weiden)
 we47	-47- Vladislav Filin (Blue Devils Weiden)
 we56	-56- Felix Krüger (Blue Devils Weiden)
 we60	-60- Felix Noack (Blue Devils Weiden)
+we65	-65- Patrik Mühlberger (Blue Devils Weiden)
 we71	-71- Cedric Schiemenz (Blue Devils Weiden)
 we72	-72- Georg Thal (Blue Devils Weiden)
 we73	-73- Tomas Rubes (Blue Devils Weiden)
