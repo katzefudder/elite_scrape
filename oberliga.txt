@@ -482,8 +482,8 @@ sb71	-71- Alexander Vladelchtchikov (Saale Bulls Halle)
 sb72	-72- Sergei Stas (Saale Bulls Halle)
 sb77	-77- Thomas Merl (Saale Bulls Halle)
 sb92	-92- Robin Palka (Saale Bulls Halle)
-sb100	Marko Raita (Trainer Saale Bulls Halle)
-sb101	Christian Hommel (Co-Trainer Saale Bulls Halle)
+sb100	Christian Hommel (Trainer Saale Bulls Halle)
+sb101	Aki-Petteri Pöyry (Co-Trainer Saale Bulls Halle)
 
 
 - Stuttgart Rebels -
