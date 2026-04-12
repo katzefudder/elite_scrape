@@ -29,8 +29,8 @@ bi78	-78- Kevin Bicker (Bietigheim Steelers)
 bi90	-90- Philipp Nuss (Bietigheim Steelers)
 bi91	-91- Mike Fischer (Bietigheim Steelers)
 bi94	-94- Tyler McNeely (Bietigheim Steelers)
-bi100	Alexander Dück (Trainer Bietigheim Steelers)
-bi101	Boris Blank (Co-Trainer Bietigheim Steelers)
+bi100	Boris Blank (Trainer Bietigheim Steelers)
+bi101	Tyler McNeely (Co-Trainer Bietigheim Steelers)
 
 
 - EC Bad Nauheim -
