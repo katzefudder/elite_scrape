@@ -73,6 +73,7 @@ ed77	-77- Philipp Michl (Erding Gladiators)
 ed81	-81- Maximilian Forster (Erding Gladiators)
 ed82	-82- Moritz Köttstorfer (Erding Gladiators)
 ed94	-94- Markus Eberhardt (Erding Gladiators)
+ed101	Maximilian Helling (Co-Trainer Erding Gladiators)
 
 
 - EV Füssen -
