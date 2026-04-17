@@ -39,6 +39,7 @@ dg101	Robert Suchomski (Co-Trainer Deggendorfer SC)
 
 - Erding Gladiators -
 
+ed4	-4- Jesse Kauhanen (Erding Gladiators)
 ed6	-6- Maximilian Oswald (Erding Gladiators)
 ed7	-7- Louis Trattner (Erding Gladiators)
 ed12	-12- Thomas Brandl (Erding Gladiators)
