@@ -375,11 +375,12 @@ lf101	André Mücke (Co-Trainer Lausitzer Füchse)
 
 - EV Landshut -
 
+lh3	-3- Dominik Groß (EV Landshut)
 lh6	-6- Dylan Plouffe (EV Landshut)
 lh8	-8- Finn Serikow (EV Landshut)
 lh9	-9- Tobias Lindberg (EV Landshut)
 lh10	-10- Julian Kornelli (EV Landshut)
-lh13	-13- Luis Becker (EV Landshut)
+lh14	-14- Luis Becker (EV Landshut)
 lh17	-17- Simon Seidl (EV Landshut)
 lh18	-18- Luis Scheibengraber (EV Landshut)
 lh19	-19- Tobias Fischer (EV Landshut)
