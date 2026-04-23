@@ -377,6 +377,7 @@ st18	-18- Tyler Madden (Straubing Tigers)
 st21	-21- Sebastian Wieber (Straubing Tigers)
 st40	-40- Henrik Haukeland (Straubing Tigers)
 st71	-71- Nick Halloran (Straubing Tigers)
+st92	-92- Marcel Brandt (Straubing Tigers)
 
 
 - Schwenninger Wild Wings -
